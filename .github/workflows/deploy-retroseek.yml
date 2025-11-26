@@ -1,17 +1,19 @@
+## (c) 2025 Neeraj Verma — MIT License. https://noami.us
+
 name: Deploy RetroSeek to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
+    branches: [disabled-main]
     paths:
-      - 'src/retroseek/**'
-      - 'tags.yml'
+      - "src/retroseek/**"
+      - "tags.yml"
   workflow_dispatch:
   pull_request:
-    types: [ opened, reopened, synchronize, edited ]
+    types: [opened, reopened, synchronize, edited]
     paths:
-      - 'src/retroseek/**'
-      - 'tags.yml'
+      - "src/retroseek/**"
+      - "tags.yml"
 
 permissions:
   contents: read
@@ -29,7 +31,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20.18.3'
+          node-version: "20.18.3"
 
       - name: Install dependencies
         run: npm ci
@@ -66,7 +68,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: ${{ github.event_name == 'pull_request' && 'github-pages-preview' || 'github-pages' }}
-# Waiting for Preview URL feature      url: ${{ github.event_name == 'pull_request' && format('{0}pull/{1}', steps.deployment.outputs.page_url, github.event.pull_request.number) || steps.deployment.outputs.page_url }}
+      # Waiting for Preview URL feature      url: ${{ github.event_name == 'pull_request' && format('{0}pull/{1}', steps.deployment.outputs.page_url, github.event.pull_request.number) || steps.deployment.outputs.page_url }}
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
