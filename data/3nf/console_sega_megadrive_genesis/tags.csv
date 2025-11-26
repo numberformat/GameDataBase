@@ -1,0 +1,1660 @@
+tag_name,tag_id
+#players:1 #genre:action #addon:controller>6button #lang:en,1
+#players:1 #genre:action #addon:controller>6button #lang:en #rerelease:mdmini>1,2
+#players:1 #genre:action #addon:controller>6button #lang:en #unfinished:beta,3
+#players:1 #genre:action #addon:controller>6button #lang:ja,4
+#players:1 #genre:action #addon:controller>6button #lang:ja #unfinished:beta>1,5
+#players:1 #genre:action #addon:controller>6button #lang:ja #unfinished:beta>2,6
+#players:1 #genre:action #addon:controller>6button #reboxed:classicedition #lang:en,7
+#players:1 #genre:action #addon:online>megamodem>toshokan #lang:ja,8
+#players:1 #genre:action #addon:online>megamodem>toshokan #lang:ja #rerelease:gamenokanzume>2,9
+#players:1 #genre:action #addon:online>segachannel #based:movie:disney #lang:en,10
+#players:1 #genre:action #addon:online>segachannel #search:feature>spiderman>batman #lang:en #unfinished:beta,11
+#players:1 #genre:action #based #lang:en,12
+#players:1 #genre:action #based #lang:en #unfinished:beta,13
+#players:1 #genre:action #based #port:nintendo>superfamicom #lang:en #unfinished:proto,14
+#players:1 #genre:action #based #reboxed:classicedition #lang:en,15
+#players:1 #genre:action #based:disney #lang:en,16
+#players:1 #genre:action #based:disney #lang:en #unfinished:beta,17
+#players:1 #genre:action #based:marvel #search:feature>spiderman #lang:en,18
+#players:1 #genre:action #based:movie #lang:en,19
+#players:1 #genre:action #based:movie #lang:en #unfinished:beta,20
+#players:1 #genre:action #based:movie #lang:en #unfinished:proto,21
+#players:1 #genre:action #based:movie #reboxed:classicedition #lang:en,22
+#players:1 #genre:action #based:movie #search:feature>alien #lang:en,23
+#players:1 #genre:action #based:movie #search:feature>alien #lang:en #rev:a,24
+#players:1 #genre:action #based:movie #search:feature>alien #lang:en #unlicensed:bootleg,25
+#players:1 #genre:action #based:movie #search:feature>dracula #lang:en,26
+#players:1 #genre:action #based:movie:disney #lang:en,27
+#players:1 #genre:action #based:movie:disney #lang:en #unlicensed:bootleg,28
+#players:1 #genre:action #lang:en,29
+#players:1 #genre:action #lang:en #unfinished:beta,30
+#players:1 #genre:action #lang:en #unfinished:proto,31
+#players:1 #genre:action #lang:en #unlicensed:bootleg,32
+#players:1 #genre:action #port:apple>mac #lang:en,33
+#players:1 #genre:action #port:commodore>amiga #lang:en,34
+#players:1 #genre:action #port:commodore>amiga #lang:ja,35
+#players:1 #genre:action #port:commodore>amiga #lang:ja #unlicensed:bootleg,36
+#players:1 #genre:action #port:sharp>x68000 #lang:en,37
+#players:1 #genre:action #reboxed:megadrive3 #lang:pt,38
+#players:1 #genre:action #reboxed:megadrive4 #lang:pt,39
+#players:1 #genre:action #rev:a #reboxed:segaclassic #lang:en,40
+#players:1 #genre:action #save:password #based:movie #lang:en,41
+#players:1 #genre:action #save:password #based:movie #lang:en #unfinished:beta,42
+#players:1 #genre:action #save:password #lang:en,43
+#players:1 #genre:action #save:password #lang:en #unfinished:beta,44
+#players:1 #genre:action #save:password #port:apple>apple2 #lang:en,45
+#players:1 #genre:action #save:password #port:apple>apple2 #lang:en #unfinished:beta>1,46
+#players:1 #genre:action #save:password #port:apple>apple2 #lang:en #unfinished:beta>2,47
+#players:1 #genre:action #save:password #port:commodore>amiga #lang:en #unlicensed,48
+#players:1 #genre:action #save:password #port:pc #lang:en #unfinished:proto,49
+#players:1 #genre:action #save:password #search:keyword>brand #lang:en,50
+#players:1 #genre:action #search:feature>spiderman #lang:en,51
+#players:1 #genre:action #search:feature>spiderman #lang:en #rerelease:virtualconsole>wii,52
+#players:1 #genre:action #search:feature>spiderman #reboxed:segaclassic #lang:en #rev:b,53
+#players:1 #genre:action #search:feature>spiderman #reboxed:segaclassic #lang:en #rev:b #unfinished:beta,54
+#players:1 #genre:action #search:feature>spiderman #reboxed:segaclassic #lang:en #rev:c,55
+#players:1 #genre:action #search:feature>spiderman>batman #lang:en,56
+#players:1 #genre:action #search:feature>spiderman>batman #lang:en #rev:a,57
+#players:1 #genre:action:adventure #based:simpsons #port:nintendo>famicom #lang:en,58
+#players:1 #genre:action:adventure #based:simpsons #port:nintendo>famicom #lang:en #rev:a,59
+#players:1 #genre:action:adventure #based:simpsons #port:nintendo>famicom #lang:en #unlicensed:bootleg,60
+#players:1 #genre:action:adventure #embedded:backup>battery #save:backup #port:pc #lang:en,61
+#players:1 #genre:action:adventure #embedded:backup>battery #save:backup #port:pc #lang:en #unfinished:beta>1,62
+#players:1 #genre:action:adventure #embedded:backup>battery #save:backup #port:pc #lang:en #unfinished:beta>2,63
+#players:1 #genre:action:adventure #save:password #lang:en,64
+#players:1 #genre:action:adventure #save:password #lang:en #rev:a #unfinished:proto,65
+#players:1 #genre:action:adventure #save:password #lang:en #unfinished:beta,66
+#players:1 #genre:action:adventure #save:password #lang:en:fr,67
+#players:1 #genre:action:adventure #save:password #lang:en:fr #unfinished:beta,68
+#players:1 #genre:action:adventure #save:password #lang:en:fr:de:es,69
+#players:1 #genre:action:adventure #save:password #lang:ja,70
+#players:1 #genre:action:adventure #save:password #lang:ja #unfinished:beta,71
+#players:1 #genre:action:adventure #save:password #reboxed:megahit #lang:en,72
+#players:1 #genre:action:adventure:minigames #based:simpsons #lang:en,73
+#players:1 #genre:action:adventure:shmup>h #save:password #based #lang:en,74
+#players:1 #genre:action:adventure>pointandclick #save:password #port:nintendo>superfamicom #search:feature>pacman #lang:en,75
+#players:1 #genre:action:puzzle #lang:en,76
+#players:1 #genre:action:puzzle #lang:en #unfinished:beta,77
+#players:1 #genre:action:puzzle #lang:en #unfinished:beta #alt,78
+#players:1 #genre:action:puzzle #lang:en #unfinished:proto,79
+#players:1 #genre:action:puzzle #lang:en #unlicensed,80
+#players:1 #genre:action:puzzle #port:arcade #lang:en,81
+#players:1 #genre:action:puzzle #save:password #based:movie #lang:en #unfinished:proto>1,82
+#players:1 #genre:action:puzzle #save:password #based:movie #lang:en #unfinished:proto>2,83
+#players:1 #genre:action:puzzle #save:password #port:commodore>amiga #lang:en,84
+#players:1 #genre:action:puzzle #save:password #port:commodore>amiga #lang:en #unfinished:beta,85
+#players:1 #genre:action:racing #port:commodore>amiga #lang:en,86
+#players:1 #genre:action:racing #port:commodore>amiga #lang:en #unfinished:beta,87
+#players:1 #genre:action:racing #reboxed:megadrive4 #lang:pt,88
+#players:1 #genre:action:racing #reboxed:reactor #lang:en,89
+#players:1 #genre:action:racing #reboxed:reactor #lang:en #unlicensed,90
+#players:1 #genre:action:shmup #based #lang:en,91
+#players:1 #genre:action:shmup #save:password #lang:en,92
+#players:1 #genre:action:shmup #save:password #lang:en #unfinished:beta,93
+#players:1 #genre:action:shooting>fps:racing #based:movie:manganime #lang:en #unfinished:proto,94
+#players:1 #genre:action:shooting>gallery #based:movie #lang:en,95
+#players:1 #genre:action:shooting>gallery #multigame #lang:en #unlicensed,96
+#players:1 #genre:action:shooting>rail #save:password #based #lang:en,97
+#players:1 #genre:action:shooting>rail #save:password #based #lang:en #unfinished:beta,98
+#players:1 #genre:action:shooting>rail #save:password #lang:en #unfinished:proto,99
+#players:1 #genre:action:sports #reboxed:megadrive4 #lang:pt,100
+#players:1 #genre:action>hackandslash #addon:controller>6button #lang:en,101
+#players:1 #genre:action>hackandslash #addon:controller>6button #lang:en #rerelease:smashpack>3,102
+#players:1 #genre:action>hackandslash #addon:controller>6button #lang:en #rerelease:virtualconsole,103
+#players:1 #genre:action>hackandslash #addon:controller>6button #lang:en #unfinished:beta,104
+#players:1 #genre:action>hackandslash #addon:controller>6button #lang:en #unfinished:beta #alt,105
+#players:1 #genre:action>hackandslash #addon:controller>6button #lang:en #unfinished:beta #alt:1,106
+#players:1 #genre:action>hackandslash #addon:controller>6button #lang:en #unfinished:beta #alt:2,107
+#players:1 #genre:action>hackandslash #addon:controller>6button #lang:en #unfinished:beta #alt:3,108
+#players:1 #genre:action>hackandslash #addon:controller>6button #lang:en:fr:de:es,109
+#players:1 #genre:action>hackandslash #addon:controller>6button #lang:en:ja,110
+#players:1 #genre:action>hackandslash #addon:online>segachannel:controller>6button #lang:en #unfinished:demo,111
+#players:1 #genre:action>hackandslash #based #lang:en #unfinished:proto,112
+#players:1 #genre:action>hackandslash #based:manganime #lang:ja,113
+#players:1 #genre:action>hackandslash #based:marvel #lang:en,114
+#players:1 #genre:action>hackandslash #based:marvel #reboxed:kixxedition #lang:en,115
+#players:1 #genre:action>hackandslash #based:movie #lang:en,116
+#players:1 #genre:action>hackandslash #based:movie:disney #lang:en,117
+#players:1 #genre:action>hackandslash #lang:en,118
+#players:1 #genre:action>hackandslash #port:arcade #lang:en,119
+#players:1 #genre:action>hackandslash #port:commodore>amiga #lang:en,120
+#players:1 #genre:action>hackandslash #save:password #based:marvel #search:feature>xmen #lang:en,121
+#players:1 #genre:action>hackandslash #save:password #port:sony>playstation #lang:en #unlicensed,122
+#players:1 #genre:action>hackandslash:action>platformer:shmup>h #based:movie #search:feature>batman #lang:en,123
+#players:1 #genre:action>hackandslash>platformer:shmup>h #lang:ja,124
+#players:1 #genre:action>hackandslash>platformer:shmup>h #lang:ja #unlicensed:bootleg,125
+#players:1 #genre:action>hackandslash>platformer:shmup>h #lang:ko,126
+#players:1 #genre:action>maze #lang:en #unlicensed,127
+#players:1 #genre:action>maze #port:arcade #lang:en #rerelease:mdmini>2,128
+#players:1 #genre:action>maze:shooting>gallery:racing #save:password #based:disney #lang:en,129
+#players:1 #genre:action>maze:shooting>gallery:racing #save:password #based:disney #lang:en #unfinished:beta,130
+#players:1 #genre:action>platformer #addon:controller>6button #based #lang:en,131
+#players:1 #genre:action>platformer #addon:controller>6button #based #lang:en #unfinished:beta,132
+#players:1 #genre:action>platformer #addon:controller>6button #based #lang:en #unfinished:beta #alt,133
+#players:1 #genre:action>platformer #addon:controller>6button #based:looneytunes #lang:en,134
+#players:1 #genre:action>platformer #addon:controller>6button #based:looneytunes #lang:en #unfinished:beta,135
+#players:1 #genre:action>platformer #addon:controller>6button #based:looneytunes #lang:en #unfinished:beta #alt,136
+#players:1 #genre:action>platformer #addon:controller>6button #based:looneytunes #reboxed:megahit #lang:en,137
+#players:1 #genre:action>platformer #addon:controller>6button #based:movie:disney #lang:en,138
+#players:1 #genre:action>platformer #addon:controller>6button #based:movie:disney #lang:en #rerelease:disneyclassic,139
+#players:1 #genre:action>platformer #addon:controller>6button #based:movie:disney #lang:en #unfinished:demo,140
+#players:1 #genre:action>platformer #addon:controller>6button #based:movie:disney #port:nintendo>superfamicom #lang:en,141
+#players:1 #genre:action>platformer #addon:controller>6button #embedded:backup>eeprom #save:backup #multigame:compilation>rockman>rockman2drwilynonazo>rockman3drwilynosaigo #port:nintendo>famicom #lang:en,142
+#players:1 #genre:action>platformer #addon:controller>6button #embedded:backup>eeprom #save:backup #multigame:compilation>rockman>rockman2drwilynonazo>rockman3drwilynosaigo #port:nintendo>famicom #lang:en #rerelease:mdmini>1,143
+#players:1 #genre:action>platformer #addon:controller>6button #lang:en,144
+#players:1 #genre:action>platformer #addon:controller>6button #save:password #lang:en,145
+#players:1 #genre:action>platformer #addon:controller>6button #save:password #lang:en #unfinished:beta,146
+#players:1 #genre:action>platformer #addon:health>catalyst #lang:en,147
+#players:1 #genre:action>platformer #addon:online>megamodem>toshokan #lang:en,148
+#players:1 #genre:action>platformer #addon:online>megamodem>toshokan #lang:en #rerelease:gamenokanzume>2,149
+#players:1 #genre:action>platformer #addon:online>megamodem>toshokan #port:arcade #lang:ja,150
+#players:1 #genre:action>platformer #addon:online>segachannel #based #lang:en,151
+#players:1 #genre:action>platformer #addon:online>segachannel #based:movie #lang:en,152
+#players:1 #genre:action>platformer #addon:online>segachannel #based:movie:disney #search:feature>mickey #lang:en,153
+#players:1 #genre:action>platformer #addon:online>segachannel #reboxed:gamenokanzume #lang:en,154
+#players:1 #genre:action>platformer #addon:online>segachannel #save:password #based:movie:jurassicpark #lang:en,155
+#players:1 #genre:action>platformer #based #lang:en,156
+#players:1 #genre:action>platformer #based #lang:en #unfinished:beta,157
+#players:1 #genre:action>platformer #based #lang:en:fr:de:es:nl:sv,158
+#players:1 #genre:action>platformer #based #lang:en:fr:de:es:nl:sv #unfinished:beta,159
+#players:1 #genre:action>platformer #based #lang:ja,160
+#players:1 #genre:action>platformer #based #reboxed:classicedition #lang:en,161
+#players:1 #genre:action>platformer #based #search:feature>asterix #lang:en:fr:de:es,162
+#players:1 #genre:action>platformer #based #search:feature>asterix #lang:en:fr:de:es:it #unfinished:beta,163
+#players:1 #genre:action>platformer #based #search:feature>superman #lang:en,164
+#players:1 #genre:action>platformer #based #search:feature>superman #lang:en #unfinished:beta,165
+#players:1 #genre:action>platformer #based:disney #lang:en,166
+#players:1 #genre:action>platformer #based:disney #lang:en #unlicensed:clone,167
+#players:1 #genre:action>platformer #based:disney #search:feature>donald #lang:ja:en,168
+#players:1 #genre:action>platformer #based:disney #search:feature>donald #lang:ja:en #rev:a,169
+#players:1 #genre:action>platformer #based:disney #search:feature>donald #lang:ja:en #rev:a #alt,170
+#players:1 #genre:action>platformer #based:disney #search:feature>mickey #lang:en,171
+#players:1 #genre:action>platformer #based:disney #search:feature>mickey #lang:en #unfinished:beta,172
+#players:1 #genre:action>platformer #based:disney #search:feature>mickey #lang:ja,173
+#players:1 #genre:action>platformer #based:disney #search:feature>mickey #reboxed #lang:en,174
+#players:1 #genre:action>platformer #based:disney #search:feature>mickey>donald #multigame:compilation>castleofillusionfushiginooshirodaibouken>quackshotgaruziaounohihou #lang:en,175
+#players:1 #genre:action>platformer #based:looneytunes #lang:en,176
+#players:1 #genre:action>platformer #based:looneytunes #lang:en #unfinished:beta,177
+#players:1 #genre:action>platformer #based:looneytunes #lang:en #unfinished:beta>1,178
+#players:1 #genre:action>platformer #based:looneytunes #lang:en #unfinished:beta>2,179
+#players:1 #genre:action>platformer #based:looneytunes #lang:en:fr:de:es:it,180
+#players:1 #genre:action>platformer #based:looneytunes #lang:en:fr:de:es:it #unfinished:beta,181
+#players:1 #genre:action>platformer #based:looneytunes #lang:pt,182
+#players:1 #genre:action>platformer #based:looneytunes #reboxed:konamiclassics #lang:en,183
+#players:1 #genre:action>platformer #based:looneytunes #reboxed:megahit #lang:en,184
+#players:1 #genre:action>platformer #based:manganime #lang:en #reboxed #unlicensed,185
+#players:1 #genre:action>platformer #based:manganime #lang:en #unlicensed,186
+#players:1 #genre:action>platformer #based:manganime #lang:ja,187
+#players:1 #genre:action>platformer #based:marvel #search:feature>spiderman #lang:en,188
+#players:1 #genre:action>platformer #based:marvel #search:feature>spiderman #lang:en #unfinished:beta,189
+#players:1 #genre:action>platformer #based:marvel #search:feature>spiderman>xmen #port:nintendo>superfamicom #lang:en,190
+#players:1 #genre:action>platformer #based:movie #lang:en,191
+#players:1 #genre:action>platformer #based:movie #lang:en #unfinished:beta,192
+#players:1 #genre:action>platformer #based:movie #lang:en #unfinished:proto,193
+#players:1 #genre:action>platformer #based:movie #lang:ja,194
+#players:1 #genre:action>platformer #based:movie #port:nintendo>superfamicom #lang:en,195
+#players:1 #genre:action>platformer #based:movie #reboxed #lang:en,196
+#players:1 #genre:action>platformer #based:movie #search:feature>batman #lang:en,197
+#players:1 #genre:action>platformer #based:movie #search:feature>batman #reboxed:classicedition #lang:en,198
+#players:1 #genre:action>platformer #based:movie:disney #lang:en,199
+#players:1 #genre:action>platformer #based:movie:disney #lang:en #rerelease:disneyclassic,200
+#players:1 #genre:action>platformer #based:movie:disney #lang:en #rerelease:disneyclassic #unfinished:beta,201
+#players:1 #genre:action>platformer #based:movie:disney #lang:en #rerelease:iam8bit,202
+#players:1 #genre:action>platformer #based:movie:disney #lang:en #unfinished:beta,203
+#players:1 #genre:action>platformer #based:movie:disney #lang:en #unfinished:sample,204
+#players:1 #genre:action>platformer #based:movie:disney #lang:en #unlicensed,205
+#players:1 #genre:action>platformer #based:movie:disney #lang:ja,206
+#players:1 #genre:action>platformer #based:movie:disney #lang:ja #rerelease:disneyclassic,207
+#players:1 #genre:action>platformer #based:movie:disney #lang:zh #unlicensed,208
+#players:1 #genre:action>platformer #based:movie:disney #reboxed #lang:en,209
+#players:1 #genre:action>platformer #based:movie:disney #search:feature>mickey #lang:en,210
+#players:1 #genre:action>platformer #based:movie:disney #search:feature>mickey #lang:en #rev:a,211
+#players:1 #genre:action>platformer #based:movie:disney #search:feature>mickey #lang:en #unlicensed:bootleg,212
+#players:1 #genre:action>platformer #based:movie:jurassicpark #lang:en,213
+#players:1 #genre:action>platformer #based:movie:jurassicpark #lang:en #unfinished:beta,214
+#players:1 #genre:action>platformer #based:movie:starwars #port:nintendo>superfamicom #lang:en #unfinished:proto,215
+#players:1 #genre:action>platformer #based:simpsons #lang:en #unfinished:proto,216
+#players:1 #genre:action>platformer #embedded:backup>eeprom #save:backup #based #lang:pt,217
+#players:1 #genre:action>platformer #embedded:backup>eeprom #save:backup #search:franchise>wonderboy #lang:en,218
+#players:1 #genre:action>platformer #embedded:backup>eeprom #save:backup #search:franchise>wonderboy #lang:ja,219
+#players:1 #genre:action>platformer #embedded:backup>eeprom #save:backup #search:franchise>wonderboy #lang:ja #unfinished:beta,220
+#players:1 #genre:action>platformer #embedded:slot>lockon #save:password #search:feature>sonic #lang:en,221
+#players:1 #genre:action>platformer #embedded:slot>lockon #search:feature>sonic #lang:en,222
+#players:1 #genre:action>platformer #embedded:slot>lockon #search:feature>sonic #lang:en #unfinished:beta,223
+#players:1 #genre:action>platformer #lang:en,224
+#players:1 #genre:action>platformer #lang:en #rerelease:mdmini>1,225
+#players:1 #genre:action>platformer #lang:en #rerelease:smashpack>1,226
+#players:1 #genre:action>platformer #lang:en #unfinished:beta,227
+#players:1 #genre:action>platformer #lang:en #unfinished:beta>1,228
+#players:1 #genre:action>platformer #lang:en #unfinished:beta>2,229
+#players:1 #genre:action>platformer #lang:en #unfinished:beta>3,230
+#players:1 #genre:action>platformer #lang:en #unfinished:proto,231
+#players:1 #genre:action>platformer #lang:en #unlicensed,232
+#players:1 #genre:action>platformer #lang:en #unlicensed:clone,233
+#players:1 #genre:action>platformer #lang:en:fr:de,234
+#players:1 #genre:action>platformer #lang:en:fr:de #unfinished:beta,235
+#players:1 #genre:action>platformer #lang:ja,236
+#players:1 #genre:action>platformer #lang:ja #rerelease:mdmini>1,237
+#players:1 #genre:action>platformer #port:arcade #lang:en,238
+#players:1 #genre:action>platformer #port:arcade #lang:en #rerelease:virtualconsole>wii,239
+#players:1 #genre:action>platformer #port:arcade #lang:en #unfinished:beta,240
+#players:1 #genre:action>platformer #port:arcade #lang:en:ja,241
+#players:1 #genre:action>platformer #port:arcade #lang:ja,242
+#players:1 #genre:action>platformer #port:arcade #lang:ja #rerelease:mdmini>1,243
+#players:1 #genre:action>platformer #port:arcade #lang:ja #rerelease:virtualconsole>wii,244
+#players:1 #genre:action>platformer #port:arcade #reboxed #lang:en,245
+#players:1 #genre:action>platformer #port:commodore>amiga #lang:en,246
+#players:1 #genre:action>platformer #port:commodore>amiga #lang:en #unfinished:beta,247
+#players:1 #genre:action>platformer #port:commodore>amiga #lang:en #unfinished:proto>1,248
+#players:1 #genre:action>platformer #port:commodore>amiga #reboxed:eaclassics #lang:en,249
+#players:1 #genre:action>platformer #port:nec>pcengine #lang:en,250
+#players:1 #genre:action>platformer #port:nec>pcengine #lang:ja,251
+#players:1 #genre:action>platformer #port:nintendo>gbc #based:movie:disney #lang:en #unlicensed,252
+#players:1 #genre:action>platformer #port:nintendo>superfamicom #lang:en #unfinished:proto,253
+#players:1 #genre:action>platformer #port:nintendo>superfamicom #lang:en #unlicensed:bootleg,254
+#players:1 #genre:action>platformer #port:sega>megacd #lang:en,255
+#players:1 #genre:action>platformer #port:sega>megacd #lang:en #unfinished:beta,256
+#players:1 #genre:action>platformer #reboxed #based #search:feature>asterix #lang:en:fr:de:es,257
+#players:1 #genre:action>platformer #reboxed:eaclassics #lang:en,258
+#players:1 #genre:action>platformer #reboxed:limitedrun #lang:en,259
+#players:1 #genre:action>platformer #reboxed:megahit #lang:en,260
+#players:1 #genre:action>platformer #reboxed:segaclassic #search:feature>sonic lang:en,261
+#players:1 #genre:action>platformer #save:password #based #lang:de #unfinished:beta,262
+#players:1 #genre:action>platformer #save:password #based #lang:en:fr:de:es:it,263
+#players:1 #genre:action>platformer #save:password #based #reboxed:classicedition #lang:en:fr:de:es:it,264
+#players:1 #genre:action>platformer #save:password #based #search:feature>asterix #lang:en,265
+#players:1 #genre:action>platformer #save:password #based #search:feature>asterix #lang:en:fr:de:es:it,266
+#players:1 #genre:action>platformer #save:password #based:disney #search:feature>donald #lang:en,267
+#players:1 #genre:action>platformer #save:password #based:looneytunes #lang:en:fr:de:es,268
+#players:1 #genre:action>platformer #save:password #based:movie #lang:en,269
+#players:1 #genre:action>platformer #save:password #based:movie #lang:en #unfinished:beta,270
+#players:1 #genre:action>platformer #save:password #based:movie #port:nintendo>superfamicom #lang:en,271
+#players:1 #genre:action>platformer #save:password #based:movie:jurassicpark #lang:en,272
+#players:1 #genre:action>platformer #save:password #based:movie:jurassicpark #lang:en #unfinished:beta,273
+#players:1 #genre:action>platformer #save:password #based:smurfs #lang:en:fr:de:es,274
+#players:1 #genre:action>platformer #save:password #based:smurfs #lang:en:fr:de:es:it,275
+#players:1 #genre:action>platformer #save:password #based:smurfs #reboxed #lang:en:fr:de:es:it,276
+#players:1 #genre:action>platformer #save:password #lang:en,277
+#players:1 #genre:action>platformer #save:password #lang:en #unfinished:beta,278
+#players:1 #genre:action>platformer #save:password #lang:en #unfinished:beta>1,279
+#players:1 #genre:action>platformer #save:password #lang:en #unfinished:beta>2,280
+#players:1 #genre:action>platformer #save:password #lang:en #unfinished:beta>3,281
+#players:1 #genre:action>platformer #save:password #lang:en:fr:de:es,282
+#players:1 #genre:action>platformer #save:password #lang:en:fr:de:es #unfinished:beta,283
+#players:1 #genre:action>platformer #save:password #port:commodore>amiga #lang:en,284
+#players:1 #genre:action>platformer #save:password #port:commodore>amiga #lang:en #unfinished:beta,285
+#players:1 #genre:action>platformer #save:password #port:commodore>amiga #lang:en #unfinished:proto,286
+#players:1 #genre:action>platformer #save:password #port:commodore>amiga #lang:en #unfinished:proto>2,287
+#players:1 #genre:action>platformer #save:password #port:commodore>amiga #lang:en #unlicensed:bootleg,288
+#players:1 #genre:action>platformer #save:password #port:commodore>amiga #lang:ja,289
+#players:1 #genre:action>platformer #save:password #port:nintendo>superfamicom #lang:en,290
+#players:1 #genre:action>platformer #save:password #port:nintendo>superfamicom #lang:en #unfinished:beta,291
+#players:1 #genre:action>platformer #save:password #port:sony>playstation #lang:en #unlicensed,292
+#players:1 #genre:action>platformer #save:password #reboxed #lang:en #rev:1,293
+#players:1 #genre:action>platformer #save:password #search:feature>sonic #lang:en #unlicensed:hack,294
+#players:1 #genre:action>platformer #save:password #search:franchise>castlevania:feature>dracula #lang:en,295
+#players:1 #genre:action>platformer #save:password #search:franchise>castlevania:feature>dracula #lang:en #rerelease:castlevaniaanniversary,296
+#players:1 #genre:action>platformer #save:password #search:franchise>castlevania:feature>dracula #lang:en #rerelease:mdmini>1,297
+#players:1 #genre:action>platformer #save:password #search:franchise>castlevania:feature>dracula #lang:en #rerelease:switchonline,298
+#players:1 #genre:action>platformer #save:password #search:franchise>castlevania:feature>dracula #lang:en #unfinished:beta,299
+#players:1 #genre:action>platformer #save:password #search:keyword>brand #lang:en #unfinished:proto,300
+#players:1 #genre:action>platformer #search:feature>mario #lang:en #unlicensed:clone,301
+#players:1 #genre:action>platformer #search:feature>sonic #lang:en,302
+#players:1 #genre:action>platformer #search:feature>sonic #lang:en #rerelease:sonicclassic,303
+#players:1 #genre:action>platformer #search:feature>sonic #lang:en #rerelease:sonicmegacollection,304
+#players:1 #genre:action>platformer #search:feature>sonic #lang:en #unfinished:beta,305
+#players:1 #genre:action>platformer #search:feature>sonic #port:nintendo>famicom>superfamicom #lang:en #unlicensed:clone,306
+#players:1 #genre:action>platformer #search:feature>sonic lang:en,307
+#players:1 #genre:action>platformer #search:keyword>brand #lang:en,308
+#players:1 #genre:action>platformer #search:keyword>brand #lang:en #unfinished:beta,309
+#players:1 #genre:action>platformer #search:keyword>brand #port:commodore>amiga #lang:en,310
+#players:1 #genre:action>platformer #search:keyword>brand #port:commodore>amiga #lang:en #unfinished:beta,311
+#players:1 #genre:action>platformer #search:keyword>brand #reboxed:classicedition #lang:en,312
+#players:1 #genre:action>platformer #search:keyword>brand #save:password #lang:en,313
+#players:1 #genre:action>platformer #search:keyword>brand #save:password #lang:ja,314
+#players:1 #genre:action>platformer #search:keyword>brand #save:password #lang:ja #unfinished:beta,315
+#players:1 #genre:action>platformer #search:keyword>official #lang:en,316
+#players:1 #genre:action>platformer:adventure #embedded:backup>battery #save:backup #search:franchise>wonderboy #lang:en #rerelease:mdmini>1,317
+#players:1 #genre:action>platformer:adventure #embedded:backup>battery #save:backup #search:franchise>wonderboy #lang:ja,318
+#players:1 #genre:action>platformer:adventure #embedded:backup>battery #save:backup #search:franchise>wonderboy #lang:ja:en #rerelease:virtualconsole>wii,319
+#players:1 #genre:action>platformer:adventure #lang:en,320
+#players:1 #genre:action>platformer:adventure #lang:en #unfinished:beta,321
+#players:1 #genre:action>platformer:adventure #lang:ja,322
+#players:1 #genre:action>platformer:adventure #lang:ja #unfinished:beta,323
+#players:1 #genre:action>platformer:adventure #lang:ja #unfinished:sample,324
+#players:1 #genre:action>platformer:adventure #save:password #port:nintendo>famicom #lang:en:fr:de:es,325
+#players:1 #genre:action>platformer:adventure #save:password #port:nintendo>famicom #lang:en:fr:de:es #rev:1,326
+#players:1 #genre:action>platformer:board>jankenpon #based:manganime #lang:ja,327
+#players:1 #genre:action>platformer:board>jankenpon #lang:en,328
+#players:1 #genre:action>platformer:board>jankenpon #lang:ja,329
+#players:1 #genre:action>platformer:board>jankenpon #lang:ja #unlicensed:bootleg,330
+#players:1 #genre:action>platformer:board>jankenpon #lang:ko,331
+#players:1 #genre:action>platformer:board>jankenpon #port:arcade #lang:en,332
+#players:1 #genre:action>platformer:board>jankenpon #port:arcade #lang:en #unfinished:beta,333
+#players:1 #genre:action>platformer:board>jankenpon #port:arcade #lang:ja,334
+#players:1 #genre:action>platformer:notagame>educational #based #lang:en,335
+#players:1 #genre:action>platformer:notagame>educational #based #lang:en #unfinished:beta,336
+#players:1 #genre:action>platformer:parlor>mogurataiji #save:password #addon:controller>6button #based #search:feature>dracula #lang:en,337
+#players:1 #genre:action>platformer:parlor>mogurataiji #save:password #addon:controller>6button #based #search:feature>dracula #lang:en #unfinished:beta,338
+#players:1 #genre:action>platformer:puzzle #addon:controller>6button #save:password #based #lang:en:fr:de:es:it,339
+#players:1 #genre:action>platformer:puzzle #lang:en,340
+#players:1 #genre:action>platformer:puzzle #lang:en #unfinished:beta,341
+#players:1 #genre:action>platformer:puzzle #port:commodore>amiga #lang:en,342
+#players:1 #genre:action>platformer:puzzle #save:password #based:looneytunes #lang:en,343
+#players:1 #genre:action>platformer:puzzle #save:password #based:looneytunes #lang:en:fr:de,344
+#players:1 #genre:action>platformer:puzzle #save:password #port:commodore>amiga #based:simpsons #lang:en,345
+#players:1 #genre:action>platformer:puzzle #save:password #port:commodore>amiga #based:simpsons #lang:en #rev:a,346
+#players:1 #genre:action>platformer:shmup>h #based:looneytunes #lang:en,347
+#players:1 #genre:action>platformer:shmup>h #based:looneytunes #lang:en:fr:de:es:it,348
+#players:1 #genre:action>platformer:shmup>h #lang:en,349
+#players:1 #genre:action>platformer:shmup>h #lang:en #unfinished:beta,350
+#players:1 #genre:action>platformer:shmup>h #lang:en #unfinished:sample,351
+#players:1 #genre:action>platformer:shmup>h #save:password #based #lang:en:fr:de:es,352
+#players:1 #genre:action>platformer:shmup>h #save:password #based #lang:en:fr:de:es #unfinished:beta,353
+#players:1 #genre:action>platformer:shmup>h #save:password #port:commodore>amiga #lang:en,354
+#players:1 #genre:action>platformer:shmup>i #save:password #based:movie #lang:en #unfinished:proto,355
+#players:1 #genre:action>platformer:shooting>gallery:racing #based:simpsons #lang:en,356
+#players:1 #genre:action>platformer>hackandslash #save:password #based #lang:en,357
+#players:1 #genre:action>platformer>runandgun:shmup>h #lang:en #unfinished:proto,358
+#players:1 #genre:action>platformer>runandgun:shmup>h #save:password #port:nintendo>famicom #based #search:feature>batman #lang:en,359
+#players:1 #genre:action>runandgun #addon:controller>6button #lang:en,360
+#players:1 #genre:action>runandgun #addon:controller>6button #lang:en #rerelease:virtualconsole>wii,361
+#players:1 #genre:action>runandgun #addon:controller>6button #lang:en #unfinished:beta,362
+#players:1 #genre:action>runandgun #addon:controller>6button #lang:en #unfinished:proto,363
+#players:1 #genre:action>runandgun #addon:controller>6button #save:password #based:movie #lang:en,364
+#players:1 #genre:action>runandgun #based #lang:en,365
+#players:1 #genre:action>runandgun #based #lang:en #unfinished:beta,366
+#players:1 #genre:action>runandgun #based #lang:en #unlicensed:bootleg,367
+#players:1 #genre:action>runandgun #based:movie #lang:en,368
+#players:1 #genre:action>runandgun #based:movie #lang:en #unfinished:beta,369
+#players:1 #genre:action>runandgun #based:movie #lang:en #unlicensed:bootleg,370
+#players:1 #genre:action>runandgun #lang:en,371
+#players:1 #genre:action>runandgun #lang:en #rerelease:switchonline,372
+#players:1 #genre:action>runandgun #lang:en #rerelease:virtualconsole>wii,373
+#players:1 #genre:action>runandgun #lang:ja,374
+#players:1 #genre:action>runandgun #port:arcade #lang:en,375
+#players:1 #genre:action>runandgun #port:arcade #lang:ja,376
+#players:1 #genre:action>runandgun #port:arcade #lang:ja:en,377
+#players:1 #genre:action>runandgun #port:nec>pc88 #lang:en,378
+#players:1 #genre:action>runandgun #port:nec>pc88 #lang:en #unfinished:beta,379
+#players:1 #genre:action>runandgun #port:nec>pc88 #lang:ja,380
+#players:1 #genre:action>runandgun #port:sharp>x68000 #lang:en,381
+#players:1 #genre:action>runandgun #save:password #based:movie #lang:en,382
+#players:1 #genre:action>runandgun #save:password #based:movie #lang:en #unfinished:beta,383
+#players:1 #genre:action>runandgun #save:password #based:movie #lang:en #unfinished:sample,384
+#players:1 #genre:action>runandgun:action>hackandslash #port:arcade #lang:en,385
+#players:1 #genre:action>runandgun:action>hackandslash #port:arcade #lang:ja,386
+#players:1 #genre:action>runandgun:shmup #lang:ja,387
+#players:1 #genre:action>runandgun:shmup>h #lang:en,388
+#players:1 #genre:action>runandgun:shmup>h #lang:en #rerelease:switchonline,389
+#players:1 #genre:action>runandgun:shmup>h #lang:en #unfinished:beta,390
+#players:1 #genre:action>runandgun:shmup>h #lang:ja,391
+#players:1 #genre:action>runandgun:shmup>h #lang:ja #rerelease:switchonline,392
+#players:1 #genre:action>runandgun:shmup>h #lang:ja #rerelease:virtualconsole,393
+#players:1 #genre:action>runandgun:shmup>v #based:movie #lang:en,394
+#players:1 #genre:action>runandgun>platformer #addon:controller>6button #save:password #based #lang:en,395
+#players:1 #genre:action>runandgun>platformer #addon:controller>6button #save:password #based #lang:en:fr:de,396
+#players:1 #genre:action>runandgun>platformer #addon:controller>6button #save:password #based:movie #lang:en,397
+#players:1 #genre:action>runandgun>platformer #addon:controller>6button #save:password #based:movie #lang:en #unfinished:beta,398
+#players:1 #genre:action>runandgun>platformer #based:manganime #lang:ja,399
+#players:1 #genre:action>runandgun>platformer #lang:ch #unlicensed:bootleg,400
+#players:1 #genre:action>runandgun>platformer #lang:en,401
+#players:1 #genre:action>runandgun>platformer #lang:en #rev:a,402
+#players:1 #genre:action>runandgun>platformer #lang:en #unfinished:beta,403
+#players:1 #genre:action>runandgun>platformer #lang:ja,404
+#players:1 #genre:action>runandgun>platformer #lang:ko,405
+#players:1 #genre:action>runandgun>platformer #port:commodore>c64>amiga #lang:en #unlicensed,406
+#players:1 #genre:action>runandgun>platformer #save:password #port:commodore>c64>amiga #based:movie #lang:en #unlicensed,407
+#players:1 #genre:action>runandgun>platformer>maze #lang:en,408
+#players:1 #genre:action>runandgun>platformer>maze #lang:en #unfinished:beta,409
+#players:1 #genre:adventure #addon:online>megamodem>toshokan #lang:ja,410
+#players:1 #genre:adventure #addon:online>megamodem>toshokan #lang:ja #rerelease:gamenokanzume>1,411
+#players:1 #genre:adventure #addon:online>megamodem>toshokan #lang:ja #rerelease:gamenokanzume>2,412
+#players:1 #genre:adventure #based:manganime #lang:ja,413
+#players:1 #genre:adventure #embedded:backup>battery #save:backup #based #lang:en,414
+#players:1 #genre:adventure #embedded:backup>battery #save:backup #based #lang:en #rev:a,415
+#players:1 #genre:adventure #embedded:backup>battery #save:backup #based #lang:en #unfinished:beta,416
+#players:1 #genre:adventure #embedded:backup>battery #save:backup #based:manganime #lang:ja,417
+#players:1 #genre:adventure #save:password #based:manganime #lang:ch #unlicensed:bootleg,418
+#players:1 #genre:adventure #save:password #based:manganime #lang:ja,419
+#players:1 #genre:adventure:action>platformer #based:movie:disney #lang:en,420
+#players:1 #genre:adventure:action>platformer #port:nintendo>famicom #lang:en #unfinished:beta,421
+#players:1 #genre:adventure:action>platformer #port:nintendo>famicom #lang:en:fr:de:es:it,422
+#players:1 #genre:adventure:minigames #port:nintendo>superfamicom #based:manganime #lang:ja,423
+#players:1 #genre:adventure:notagame>educational #port:apple>apple2 #lang:en:fr:de:es:it,424
+#players:1 #genre:adventure:notagame>educational #port:apple>apple2 #lang:es:pt,425
+#players:1 #genre:adventure>pointandclick #embedded:backup>battery #save:backup #port:nec>pc88 #lang:ja,426
+#players:1 #genre:adventure>pointandclick #save:password #based #lang:en,427
+#players:1 #genre:board #lang:zh #unlicensed,428
+#players:1 #genre:board #reboxed:megadrive4 #lang:pt,429
+#players:1 #genre:board>cards #lang:es #unlicensed,430
+#players:1 #genre:board>cards #lang:zh #unlicensed,431
+#players:1 #genre:board>cards #search:keyword>strip #lang:zh #unlicensed,432
+#players:1 #genre:board>cards:parlor>jackpot #addon:online>megamodem>toshokan #save:password #lang:ja,433
+#players:1 #genre:board>cards:parlor>jackpot #save:password #search:keyword>official #lang:en,434
+#players:1 #genre:board>chess #reboxed:megadrive4 #lang:pt,435
+#players:1 #genre:board>mahjong #addon:mouse>md #embedded:backup>battery #save:backup #port:nec>pc98 #lang:ja,436
+#players:1 #genre:board>mahjong #based:manganime #port:nec>pc88 #lang:ja,437
+#players:1 #genre:board>mahjong #save:password #lang:ja,438
+#players:1 #genre:board>mahjong #save:password #lang:zh #unlicensed,439
+#players:1 #genre:board>mahjong #search:keyword>strip #lang:ja #unlicensed,440
+#players:1 #genre:board>mahjong #search:keyword>strip #lang:zh #unlicensed,441
+#players:1 #genre:board>mahjong:adventure #save:password #port:nec>cdromrom #lang:ja,442
+#players:1 #genre:board>shougi #lang:ja,443
+#players:1 #genre:brawler #addon:controller>6button #based:marvel #search:feature>spiderman #lang:en,444
+#players:1 #genre:brawler #addon:online>segachannel #lang:en,445
+#players:1 #genre:brawler #based #lang:en,446
+#players:1 #genre:brawler #based:movie #lang:en,447
+#players:1 #genre:brawler #lang:en,448
+#players:1 #genre:brawler #lang:en #unfinished:proto,449
+#players:1 #genre:brawler #lang:ja,450
+#players:1 #genre:brawler #lang:ru #based:tmnt #unlicensed,451
+#players:1 #genre:brawler #port:arcade #lang:en,452
+#players:1 #genre:brawler #port:arcade #lang:en #unfinished:beta,453
+#players:1 #genre:brawler #port:nintendo>superfamicom #based:manganime #lang:ja,454
+#players:1 #genre:brawler #save:password #lang:en,455
+#players:1 #genre:brawler:fighting #based:manganime #lang:en,456
+#players:1 #genre:brawler:fighting #based:manganime #lang:ja,457
+#players:1 #genre:brawler:shmup>h #based #search:feature>superman #lang:en,458
+#players:1 #genre:fighting #based #port:nintendo>superfamicom #lang:ja,459
+#players:1 #genre:fighting #port:arcade #lang:en,460
+#players:1 #genre:fighting #port:arcade #lang:ja,461
+#players:1 #genre:minigames:action>platformer>blockbreaker:sports:racing #multigame #lang:en #unlicensed,462
+#players:1 #genre:minigames:notagame>drawing:action>maze:shooting>gallery #addon:mouse>md #lang:en,463
+#players:1 #genre:minigames:puzzle #based:disney #search:feature>mickey #lang:en,464
+#players:1 #genre:notagame>application #addon:online>megaanser #lang:ja,465
+#players:1 #genre:notagame>application #addon:online>megamodem #lang:ja #rev:a,466
+#players:1 #genre:notagame>application #addon:online>meganet #lang:pt,467
+#players:1 #genre:notagame>application #addon:online>segachannel #lang:en,468
+#players:1 #genre:notagame>application #addon:online>segachannel #lang:ja,469
+#players:1 #genre:notagame>application #addon:online>segachannel #lang:ja #rev:1,470
+#players:1 #genre:notagame>application #addon:online>segachannel #search:feature>sonic #lang:en #unfinished:demo,471
+#players:1 #genre:notagame>application #addon:peripheral>megacd #lang:en,472
+#players:1 #genre:notagame>application #addon:peripheral>megacd #lang:en #unfinished:beta,473
+#players:1 #genre:notagame>application #embedded:backup>battery #save:backup #lang:ja,474
+#players:1 #genre:notagame>application #lang:en,475
+#players:1 #genre:notagame>application #lang:en #alt #unlicensed,476
+#players:1 #genre:notagame>application #lang:en #rev:a,477
+#players:1 #genre:notagame>application #lang:en #unlicensed,478
+#players:1 #genre:notagame>application>sdk #lang:en #unfinished:proto,479
+#players:1 #genre:notagame>drawing #search:feature>sonic #lang:en,480
+#players:1 #genre:notagame>drawing #search:feature>sonic #lang:en #unfinished:beta,481
+#players:1 #genre:notagame>educational #based #lang:en,482
+#players:1 #genre:notagame>educational:action:shooting>gallery #lang:en,483
+#players:1 #genre:notagame>educational:minigames #addon:mouse>md #port:pc #based #lang:en,484
+#players:1 #genre:notagame>educational:minigames #addon:mouse>md #port:pc #based #lang:en #unfinished:beta #alt,485
+#players:1 #genre:notagame>educational:minigames #addon:mouse>md #port:pc #based #lang:en #unfinished:beta (1994-07-21),486
+#players:1 #genre:notagame>educational:minigames #addon:mouse>md #port:pc #based #lang:en #unfinished:beta (1994-08-09),487
+#players:1 #genre:notagame>educational:minigames #addon:mouse>md #port:pc #based #lang:en #unfinished:beta (1994-08-15),488
+#players:1 #genre:notagame>educational:minigames #addon:mouse>md #port:pc #based #lang:en #unfinished:beta (1994-08-17),489
+#players:1 #genre:notagame>educational:minigames #addon:mouse>md #port:pc #based #lang:en #unfinished:beta (1994-08-25),490
+#players:1 #genre:notagame>educational:minigames #addon:mouse>md #port:pc #based #lang:en #unfinished:beta (1994-08-26),491
+#players:1 #genre:notagame>educational:minigames #save:password #lang:en,492
+#players:1 #genre:notagame>educational:minigames #save:password #lang:en #unfinished:beta,493
+#players:1 #genre:notagame>educational:minigames:sim>flight:shooting>gallery:action>platformer:shmup #save:password #based #lang:en,494
+#players:1 #genre:notagame>educational:minigames:sim>flight:shooting>gallery:action>platformer:shmup #save:password #based #lang:en #unfinished:beta,495
+#players:1 #genre:notagame>educational:notagame>drawing #addon:mouse>md #embedded:backup>battery #save:backup #search:feature>sonic #lang:en,496
+#players:1 #genre:notagame>educational:quiz #reboxed:megadrive4 #lang:pt,497
+#players:1 #genre:notagame>educational>application #addon:midi>miracle #lang:en,498
+#players:1 #genre:notagame>educational>drawing #addon:mouse>md #embedded:backup>battery #save:backup #search:feature>sonic #lang:en #unfinished:beta,499
+#players:1 #genre:notagame>test lang:en #unfinished:proto #unlicensed,500
+#players:1 #genre:parlor>mogurataiji #addon:controller>smash #lang:en #unlicensed,501
+#players:1 #genre:parlor>pachinko #save:password #lang:ja,502
+#players:1 #genre:puzzle #addon:online>megamodem #save:password #port:nec>pc88 #lang:ja,503
+#players:1 #genre:puzzle #addon:online>megamodem>toshokan #lang:ja,504
+#players:1 #genre:puzzle #addon:online>megamodem>toshokan #save:password #lang:ja,505
+#players:1 #genre:puzzle #addon:online>megamodem>toshokan #save:password #lang:ja #rerelease:gamenokanzume,506
+#players:1 #genre:puzzle #based #port:nintendo>famicom #lang:en,507
+#players:1 #genre:puzzle #lang:en,508
+#players:1 #genre:puzzle #lang:en #unfinished:beta,509
+#players:1 #genre:puzzle #reboxed:megadrive3 #lang:pt,510
+#players:1 #genre:puzzle #reboxed:megadrive4 #lang:pt,511
+#players:1 #genre:puzzle #save:password #port:commodore>amiga #lang:en #unfinished:proto,512
+#players:1 #genre:puzzle #save:password #port:nec>pc88 #lang:en,513
+#players:1 #genre:puzzle:action #addon:controller>6button:mouse>md #save:password #port:commodore>amiga #lang:en,514
+#players:1 #genre:puzzle:action #lang:en,515
+#players:1 #genre:puzzle:action #lang:en #unfinished:beta,516
+#players:1 #genre:puzzle:action #lang:en #unfinished:beta #alt,517
+#players:1 #genre:puzzle:action #port:arcade #lang:en,518
+#players:1 #genre:puzzle:action>platformer #addon:online>megamodem>toshokan #save:password #lang:ja,519
+#players:1 #genre:puzzle:action>platformer #addon:online>segachannel #save:password #reboxed:gamenokanzume #lang:ja,520
+#players:1 #genre:puzzle:action>platformer #save:password #port:commodore>amiga #lang:en,521
+#players:1 #genre:puzzle:board #port:apple>mac #lang:en #unlicensed,522
+#players:1 #genre:puzzle:minigames #save:password #reboxed:megadrive4 #lang:pt,523
+#players:1 #genre:puzzle:sports>golf #addon:online>megamodem>toshokan #lang:ja,524
+#players:1 #genre:puzzle:sports>golf #addon:online>megamodem>toshokan #lang:ja #rerelease:gamenokanzume,525
+#players:1 #genre:puzzle>drop #addon:online>segachannel #port:arcade #lang:ja:en #rerelease:segaages,526
+#players:1 #genre:puzzle>drop #port:sharp>x68000 #lang:ja #rerelease:mdmini>2,527
+#players:1 #genre:quiz #addon:online>segachannel #lang:ja,528
+#players:1 #genre:quiz #based #lang:pt,529
+#players:1 #genre:quiz:notagame>educational #addon:online>segachannel #lang:ja,530
+#players:1 #genre:racing #embedded:backup>battery #save:backup #port:commodore>amiga #lang:en #unlicensed,531
+#players:1 #genre:racing #embedded:backup>battery #save:backup #port:commodore>amiga #reboxed:videogameclassics #lang:en #unlicensed,532
+#players:1 #genre:racing #lang:en,533
+#players:1 #genre:racing #lang:en #unfinished:beta,534
+#players:1 #genre:racing #lang:en #unfinished:beta>1,535
+#players:1 #genre:racing #lang:en #unfinished:beta>2,536
+#players:1 #genre:racing #lang:ja,537
+#players:1 #genre:racing #port:arcade #lang:en,538
+#players:1 #genre:racing #port:arcade #lang:en #rerelease:smashpack>1,539
+#players:1 #genre:racing #port:arcade #lang:en #unfinished:beta,540
+#players:1 #genre:racing #port:arcade #lang:en #unlicensed:bootleg,541
+#players:1 #genre:racing #port:nintendo>famicom #lang:en,542
+#players:1 #genre:racing #port:nintendo>famicom #reboxed #lang:en,543
+#players:1 #genre:racing:action #addon:health>catalyst #lang:en #unfinished:proto,544
+#players:1 #genre:racing:action #lang:en,545
+#players:1 #genre:racing:action #lang:en #unfinished:beta,546
+#players:1 #genre:racing:sim #port:arcade #lang:en,547
+#players:1 #genre:racing:sim #port:arcade #lang:en #unfinished:beta,548
+#players:1 #genre:racing:sports>formula1 #addon:controller>xe1ap #embedded:backup>battery #save:backup #search:keyword>endorsed #lang:en:ja,549
+#players:1 #genre:racing:sports>formula1 #addon:controller>xe1ap #embedded:backup>battery #save:backup #search:keyword>endorsed #lang:en:ja #unfinished:beta,550
+#players:1 #genre:racing:sports>formula1 #addon:online>segachannel #embedded:backup>battery #save:backup #lang:en #unfinished:proto,551
+#players:1 #genre:racing:sports>formula1 #embedded:backup>battery #save:backup #lang:ja,552
+#players:1 #genre:racing:sports>formula1 #embedded:backup>battery #save:backup #search:keyword>endorsed #based #lang:ja,553
+#players:1 #genre:racing:sports>formula1 #save:password #search:keyword>endorsed #lang:ja,554
+#players:1 #genre:racing:sports>motogp #addon:online>segachannel #save:password #port:arcade #lang:en:ja #unfinished:beta,555
+#players:1 #genre:racing:sports>motogp #save:password #port:arcade #lang:en #rerelease:smashpack>3,556
+#players:1 #genre:racing:sports>motogp #save:password #port:arcade #lang:en:ja,557
+#players:1 #genre:racing:sports>rally #lang:es #unlicensed:hack,558
+#players:1 #genre:racing>combat #port:arcade #lang:en,559
+#players:1 #genre:racing>combat #port:arcade #lang:en #unfinished:beta,560
+#players:1 #genre:rpg #addon:mouse>md #embedded:backup>battery #save:backup #port:pc #lang:en #unfinished:proto,561
+#players:1 #genre:rpg #embedded:backup>battery #save:backup #based #port:commodore>amiga #lang:en,562
+#players:1 #genre:rpg #embedded:backup>battery #save:backup #port:pc #lang:en,563
+#players:1 #genre:rpg #embedded:backup>eeprom #save:backup #lang:en,564
+#players:1 #genre:rpg #port:commodore>amiga #lang:en,565
+#players:1 #genre:rpg #save:password #port:pc #lang:en,566
+#players:1 #genre:rpg>a #addon:online>megamodem>toshokan #lang:ja,567
+#players:1 #genre:rpg>a #addon:online>segachannel #embedded:backup>battery #save:backup #lang:en,568
+#players:1 #genre:rpg>a #addon:online>segachannel #embedded:backup>battery #save:backup #port:nec>cdromrom #lang:en,569
+#players:1 #genre:rpg>a #addon:online>segachannel #reboxed:gamenokanzume #lang:ja,570
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #based #lang:en,571
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #based #lang:en #unfinished:beta,572
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #based #lang:en #unfinished:beta #alt,573
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:ch #unlicensed:bootleg,574
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:de,575
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:de #rerelease:mdmini>1,576
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:en,577
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:en #rerelease:mdclassics,578
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:en #rerelease:mdmini>1,579
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:en #unfinished:beta,580
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:en:fr:de:es,581
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:en:fr:de:es #rerelease:mdmini>1,582
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:en:ko,583
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:es,584
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:fr,585
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:fr #rerelease:mdmini>1,586
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:ja,587
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:ja #rerelease:mdmini>1,588
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:ja #unfinished:beta,589
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:ko,590
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #port:nec>cdromrom #lang:ch #unlicensed:bootleg,591
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #port:nec>cdromrom #lang:en,592
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #port:nec>cdromrom #lang:ja,593
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #port:nec>pc88 #lang:en,594
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #port:nec>pc88 #lang:en #unfinished:beta,595
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #port:nec>pc88 #lang:ja,596
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #port:nec>pc88 #search:franchise>dragonslayer #lang:ja,597
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #port:nec>pc88 #search:franchise>dragonslayer #lang:ja #rev:1 #rerelease:virtualconsole,598
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #reboxed #lang:de,599
+#players:1 #genre:rpg>a #lang:en,600
+#players:1 #genre:rpg>a #lang:ja #unfinished:proto,601
+#players:1 #genre:rpg>a #save:password #addon:controller>6button #lang:en,602
+#players:1 #genre:rpg>a #save:password #based:movie #lang:en:fr:de,603
+#players:1 #genre:rpg>a #save:password #based:movie #lang:en:fr:de #unfinished:proto,604
+#players:1 #genre:rpg>a #save:password #port:nintendo>famicom #lang:en #unlicensed,605
+#players:1 #genre:rpg>dungeoncrawler #embedded:backup>battery #save:backup #based:dnd #lang:en,606
+#players:1 #genre:rpg>dungeoncrawler #embedded:backup>battery #save:backup #lang:en,607
+#players:1 #genre:rpg>dungeoncrawler #embedded:backup>battery #save:backup #lang:ja,608
+#players:1 #genre:rpg>dungeoncrawler #embedded:backup>battery #save:backup #lang:pt,609
+#players:1 #genre:rpg>dungeoncrawler #port:apple>apple2 #lang:en,610
+#players:1 #genre:rpg>dungeoncrawler #port:apple>apple2 #lang:ja,611
+#players:1 #genre:rpg>dungeoncrawler>j #embedded:backup>battery #save:backup #port:msx #lang:ja,612
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #based #lang:zh #unfinished:beta #unlicensed,613
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #based #lang:zh #unlicensed,614
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #based #lang:zh #unlicensed #alt,615
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:ch #unlicensed,616
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:ch #unlicensed:bootleg,617
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:en,618
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:en #rerelease:mdclassics,619
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:en #rerelease:mdmini>1,620
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:en #rerelease:mdmini>2,621
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:en #rerelease:virtualconsole>wii,622
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:en #rev:a,623
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:en #unfinished:beta,624
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:en #unfinished:proto,625
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:en #unfinished:sample,626
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:en #unlicensed,627
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:ja,628
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:ja #rerelease:mdclassics,629
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:ja #rerelease:mdmini>1,630
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:ja #rerelease:mdmini>2,631
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:ja #unfinished:beta,632
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:pt,633
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:zh #unlicensed,634
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #lang:zh #unlicensed #alt,635
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #port:nec>pc88 #search:franchise>dragonslayer #lang:ja,636
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #port:nintendo>superfamicom #lang:en #unfinished:proto,637
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #port:sega>mark3 #lang:ja,638
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #reboxed #lang:zh #unlicensed,639
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #based #lang:zh #unlicensed,640
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:ch #unlicensed:bootleg,641
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:en,642
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:en #rerelease:mdmini>1,643
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:en #rerelease:switchonline,644
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:en #unfinished:beta,645
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:ja,646
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:ja #rerelease:mdmini>1,647
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:ja #rerelease:switchonline,648
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:ja #rev:a,649
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:ja #rev:b,650
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:zh #unlicensed,651
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:zh #unlicensed:bootleg,652
+#players:1 #genre:rpg>s #lang:zh #unlicensed,653
+#players:1 #genre:rpg>s #lang:zh #unlicensed #alt,654
+#players:1 #genre:shmup #lang:en,655
+#players:1 #genre:shmup #lang:pt,656
+#players:1 #genre:shmup #port:sharp>x68000 #lang:en,657
+#players:1 #genre:shmup #port:sharp>x68000 #lang:en #rev:a,658
+#players:1 #genre:shmup #port:sharp>x68000 #lang:en #rev:a #unfinished:beta,659
+#players:1 #genre:shmup:action #lang:en,660
+#players:1 #genre:shmup:action #lang:en #unfinished:beta,661
+#players:1 #genre:shmup:action #lang:en #unfinished:beta #alt,662
+#players:1 #genre:shmup>h #addon:online>segachannel #lang:en,663
+#players:1 #genre:shmup>h #addon:online>segachannel #lang:en #unfinished:proto,664
+#players:1 #genre:shmup>h #addon:online>segachannel #port:sharp>x68000 #lang:en,665
+#players:1 #genre:shmup>h #lang:en,666
+#players:1 #genre:shmup>h #lang:en #rerelease:mdmini>1,667
+#players:1 #genre:shmup>h #lang:en #unfinished:beta,668
+#players:1 #genre:shmup>h #lang:en #unlicensed:clone,669
+#players:1 #genre:shmup>h #lang:ja,670
+#players:1 #genre:shmup>h #lang:ja #unfinished:beta,671
+#players:1 #genre:shmup>h #port:arcade #lang:en,672
+#players:1 #genre:shmup>h #port:arcade #lang:ja,673
+#players:1 #genre:shmup>h #port:arcade #lang:ja #rerelease:dariuscozmic,674
+#players:1 #genre:shmup>h #port:arcade #rerelease:mdmini>1 #lang:en,675
+#players:1 #genre:shmup>h #port:sharp>x68000 #lang:en,676
+#players:1 #genre:shmup>i #save:password #lang:en,677
+#players:1 #genre:shmup>i #save:password #lang:en #unfinished:beta,678
+#players:1 #genre:shmup>i #save:password #lang:ja,679
+#players:1 #genre:shmup>i #save:password #reboxed:eaclassics #lang:en,680
+#players:1 #genre:shmup>v #addon:controller>xe1ap #lang:en,681
+#players:1 #genre:shmup>v #addon:controller>xe1ap #lang:en #rerelease:switchonline,682
+#players:1 #genre:shmup>v #addon:controller>xe1ap #lang:ja,683
+#players:1 #genre:shmup>v #addon:controller>xe1ap #lang:ja #rerelease:switchonline,684
+#players:1 #genre:shmup>v #lang:en,685
+#players:1 #genre:shmup>v #lang:en #unlicensed,686
+#players:1 #genre:shmup>v #lang:ja,687
+#players:1 #genre:shmup>v #lang:ko,688
+#players:1 #genre:shmup>v #lang:zh #unlicensed,689
+#players:1 #genre:shmup>v #port:arcade #lang:en,690
+#players:1 #genre:shmup>v #port:arcade #lang:en #rerelease:mdmini>2,691
+#players:1 #genre:shmup>v #port:arcade #lang:en #rerelease:virtualconsole>wii,692
+#players:1 #genre:shmup>v #port:arcade #lang:en #unfinished:beta,693
+#players:1 #genre:shmup>v #port:arcade #reboxed #lang:en,694
+#players:1 #genre:shmup>v #port:msx:sharp>x68000 #lang:ja,695
+#players:1 #genre:shmup>v #search:keyword>strip #lang:ja #unlicensed,696
+#players:1 #genre:shmup>v:action>runandgun #based:movie #lang:en,697
+#players:1 #genre:shmup>v:action>runandgun #lang:en,698
+#players:1 #genre:shmup>v:action>runandgun #lang:en #unfinished:sample,699
+#players:1 #genre:shmup>v>h #port:sharp>x68000 #lang:en,700
+#players:1 #genre:shooting>fps #addon:controller>6button #embedded:backup>battery #save:backup #port:pc #lang:en,701
+#players:1 #genre:shooting>fps #addon:glasses>segavr #search:3d>stereo #save:password #lang:en #unfinished:proto,702
+#players:1 #genre:shooting>fps #lang:en,703
+#players:1 #genre:shooting>fps #lang:en #unfinished:beta,704
+#players:1 #genre:shooting>fps #lang:en #unfinished:beta #alt:1,705
+#players:1 #genre:shooting>fps #lang:en #unfinished:beta #alt:2,706
+#players:1 #genre:shooting>fps #port:commodore>amiga #lang:en,707
+#players:1 #genre:shooting>fps:adventure #embedded:backup>battery #save:backup #port:nec>pc88 #lang:ja,708
+#players:1 #genre:shooting>gallery #addon:lightgun>menacer #multigame #lang:en,709
+#players:1 #genre:shooting>gallery #lang:en,710
+#players:1 #genre:shooting>gallery #lang:en #unfinished:beta,711
+#players:1 #genre:shooting>gallery #port:arcade #lang:en,712
+#players:1 #genre:shooting>gallery #port:arcade #lang:en #rev:a,713
+#players:1 #genre:shooting>gallery #port:arcade #lang:en #unfinished:beta,714
+#players:1 #genre:shooting>gallery #reboxed:megadrive4 #lang:pt,715
+#players:1 #genre:shooting>gallery:parlor>mogurataiji #addon:lightgun>menacer>justifier #port:arcade #multigame #lang:en #unlicensed:bootleg,716
+#players:1 #genre:shooting>rail #addon:controller>xe1ap #port:arcade #lang:en,717
+#players:1 #genre:shooting>rail #addon:controller>xe1ap #port:arcade #lang:en #rerelease:virtualconsole>wii,718
+#players:1 #genre:shooting>rail #addon:controller>xe1ap #port:arcade #lang:en #rev:b,719
+#players:1 #genre:shooting>rail #addon:controller>xe1ap #port:arcade #lang:en #unlicensed:bootleg,720
+#players:1 #genre:shooting>rail #lang:en,721
+#players:1 #genre:shooting>rail #lang:en #rev:1,722
+#players:1 #genre:shooting>rail #lang:ja,723
+#players:1 #genre:shooting>rail #lang:ja #unfinished:beta,724
+#players:1 #genre:shooting>rail #port:arcade #lang:en,725
+#players:1 #genre:shooting>rail:sim>flight #addon:online>segachannel #port:arcade #lang:en,726
+#players:1 #genre:shooting>rail:sim>flight #port:arcade #lang:en,727
+#players:1 #genre:shooting>rail:sim>flight #port:arcade #lang:en #unfinished:beta,728
+#players:1 #genre:sim #embedded:backup>battery #save:backup #port:nintendo>superfamicom #lang:en,729
+#players:1 #genre:sim #embedded:backup>battery #save:backup #port:pc #lang:en,730
+#players:1 #genre:sim #embedded:backup>battery #save:backup #port:pc #lang:en #rev:a,731
+#players:1 #genre:sim #port:commodore>amiga #lang:en #unlicensed,732
+#players:1 #genre:sim #port:pc #lang:en,733
+#players:1 #genre:sim:fighting #based:manganime #lang:ja,734
+#players:1 #genre:sim:shooting>fps #port:pc #lang:en,735
+#players:1 #genre:sim>building #port:pc #lang:en:fr:de:es,736
+#players:1 #genre:sim>building>train #embedded:backup>battery #save:backup #port:nec>pc88 #lang:ja,737
+#players:1 #genre:sim>cardgame #reboxed:megadrive4 #lang:pt,738
+#players:1 #genre:sim>fishing #embedded:backup>battery #save:backup #lang:en,739
+#players:1 #genre:sim>fishing #save:password #lang:en,740
+#players:1 #genre:sim>fishing #save:password #lang:ja,741
+#players:1 #genre:sim>fishing #save:password #search:keyword>official #lang:en,742
+#players:1 #genre:sim>flight:shooting>gallery #addon:online>segachannel #save:password #lang:en,743
+#players:1 #genre:sim>flight:shooting>gallery #lang:en,744
+#players:1 #genre:sim>flight:shooting>gallery #lang:en #unfinished:proto,745
+#players:1 #genre:sim>flight:shooting>gallery #port:pc #lang:en,746
+#players:1 #genre:sim>flight:shooting>gallery #port:pc #lang:en #unfinished:beta,747
+#players:1 #genre:sim>flight:shooting>gallery #port:pc #lang:en #unfinished:sample,748
+#players:1 #genre:sim>flight:shooting>gallery #save:password #addon:controller>6button #lang:en,749
+#players:1 #genre:sim>flight:shooting>gallery #save:password #addon:controller>6button #lang:en:fr:de:es:it:nl:sv:fi,750
+#players:1 #genre:sim>flight:shooting>gallery #save:password #addon:controller>6button #lang:ja,751
+#players:1 #genre:sim>flight:shooting>gallery #save:password #lang:en,752
+#players:1 #genre:sim>flight:shooting>gallery #save:password #lang:en #unfinished:beta,753
+#players:1 #genre:sim>flight:shooting>gallery #save:password #lang:en #unlicensed,754
+#players:1 #genre:sim>flight:shooting>gallery #save:password #lang:ja,755
+#players:1 #genre:sim>flight:shooting>gallery #save:password #port:pc #lang:en,756
+#players:1 #genre:sim>flight:shooting>gallery #save:password #port:pc #lang:ja,757
+#players:1 #genre:sim>flight:shooting>gallery #save:password #reboxed:majesco #lang:en #rev:1,758
+#players:1 #genre:sim>flight:shooting>gallery:shmup>h #save:password #port:commodore>amiga #lang:en,759
+#players:1 #genre:sim>flight:shooting>tps #port:arcade #lang:en,760
+#players:1 #genre:sim>flight:shooting>tps #port:arcade #lang:en #unfinished:beta>1,761
+#players:1 #genre:sim>flight:shooting>tps #port:arcade #lang:en #unfinished:beta>2,762
+#players:1 #genre:sim>flight:shooting>tps #port:arcade #lang:ja,763
+#players:1 #genre:sim>strategy #addon:controller>6button:mouse>md #embedded:backup>battery #save:backup #port:nec>pc98 #lang:ja,764
+#players:1 #genre:sim>strategy #addon:controller>6button:mouse>md #embedded:backup>battery #save:backup #port:nec>pc98 #lang:zh #unlicensed:bootleg,765
+#players:1 #genre:sim>strategy #addon:online>segachannel #save:password #port:pc #lang:en,766
+#players:1 #genre:sim>strategy #embedded:backup>battery #save:backup #based #lang:ja,767
+#players:1 #genre:sim>strategy #embedded:backup>battery #save:backup #lang:ch #unlicensed:bootleg,768
+#players:1 #genre:sim>strategy #embedded:backup>battery #save:backup #lang:ja,769
+#players:1 #genre:sim>strategy #embedded:backup>battery #save:backup #lang:ja #unfinished:beta,770
+#players:1 #genre:sim>strategy #embedded:backup>battery #save:backup #port:commodore>amiga #lang:en,771
+#players:1 #genre:sim>strategy #embedded:backup>battery #save:backup #port:commodore>amiga #lang:ja,772
+#players:1 #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc88 #lang:en,773
+#players:1 #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc88 #lang:ja,774
+#players:1 #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc88 #lang:zh #unlicensed:bootleg,775
+#players:1 #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc98 #lang:ch #unlicensed:bootleg,776
+#players:1 #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc98 #lang:en,777
+#players:1 #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc98 #lang:ja,778
+#players:1 #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc98 #lang:zh #unlicensed:bootleg,779
+#players:1 #genre:sim>strategy #port:commodore>amiga #lang:en,780
+#players:1 #genre:sim>strategy #port:commodore>amiga #lang:en #unfinished:proto,781
+#players:1 #genre:sim>strategy #port:pc #lang:en #unfinished:proto>1,782
+#players:1 #genre:sim>strategy #port:pc #lang:en #unfinished:proto>2,783
+#players:1 #genre:sim>strategy #save:password #based #lang:de,784
+#players:1 #genre:sim>strategy #save:password #based #lang:en,785
+#players:1 #genre:sim>strategy #save:password #based #lang:en #unfinished:beta,786
+#players:1 #genre:sim>strategy #save:password #lang:en,787
+#players:1 #genre:sim>strategy #save:password #lang:en #unfinished:proto,788
+#players:1 #genre:sim>strategy #save:password #lang:ja,789
+#players:1 #genre:sim>strategy #save:password #port:commodore>amiga #lang:en,790
+#players:1 #genre:sim>strategy #save:password #port:commodore>amiga #lang:en #unfinished:beta,791
+#players:1 #genre:sim>strategy #save:password #port:commodore>amiga #lang:fr,792
+#players:1 #genre:sim>strategy #save:password #port:commodore>amiga #lang:ja,793
+#players:1 #genre:sim>strategy #save:password #port:pc #lang:en,794
+#players:1 #genre:sim>strategy #save:password #port:pc #lang:en:fr:de,795
+#players:1 #genre:sim>strategy:adventure:rpg #save:password #port:commodore>amiga #lang:en,796
+#players:1 #genre:sim>strategy:board #save:password #based #lang:en,797
+#players:1 #genre:sim>strategy>god #save:password #port:commodore>amiga #lang:en,798
+#players:1 #genre:sim>strategy>god #save:password #port:commodore>amiga #lang:en #unlicensed,799
+#players:1 #genre:sim>strategy>god #save:password #port:commodore>amiga #lang:ja,800
+#players:1 #genre:sim>train #based #lang:en,801
+#players:1 #genre:sports>baseball #addon:online>megamodem #save:backup #lang:ja,802
+#players:1 #genre:sports>basketball:action>runandgun #embedded:backup>eeprom #save:backup #port:arcade #based:movie #search:keyword>official #multigame:compilation>nbajamte>judgedredd #lang:en,803
+#players:1 #genre:sports>decathlon>archery #embedded:backup>eeprom #save:backup:password #port:pc #lang:en #unlicensed,804
+#players:1 #genre:sports>golf #embedded:backup>battery #save:backup #search:keyword>official #lang:en,805
+#players:1 #genre:sports>golf #save:password #search:keyword>endorsed #lang:en #unfinished:proto>1,806
+#players:1 #genre:sports>golf #save:password #search:keyword>endorsed #lang:en #unfinished:proto>2,807
+#players:1 #genre:sports>hockey #addon:health>catalyst #search:keyword>official #lang:en #unfinished:proto,808
+#players:12:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc88 #lang:en,809
+#players:12:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc88 #lang:ja,810
+#players:12:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc88 #reboxed:soundware #lang:ja,811
+#players:2:alt #genre:action #addon:mouse>md #port:arcade #lang:en,812
+#players:2:alt #genre:action #based:movie #lang:en,813
+#players:2:alt #genre:action #based:movie #lang:en #rev:a,814
+#players:2:alt #genre:action #based:movie #lang:en #unfinished:beta,815
+#players:2:alt #genre:action #port:arcade #lang:en,816
+#players:2:alt #genre:action #port:arcade #lang:en #rev:1,817
+#players:2:alt #genre:action #port:arcade #lang:en #unfinished:beta,818
+#players:2:alt #genre:action #port:arcade #lang:en:ja,819
+#players:2:alt #genre:action #port:commodore>amiga #lang:en,820
+#players:2:alt #genre:action #save:password #based:movie #port:nintendo>superfamicom #lang:en #unfinished:proto,821
+#players:2:alt #genre:action:minigames #based #lang:en,822
+#players:2:alt #genre:action:minigames #based #lang:en #unfinished:beta,823
+#players:2:alt #genre:action:minigames #based #lang:en #unfinished:proto,824
+#players:2:alt #genre:action:minigames #based #reboxed:majesco #lang:en,825
+#players:2:alt #genre:action:shmup>h #addon:controller>6button #port:arcade #multigame:compilation>defender>defender2>joust>robotron2084>sinistar #lang:en,826
+#players:2:alt #genre:action>maze #port:arcade #lang:en #rerelease:mdmini>2,827
+#players:2:alt #genre:action>maze #port:arcade #search:feature>pacman #lang:en,828
+#players:2:alt #genre:action>maze #port:nintendo>famicom #lang:en #unlicensed,829
+#players:2:alt #genre:action>maze #save:password #port:nintendo>famicom #lang:en #unlicensed,830
+#players:2:alt #genre:action>maze #search:feature>pacman #port:arcade #lang:en,831
+#players:2:alt #genre:action>platformer #addon:online>segachannel #port:arcade #lang:en #rev:a,832
+#players:2:alt #genre:action>platformer #based #lang:en,833
+#players:2:alt #genre:action>platformer #based #lang:en #unfinished:beta,834
+#players:2:alt #genre:action>platformer #lang:en,835
+#players:2:alt #genre:action>platformer #lang:en #unfinished:beta,836
+#players:2:alt #genre:action>platformer #port:arcade #lang:en,837
+#players:2:alt #genre:action>platformer #port:arcade #lang:en #rev:a,838
+#players:2:alt #genre:action>platformer #port:arcade #lang:ja,839
+#players:2:alt #genre:action>platformer #port:commodore>amiga #lang:en,840
+#players:2:alt #genre:action>platformer #port:commodore>amiga #lang:en #rev:1,841
+#players:2:alt #genre:action>platformer #port:nintendo>famicom>superfamicom #search:feature>mario #lang:en #unlicensed,842
+#players:2:alt #genre:action>platformer #port:nintendo>gameboy #lang:en,843
+#players:2:alt #genre:action>platformer #port:nintendo>gameboy #lang:en #unfinished:beta,844
+#players:2:alt #genre:action>platformer #save:password #lang:en,845
+#players:2:alt #genre:action>platformer #save:password #lang:en #unfinished:beta,846
+#players:2:alt #genre:action>platformer #save:password #port:nintendo>superfamicom #lang:en #unfinished:proto,847
+#players:2:alt #genre:action>platformer:shmup>h #lang:en,848
+#players:2:alt #genre:action>platformer>hackandslash #based:movie #lang:en,849
+#players:2:alt #genre:action>runandgun #based:movie #lang:en,850
+#players:2:alt #genre:action>runandgun #based:movie #lang:ja,851
+#players:2:alt #genre:action>runandgun #lang:en #unfinished:proto,852
+#players:2:alt #genre:action>runandgun>platformer #lang:en,853
+#players:2:alt #genre:parlor>pinball #lang:en,854
+#players:2:alt #genre:parlor>pinball #lang:en #unlicensed:bootleg,855
+#players:2:alt #genre:parlor>pinball #reboxed:megadrive4 #lang:pt,856
+#players:2:alt #genre:parlor>pinball #save:password #lang:en,857
+#players:2:alt #genre:parlor>pinball #save:password #port:nec>pcengine #lang:en,858
+#players:2:alt #genre:parlor>pinball #save:password #port:nec>pcengine #lang:en #unlicensed:bootleg,859
+#players:2:alt #genre:puzzle #port:commodore>amiga #lang:en,860
+#players:2:alt #genre:puzzle:action #save:password #port:commodore>amiga #lang:en,861
+#players:2:alt #genre:shmup>h #port:arcade #lang:en #rerelease:mdmini>2,862
+#players:2:alt #genre:shmup>i #port:arcade #lang:en,863
+#players:2:alt #genre:shmup>i #port:arcade #lang:en #unfinished:beta,864
+#players:2:alt #genre:shmup>v #port:commodore>amiga #lang:en,865
+#players:2:coop #genre:action #based #search:feature>batman #lang:en,866
+#players:2:coop #genre:action #based #search:feature>batman #lang:en #unfinished:beta,867
+#players:2:coop #genre:action #lang:en,868
+#players:2:coop #genre:action #lang:en #rev:a,869
+#players:2:coop #genre:action #lang:zh #unlicensed:clone,870
+#players:2:coop #genre:action #port:arcade #lang:en,871
+#players:2:coop #genre:action #port:arcade #lang:en #rev:a,872
+#players:2:coop #genre:action #port:arcade #lang:en #rev:b,873
+#players:2:coop #genre:action #save:password #port:arcade #lang:en,874
+#players:2:coop #genre:action:shmup>h #lang:en,875
+#players:2:coop #genre:action>blockbreaker #lang:en,876
+#players:2:coop #genre:action>blockbreaker #lang:en #unfinished:beta,877
+#players:2:coop #genre:action>hackandslash #lang:en,878
+#players:2:coop #genre:action>hackandslash #lang:ja,879
+#players:2:coop #genre:action>hackandslash #port:arcade #lang:en,880
+#players:2:coop #genre:action>hackandslash #port:arcade #lang:en #rerelease:3dfukkoku>2,881
+#players:2:coop #genre:action>hackandslash #port:arcade #lang:en #rev:a,882
+#players:2:coop #genre:action>hackandslash #port:arcade #lang:en #unfinished:beta,883
+#players:2:coop #genre:action>hackandslash #port:arcade #lang:en #unlicensed:bootleg,884
+#players:2:coop #genre:action>hackandslash #save:password #port:commodore>amiga #lang:en,885
+#players:2:coop #genre:action>hackandslash:action>runandgun>platformer #port:arcade #multigame:compilation>alexkiddtenkuumajou>juuouki>flicky>gunstarheroes #lang:en,886
+#players:2:coop #genre:action>maze #port:arcade #lang:en,887
+#players:2:coop #genre:action>maze #save:password #lang:en #unlicensed:clone,888
+#players:2:coop #genre:action>platformer #addon:controller>6button #save:password #lang:de,889
+#players:2:coop #genre:action>platformer #addon:controller>6button #save:password #lang:en,890
+#players:2:coop #genre:action>platformer #addon:controller>6button #save:password #lang:en #unfinished:beta,891
+#players:2:coop #genre:action>platformer #addon:controller>6button #save:password #port:nintendo>superfamicom #based:disney #search:feature>mickey #lang:en,892
+#players:2:coop #genre:action>platformer #addon:controller>6button #save:password #port:nintendo>superfamicom #based:disney #search:feature>mickey #lang:ja,893
+#players:2:coop #genre:action>platformer #addon:online>segachannel #save:password #based #lang:en,894
+#players:2:coop #genre:action>platformer #addon:online>segachannel:controller>6button #save:password #lang:en,895
+#players:2:coop #genre:action>platformer #based #lang:en,896
+#players:2:coop #genre:action>platformer #based #lang:en #unfinished:beta,897
+#players:2:coop #genre:action>platformer #based:disney #lang:en,898
+#players:2:coop #genre:action>platformer #based:disney #lang:en #unfinished:beta,899
+#players:2:coop #genre:action>platformer #based:manganime #lang:en #unlicensed:clone,900
+#players:2:coop #genre:action>platformer #based:marvel #search:feature>xmen #lang:en,901
+#players:2:coop #genre:action>platformer #based:marvel #search:feature>xmen #lang:en #unfinished:beta,902
+#players:2:coop #genre:action>platformer #based:marvel #search:feature>xmen #lang:en #unfinished:beta #alt,903
+#players:2:coop #genre:action>platformer #based:marvel #search:feature>xmen #reboxed:megahit #lang:en,904
+#players:2:coop #genre:action>platformer #based:movie #lang:en,905
+#players:2:coop #genre:action>platformer #based:movie #lang:en #unfinished:beta,906
+#players:2:coop #genre:action>platformer #embedded:slot>lockon:backup>feram #save:backup #search:feature>sonic #lang:en,907
+#players:2:coop #genre:action>platformer #embedded:slot>lockon:backup>feram #save:backup #search:feature>sonic #lang:en #rerelease:virtualconsole>wii,908
+#players:2:coop #genre:action>platformer #lang:en,909
+#players:2:coop #genre:action>platformer #lang:en #unlicensed,910
+#players:2:coop #genre:action>platformer #port:arcade #lang:en,911
+#players:2:coop #genre:action>platformer #port:arcade #lang:en #unlicensed:bootleg,912
+#players:2:coop #genre:action>platformer #port:nintendo>famicom #lang:en,913
+#players:2:coop #genre:action>platformer #save:password #based #lang:en,914
+#players:2:coop #genre:action>platformer #save:password #based #lang:en #unfinished:beta,915
+#players:2:coop #genre:action>platformer #save:password #based:disney #search:feature>mickey>donald #lang:en,916
+#players:2:coop #genre:action>platformer #save:password #based:disney #search:feature>mickey>donald #lang:en #unfinished:beta>2,917
+#players:2:coop #genre:action>platformer #save:password #based:disney #search:feature>mickey>donald #lang:en #unlicensed:bootleg,918
+#players:2:coop #genre:action>platformer #save:password #based:disney #search:feature>mickey>donald #lang:ja,919
+#players:2:coop #genre:action>platformer #save:password #based:disney #search:feature>mickey>donald #lang:ja #rev:1,920
+#players:2:coop #genre:action>platformer #save:password #based:disney #search:feature>mickey>donald #lang:ja #unfinished:beta>1,921
+#players:2:coop #genre:action>platformer #save:password #based:disney #search:feature>mickey>donald #reboxed:classicedition #lang:en,922
+#players:2:coop #genre:action>platformer #search:feature>mario #lang:en #unlicensed:clone,923
+#players:2:coop #genre:action>platformer #search:feature>sonic #lang:en #unfinished:proto,924
+#players:2:coop #genre:action>platformer:shmup>h #port:arcade #search:franchise>wonderboy #lang:en,925
+#players:2:coop #genre:action>runandgun #addon:controller>6button #lang:en,926
+#players:2:coop #genre:action>runandgun #addon:controller>6button #lang:en #rerelease:contraanniversary,927
+#players:2:coop #genre:action>runandgun #addon:controller>6button #lang:en #rerelease:mdmini>1,928
+#players:2:coop #genre:action>runandgun #addon:controller>6button #lang:en:fr:de,929
+#players:2:coop #genre:action>runandgun #addon:controller>6button #lang:en:fr:de #rerelease:contraanniversary,930
+#players:2:coop #genre:action>runandgun #addon:controller>6button #lang:en:fr:de #rerelease:mdmini>1,931
+#players:2:coop #genre:action>runandgun #addon:controller>6button #lang:ja,932
+#players:2:coop #genre:action>runandgun #addon:controller>6button #lang:ja #rerelease:contraanniversary,933
+#players:2:coop #genre:action>runandgun #addon:controller>6button #lang:ja #rerelease:mdmini>1,934
+#players:2:coop #genre:action>runandgun #based #lang:en,935
+#players:2:coop #genre:action>runandgun #based #lang:en #unfinished:beta,936
+#players:2:coop #genre:action>runandgun #lang:ch #unlicensed:bootleg,937
+#players:2:coop #genre:action>runandgun #lang:en,938
+#players:2:coop #genre:action>runandgun #lang:ja,939
+#players:2:coop #genre:action>runandgun #lang:ja #unfinished:sample,940
+#players:2:coop #genre:action>runandgun #port:arcade #lang:en,941
+#players:2:coop #genre:action>runandgun #port:arcade #lang:en #unfinished:beta,942
+#players:2:coop #genre:action>runandgun #port:commodore>amiga #lang:en #unfinished:proto,943
+#players:2:coop #genre:action>runandgun #save:password #lang:en,944
+#players:2:coop #genre:action>runandgun #save:password #lang:zh #unlicensed:hack,945
+#players:2:coop #genre:action>runandgun #save:password #port:commodore>amiga #lang:en,946
+#players:2:coop #genre:action>runandgun:shooting>rail #based:movie #port:nintendo>superfamicom #lang:en,947
+#players:2:coop #genre:action>runandgun:shooting>tps #save:password #based #lang:en,948
+#players:2:coop #genre:action>runandgun>platformer #based #lang:en,949
+#players:2:coop #genre:brawler #based #lang:en #unfinished:proto,950
+#players:2:coop #genre:brawler #based #lang:zh #unlicensed,951
+#players:2:coop #genre:brawler #based #port:nintendo>superfamicom #lang:en #unfinished:proto,952
+#players:2:coop #genre:brawler #based:manganime #port:arcade #lang:zh #unlicensed,953
+#players:2:coop #genre:brawler #based:marvel #port:arcade #lang:en,954
+#players:2:coop #genre:brawler #based:movie #lang:en,955
+#players:2:coop #genre:brawler #based:movie #lang:en #unfinished:beta,956
+#players:2:coop #genre:brawler #based:tmnt #lang:en,957
+#players:2:coop #genre:brawler #based:tmnt #lang:en #rerelease:cowabunga,958
+#players:2:coop #genre:brawler #based:tmnt #lang:ja,959
+#players:2:coop #genre:brawler #based:tmnt #lang:ja #rerelease:cowabunga,960
+#players:2:coop #genre:brawler #lang:en,961
+#players:2:coop #genre:brawler #lang:en #rerelease:virtualconsole>wii,962
+#players:2:coop #genre:brawler #lang:en #unfinished:beta,963
+#players:2:coop #genre:brawler #lang:en:ja,964
+#players:2:coop #genre:brawler #lang:en:ja #unlicensed:bootleg,965
+#players:2:coop #genre:brawler #lang:ja:en,966
+#players:2:coop #genre:brawler #lang:ja:en #rev:a,967
+#players:2:coop #genre:brawler #lang:zh #unlicensed:clone,968
+#players:2:coop #genre:brawler #port:arcade #lang:en,969
+#players:2:coop #genre:brawler #port:arcade #lang:en #rerelease:smashpack>1,970
+#players:2:coop #genre:brawler #port:arcade #lang:en #unfinished:beta,971
+#players:2:coop #genre:brawler #port:arcade #lang:en #unlicensed,972
+#players:2:coop #genre:brawler #port:arcade #reboxed:segaclassic #lang:en #rev:a,973
+#players:2:coop #genre:brawler #reboxed:segaclassic #lang:en:ja,974
+#players:2:coop #genre:brawler #save:password #based:marvel #search:feature>spiderman #lang:en,975
+#players:2:coop #genre:brawler:action>platformer:shmup>h #port:nintendo>famicom #lang:en,976
+#players:2:coop #genre:brawler:action>platformer:shmup>h #port:nintendo>famicom #reboxed #lang:en,977
+#players:2:coop #genre:brawler:shmup>h #based #lang:en,978
+#players:2:coop #genre:brawler:shmup>h #port:arcade #based:marvel #lang:en,979
+#players:2:coop #genre:brawler:shmup>h #port:arcade #based:marvel #lang:en #unfinished:beta,980
+#players:2:coop #genre:brawler:shmup>h #port:arcade #based:marvel #reboxed:classicedition #lang:en,981
+#players:2:coop #genre:puzzle #save:password #lang:en #unlicensed:clone,982
+#players:2:coop #genre:rpg>a #addon:controller>6button #embedded:backup>battery #save:backup #lang:de,983
+#players:2:coop #genre:rpg>a #addon:controller>6button #embedded:backup>battery #save:backup #lang:de #rerelease:mdmini>1,984
+#players:2:coop #genre:rpg>a #addon:controller>6button #embedded:backup>battery #save:backup #lang:en,985
+#players:2:coop #genre:rpg>a #addon:controller>6button #embedded:backup>battery #save:backup #lang:en #rerelease:mdmini>1,986
+#players:2:coop #genre:rpg>a #addon:controller>6button #embedded:backup>battery #save:backup #lang:en #unfinished:beta,987
+#players:2:coop #genre:rpg>a #addon:controller>6button #embedded:backup>battery #save:backup #lang:es,988
+#players:2:coop #genre:rpg>a #addon:controller>6button #embedded:backup>battery #save:backup #lang:es #rerelease:mdmini>1,989
+#players:2:coop #genre:rpg>a #addon:controller>6button #embedded:backup>battery #save:backup #lang:fr,990
+#players:2:coop #genre:rpg>a #addon:controller>6button #embedded:backup>battery #save:backup #lang:fr #rerelease:mdmini>1,991
+#players:2:coop #genre:rpg>a #addon:controller>6button #embedded:backup>battery #save:backup #lang:ja,992
+#players:2:coop #genre:rpg>a #addon:controller>6button #embedded:backup>battery #save:backup #lang:ko,993
+#players:2:coop #genre:rpg>a #save:password #lang:en,994
+#players:2:coop #genre:rpg>a #save:password #lang:ja,995
+#players:2:coop #genre:shmup>h #lang:en,996
+#players:2:coop #genre:shmup>h #lang:en #rerelease:segaages,997
+#players:2:coop #genre:shmup>h #lang:en #unfinished:beta>1,998
+#players:2:coop #genre:shmup>h #lang:en #unfinished:beta>2,999
+#players:2:coop #genre:shmup>h #lang:ja,1000
+#players:2:coop #genre:shmup>h #port:arcade #lang:en,1001
+#players:2:coop #genre:shmup>h #port:arcade #lang:en #rev:a,1002
+#players:2:coop #genre:shmup>i #addon:online>teleplay #lang:en #unfinished:proto #unlicensed,1003
+#players:2:coop #genre:shmup>v #lang:en #unlicensed,1004
+#players:2:coop #genre:shmup>v #port:arcade #lang:en,1005
+#players:2:coop #genre:shmup>v #port:arcade #lang:en #unfinished:beta,1006
+#players:2:coop #genre:shmup>v #port:commodore>amiga #lang:en,1007
+#players:2:coop #genre:shmup>v #port:commodore>amiga #lang:en #rev:1 #unfinished:proto,1008
+#players:2:coop #genre:shmup>v:action>runandgun #port:nintendo>superfamicom #lang:en,1009
+#players:2:coop #genre:shooting>fps #addon:link>linkup #lang:en #unfinished:proto,1010
+#players:2:coop #genre:shooting>gallery #addon:lightgun>justifier #port:arcade #lang:en,1011
+#players:2:coop #genre:shooting>gallery #addon:lightgun>justifier #port:arcade #lang:en #unfinished:beta,1012
+#players:2:coop #genre:shooting>gallery #addon:lightgun>menacer #based:movie #port:arcade #lang:en,1013
+#players:2:coop #genre:shooting>gallery #addon:lightgun>menacer #based:movie #port:arcade #lang:en #unfinished:beta,1014
+#players:2:coop #genre:shooting>gallery #addon:lightgun>menacer:mouse>md #lang:en,1015
+#players:2:coop #genre:shooting>gallery #addon:lightgun>menacer:mouse>md #lang:en #unfinished:beta,1016
+#players:2:coop #genre:shooting>gallery #addon:lightgun>menacer:mouse>md #lang:en:fr:de:es:it,1017
+#players:2:coop #genre:shooting>gallery #addon:lightgun>menacer:mouse>md #lang:en:fr:de:es:it #unfinished:beta,1018
+#players:2:coop #genre:shooting>gallery #search:keyword>endorsed #port:arcade #lang:en,1019
+#players:2:coop #genre:shooting>tps #lang:en,1020
+#players:2:coop:vs #genre:action #save:password #based:movie:jurassicpark #lang:en,1021
+#players:2:coop:vs #genre:action:brawler:puzzle>drop:racing:sports>soccer>motogp #port:arcade #multigame:compilation>columns>worldcupsoccer>superhangon>goldenaxe>bareknuckle>thesupershinobi #lang:en,1022
+#players:2:coop:vs #genre:action:fighting #addon:controller>6button #embedded:backup>battery #save:backup #lang:en #unfinished:beta>1,1023
+#players:2:coop:vs #genre:action:fighting #addon:controller>6button #embedded:backup>battery #save:backup #lang:en #unfinished:beta>2,1024
+#players:2:coop:vs #genre:action:fighting #embedded:backup>battery #save:backup #addon:controller>6button #lang:en,1025
+#players:2:coop:vs #genre:action>hackandslash #addon:controller>6button #based:movie #search:feature>batman #lang:en,1026
+#players:2:coop:vs #genre:action>maze #port:atari>lynx #lang:en,1027
+#players:2:coop:vs #genre:action>platformer #addon:online>segachannel #embedded:backup>feram #save:backup #search:feature>sonic #lang:en,1028
+#players:2:coop:vs #genre:action>platformer #embedded:backup>feram #save:backup #search:feature>sonic #lang:en,1029
+#players:2:coop:vs #genre:action>platformer #embedded:backup>feram #save:backup #search:feature>sonic #lang:en #rerelease:sonicclassic,1030
+#players:2:coop:vs #genre:action>platformer #embedded:backup>feram #save:backup #search:feature>sonic #lang:en #unfinished:proto,1031
+#players:2:coop:vs #genre:action>platformer #embedded:backup>feram #save:backup #search:feature>sonic #reboxed:megahit #lang:en,1032
+#players:2:coop:vs #genre:action>platformer #embedded:slot>lockon #search:feature>sonic #lang:en,1033
+#players:2:coop:vs #genre:action>platformer #embedded:slot>lockon #search:feature>sonic #lang:en #rerelease:sonicclassic,1034
+#players:2:coop:vs #genre:action>platformer #embedded:slot>lockon #search:feature>sonic #lang:en #unfinished:beta,1035
+#players:2:coop:vs #genre:action>platformer #search:feature>sonic #lang:en,1036
+#players:2:coop:vs #genre:action>platformer #search:feature>sonic #lang:en #rerelease:sonicclassic,1037
+#players:2:coop:vs #genre:action>platformer #search:feature>sonic #lang:en #rerelease:sonicmegacollection,1038
+#players:2:coop:vs #genre:action>platformer #search:feature>sonic #lang:en #rev:a,1039
+#players:2:coop:vs #genre:action>platformer #search:feature>sonic #lang:en #rev:b,1040
+#players:2:coop:vs #genre:action>platformer #search:feature>sonic #lang:en #unfinished:beta,1041
+#players:2:coop:vs #genre:action>platformer #search:feature>sonic #lang:en #unfinished:beta #alt,1042
+#players:2:coop:vs #genre:action>platformer:brawler:action:puzzle>drop:racing:sports>motogp #multigame:compilation>sonicthehedgehog>goldenaxe>thesupershinobi>bareknuckle>columns>superhangon #search:feature>spiderman #lang:en,1043
+#players:2:coop:vs #genre:action>platformer:brawler:puzzle>drop #multigame:compilation>sonicthehedgehog>juuouki>puyopuyo>flicky>goldenaxe>kidchameleon #port:arcade #search:feature>sonic #lang:en,1044
+#players:2:coop:vs #genre:action>platformer:brawler:puzzle>drop:racing:sports>formula1 #multigame:compilation>worldcupsoccer>supermonacogp>columns>thesupershinobi>sonicthehedgehog>bareknuckle #search:feature>sonic #lang:en,1045
+#players:2:coop:vs #genre:action>runandgun #port:arcade #lang:en,1046
+#players:2:coop:vs #genre:brawler #addon:controller>6button>activator #lang:en,1047
+#players:2:coop:vs #genre:brawler #addon:controller>6button>activator #lang:en #rev:a #unfinished:proto,1048
+#players:2:coop:vs #genre:brawler #addon:controller>6button>activator #lang:en #unfinished:beta,1049
+#players:2:coop:vs #genre:brawler #addon:controller>6button>activator #lang:ja,1050
+#players:2:coop:vs #genre:brawler #addon:controller>6button>activator #lang:ja #unfinished:beta,1051
+#players:2:coop:vs #genre:brawler #lang:en,1052
+#players:2:coop:vs #genre:brawler #lang:en:ja,1053
+#players:2:coop:vs #genre:brawler #lang:en:ja #rerelease:mdmini>1,1054
+#players:2:coop:vs #genre:brawler #lang:ja #unfinished:beta,1055
+#players:2:coop:vs #genre:brawler #lang:ja:en,1056
+#players:2:coop:vs #genre:brawler:action #port:arcade #multigame:compilation>goldenaxe>bareknuckle>thesupershinobi #lang:en,1057
+#players:2:coop:vs #genre:brawler:shooting>gallery:action>runandgun #port:arcade #lang:en,1058
+#players:2:coop:vs #genre:brawler:shooting>gallery:action>runandgun #port:arcade #rerelease:mdclassics>3,1059
+#players:2:coop:vs #genre:brawler:shooting>rail:racing:sports>formula1>motogp>soccer:puzzle>drop #port:arcade #multigame:compilation>worldcupsoccer>alienstorm>supermonacogp>superthunderblade>superhangon>columns #lang:en,1060
+#players:2:coop:vs #genre:brawler:shooting>rail:sports>formula1 #port:arcade #multigame:compilation>superthunderblade>supermonacogp>alienstorm #lang:en,1061
+#players:2:coop:vs #genre:puzzle>drop #addon:online>megamodem>toshokan #search:feature>sonic #lang:ja,1062
+#players:2:coop:vs #genre:puzzle>drop:action>platformer:brawler:racing:sports>soccer>formula1 #multigame:compilation>superhangon>goldenaxe>columns>sonicthehedgehog>bareknuckle>thesupershinobi>californiagames>worldcupsoccer>supermonacogp>flicky #search:feature>sonic #lang:en,1063
+#players:2:coop:vs #genre:racing>combat #lang:en,1064
+#players:2:coop:vs #genre:racing>combat #lang:en #unfinished:beta,1065
+#players:2:coop:vs #genre:sports>baseball #embedded:backup>battery #save:backup #search:keyword>endorsed>official #lang:en,1066
+#players:2:coop:vs #genre:sports>basketball #save:password #lang:en,1067
+#players:2:coop:vs #genre:sports>basketball #save:password #lang:ja,1068
+#players:2:coop:vs #genre:sports>basketball #save:password #search:keyword>official #lang:en,1069
+#players:2:coop:vs #genre:sports>basketball #save:password #search:keyword>official #lang:en #unlicensed:bootleg,1070
+#players:2:coop:vs #genre:sports>basketball #save:password #search:keyword>official #lang:ja,1071
+#players:2:coop:vs #genre:sports>basketball #search:keyword>endorsed #lang:en #unfinished:proto,1072
+#players:2:coop:vs #genre:sports>football #embedded:backup>eeprom #save:backup #search:keyword>endorsed #lang:en,1073
+#players:2:coop:vs #genre:sports>football #embedded:backup>eeprom #save:backup #search:keyword>endorsed #lang:en #rev:a,1074
+#players:2:coop:vs #genre:sports>football #port:arcade #lang:en,1075
+#players:2:coop:vs #genre:sports>soccer #embedded:backup>battery #save:backup #lang:en,1076
+#players:2:coop:vs #genre:sports>soccer #port:commodore>amiga #lang:en:fr:de:es:it,1077
+#players:2:coop:vs #genre:sports>soccer #save:password #port:commodore>amiga #lang:en #unfinished:beta,1078
+#players:2:coop:vs #genre:sports>tennis #addon:controller>6button #search:keyword>official #port:commodore>amiga #lang:en,1079
+#players:2:coop:vs #genre:sports>tennis #addon:controller>6button #search:keyword>official #port:commodore>amiga #lang:en #unfinished:beta,1080
+#players:2:coop:vs #genre:sports>tennis #addon:controller>6button #search:keyword>official #port:commodore>amiga #lang:ja,1081
+#players:2:coop:vs #genre:sports>tennis #embedded:backup>eeprom #save:backup #search:keyword>endorsed #lang:en #rev:2,1082
+#players:2:coop:vs #genre:sports>tennis #search:keyword>endorsed #lang:en,1083
+#players:2:coop:vs #genre:sports>tennis #search:keyword>endorsed #lang:en #unfinished:beta,1084
+#players:2:coop:vs #genre:sports>volleyball>soccer>basketball #multigame:compilation>supervolleyball>worldchampionshipsoccer2>superrealbasketball #lang:en,1085
+#players:2:vs #genre:action #addon:online>megamodem>toshokan #lang:ja,1086
+#players:2:vs #genre:action #addon:online>megamodem>toshokan #lang:ja #rerelease:gamenokanzume>1,1087
+#players:2:vs #genre:action #addon:online>segachannel #reboxed:gamenokanzume #lang:ja,1088
+#players:2:vs #genre:action #lang:ja #rerelease:mdmini>2,1089
+#players:2:vs #genre:action #reboxed:megadrive4 #lang:pt,1090
+#players:2:vs #genre:action #save:password #port:commodore>amiga #lang:en,1091
+#players:2:vs #genre:action:fighting #port:sharp>x68000 #lang:en,1092
+#players:2:vs #genre:action:puzzle:sports #lang:en,1093
+#players:2:vs #genre:action:shooting>gallery #port:arcade:sega>gamegear #multigame:compilation>centipede>ultrapong>missilecommand #lang:en,1094
+#players:2:vs #genre:action:sim>strategy #embedded:backup>battery #save:backup #port:commodore>amiga #lang:en,1095
+#players:2:vs #genre:action:sim>strategy #embedded:backup>battery #save:backup #port:commodore>amiga #lang:en #unfinished:beta,1096
+#players:2:vs #genre:action:sim>strategy #embedded:backup>battery #save:backup #port:commodore>amiga #lang:en #unfinished:proto,1097
+#players:2:vs #genre:action:sports #reboxed:megadrive4 #lang:pt,1098
+#players:2:vs #genre:action:sports #reboxed:reactor #lang:en,1099
+#players:2:vs #genre:action:sports>soccer #port:commodore>amiga #lang:en,1100
+#players:2:vs #genre:action:sports>soccer #port:commodore>amiga #lang:en #unfinished:beta,1101
+#players:2:vs #genre:action:sports>soccer>football #lang:en,1102
+#players:2:vs #genre:action:sports>soccer>football #search:feature>pacman #lang:en,1103
+#players:2:vs #genre:action>maze #reboxed:gopher #lang:en,1104
+#players:2:vs #genre:action>maze #reboxed:megadrive4 #lang:pt,1105
+#players:2:vs #genre:action>maze #reboxed:reactor #lang:en,1106
+#players:2:vs #genre:action>platformer #based #lang:en,1107
+#players:2:vs #genre:action>platformer:puzzle:sports>golf #addon:online>segachannel #multigame:compilation>16t>flicky>puttergolf>hypermarbles>shinomeikyuu>medalcity>paddlefighter>ikasuzekoinodokidokipenguinlandmd>pyramidmagic>robotbattler>teddyboyblues>aworgherointhesky>kissshot #lang:ja,1108
+#players:2:vs #genre:action>platformer:puzzle>drop #search:feature>sonic #multigame:compilation>sonicthehedgehog>sonicthehedgehog2>puyopuyo #lang:en,1109
+#players:2:vs #genre:action>platformer:puzzle>drop #search:feature>sonic #multigame:compilation>sonicthehedgehog>sonicthehedgehog2>puyopuyo #lang:en #rev:a,1110
+#players:2:vs #genre:action>platformer:racing #lang:en,1111
+#players:2:vs #genre:action>platformer:racing #lang:en #unfinished:beta,1112
+#players:2:vs #genre:action>platformer:racing #lang:en #unfinished:proto,1113
+#players:2:vs #genre:adventure:parlor>jackpot:board>cards #lang:zh #unlicensed,1114
+#players:2:vs #genre:adventure:sports>golf #save:password #lang:ja,1115
+#players:2:vs #genre:board #based #lang:en #unfinished:proto,1116
+#players:2:vs #genre:board #reboxed:megadrive4 #lang:pt,1117
+#players:2:vs #genre:board>chess #addon:online>segachannel #port:nintendo>famicom #lang:en,1118
+#players:2:vs #genre:board>go #addon:online>megamodem #lang:ja,1119
+#players:2:vs #genre:board>mahjong #addon:online>megamodem #lang:ja,1120
+#players:2:vs #genre:brawler:fighting #lang:en,1121
+#players:2:vs #genre:brawler:fighting #lang:en #unfinished:beta,1122
+#players:2:vs #genre:fighting #addon:controller>6button #based #lang:en,1123
+#players:2:vs #genre:fighting #addon:controller>6button #based #lang:en #unfinished:proto,1124
+#players:2:vs #genre:fighting #addon:controller>6button #based #lang:en #unfinished:proto #alt,1125
+#players:2:vs #genre:fighting #addon:controller>6button #based #search:feature>batman>superman #lang:en,1126
+#players:2:vs #genre:fighting #addon:controller>6button #based:manganime #lang:fr,1127
+#players:2:vs #genre:fighting #addon:controller>6button #based:manganime #lang:ja,1128
+#players:2:vs #genre:fighting #addon:controller>6button #based:manganime #reboxed #lang:ja,1129
+#players:2:vs #genre:fighting #addon:controller>6button #lang:en #unfinished:proto #unlicensed:bootleg,1130
+#players:2:vs #genre:fighting #addon:controller>6button #port:arcade #lang:en,1131
+#players:2:vs #genre:fighting #addon:controller>6button #port:arcade #lang:en #rev:a #unfinished:proto,1132
+#players:2:vs #genre:fighting #addon:controller>6button #port:arcade #lang:en #unfinished:beta,1133
+#players:2:vs #genre:fighting #addon:controller>6button #port:arcade #lang:en #unfinished:beta #alt,1134
+#players:2:vs #genre:fighting #addon:controller>6button #port:arcade #lang:ja,1135
+#players:2:vs #genre:fighting #addon:controller>6button #port:arcade:nintendo>superfamicom #lang:en,1136
+#players:2:vs #genre:fighting #addon:controller>6button #port:arcade:nintendo>superfamicom #lang:en #rerelease:virtualconsole>wii,1137
+#players:2:vs #genre:fighting #addon:controller>6button #port:arcade:nintendo>superfamicom #lang:ja,1138
+#players:2:vs #genre:fighting #addon:controller>6button #port:arcade:nintendo>superfamicom #lang:ja #rerelease:virtualconsole>wii,1139
+#players:2:vs #genre:fighting #addon:controller>6button #port:commodore>amiga #lang:en,1140
+#players:2:vs #genre:fighting #addon:controller>6button #port:nintendo>superfamicom #lang:en,1141
+#players:2:vs #genre:fighting #addon:controller>6button #save:password #lang:en,1142
+#players:2:vs #genre:fighting #addon:controller>6button #save:password #lang:en:fr:de,1143
+#players:2:vs #genre:fighting #addon:controller>6button #search:keyword>endorsed #lang:en,1144
+#players:2:vs #genre:fighting #addon:controller>6button:online>xband #port:arcade #lang:en,1145
+#players:2:vs #genre:fighting #addon:controller>6button:online>xband #port:arcade #lang:en #unfinished:beta,1146
+#players:2:vs #genre:fighting #addon:controller>6button:online>xband #port:arcade #lang:en #unlicensed:bootleg,1147
+#players:2:vs #genre:fighting #addon:controller>6button:online>xband #port:arcade:nintendo>superfamicom #lang:en,1148
+#players:2:vs #genre:fighting #addon:controller>6button:online>xband #port:arcade:nintendo>superfamicom #lang:en #rerelease:virtualconsole>wii,1149
+#players:2:vs #genre:fighting #addon:controller>6button:online>xband #port:arcade:nintendo>superfamicom #lang:ja,1150
+#players:2:vs #genre:fighting #addon:controller>6button:online>xband #port:arcade:nintendo>superfamicom #lang:ja #rerelease:virtualconsole>wii,1151
+#players:2:vs #genre:fighting #addon:controller>6button:online>xband #save:password #port:nintendo>superfamicom #lang:en,1152
+#players:2:vs #genre:fighting #addon:controller>6button>activator #lang:en,1153
+#players:2:vs #genre:fighting #addon:controller>6button>activator #lang:en #unfinished:beta,1154
+#players:2:vs #genre:fighting #addon:controller>6button>activator #reboxed #lang:en,1155
+#players:2:vs #genre:fighting #addon:controller>6button>activator #reboxed:classicedition #lang:en,1156
+#players:2:vs #genre:fighting #addon:controller>6button>activator #reboxed:megahit #lang:en,1157
+#players:2:vs #genre:fighting #addon:online>segachannel:controller>6button #port:arcade #lang:en #unfinished:demo,1158
+#players:2:vs #genre:fighting #based #lang:en,1159
+#players:2:vs #genre:fighting #based #lang:en #unfinished:beta,1160
+#players:2:vs #genre:fighting #based #reboxed #lang:en #alt,1161
+#players:2:vs #genre:fighting #based #reboxed:megahit #lang:en,1162
+#players:2:vs #genre:fighting #based:manganime #lang:zh #unlicensed,1163
+#players:2:vs #genre:fighting #based:manganime #port:sony>playstation #lang:zh #unlicensed,1164
+#players:2:vs #genre:fighting #based:tmnt #lang:en,1165
+#players:2:vs #genre:fighting #based:tmnt #lang:en #rerelease:cowabunga,1166
+#players:2:vs #genre:fighting #lang:en,1167
+#players:2:vs #genre:fighting #lang:en #unfinished:beta>1,1168
+#players:2:vs #genre:fighting #lang:en #unfinished:beta>2,1169
+#players:2:vs #genre:fighting #lang:en #unlicensed,1170
+#players:2:vs #genre:fighting #lang:en #unlicensed:clone,1171
+#players:2:vs #genre:fighting #lang:zh #unlicensed:clone,1172
+#players:2:vs #genre:fighting #port:arcade #lang:en,1173
+#players:2:vs #genre:fighting #port:arcade #lang:en #unfinished:beta,1174
+#players:2:vs #genre:fighting #port:arcade #lang:en #unlicensed,1175
+#players:2:vs #genre:fighting #port:arcade #lang:en #unlicensed #alt,1176
+#players:2:vs #genre:fighting #port:arcade #lang:en #unlicensed:bootleg,1177
+#players:2:vs #genre:fighting #port:arcade #lang:en:ja,1178
+#players:2:vs #genre:fighting #port:arcade #lang:en:ja #unfinished:beta,1179
+#players:2:vs #genre:fighting #port:arcade #lang:ja,1180
+#players:2:vs #genre:fighting #port:arcade #lang:zh #unlicensed,1181
+#players:2:vs #genre:fighting #port:arcade #lang:zh #unlicensed #alt,1182
+#players:2:vs #genre:fighting #port:nintendo>superfamicom #based #lang:en #unlicensed,1183
+#players:2:vs #genre:fighting #port:pc #lang:en,1184
+#players:2:vs #genre:fighting #port:pc #lang:en #unfinished:beta,1185
+#players:2:vs #genre:fighting #save:password #lang:en,1186
+#players:2:vs #genre:fighting:action #addon:controller>6button #port:arcade #multigame:compilation>streetfighter2dashce>daimakaimura #lang:en,1187
+#players:2:vs #genre:fighting:rhythm>karaoke #addon:controller>6button #port:arcade #lang:ja,1188
+#players:2:vs #genre:fighting:sports>boxing #addon:controller>6button>activator #embedded:backup>eeprom #save:backup #search:keyword>endorsed #lang:en,1189
+#players:2:vs #genre:fighting:sports>boxing #embedded:backup>eeprom #save:backup #search:keyword>endorsed #lang:en,1190
+#players:2:vs #genre:fighting:sports>boxing #port:arcade #lang:en,1191
+#players:2:vs #genre:fighting:sports>boxing #port:arcade #lang:en #unfinished:beta,1192
+#players:2:vs #genre:fighting:sports>boxing #port:arcade #search:keyword>endorsed #lang:en,1193
+#players:2:vs #genre:fighting:sports>boxing #port:arcade #search:keyword>endorsed #reboxed:segaclassic #lang:en,1194
+#players:2:vs #genre:fighting:sports>boxing #save:password #lang:en,1195
+#players:2:vs #genre:fighting:sports>boxing #save:password #search:keyword>brand #lang:en,1196
+#players:2:vs #genre:fighting:sports>boxing #save:password #search:keyword>endorsed #lang:en,1197
+#players:2:vs #genre:fighting:sports>boxing #save:password #search:keyword>endorsed #lang:en #unfinished:beta>1,1198
+#players:2:vs #genre:fighting:sports>boxing #save:password #search:keyword>endorsed #lang:en #unfinished:beta>2,1199
+#players:2:vs #genre:fighting:sports>boxing #save:password #search:keyword>endorsed #lang:es,1200
+#players:2:vs #genre:fighting:sports>boxing #save:password #search:keyword>endorsed>brand #lang:en,1201
+#players:2:vs #genre:fighting:sports>karate>kendo #port:commodore>amiga #lang:en,1202
+#players:2:vs #genre:fighting:sports>karate>kendo #port:commodore>amiga #lang:en #unfinished:proto,1203
+#players:2:vs #genre:fighting:sports>karate>kendo #port:commodore>amiga #lang:en #unlicensed,1204
+#players:2:vs #genre:fighting:sports>kickboxing #addon:controller>activator #port:commodore>amiga #lang:en,1205
+#players:2:vs #genre:fighting:sports>kickboxing #addon:controller>activator #port:commodore>amiga #lang:en #unfinished:proto,1206
+#players:2:vs #genre:fighting:sports>sumo #save:password #port:sega>gamegear #based:manganime #lang:ja,1207
+#players:2:vs #genre:fighting:sports>wrestling #addon:controller>6button #search:keyword>official #port:arcade #lang:en,1208
+#players:2:vs #genre:fighting:sports>wrestling #addon:controller>6button #search:keyword>official #port:arcade #lang:en #unfinished:beta,1209
+#players:2:vs #genre:fighting:sports>wrestling #lang:ja,1210
+#players:2:vs #genre:fighting:sports>wrestling #port:arcade #lang:en,1211
+#players:2:vs #genre:fighting:sports>wrestling #port:arcade #lang:en #unfinished:beta,1212
+#players:2:vs #genre:fighting:sports>wrestling #port:arcade #lang:ja,1213
+#players:2:vs #genre:fighting:sports>wrestling #port:arcade #reboxed:classicedition #lang:en,1214
+#players:2:vs #genre:fighting:sports>wrestling #save:password #lang:en,1215
+#players:2:vs #genre:fighting:sports>wrestling #save:password #lang:ja,1216
+#players:2:vs #genre:fighting:sports>wrestling #save:password #lang:ja #unfinished:beta,1217
+#players:2:vs #genre:fighting:sports>wrestling #search:keyword>endorsed #lang:en #unfinished:proto,1218
+#players:2:vs #genre:fighting:sports>wrestling #search:keyword>endorsed #lang:ja,1219
+#players:2:vs #genre:fighting:sports>wrestling #search:keyword>official #lang:en,1220
+#players:2:vs #genre:parlor>billiards #addon:mouse>md #port:commodore>amiga #search:keyword>endorsed #lang:en,1221
+#players:2:vs #genre:parlor>billiards #addon:online>megamodem>toshokan #lang:ja,1222
+#players:2:vs #genre:parlor>billiards #port:arcade #lang:en,1223
+#players:2:vs #genre:parlor>billiards #port:arcade #lang:ja,1224
+#players:2:vs #genre:parlor>billiards #search:keyword>endorsed #lang:en,1225
+#players:2:vs #genre:puzzle #addon:mouse>md #lang:en,1226
+#players:2:vs #genre:puzzle #addon:mouse>md #lang:en #unfinished:beta,1227
+#players:2:vs #genre:puzzle #lang:ja,1228
+#players:2:vs #genre:puzzle #port:pc:arcade #lang:en,1229
+#players:2:vs #genre:puzzle:action #save:password #port:commodore>amiga #lang:en,1230
+#players:2:vs #genre:puzzle>drop #addon:online>segachannel #port:arcade #lang:ja:en,1231
+#players:2:vs #genre:puzzle>drop #port:arcade #lang:en,1232
+#players:2:vs #genre:puzzle>drop #port:arcade #lang:en #rerelease:mdmini>2,1233
+#players:2:vs #genre:puzzle>drop #port:arcade #lang:en #rerelease:segaages>2500,1234
+#players:2:vs #genre:puzzle>drop #port:arcade #lang:en #unfinished:beta,1235
+#players:2:vs #genre:puzzle>drop #port:arcade #lang:ja,1236
+#players:2:vs #genre:puzzle>drop #port:arcade #lang:ja #rerelease:mdmini>2,1237
+#players:2:vs #genre:puzzle>drop #port:arcade #lang:ja #rerelease:virtualconsole>wii,1238
+#players:2:vs #genre:puzzle>drop #port:arcade #lang:ja #rev:a,1239
+#players:2:vs #genre:puzzle>drop #port:arcade #lang:ja:en,1240
+#players:2:vs #genre:puzzle>drop #port:arcade #reboxed:segaclassic #lang:ja:en,1241
+#players:2:vs #genre:puzzle>drop #port:elektronika60:arcade #lang:ja,1242
+#players:2:vs #genre:puzzle>drop #port:elektronika60:arcade #lang:ja #rerelease:mdmini>1,1243
+#players:2:vs #genre:puzzle>drop #port:nintendo>superfamicom #lang:en #unfinished:proto,1244
+#players:2:vs #genre:puzzle>drop #save:password #port:arcade #based #lang:en,1245
+#players:2:vs #genre:puzzle>drop #save:password #port:arcade #based #lang:en #unfinished:beta>1,1246
+#players:2:vs #genre:puzzle>drop #save:password #port:arcade #based #lang:en #unfinished:beta>2,1247
+#players:2:vs #genre:puzzle>drop #save:password #port:arcade #based #reboxed #lang:en,1248
+#players:2:vs #genre:puzzle>drop #save:password #port:msx>2:arcade #lang:ja,1249
+#players:2:vs #genre:puzzle>drop #save:password #search:feature>pacman #lang:en,1250
+#players:2:vs #genre:puzzle>drop #search:keyword>strip #port:nintendo>famicom #lang:en #unlicensed,1251
+#players:2:vs #genre:puzzle>drop:sports>soccer>motogp #port:arcade #multigame:compilation>columns>superhangon>worldcupsoccer #lang:en,1252
+#players:2:vs #genre:puzzle>drop:sports>soccer>motogp #port:arcade #multigame:compilation>superhangon>worldcupsoccer>columns #lang:en,1253
+#players:2:vs #genre:quiz #addon:online>megamodem>toshokan #lang:ja,1254
+#players:2:vs #genre:quiz #based #lang:en,1255
+#players:2:vs #genre:racing #addon:multitap>segatap #based #lang:en #unfinished:beta,1256
+#players:2:vs #genre:racing #based #port:nintendo>famicom #lang:en,1257
+#players:2:vs #genre:racing #based #port:nintendo>famicom #lang:en #alt,1258
+#players:2:vs #genre:racing #based #port:nintendo>famicom #lang:en #alt:2,1259
+#players:2:vs #genre:racing #based #port:nintendo>famicom #lang:en #rev:1,1260
+#players:2:vs #genre:racing #lang:en,1261
+#players:2:vs #genre:racing #lang:en #unfinished:beta,1262
+#players:2:vs #genre:racing #port:arcade #lang:en,1263
+#players:2:vs #genre:racing #port:arcade #lang:en #unlicensed,1264
+#players:2:vs #genre:racing #port:arcade #reboxed:videogameclassics #lang:en #unlicensed,1265
+#players:2:vs #genre:racing #port:arcade #search:feature>sonic #lang:en,1266
+#players:2:vs #genre:racing #save:password #lang:en,1267
+#players:2:vs #genre:racing #save:password #lang:en:fr:de:es:pt,1268
+#players:2:vs #genre:racing #save:password #port:arcade #lang:en,1269
+#players:2:vs #genre:racing #save:password #search:keyword>brand #port:commodore>amiga #lang:en,1270
+#players:2:vs #genre:racing #save:password #search:keyword>brand #port:commodore>amiga #lang:en #unfinished:beta,1271
+#players:2:vs #genre:racing #save:password #search:keyword>brand #port:commodore>amiga #reboxed:eaclassics #lang:en,1272
+#players:2:vs #genre:racing #search:keyword>brand #port:commodore>amiga #lang:en,1273
+#players:2:vs #genre:racing #search:keyword>endorsed>official #port:arcade #lang:en #unfinished:proto,1274
+#players:2:vs #genre:racing:action>platformer:sports>soccer>formula1 #multigame:compilation>superthunderblade>worldcupsoccer>flicky>supermonacogp>shadowdancerthesecretofshinobi #lang:en,1275
+#players:2:vs #genre:racing:sports>formula1 #addon:controller>6button #embedded:chip>svp #port:arcade #lang:en,1276
+#players:2:vs #genre:racing:sports>formula1 #addon:controller>6button #embedded:chip>svp #port:arcade #lang:en #unfinished:beta,1277
+#players:2:vs #genre:racing:sports>formula1 #addon:controller>xe1ap #embedded:backup>battery #save:backup #lang:ja,1278
+#players:2:vs #genre:racing:sports>formula1 #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1279
+#players:2:vs #genre:racing:sports>formula1 #port:arcade #lang:en:ja,1280
+#players:2:vs #genre:racing:sports>formula1 #port:arcade #reboxed:megahit #lang:en:ja #rev:a,1281
+#players:2:vs #genre:racing:sports>formula1 #port:arcade #reboxed:segaclassic #lang:en:ja,1282
+#players:2:vs #genre:racing:sports>formula1 #save:password #search:keyword>brand #lang:en,1283
+#players:2:vs #genre:racing:sports>formula1 #save:password #search:keyword>endorsed #lang:en,1284
+#players:2:vs #genre:racing:sports>formula1 #save:password #search:keyword>endorsed #lang:en #unlicensed:bootleg,1285
+#players:2:vs #genre:racing:sports>formula1 #save:password #search:keyword>endorsed>official #lang:en,1286
+#players:2:vs #genre:racing:sports>formula1 #save:password #search:keyword>official #lang:en,1287
+#players:2:vs #genre:racing:sports>formula1 #save:password #search:keyword>official #lang:en #unfinished:beta,1288
+#players:2:vs #genre:racing:sports>formula1 #save:password #search:keyword>official #lang:en #unfinished:proto>1,1289
+#players:2:vs #genre:racing:sports>formula1 #save:password #search:keyword>official #lang:en #unfinished:proto>2,1290
+#players:2:vs #genre:racing:sports>formula1 #save:password #search:keyword>official>brand>endorsed #lang:en,1291
+#players:2:vs #genre:racing:sports>formula1>nascar #save:password #search:keyword>endorsed #lang:en,1292
+#players:2:vs #genre:racing:sports>motogp #save:password #search:keyword>brand #lang:en,1293
+#players:2:vs #genre:racing:sports>motogp #save:password #search:keyword>brand #lang:en #unfinished:beta,1294
+#players:2:vs #genre:racing:sports>nascar #embedded:backup>battery #save:backup #based #lang:en,1295
+#players:2:vs #genre:racing:sports>nascar #embedded:backup>battery #save:backup #based #lang:en #unfinished:beta,1296
+#players:2:vs #genre:racing>combat #lang:en,1297
+#players:2:vs #genre:racing>combat #lang:en #rerelease:mdmini>1,1298
+#players:2:vs #genre:racing>combat #lang:en #unfinished:beta,1299
+#players:2:vs #genre:racing>combat #lang:ja,1300
+#players:2:vs #genre:racing>combat #lang:ja #rerelease:mdmini>1,1301
+#players:2:vs #genre:racing>combat #port:arcade #lang:en #unfinished:proto,1302
+#players:2:vs #genre:racing>combat #reboxed:eaclassics #lang:en,1303
+#players:2:vs #genre:racing>combat #save:password #based #lang:en:fr:de:es #unfinished:proto,1304
+#players:2:vs #genre:racing>combat #save:password #lang:en,1305
+#players:2:vs #genre:racing>combat #save:password #lang:ja,1306
+#players:2:vs #genre:racing>combat #save:password #port:nintendo>superfamicom #lang:en,1307
+#players:2:vs #genre:shmup #lang:en #unfinished:proto,1308
+#players:2:vs #genre:shooting>fps #addon:link>linkup #lang:en,1309
+#players:2:vs #genre:shooting>fps #addon:link>linkup #lang:en #rev:a,1310
+#players:2:vs #genre:shooting>fps #lang:en:fr:de:es,1311
+#players:2:vs #genre:sim:adventure:sports>soccer #save:password #port:nintendo>famicom #lang:en #unfinished:proto,1312
+#players:2:vs #genre:sim:fighting #based:manganime #port:nintendo>superfamicom #lang:en #unlicensed,1313
+#players:2:vs #genre:sim:sports>football #search:keyword>endorsed #lang:en #unlicensed,1314
+#players:2:vs #genre:sim:sports>football #search:keyword>endorsed #reboxed:videogameclassics #lang:en #unlicensed,1315
+#players:2:vs #genre:sim:sports>soccer #embedded:backup>battery #save:backup #lang:en,1316
+#players:2:vs #genre:sim:sports>soccer #embedded:backup>battery #save:backup #port:commodore>amiga #lang:en,1317
+#players:2:vs #genre:sim>strategy #addon:controller>6button #save:password #lang:ja,1318
+#players:2:vs #genre:sim>strategy #addon:controller>6button:online>segachannel #save:password #lang:ja #rerelease:virtualconsole>wii,1319
+#players:2:vs #genre:sim>strategy #addon:mouse>md #save:password #port:commodore>amiga #lang:en,1320
+#players:2:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc88 #lang:ch #unlicensed:bootleg,1321
+#players:2:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc88 #lang:en,1322
+#players:2:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc88 #lang:ja,1323
+#players:2:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc88 #lang:zh #unlicensed:bootleg,1324
+#players:2:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc88:sharp>x68000 #lang:ja,1325
+#players:2:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc98 #lang:ch #unlicensed:bootleg,1326
+#players:2:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc98 #lang:en,1327
+#players:2:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc98 #lang:ja,1328
+#players:2:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:pc #lang:en,1329
+#players:2:vs #genre:sim>strategy #embedded:backup>battery #save:backup #save:password #lang:en,1330
+#players:2:vs #genre:sim>strategy #embedded:backup>battery #save:backup #save:password #lang:ja,1331
+#players:2:vs #genre:sim>strategy #lang:zh #unlicensed,1332
+#players:2:vs #genre:sim>strategy #port:arcade #lang:en,1333
+#players:2:vs #genre:sim>strategy #port:arcade #lang:ja,1334
+#players:2:vs #genre:sim>strategy #save:password #lang:en,1335
+#players:2:vs #genre:sports>baseball #addon:controller>6button #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1336
+#players:2:vs #genre:sports>baseball #addon:controller>6button #embedded:backup>battery #save:backup #search:keyword>official #lang:en #unfinished:beta,1337
+#players:2:vs #genre:sports>baseball #addon:controller>6button #embedded:backup>battery #save:backup #search:keyword>official #lang:en #unfinished:beta #alt,1338
+#players:2:vs #genre:sports>baseball #addon:controller>6button #embedded:backup>battery #save:backup #search:keyword>official #lang:ja,1339
+#players:2:vs #genre:sports>baseball #addon:controller>6button #embedded:backup>battery #save:backup #search:keyword>official lang:en,1340
+#players:2:vs #genre:sports>baseball #addon:online>megamodem #embedded:backup>battery #save:backup #lang:ja,1341
+#players:2:vs #genre:sports>baseball #addon:online>segachannel #port:arcade #lang:ja #rev:1 #unfinished:proto,1342
+#players:2:vs #genre:sports>baseball #based #search:keyword>endorsed>official #lang:en,1343
+#players:2:vs #genre:sports>baseball #embedded:backup>battery #save:backup #lang:en #unlicensed,1344
+#players:2:vs #genre:sports>baseball #embedded:backup>battery #save:backup #reboxed:videogameclassics #lang:en #unlicensed,1345
+#players:2:vs #genre:sports>baseball #embedded:backup>battery #save:backup #search:keyword>endorsed>official #lang:en,1346
+#players:2:vs #genre:sports>baseball #embedded:backup>battery #save:backup #search:keyword>endorsed>official #port:pc #lang:en,1347
+#players:2:vs #genre:sports>baseball #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1348
+#players:2:vs #genre:sports>baseball #embedded:backup>battery #save:backup #search:keyword>official #lang:en #rev:a #unfinished:proto,1349
+#players:2:vs #genre:sports>baseball #embedded:backup>battery #save:backup #search:keyword>official #lang:en #unfinished:beta,1350
+#players:2:vs #genre:sports>baseball #embedded:backup>battery #save:backup #search:keyword>official #lang:ja,1351
+#players:2:vs #genre:sports>baseball #embedded:backup>eeprom #save:backup #search:keyword>endorsed>official>brand #lang:en,1352
+#players:2:vs #genre:sports>baseball #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en,1353
+#players:2:vs #genre:sports>baseball #port:arcade #lang:ja,1354
+#players:2:vs #genre:sports>baseball #save:password #lang:en,1355
+#players:2:vs #genre:sports>baseball #save:password #lang:ja,1356
+#players:2:vs #genre:sports>baseball #save:password #port:arcade #lang:en,1357
+#players:2:vs #genre:sports>baseball #save:password #port:arcade #lang:ja,1358
+#players:2:vs #genre:sports>baseball #save:password #reboxed:segaclassic #lang:en #rev:a,1359
+#players:2:vs #genre:sports>baseball #save:password #search:keyword>endorsed #lang:en,1360
+#players:2:vs #genre:sports>baseball #save:password #search:keyword>official #lang:en,1361
+#players:2:vs #genre:sports>baseball #save:password #search:keyword>official #lang:en #unfinished:beta,1362
+#players:2:vs #genre:sports>baseball #save:password #search:keyword>official #lang:en #unfinished:proto,1363
+#players:2:vs #genre:sports>baseball #save:password #search:keyword>official #lang:ja,1364
+#players:2:vs #genre:sports>baseball #search:keyword>endorsed #lang:en,1365
+#players:2:vs #genre:sports>basketball #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1366
+#players:2:vs #genre:sports>basketball #lang:en,1367
+#players:2:vs #genre:sports>basketball #port:arcade #lang:en,1368
+#players:2:vs #genre:sports>basketball #save:password #lang:en,1369
+#players:2:vs #genre:sports>basketball #save:password #search:keyword>endorsed #lang:en,1370
+#players:2:vs #genre:sports>basketball #save:password #search:keyword>official #lang:en,1371
+#players:2:vs #genre:sports>basketball #save:password #search:keyword>official #lang:en #unfinished:beta,1372
+#players:2:vs #genre:sports>basketball #search:keyword>endorsed #lang:en,1373
+#players:2:vs #genre:sports>basketball #search:keyword>endorsed #lang:en #unfinished:beta,1374
+#players:2:vs #genre:sports>basketball #search:keyword>endorsed #port:commodore>c64 #lang:en,1375
+#players:2:vs #genre:sports>basketball #search:keyword>endorsed #port:commodore>c64 #lang:en #rev:a,1376
+#players:2:vs #genre:sports>basketball #search:keyword>endorsed #port:commodore>c64 #lang:ja,1377
+#players:2:vs #genre:sports>basketball #search:keyword>endorsed #reboxed:segaclassic #lang:en,1378
+#players:2:vs #genre:sports>basketball #search:keyword>official #lang:en,1379
+#players:2:vs #genre:sports>decathlon:shooting>gallery:minigames #search:keyword>official #lang:en,1380
+#players:2:vs #genre:sports>football #addon:online>megamodem #save:password #port:arcade #lang:en,1381
+#players:2:vs #genre:sports>football #addon:online>segachannel #embedded:backup>battery #save:backup #search:keyword>official>endorsed #lang:en,1382
+#players:2:vs #genre:sports>football #addon:online>segachannel #search:keyword>endorsed #lang:en,1383
+#players:2:vs #genre:sports>football #embedded:backup>battery #save:backup #based #search:keyword>endorsed>official #lang:en,1384
+#players:2:vs #genre:sports>football #embedded:backup>battery #save:backup #based #search:keyword>endorsed>official #lang:en #unfinished:beta,1385
+#players:2:vs #genre:sports>football #embedded:backup>battery #save:backup #port:nintendo>famicom #search:keyword>official #lang:en,1386
+#players:2:vs #genre:sports>football #embedded:backup>battery #save:backup #port:nintendo>famicom #search:keyword>official #lang:en #unfinished:beta,1387
+#players:2:vs #genre:sports>football #embedded:backup>battery #save:backup #search:keyword>endorsed>official #lang:en,1388
+#players:2:vs #genre:sports>football #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1389
+#players:2:vs #genre:sports>football #embedded:backup>battery #save:backup #search:keyword>official>endorsed #lang:en,1390
+#players:2:vs #genre:sports>football #lang:en,1391
+#players:2:vs #genre:sports>football #port:arcade #search:keyword>endorsed #lang:en,1392
+#players:2:vs #genre:sports>football #save:password #lang:en,1393
+#players:2:vs #genre:sports>football #save:password #lang:en #unfinished:proto,1394
+#players:2:vs #genre:sports>football #save:password #lang:ja,1395
+#players:2:vs #genre:sports>football #save:password #search:keyword>endorsed #lang:en,1396
+#players:2:vs #genre:sports>football #search:keyword>endorsed #lang:en,1397
+#players:2:vs #genre:sports>football #search:keyword>endorsed #lang:en #unlicensed:bootleg,1398
+#players:2:vs #genre:sports>football #search:keyword>endorsed #reboxed:segaclassic #lang:en,1399
+#players:2:vs #genre:sports>football #search:keyword>endorsed #reboxed:segaclassic #lang:en #rev:a,1400
+#players:2:vs #genre:sports>football #search:keyword>official>endorsed #lang:en,1401
+#players:2:vs #genre:sports>football #search:keyword>official>endorsed #reboxed:classicedition #lang:en #rev:a,1402
+#players:2:vs #genre:sports>football>hockey #search:keyword>endorsed #multigame:compilation>nhlhockey>johnmaddenfootball #lang:en,1403
+#players:2:vs #genre:sports>golf #addon:multitap>segatap #save:password #lang:en,1404
+#players:2:vs #genre:sports>golf #embedded:backup>battery #save:backup #search:keyword>official #lang:ja,1405
+#players:2:vs #genre:sports>golf #search:keyword>endorsed #lang:en,1406
+#players:2:vs #genre:sports>golf #search:keyword>endorsed #lang:en #rev:a #unfinished:proto,1407
+#players:2:vs #genre:sports>golf #search:keyword>endorsed #lang:ja,1408
+#players:2:vs #genre:sports>golf #search:keyword>endorsed #reboxed:segaclassic #lang:en,1409
+#players:2:vs #genre:sports>hockey #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1410
+#players:2:vs #genre:sports>hockey #embedded:backup>battery #save:backup #search:keyword>official #lang:en #unfinished:beta,1411
+#players:2:vs #genre:sports>hockey #embedded:backup>battery #save:backup #search:keyword>official #lang:en #unfinished:beta #alt,1412
+#players:2:vs #genre:sports>hockey #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en,1413
+#players:2:vs #genre:sports>hockey #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en #rev:a,1414
+#players:2:vs #genre:sports>hockey #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en #rev:a #unfinished:sample,1415
+#players:2:vs #genre:sports>hockey #embedded:backup>eeprom #save:backup #search:keyword>official #reboxed #lang:en,1416
+#players:2:vs #genre:sports>hockey #lang:en,1417
+#players:2:vs #genre:sports>hockey #port:arcade #lang:en,1418
+#players:2:vs #genre:sports>hockey #save:password #search:keyword>endorsed #lang:en,1419
+#players:2:vs #genre:sports>hockey #save:password #search:keyword>endorsed>official #lang:en,1420
+#players:2:vs #genre:sports>hockey #search:keyword>official #lang:en,1421
+#players:2:vs #genre:sports>paddle #addon:online>megamodem>toshokan #lang:ja,1422
+#players:2:vs #genre:sports>paddle #addon:online>megamodem>toshokan #reboxed:gamenokanzume #lang:ja,1423
+#players:2:vs #genre:sports>rugby #port:commodore>amiga #lang:en,1424
+#players:2:vs #genre:sports>skiing:minigames #embedded:backup>eeprom #save:backup #port:pc #lang:en #rev:1,1425
+#players:2:vs #genre:sports>skiing:minigames #embedded:backup>eeprom #save:backup #port:pc #lang:en #unlicensed,1426
+#players:2:vs #genre:sports>skiing:minigames #embedded:backup>eeprom #save:backup #port:pc #reboxed:videogameclassics #lang:en #unlicensed,1427
+#players:2:vs #genre:sports>skiing:minigames #save:password #port:pc #lang:en #unlicensed:bootleg,1428
+#players:2:vs #genre:sports>soccer #addon:controller>6button #embedded:backup>battery #save:backup #lang:en #unfinished:beta,1429
+#players:2:vs #genre:sports>soccer #addon:controller>6button #embedded:backup>battery #save:backup #lang:en:fr:de:es:it,1430
+#players:2:vs #genre:sports>soccer #addon:controller>6button #lang:en,1431
+#players:2:vs #genre:sports>soccer #addon:controller>6button #save:password #port:nintendo>superfamicom #lang:es #unlicensed:bootleg,1432
+#players:2:vs #genre:sports>soccer #embedded:backup>battery #save:backup #port:commodore>amiga #lang:en:fr:de:it,1433
+#players:2:vs #genre:sports>soccer #embedded:backup>battery #save:backup #port:commodore>amiga #lang:en:fr:de:it #unfinished:beta,1434
+#players:2:vs #genre:sports>soccer #lang:en,1435
+#players:2:vs #genre:sports>soccer #lang:en #rev:a,1436
+#players:2:vs #genre:sports>soccer #lang:en #rev:b,1437
+#players:2:vs #genre:sports>soccer #port:arcade #lang:en,1438
+#players:2:vs #genre:sports>soccer #port:commodore>amiga #lang:en,1439
+#players:2:vs #genre:sports>soccer #port:commodore>amiga #lang:en #unfinished:beta,1440
+#players:2:vs #genre:sports>soccer #port:commodore>amiga #search:keyword>official #lang:ja,1441
+#players:2:vs #genre:sports>soccer #reboxed:segaclassic #lang:en #rev:c,1442
+#players:2:vs #genre:sports>soccer #save:password #lang:en,1443
+#players:2:vs #genre:sports>soccer #save:password #lang:en:fr:de:es,1444
+#players:2:vs #genre:sports>soccer #save:password #lang:en:fr:de:es #unfinished:beta,1445
+#players:2:vs #genre:sports>soccer #save:password #reboxed #lang:en:fr:de:es,1446
+#players:2:vs #genre:sports>soccer #save:password #search:feature>kuniokun #port:nintendo>famicom #lang:ja,1447
+#players:2:vs #genre:sports>soccer #save:password #search:keyword>brand #reboxed #lang:en:fr:de:es,1448
+#players:2:vs #genre:sports>soccer #save:password #search:keyword>endorsed #reboxed #lang:en:fr:de:es,1449
+#players:2:vs #genre:sports>soccer #search:keyword>endorsed #lang:en,1450
+#players:2:vs #genre:sports>soccer #search:keyword>endorsed #lang:en #unfinished:sample,1451
+#players:2:vs #genre:sports>soccer #search:keyword>official #lang:en,1452
+#players:2:vs #genre:sports>tennis #save:password #lang:en,1453
+#players:2:vs #genre:sports>tennis #save:password #lang:ja,1454
+#players:2:vs #genre:sports>tennis #save:password #lang:ja #unlicensed:bootleg,1455
+#players:2:vs #genre:sports>tennis #save:password #search:keyword>endorsed #lang:en,1456
+#players:2:vs #genre:sports>tennis #search:keyword>brand #port:nintendo>superfamicom #lang:en,1457
+#players:2:vs #genre:sports>volleyball #port:arcade #lang:en,1458
+#players:2:vs #genre:sports>volleyball #port:arcade #lang:ja,1459
+#players:3:coop #genre:action:puzzle #addon:multitap>segatap:controller>6button #save:password #port:nintendo>superfamicom #lang:en,1460
+#players:3:coop #genre:action:puzzle #addon:multitap>segatap:controller>6button #save:password #port:nintendo>superfamicom #lang:en:fr:de,1461
+#players:3:coop #genre:action:puzzle #addon:multitap>segatap:controller>6button #save:password #port:nintendo>superfamicom #lang:en:fr:de #unfinished:beta,1462
+#players:3:coop:vs #genre:fighting #addon:multitap>segatap:controller>6button #based:movie #lang:en,1463
+#players:3:vs #genre:board #based #search:keyword>endorsed #lang:en,1464
+#players:3:vs #genre:quiz:board #based #lang:en,1465
+#players:3:vs #genre:sim>strategy #embedded:backup>battery #save:backup #lang:ja,1466
+#players:3:vs #genre:sim>strategy #embedded:backup>battery #save:backup #lang:zh,1467
+#players:4:alt #genre:parlor>pinball #embedded:backup>battery #save:backup #lang:en,1468
+#players:4:alt #genre:parlor>pinball #lang:en,1469
+#players:4:alt #genre:parlor>pinball #lang:en #unfinished:beta>1,1470
+#players:4:alt #genre:parlor>pinball #lang:en #unfinished:beta>2,1471
+#players:4:alt #genre:parlor>pinball #lang:en:fr:de:es:it,1472
+#players:4:alt #genre:parlor>pinball #lang:en:fr:de:es:it #rev:1,1473
+#players:4:alt #genre:parlor>pinball #lang:en:fr:de:es:it #unfinished:beta,1474
+#players:4:alt #genre:parlor>pinball:action>platformer #addon:online>segachannel #search:feature>sonic #lang:en,1475
+#players:4:alt #genre:parlor>pinball:action>platformer #search:feature>sonic #lang:en,1476
+#players:4:alt #genre:parlor>pinball:action>platformer #search:feature>sonic #lang:en #rerelease:mdmini>1,1477
+#players:4:alt #genre:parlor>pinball:action>platformer #search:feature>sonic #lang:en #unfinished:beta,1478
+#players:4:coop #genre:action #addon:multitap>segatap>4wayplay #port:arcade:sharp>x68000 #lang:en:ja,1479
+#players:4:coop #genre:action #addon:multitap>segatap>4wayplay #port:arcade:sharp>x68000 #lang:en:ja #unfinished:beta,1480
+#players:4:coop:vs #genre:action:sim>strategy #addon:multitap>4wayplay #lang:en,1481
+#players:4:coop:vs #genre:action:sim>strategy #addon:multitap>4wayplay #lang:ja,1482
+#players:4:coop:vs #genre:action:sim>strategy #addon:multitap>4wayplay #reboxed:eaclassics #lang:en,1483
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:multitap>segatap #search:keyword>official #lang:en,1484
+#players:4:coop:vs #genre:racing #addon:multitap>segatap #embedded:slot>jcart:backup>eeprom #save:backup #based #lang:en,1485
+#players:4:coop:vs #genre:sports>baseball #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1486
+#players:4:coop:vs #genre:sports>baseball #addon:multitap>4wayplay #save:password #search:keyword>official #lang:en,1487
+#players:4:coop:vs #genre:sports>baseball #addon:multitap>segatap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1488
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1489
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official>endorsed #lang:en,1490
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap #embedded:backup>battery #save:backup #port:arcade #search:keyword>official #lang:en,1491
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1492
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap #embedded:backup>eeprom #save:backup #search:keyword>endorsed #lang:en,1493
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap #embedded:backup>eeprom #save:backup #search:keyword>endorsed #lang:en #unfinished:beta,1494
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en,1495
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap #save:password #search:keyword>endorsed #lang:en,1496
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap:controller>6button #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1497
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap:controller>6button #embedded:backup>battery #save:backup #search:keyword>official #lang:en #unfinished:beta,1498
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap:controller>6button #embedded:backup>battery #save:backup #search:keyword>official>endorsed #lang:en,1499
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap:controller>6button #embedded:backup>battery #save:backup #search:keyword>official>endorsed #lang:en #unfinished:beta,1500
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap:controller>6button #embedded:backup>battery #save:backup #search:keyword>official>endorsed #lang:en #unfinished:beta #alt,1501
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap:online>xband #embedded:backup>eeprom #save:backup #port:arcade #search:keyword>official #lang:en,1502
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap:online>xband #embedded:backup>eeprom #save:backup #port:arcade #search:keyword>official #lang:en #rev:1,1503
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap:online>xband #embedded:backup>eeprom #save:backup #port:arcade #search:keyword>official #lang:en #unfinished:beta,1504
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap:online>xband #embedded:backup>eeprom #save:backup #search:keyword>official #port:arcade #lang:en,1505
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1506
+#players:4:coop:vs #genre:sports>basketball #addon:multitap>segatap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #lang:ja,1507
+#players:4:coop:vs #genre:sports>cricket #embedded:backup>battery #save:backup #search:keyword>endorsed #lang:en,1508
+#players:4:coop:vs #genre:sports>cricket #embedded:backup>eeprom #save:backup #search:keyword>endorsed #lang:en,1509
+#players:4:coop:vs #genre:sports>cricket #embedded:backup>eeprom #save:backup #search:keyword>endorsed #lang:en #rev:1,1510
+#players:4:coop:vs #genre:sports>football #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1511
+#players:4:coop:vs #genre:sports>football #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #lang:en #unfinished:beta,1512
+#players:4:coop:vs #genre:sports>football #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official>endorsed #lang:en,1513
+#players:4:coop:vs #genre:sports>football #addon:multitap>4wayplay #search:keyword>endorsed #lang:en,1514
+#players:4:coop:vs #genre:sports>football #addon:multitap>4wayplay #search:keyword>official>endorsed #lang:en,1515
+#players:4:coop:vs #genre:sports>football #addon:multitap>segatap #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1516
+#players:4:coop:vs #genre:sports>football #addon:multitap>segatap #embedded:backup>battery #save:backup #search:keyword>official #lang:en #unfinished:beta,1517
+#players:4:coop:vs #genre:sports>football #addon:multitap>segatap #embedded:backup>battery #save:backup #search:keyword>official>endorsed #lang:en,1518
+#players:4:coop:vs #genre:sports>football #addon:multitap>segatap #embedded:backup>eeprom #save:backup #port:pc #lang:en,1519
+#players:4:coop:vs #genre:sports>football #addon:multitap>segatap:controller>6button #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1520
+#players:4:coop:vs #genre:sports>football #addon:multitap>segatap:controller>6button #embedded:backup>battery #save:backup #search:keyword>official #lang:en #unfinished:beta,1521
+#players:4:coop:vs #genre:sports>football #addon:multitap>segatap:controller>6button #embedded:backup>battery #save:backup #search:keyword>official #lang:en #unfinished:beta #alt,1522
+#players:4:coop:vs #genre:sports>football #addon:multitap>segatap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official>endorsed #lang:en,1523
+#players:4:coop:vs #genre:sports>football #addon:multitap>segatap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official>endorsed #lang:ja,1524
+#players:4:coop:vs #genre:sports>hockey #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1525
+#players:4:coop:vs #genre:sports>hockey #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #lang:en #rerelease,1526
+#players:4:coop:vs #genre:sports>hockey #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #lang:sv,1527
+#players:4:coop:vs #genre:sports>hockey #addon:multitap>4wayplay #lang:en,1528
+#players:4:coop:vs #genre:sports>hockey #addon:multitap>segatap #embedded:backup>battery #save:backup #based #search:keyword>official #lang:en,1529
+#players:4:coop:vs #genre:sports>hockey #addon:multitap>segatap #embedded:backup>battery #save:backup #based #search:keyword>official #lang:en #unfinished:beta,1530
+#players:4:coop:vs #genre:sports>hockey #addon:multitap>segatap>4wayplay #embedded:backup>battery #save:backup #search:keyword>endorsed>official>brand #lang:en,1531
+#players:4:coop:vs #genre:sports>hockey #addon:multitap>segatap>4wayplay #embedded:backup>battery #save:backup #search:keyword>endorsed>official>brand #lang:en #unfinished:beta,1532
+#players:4:coop:vs #genre:sports>rugby #addon:multitap>4wayplay #search:keyword>official #lang:en,1533
+#players:4:coop:vs #genre:sports>rugby #addon:multitap>4wayplay #search:keyword>official #lang:en #unfinished:beta,1534
+#players:4:coop:vs #genre:sports>rugby #addon:multitap>4wayplay #search:keyword>official #lang:en:fr:it,1535
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #lang:en #unlicensed:bootleg,1536
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #lang:en:fr:de:es #unlicensed:bootleg,1537
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #lang:en:fr:de:es:it:sv,1538
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #lang:en:fr:es:it:sv,1539
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #lang:es #unlicensed:bootleg,1540
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #reboxed #lang:en:fr:es:it:sv,1541
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>4wayplay #embedded:backup>battery #save:backup lang:en:fr:de:es:it:sv #unlicensed:bootleg,1542
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>4wayplay #embedded:backup>battery #save:backup lang:es #unlicensed:bootleg,1543
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>4wayplay:online>xband #embedded:backup>battery #save:backup #search:keyword>official #lang:en:fr:de:es,1544
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>segatap #embedded:backup>battery #save:backup #port:commodore>amiga #lang:en:fr:de,1545
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>segatap #embedded:backup>battery #save:backup #search:keyword>official #lang:en:fr:de:it:es:pt:sv:nl,1546
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>segatap #embedded:backup>battery #save:backup #search:keyword>official #lang:ja,1547
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>segatap #embedded:backup>battery #save:backup #search:keyword>official #search:feature>sonic #lang:ja,1548
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>segatap #embedded:backup>battery #save:backup #search:keyword>official #search:feature>sonic #lang:ja #rev:a,1549
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>segatap #embedded:backup>battery #save:backup #search:keyword>official #search:feature>sonic #lang:ja #unfinished:sample,1550
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>segatap #save:password #lang:en,1551
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>segatap #save:password #lang:en #unfinished:beta,1552
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>segatap #save:password #lang:en #unfinished:beta #alt,1553
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>segatap #save:password #reboxed:classicedition #lang:en,1554
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>segatap:controller>6button #save:password #lang:en:fr:de:es:it,1555
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>segatap:controller>6button #save:password #port:nintendo>superfamicom #lang:es #unlicensed:bootleg,1556
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>segatap:controller>6button #save:password #port:nintendo>superfamicom #lang:pt #unlicensed:bootleg,1557
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>segatap:controller>6button #save:password #search:keyword>endorsed #reboxed #lang:en:fr:de:es:it,1558
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>segatap>4wayplay #search:keyword>official #lang:en:fr:de:es,1559
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>segatap>4wayplay #search:keyword>official #lang:en:ja,1560
+#players:4:coop:vs #genre:sports>soccer>formula1>tennis:racing #addon:multitap>segatap #multigame:compilation>wimbledon>ultimatesoccer>supermonacogp #lang:en,1561
+#players:4:coop:vs #genre:sports>tennis #addon:controller>6button #save:password #lang:en #unfinished:proto,1562
+#players:4:coop:vs #genre:sports>tennis #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>brand #lang:en,1563
+#players:4:coop:vs #genre:sports>tennis #addon:multitap>segatap #search:keyword>official #lang:en,1564
+#players:4:coop:vs #genre:sports>tennis #addon:multitap>segatap #search:keyword>official #lang:en #unfinished:beta,1565
+#players:4:coop:vs #genre:sports>tennis #embedded:slot>jcart #save:password #search:keyword>endorsed #lang:en,1566
+#players:4:coop:vs #genre:sports>tennis #embedded:slot>jcart:backup>eeprom #save:backup #search:keyword>endorsed #lang:en,1567
+#players:4:coop:vs #genre:sports>tennis #embedded:slot>jcart:backup>eeprom #save:backup #search:keyword>endorsed #lang:en #rev:1,1568
+#players:4:vs #genre:action>maze #addon:multitap>segatap>4wayplay #save:password #port:nec>pcengine #lang:en,1569
+#players:4:vs #genre:action>maze #addon:multitap>segatap>4wayplay #save:password #port:nec>pcengine #reboxed:megahit #lang:en,1570
+#players:4:vs #genre:action>maze #save:password #addon:multitap>segatap #lang:en,1571
+#players:4:vs #genre:board #addon:multitap>segatap #based #lang:ja,1572
+#players:4:vs #genre:board #based:manganime #lang:ja,1573
+#players:4:vs #genre:board #lang:zh #unlicensed:clone,1574
+#players:4:vs #genre:board:quiz:notagame>educational #lang:zh #unlicensed,1575
+#players:4:vs #genre:fighting #addon:multitap>segatap:controller>6button #based:manganime #lang:ja,1576
+#players:4:vs #genre:fighting #addon:multitap>segatap:controller>6button #based:manganime #lang:pt,1577
+#players:4:vs #genre:fighting #addon:online>segachannel:multitap>segatap:controller>6button #based:manganime #lang:ja #unfinished:beta,1578
+#players:4:vs #genre:minigames:sports #port:commodore>amiga #lang:en,1579
+#players:4:vs #genre:parlor>bowling #lang:en,1580
+#players:4:vs #genre:parlor>bowling #lang:ja,1581
+#players:4:vs #genre:puzzle:minigames #addon:multitap>segatap #port:arcade #lang:ja,1582
+#players:4:vs #genre:puzzle:minigames #addon:multitap>segatap #port:arcade #lang:ja #rerelease:segaages,1583
+#players:4:vs #genre:puzzle:sports>golf #port:apple>apple2 #lang:en,1584
+#players:4:vs #genre:puzzle:sports>golf #port:apple>apple2 #lang:en #rev:1,1585
+#players:4:vs #genre:puzzle:sports>golf #port:apple>apple2 #lang:en #unlicensed,1586
+#players:4:vs #genre:racing #embedded:slot>jcart #port:commodore>amiga #lang:en,1587
+#players:4:vs #genre:racing #embedded:slot>jcart #port:commodore>amiga #lang:en #unfinished:beta,1588
+#players:4:vs #genre:racing>combat #addon:multitap>segatap>4wayplay #port:nintendo>superfamicom #lang:en,1589
+#players:4:vs #genre:racing>combat #addon:multitap>segatap>4wayplay #port:nintendo>superfamicom #lang:en #unfinished:beta,1590
+#players:4:vs #genre:sim>strategy #addon:online>megamodem #embedded:backup>battery #save:backup #lang:ja,1591
+#players:4:vs #genre:sim>strategy #addon:online>megamodem #embedded:backup>battery #save:backup #lang:ja #unfinished:beta,1592
+#players:4:vs #genre:sim>strategy #embedded:backup>battery #save:backup #lang:ch #unlicensed:bootleg,1593
+#players:4:vs #genre:sim>strategy #embedded:backup>battery #save:backup #lang:ja,1594
+#players:4:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc88 #lang:en,1595
+#players:4:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc88 #lang:ja,1596
+#players:4:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc88 #lang:ja #rev:a,1597
+#players:4:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc88 #lang:ja #unfinished:beta,1598
+#players:4:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nintendo>superfamicom #lang:en,1599
+#players:4:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nintendo>superfamicom #lang:ja,1600
+#players:4:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nintendo>superfamicom #lang:zh #unlicensed:bootleg,1601
+#players:4:vs #genre:sports>baseball #embedded:backup>battery #save:backup #lang:zh #unlicensed,1602
+#players:4:vs #genre:sports>decathlon>swimming>rowing>archery:minigames #addon:multitap>segatap #search:keyword>official #lang:en:fr:de:es:it:nl:pt:sv,1603
+#players:4:vs #genre:sports>decathlon>swimming>rowing>archery:minigames #addon:multitap>segatap #search:keyword>official #lang:en:fr:de:es:it:nl:pt:sv #rev:a,1604
+#players:4:vs #genre:sports>golf #addon:health>catalyst #embedded:backup>battery #save:backup #search:keyword>official #lang:en #rev:a,1605
+#players:4:vs #genre:sports>golf #addon:health>catalyst #embedded:backup>battery #save:backup #search:keyword>official #port:pc #lang:en,1606
+#players:4:vs #genre:sports>golf #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1607
+#players:4:vs #genre:sports>golf #addon:multitap>4wayplay #embedded:backup>battery #save:backup #search:keyword>official #port:commodore>amiga #lang:en,1608
+#players:4:vs #genre:sports>golf #addon:multitap>segatap #save:password #lang:en,1609
+#players:4:vs #genre:sports>golf #addon:multitap>segatap #save:password #search:keyword>endorsed #lang:en,1610
+#players:4:vs #genre:sports>golf #addon:online>segachannel #embedded:backup>battery #save:backup #search:keyword>official #port:nec>pc98 #lang:en #rev:a,1611
+#players:4:vs #genre:sports>golf #embedded:backup>battery #save:backup #port:nec>pc98 #lang:ja,1612
+#players:4:vs #genre:sports>golf #embedded:backup>battery #save:backup #search:keyword>official #lang:en,1613
+#players:4:vs #genre:sports>golf #embedded:backup>battery #save:backup #search:keyword>official #port:nec>pc98 #lang:en,1614
+#players:4:vs #genre:sports>golf #embedded:backup>battery #save:backup #search:keyword>official #port:nec>pc98 #lang:ja,1615
+#players:4:vs #genre:sports>golf #embedded:backup>battery #save:backup #search:keyword>official #port:pc #lang:en,1616
+#players:4:vs #genre:sports>golf #embedded:backup>battery #save:backup #search:keyword>official #port:pc #lang:en #rev:a,1617
+#players:4:vs #genre:sports>golf #embedded:backup>battery #save:backup #search:keyword>official #port:pc #lang:en #rev:a #alt,1618
+#players:4:vs #genre:sports>golf #embedded:backup>battery #save:backup #search:keyword>official>endorsed #lang:en,1619
+#players:4:vs #genre:sports>golf #lang:en,1620
+#players:4:vs #genre:sports>skiing:minigames #search:keyword>official #lang:en:fr:de:es:it:pt:sv:no,1621
+#players:4:vs #genre:sports>skiing:minigames #search:keyword>official #reboxed:kixxedition #lang:en:fr:de:es:it:pt:sv:no,1622
+#players:4:vs #genre:sports>soccer #addon:multitap>4wayplay #search:keyword>endorsed #lang:en,1623
+#players:4:vs #genre:sports>soccer>basketball #addon:multitap>segatap #save:password #based:looneytunes #lang:en,1624
+#players:4:vs #genre:sports>soccer>basketball #addon:multitap>segatap #save:password #based:looneytunes #lang:en:fr:de,1625
+#players:4:vs #genre:sports>soccer>basketball #addon:multitap>segatap #save:password #based:looneytunes #reboxed:konamiclassics #lang:en,1626
+#players:4:vs #genre:sports>tennis #addon:multitap>segatap #save:password #search:keyword>official #lang:en,1627
+#players:4:vs #genre:sports>tennis #addon:multitap>segatap #save:password #search:keyword>official #lang:en #unfinished:beta,1628
+#players:5:coop:vs #genre:sports>basketball #addon:multitap>segatap #save:password #port:nintendo>superfamicom #based:manganime #lang:ja,1629
+#players:5:coop:vs #genre:sports>football #addon:multitap>segatap #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en,1630
+#players:5:vs #genre:puzzle>drop #addon:multitap>segatap #lang:en,1631
+#players:5:vs #genre:puzzle>drop #addon:multitap>segatap #lang:ja,1632
+#players:5:vs #genre:quiz #addon:multitap>segatap #lang:ja,1633
+#players:6:vs #genre:board #based #lang:en,1634
+#players:6:vs #genre:sports>dodgeball #embedded:backup>battery #save:backup #based:manganime #lang:ja,1635
+#players:8:coop:vs #genre:racing #addon:multitap>segatap #based #lang:en,1636
+#players:8:coop:vs #genre:racing #addon:multitap>segatap #based #lang:en #unfinished:beta,1637
+#players:8:coop:vs #genre:racing #addon:multitap>segatap #embedded:slot>jcart:backup>eeprom #save:backup #based #lang:en,1638
+#players:8:coop:vs #genre:racing #addon:multitap>segatap #embedded:slot>jcart:backup>eeprom #save:backup #based #lang:en #rev:1,1639
+#players:8:coop:vs #genre:sports>basketball #addon:multitap>segatap #save:password #lang:en,1640
+#players:8:coop:vs #genre:sports>basketball #addon:multitap>segatap #save:password #lang:en #unfinished:beta,1641
+#players:8:coop:vs #genre:sports>soccer #addon:multitap>segatap #search:feature>sonic #lang:en:fr:de:es:it,1642
+#players:8:coop:vs #genre:sports>soccer #addon:multitap>segatap #search:feature>sonic #lang:en:fr:de:es:it #unfinished:beta,1643
+#players:8:coop:vs #genre:sports>soccer #addon:multitap>segatap:controller>6button #save:password #lang:en,1644
+#players:8:coop:vs #genre:sports>soccer #addon:multitap>segatap:controller>6button #save:password #port:nintendo>superfamicom #lang:en,1645
+#players:8:vs #genre:action:fighting:minigames #based #lang:en,1646
+#players:8:vs #genre:action>maze #addon:multitap>segatap #save:password #port:nec>pcengine #lang:en #unfinished:proto,1647
+#players:8:vs #genre:board>party #based #lang:en,1648
+#players:8:vs #genre:board>party #based #lang:en #unfinished:beta,1649
+#players:8:vs #genre:parlor>billiards #search:keyword>official #lang:en,1650
+#players:8:vs #genre:sim>strategy #addon:mouse>md #embedded:backup>battery #save:backup #port:nec>pc88 #lang:ch #unlicensed:bootleg,1651
+#players:8:vs #genre:sim>strategy #addon:mouse>md #embedded:backup>battery #save:backup #port:nec>pc88 #lang:en,1652
+#players:8:vs #genre:sim>strategy #addon:mouse>md #embedded:backup>battery #save:backup #port:nec>pc88 #lang:ja,1653
+#players:8:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc88 #lang:ja,1654
+#players:8:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc98 #lang:en,1655
+#players:8:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc98 #lang:ja,1656
+#players:8:vs #genre:sim>strategy #embedded:backup>battery #save:backup #port:nec>pc98 #lang:zh #unlicensed,1657
+#players:8:vs #genre:sim>strategy #embedded:backup>battery #save:backup #reboxed:soundware #port:nec>pc88 #lang:ja,1658
+#players:9:vs #genre:sports:minigames #port:apple>apple2 #lang:en,1659

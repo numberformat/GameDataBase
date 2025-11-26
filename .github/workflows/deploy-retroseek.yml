@@ -2,7 +2,7 @@ name: Deploy RetroSeek to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
+    branches: [ disabled-main ]
     paths:
       - 'src/retroseek/**'
       - 'tags.yml'

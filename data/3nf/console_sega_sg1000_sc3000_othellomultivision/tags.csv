@@ -1,0 +1,111 @@
+tag_name,tag_id
+#players:1 #genre:action #lang:en,1
+#players:1 #genre:action:puzzle #compatibility:sg1000>othello #port:arcade #lang:en,2
+#players:1 #genre:action:puzzle #save:backup #port:apple>apple2 #lang:en,3
+#players:1 #genre:action:puzzle #save:backup:password #port:apple>apple2 #lang:en,4
+#players:1 #genre:action>maze #compatibility:sg1000>othello #port:arcade #lang:en,5
+#players:1 #genre:action>maze #lang:en,6
+#players:1 #genre:action>maze #lang:en #alt,7
+#players:1 #genre:action>maze #port:arcade #lang:en,8
+#players:1 #genre:action>maze #save:backup #compatibility:mark3>mycard #port:msx #lang:en,9
+#players:1 #genre:action>platformer #compatibility:mark3>mycard #port:apple>apple2 #lang:en,10
+#players:1 #genre:action>platformer #lang:en,11
+#players:1 #genre:action>platformer #port:arcade #lang:en,12
+#players:1 #genre:action>platformer #port:arcade #lang:en #alt,13
+#players:1 #genre:action>platformer #port:arcade #lang:en #rev:1,14
+#players:1 #genre:action>platformer #port:arcade #lang:en #rev:1 #alt,15
+#players:1 #genre:action>platformer:puzzle #embedded:chip>ram #port:msx #lang:en,16
+#players:1 #genre:action>runandgun:action>maze #port:arcade #lang:en,17
+#players:1 #genre:board>mahjong #compatibility:sg1000>othello #lang:ja,18
+#players:1 #genre:board>mahjong #compatibility:sg1000>othello #lang:ja #alt,19
+#players:1 #genre:board>mahjong #lang:ja,20
+#players:1 #genre:board>mahjong #lang:ja #rev:1,21
+#players:1 #genre:board>shougi:notagame>educational #search:keyword>endorsed #port:arcade #lang:ja,22
+#players:1 #genre:notagame>application #compatibility:sg1000>sc3000 #lang:en #unfinished:proto,23
+#players:1 #genre:notagame>application #lang:en,24
+#players:1 #genre:notagame>application>educational #compatibility:sg1000>sc3000 #lang:en,25
+#players:1 #genre:notagame>application>educational #compatibility:sg1000>sc3000 #lang:ja,26
+#players:1 #genre:notagame>application>educational #compatibility:sg1000>sc3000 #save:backup #lang:en,27
+#players:1 #genre:notagame>application>educational #embedded:chip>ram #compatibility:sg1000>sc3000 #lang:en,28
+#players:1 #genre:notagame>application>educational #embedded:chip>ram #compatibility:sg1000>sc3000 #lang:ja,29
+#players:1 #genre:notagame>drawing #addon:drawing>graphicboard #lang:en,30
+#players:1 #genre:notagame>educational #compatibility:sg1000>sc3000 #lang:ja,31
+#players:1 #genre:notagame>educational #compatibility:sg1000>sc3000 #lang:ja #alt,32
+#players:1 #genre:notagame>educational #compatibility:sg1000>sc3000 #multigame #lang:ja,33
+#players:1 #genre:parlor>pachinko #lang:en,34
+#players:1 #genre:puzzle #save:backup #compatibility:mark3>mycard #port:nec>pc88 #lang:ja,35
+#players:1 #genre:racing #compatibility:mark3>mycard #port:arcade #lang:en,36
+#players:1 #genre:racing #port:arcade #lang:en,37
+#players:1 #genre:racing:sports>formula1 #compatibility:mark3>mycard #port:arcade #lang:en #rev:1,38
+#players:1 #genre:racing:sports>formula1 #lang:en,39
+#players:1 #genre:racing:sports>formula1 #lang:en #rev:1,40
+#players:1 #genre:racing:sports>formula1 #port:arcade #lang:en,41
+#players:1 #genre:racing:sports>formula1 #port:arcade #lang:en #rev:1,42
+#players:1 #genre:racing:sports>formula1 #port:arcade #lang:en #rev:2,43
+#players:1 #genre:racing:sports>motogp #addon:controller>bikehandle #compatibility:mark3>mycard #lang:en,44
+#players:1 #genre:racing:sports>rally #lang:en,45
+#players:1 #genre:rpg>dungeoncrawler #save:password #compatibility:mark3>mycard #port:nec>pc88 #lang:ja,46
+#players:1 #genre:shmup #port:arcade #lang:en,47
+#players:1 #genre:shmup #port:arcade #lang:en #alt,48
+#players:1 #genre:shmup>h #based:manganime #lang:en,49
+#players:1 #genre:shmup>h #compatibility:sg1000>othello #based:movie #port:atari>atari2600 #lang:en,50
+#players:1 #genre:shmup>h #compatibility:sg1000>othello #based:movie #port:atari>atari2600 #lang:en #alt,51
+#players:1 #genre:shmup>i #port:arcade #lang:en,52
+#players:1 #genre:shmup>v #compatibility:mark3>mycard #port:arcade #lang:en,53
+#players:1 #genre:shmup>v #port:arcade #reboxed #lang:en,54
+#players:1 #genre:shooting>gallery #based:manganime #lang:ja,55
+#players:2:alt #genre:action #compatibility:mark3>mycard #lang:en,56
+#players:2:alt #genre:action #compatibility:mark3>mycard #lang:en #rev:1,57
+#players:2:alt #genre:action #compatibility:mark3>mycard #port:arcade #lang:en,58
+#players:2:alt #genre:action #compatibility:mark3>mycard #port:atari>atari2600 #lang:en,59
+#players:2:alt #genre:action #compatibility:mark3>mycard #port:atari>atari2600 #lang:en #rev:1,60
+#players:2:alt #genre:action #lang:en,61
+#players:2:alt #genre:action #port:arcade #lang:en,62
+#players:2:alt #genre:action:puzzle #compatibility:mark3>mycard #port:commodore>c64 #lang:en,63
+#players:2:alt #genre:action>maze #port:arcade #lang:en,64
+#players:2:alt #genre:action>platformer #compatibility:mark3>mycard #port:arcade #lang:en,65
+#players:2:alt #genre:action>platformer #compatibility:mark3>mycard #port:arcade #lang:ja,66
+#players:2:alt #genre:action>platformer #port:arcade #search:franchise>wonderboy #lang:en,67
+#players:2:alt #genre:action>platformer #port:arcade #search:franchise>wonderboy #lang:en #rev:1,68
+#players:2:alt #genre:action>runandgun #compatibility:mark3>mycard #port:arcade #lang:ja,69
+#players:2:alt #genre:fighting:sports>wrestling #lang:en,70
+#players:2:alt #genre:parlor>billiards #compatibility:mark3>mycard #lang:en,71
+#players:2:alt #genre:parlor>pinball #lang:en,72
+#players:2:alt #genre:parlor>pinball #lang:en #alt,73
+#players:2:alt #genre:puzzle:action>platformer #compatibility:mark3>mycard #lang:en,74
+#players:2:alt #genre:shmup #port:arcade #lang:en,75
+#players:2:alt #genre:shmup #port:arcade #lang:en #rev:1,76
+#players:2:alt #genre:shmup:shooting>tps #compatibility:sg1000>othello #lang:en,77
+#players:2:alt #genre:shmup>h #compatibility:mark3>mycard #lang:en,78
+#players:2:alt #genre:shmup>h #compatibility:mark3>mycard #port:arcade #lang:en,79
+#players:2:alt #genre:shmup>h #port:apple>apple2 #lang:en #unfinished:beta,80
+#players:2:alt #genre:shmup>v #compatibility:mark3>mycard #lang:en,81
+#players:2:alt #genre:shmup>v #compatibility:sg1000>othello #lang:en,82
+#players:2:alt #genre:shmup>v #compatibility:sg1000>othello #lang:en #alt,83
+#players:2:alt #genre:shmup>v #compatibility:sg1000>othello #lang:en #rev:1,84
+#players:2:alt #genre:shmup>v #port:arcade #lang:en,85
+#players:2:alt #genre:shmup>v #port:arcade #lang:en #rev:1,86
+#players:2:alt #genre:shmup>v #port:arcade #lang:en #rev:2,87
+#players:2:alt #genre:shooting>gallery #compatibility:mark3>mycard #port:arcade #lang:en,88
+#players:2:alt #genre:shooting>gallery #port:arcade #lang:en,89
+#players:2:alt #genre:shooting>gallery #port:arcade #lang:en #alt,90
+#players:2:alt #genre:shooting>rail #compatibility:mark3>mycard #port:arcade #lang:en,91
+#players:2:alt #genre:sports>baseball #port:arcade #lang:en,92
+#players:2:alt #genre:sports>baseball #port:arcade #lang:en #rev:1,93
+#players:2:alt #genre:sports>decathlon:minigames #addon:controller>hypershot #port:arcade #lang:en,94
+#players:2:vs #genre:board>mahjong #lang:ja,95
+#players:2:vs #genre:board>mahjong #lang:ja #rev:1,96
+#players:2:vs #genre:board>othello #embedded:chip>ram #port:sega>sg1000 #lang:en,97
+#players:2:vs #genre:fighting:sports>boxing #compatibility:mark3>mycard #lang:en #rev:1,98
+#players:2:vs #genre:fighting:sports>boxing #lang:en,99
+#players:2:vs #genre:sports>golf #compatibility:mark3>mycard #lang:en #rev:1,100
+#players:2:vs #genre:sports>golf #compatibility:sg1000>othello #search:keyword>endorsed #lang:ja,101
+#players:2:vs #genre:sports>golf #compatibility:sg1000>othello #search:keyword>endorsed #lang:ja #rev:1,102
+#players:2:vs #genre:sports>golf #lang:en,103
+#players:2:vs #genre:sports>hockey #compatibility:mark3>mycard #lang:en,104
+#players:2:vs #genre:sports>kendo #compatibility:mark3>mycard #lang:ja,105
+#players:2:vs #genre:sports>soccer #lang:en,106
+#players:2:vs #genre:sports>tennis #lang:en,107
+#players:8:vs #genre:sim>derby #compatibility:sg1000>othello #lang:ja,108
+#players:8:vs #genre:sim>derby #compatibility:sg1000>othello #rev:1 #lang:ja,109
+#players:8:vs #genre:sim>derby #compatibility:sg1000>othello #rev:1 #lang:ja #alt,110

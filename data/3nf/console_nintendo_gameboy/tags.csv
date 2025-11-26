@@ -1,0 +1,1257 @@
+tag_name,tag_id
+#players:1 #genre:action #compatibility:gameboy>mono #based #lang:en,1
+#players:1 #genre:action #compatibility:gameboy>mono #based:manganime #lang:ja,2
+#players:1 #genre:action #compatibility:gameboy>mono #based:marvel #search:feature>spiderman #lang:en,3
+#players:1 #genre:action #compatibility:gameboy>mono #based:marvel #search:feature>spiderman #lang:en #unfinished:beta>1,4
+#players:1 #genre:action #compatibility:gameboy>mono #based:marvel #search:feature>spiderman #lang:en #unfinished:beta>2,5
+#players:1 #genre:action #compatibility:gameboy>mono #based:movie #lang:en,6
+#players:1 #genre:action #compatibility:gameboy>mono #based:movie #lang:en #unfinished:beta,7
+#players:1 #genre:action #compatibility:gameboy>mono #based:movie:disney #lang:en,8
+#players:1 #genre:action #compatibility:gameboy>mono #based:movie:disney #lang:es #unfinished:proto,9
+#players:1 #genre:action #compatibility:gameboy>mono #based:movie:disney #reboxed:disneysclassic #lang:en,10
+#players:1 #genre:action #compatibility:gameboy>mono #based:movie:disney #reboxed:playerschoice #lang:en,11
+#players:1 #genre:action #compatibility:gameboy>mono #lang:en #unfinished:proto,12
+#players:1 #genre:action #compatibility:gameboy>mono #port:arcade #lang:en,13
+#players:1 #genre:action #compatibility:gameboy>mono #port:arcade #lang:en #unfinished:beta,14
+#players:1 #genre:action #compatibility:gameboy>mono>sgb #based #lang:en,15
+#players:1 #genre:action #compatibility:gameboy>mono>sgb #based #lang:en #unfinished:beta,16
+#players:1 #genre:action #compatibility:gameboy>mono>sgb #based #search:feature>superman #lang:en,17
+#players:1 #genre:action #compatibility:gameboy>mono>sgb #save:password #based:movie:disney #lang:en,18
+#players:1 #genre:action #save:password #compatibility:gameboy>mono #lang:en,19
+#players:1 #genre:action #save:password #compatibility:gameboy>mono #port:apple>apple2 #lang:en,20
+#players:1 #genre:action #save:password #compatibility:gameboy>mono #port:apple>apple2 #lang:en #unfinished:beta,21
+#players:1 #genre:action #save:password #compatibility:gameboy>mono #port:apple>apple2 #lang:en:fr:de:es:it,22
+#players:1 #genre:action #save:password #compatibility:gameboy>mono #port:apple>apple2 #lang:en:fr:de:es:it #unfinished:beta,23
+#players:1 #genre:action #save:password #compatibility:gameboy>mono #port:apple>apple2 #lang:ja,24
+#players:1 #genre:action #save:password #compatibility:gameboy>mono>sgb #based:movie:disney #lang:en,25
+#players:1 #genre:action:adventure #compatibility:gameboy>mono #based:movie #lang:de,26
+#players:1 #genre:action:adventure #compatibility:gameboy>mono #based:movie #lang:en,27
+#players:1 #genre:action:adventure #compatibility:gameboy>mono #based:movie #lang:es,28
+#players:1 #genre:action:adventure #compatibility:gameboy>mono #based:movie #lang:fr,29
+#players:1 #genre:action:adventure #compatibility:gameboy>mono #based:movie:jurassicpark #lang:en,30
+#players:1 #genre:action:adventure #compatibility:gameboy>mono #based:movie:jurassicpark #lang:en:fr:de:es:it,31
+#players:1 #genre:action:adventure #compatibility:gameboy>mono #port:nec>pc88 #search:franchise>dragonslayer #lang:en,32
+#players:1 #genre:action:adventure #compatibility:gameboy>mono #save:password #based:movie #lang:en,33
+#players:1 #genre:action:adventure #compatibility:gameboy>mono #save:password #based:movie #lang:fr,34
+#players:1 #genre:action:adventure #save:password #compatibility:gameboy>mono #based:manganime #lang:ja,35
+#players:1 #genre:action:adventure #save:password #compatibility:gameboy>mono #port:nintendo>famicom #lang:en:fr:de:es:it,36
+#players:1 #genre:action:puzzle #compatibility:gameboy>mono #lang:en,37
+#players:1 #genre:action:puzzle #compatibility:gameboy>mono #lang:en #unfinished:beta,38
+#players:1 #genre:action:puzzle #compatibility:gameboy>mono #lang:en #unfinished:proto,39
+#players:1 #genre:action:puzzle #compatibility:gameboy>mono #port:arcade #lang:en,40
+#players:1 #genre:action:puzzle #compatibility:gameboy>mono #port:arcade #lang:ja,41
+#players:1 #genre:action:puzzle #compatibility:gameboy>mono>sgb #port:arcade #lang:en,42
+#players:1 #genre:action:puzzle #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,43
+#players:1 #genre:action:puzzle #save:password #compatibility:gameboy>mono #lang:en,44
+#players:1 #genre:action:puzzle #save:password #compatibility:gameboy>mono #lang:en #unfinished:proto,45
+#players:1 #genre:action:puzzle #save:password #compatibility:gameboy>mono #lang:en:fr:de:es:it:nl,46
+#players:1 #genre:action:puzzle #save:password #compatibility:gameboy>mono #lang:en:fr:de:es:it:nl #unfinished:beta,47
+#players:1 #genre:action:puzzle #save:password #compatibility:gameboy>mono #port:sony>playstation #lang:en,48
+#players:1 #genre:action:shmup #compatibility:gameboy>mono #port:apple>mac #lang:en,49
+#players:1 #genre:action:shmup:puzzle #save:password #compatibility:gameboy>mono #lang:en,50
+#players:1 #genre:action:shmup:puzzle #save:password #compatibility:gameboy>mono #lang:en #unfinished:beta,51
+#players:1 #genre:action:shmup:puzzle #save:password #compatibility:gameboy>mono #lang:en #unfinished:proto,52
+#players:1 #genre:action:sim>strategy #compatibility:gameboy>mono #port:commodore>amiga #lang:en,53
+#players:1 #genre:action:sports>soccer #compatibility:gameboy>mono #port:commodore>amiga #lang:en,54
+#players:1 #genre:action:sports>soccer #compatibility:gameboy>mono #port:commodore>amiga #lang:en #unfinished:proto,55
+#players:1 #genre:action>blockbreaker #compatibility:gameboy>mono #lang:en,56
+#players:1 #genre:action>blockbreaker #compatibility:gameboy>mono #port:arcade #lang:en,57
+#players:1 #genre:action>blockbreaker #compatibility:gameboy>mono>sgb #lang:ja,58
+#players:1 #genre:action>blockbreaker #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:en,59
+#players:1 #genre:action>blockbreaker:puzzle #save:password #compatibility:gameboy>mono #lang:en #rev:1 #unlicensed,60
+#players:1 #genre:action>blockbreaker:puzzle #save:password #compatibility:gameboy>mono #lang:en #unlicensed,61
+#players:1 #genre:action>blockbreaker:shooting>gallery #compatibility:gameboy>mono>sgb #multigame:compilation>superbreakout>battlezone #port:arcade #lang:en,62
+#players:1 #genre:action>hackandslash #compatibility:gameboy>mono #based:manganime #lang:ja,63
+#players:1 #genre:action>hackandslash #compatibility:gameboy>mono #based:movie #lang:en,64
+#players:1 #genre:action>hackandslash #compatibility:gameboy>mono #based:tmnt #lang:en,65
+#players:1 #genre:action>hackandslash #compatibility:gameboy>mono #based:tmnt #lang:en #rerelease:cowabunga,66
+#players:1 #genre:action>hackandslash #compatibility:gameboy>mono #based:tmnt #lang:ja,67
+#players:1 #genre:action>hackandslash #compatibility:gameboy>mono #based:tmnt #lang:ja #rerelease:cowabunga,68
+#players:1 #genre:action>hackandslash #compatibility:gameboy>mono #lang:en #unfinished:proto,69
+#players:1 #genre:action>hackandslash #compatibility:gameboy>mono #port:arcade #lang:en,70
+#players:1 #genre:action>hackandslash #compatibility:gameboy>mono #port:arcade #lang:en #unfinished:beta,71
+#players:1 #genre:action>hackandslash #save:password #compatibility:gameboy>mono>sgb #based #lang:en,72
+#players:1 #genre:action>hackandslash #save:password #compatibility:gameboy>mono>sgb #based #lang:en #unfinished:beta,73
+#players:1 #genre:action>hackandslash #save:password #compatibility:gameboy>mono>sgb #based:movie #lang:en,74
+#players:1 #genre:action>hackandslash>platformer #compatibility:gameboy>mono #lang:en,75
+#players:1 #genre:action>hackandslash>platformer #compatibility:gameboy>mono #lang:ja,76
+#players:1 #genre:action>hackandslash>platformer:fighting #save:password #compatibility:gameboy>mono #based:manganime #lang:ja,77
+#players:1 #genre:action>maze #compatibility:gameboy>mono #lang:en,78
+#players:1 #genre:action>maze #compatibility:gameboy>mono #lang:en #unlicensed,79
+#players:1 #genre:action>maze #compatibility:gameboy>mono #port:arcade #lang:en,80
+#players:1 #genre:action>maze #compatibility:gameboy>mono #reboxed #lang:en,81
+#players:1 #genre:action>maze #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,82
+#players:1 #genre:action>maze #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,83
+#players:1 #genre:action>maze #save:password #compatibility:gameboy>mono #port:arcade #lang:en,84
+#players:1 #genre:action>maze #save:password #compatibility:gameboy>mono #port:arcade #lang:ja,85
+#players:1 #genre:action>maze #save:password #compatibility:gameboy>mono>sgb #based:looneytunes #multigame:compilation>rogerrabbit>mickeymouse2 #lang:en,86
+#players:1 #genre:action>maze #save:password #compatibility:gameboy>mono>sgb #based:looneytunes #multigame:compilation>rogerrabbit>mickeymouse2 #lang:en #rev:1,87
+#players:1 #genre:action>maze #save:password #compatibility:gameboy>mono>sgb #lang:ja,88
+#players:1 #genre:action>maze:adventure #save:password #compatibility:gameboy>mono #based:manganime #lang:ja,89
+#players:1 #genre:action>maze:shmup #compatibility:gameboy>mono #lang:en,90
+#players:1 #genre:action>maze:shmup>h #compatibility:gameboy>mono #based #lang:ja,91
+#players:1 #genre:action>maze>platformer:puzzle>drop:board #compatibility:gameboy>mono #multigame #lang:en #unlicensed,92
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #lang:en,93
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #lang:en #rev:1,94
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #lang:en #unfinished:beta,95
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #lang:ja,96
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #lang:ja #unfinished:proto,97
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #port:commodore>c64 #lang:en,98
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #port:nintendo>famicom #lang:en,99
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #port:pc #lang:en,100
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #port:pc #lang:en #unfinished:beta,101
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #search:feature>alien #lang:en,102
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #search:feature>alien #lang:ja,103
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #search:feature>asterix #lang:en #unfinished:proto>1,104
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #search:feature>asterix #lang:en #unfinished:proto>2,105
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #search:feature>asterix #lang:en #unfinished:proto>3,106
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #search:feature>asterix #lang:en:fr:de:es:it,107
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #search:feature>batman #lang:en,108
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based #search:feature>batman #port:nintendo>famicom #lang:en,109
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #lang:en,110
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #lang:ja,111
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #port:nintendo>famicom #lang:de,112
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #port:nintendo>famicom #lang:en,113
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #port:nintendo>famicom #lang:en #unfinished:beta,114
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #port:nintendo>famicom #lang:es,115
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #port:nintendo>famicom #lang:ja,116
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #port:nintendo>famicom #reboxed #lang:en,117
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #port:nintendo>famicom #reboxed:disneysclassic #lang:en,118
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #port:nintendo>famicom #reboxed:playerschoice #lang:en,119
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #reboxed #lang:en,120
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #reboxed:playerschoice #lang:en,121
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #search:feature>donald #lang:en,122
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #search:feature>mickey #lang:en,123
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #search:feature>mickey #lang:ja,124
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #search:feature>mickey #reboxed:disneysclassic #lang:en,125
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:disney #search:feature>mickey #reboxed:playerschoice #lang:en,126
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:jurassicpark #lang:en:fr:de:it,127
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:manganime #lang:en,128
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:manganime #lang:ja,129
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:manganime #search:feature>compatihero>gundam #lang:ja,130
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:marvel #search:feature>spiderman #lang:en,131
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:marvel #search:feature>spiderman>xmen #port:nintendo>superfamicom #lang:en,132
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie #lang:en,133
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie #lang:en #unfinished:beta,134
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie #lang:en #unfinished:proto,135
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie #lang:en:fr:de,136
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie #lang:ja,137
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie #port:nintendo>superfamicom #lang:en,138
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie #port:nintendo>superfamicom #lang:en #unfinished:proto>1,139
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie #port:nintendo>superfamicom #lang:en #unfinished:proto>2,140
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie #port:nintendo>superfamicom #lang:ja,141
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie #port:spectrum #lang:en,142
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie #port:spectrum #lang:en #unfinished:proto,143
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie #port:spectrum #lang:ja,144
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie #search:feature>batman #lang:en,145
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie #search:feature>dracula #lang:en,146
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie:disney #lang:en,147
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie:disney #lang:en #rerelease:disneyclassic,148
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie:disney #port:sega>megadrive #lang:en,149
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie:disney #port:sega>megadrive #lang:en #rerelease:disneyclassic,150
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie:disney #port:sega>megadrive #reboxed #lang:en,151
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie:disney #port:sega>megadrive #reboxed:disneysclassic #lang:en,152
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie:starwars #port:nintendo>famicom #lang:en,153
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie:starwars #port:nintendo>famicom #lang:en #rev:1,154
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:movie:starwars #port:nintendo>famicom #reboxed #lang:en,155
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:simpsons #lang:en,156
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:smurfs #lang:en:fr:de:es,157
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #based:smurfs #reboxed #lang:en:fr:de:es,158
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #lang:en,159
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #lang:en #rev:1,160
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #lang:en #rev:1 #unlicensed,161
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #lang:en #unfinished:beta,162
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #lang:en #unfinished:beta>1,163
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #lang:en #unfinished:beta>2,164
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #lang:en #unlicensed,165
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #lang:en #unlicensed:clone,166
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #lang:ja,167
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #lang:ja #unlicensed:clone,168
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #port:arcade #lang:en,169
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #port:arcade #lang:ja,170
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #port:commodore>amiga #lang:en,171
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #port:commodore>amiga #lang:en #unfinished:proto,172
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #port:commodore>amiga #lang:en:fr:de:es:it,173
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #port:commodore>c64 #lang:en,174
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #port:commodore>c64 #lang:en #unfinished:beta,175
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #port:nec>pcengine #lang:en,176
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #port:nintendo>famicom #based #lang:en,177
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #port:nintendo>famicom #based #lang:en #unfinished:beta,178
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #port:nintendo>famicom #lang:en,179
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #reboxed:classicserie #lang:en,180
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #reboxed:playerschoice #lang:en,181
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #rev:1 #lang:en #unlicensed,182
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #save:password #based #port:nintendo>famicom #lang:en,183
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #save:password #based:looneytunes #lang:en,184
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #save:password #based:looneytunes #port:nintendo>famicom #lang:en,185
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #save:password #based:looneytunes #port:nintendo>famicom #reboxed:classicserie #lang:en,186
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #save:password #based:looneytunes #port:nintendo>famicom #reboxed:playerschoice #lang:en,187
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #save:password #based:looneytunes #reboxed:playerschoice #lang:en,188
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #search:feature>mario #lang:en,189
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #search:feature>mario #reboxed:classicserie #lang:en #rev:1,190
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #search:feature>mario #reboxed:playerschoice #lang:en #rev:1,191
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #search:franchise>castlevania:feature>dracula #lang:en,192
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #search:franchise>castlevania:feature>dracula #lang:en #rerelease:castlevaniaanniversary,193
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #search:keyword>brand #lang:en,194
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #search:keyword>brand #lang:en #unfinished:proto>1,195
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #search:keyword>brand #lang:en #unfinished:proto>2,196
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #search:keyword>brand #lang:en #unfinished:proto>3,197
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #search:keyword>brand #lang:en #unfinished:proto>4,198
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #search:keyword>brand #port:commodore>amiga #lang:en #unfinished:proto,199
+#players:1 #genre:action>platformer #compatibility:gameboy>mono #search:keyword>brand #port:sega>megadrive #lang:en,200
+#players:1 #genre:action>platformer #compatibility:gameboy>mono>sgb #based #lang:en #unfinished:proto,201
+#players:1 #genre:action>platformer #compatibility:gameboy>mono>sgb #based #lang:ja,202
+#players:1 #genre:action>platformer #compatibility:gameboy>mono>sgb #based:movie #lang:en,203
+#players:1 #genre:action>platformer #compatibility:gameboy>mono>sgb #based:movie:disney #lang:en,204
+#players:1 #genre:action>platformer #compatibility:gameboy>mono>sgb #based:movie:disney #lang:en #rerelease:disneyclassic,205
+#players:1 #genre:action>platformer #compatibility:gameboy>mono>sgb #based:movie:disney #lang:en #unfinished:sample,206
+#players:1 #genre:action>platformer #compatibility:gameboy>mono>sgb #based:movie:disney #port:sega>megadrive #lang:en,207
+#players:1 #genre:action>platformer #compatibility:gameboy>mono>sgb #based:movie:disney #port:sega>megadrive #lang:en #rev:1,208
+#players:1 #genre:action>platformer #compatibility:gameboy>mono>sgb #based:movie:disney #reboxed #lang:en,209
+#players:1 #genre:action>platformer #compatibility:gameboy>mono>sgb #based:movie:disney #reboxed:disneysclassic #lang:en,210
+#players:1 #genre:action>platformer #compatibility:gameboy>mono>sgb #port:commodore>amiga #lang:en,211
+#players:1 #genre:action>platformer #compatibility:gameboy>mono>sgb #port:commodore>amiga #lang:en #unfinished:beta,212
+#players:1 #genre:action>platformer #compatibility:gameboy>mono>sgb #search:franchise>castlevania:feature>dracula #lang:en,213
+#players:1 #genre:action>platformer #compatibility:gameboy>mono>sgb #search:franchise>castlevania:feature>dracula #lang:ja,214
+#players:1 #genre:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,215
+#players:1 #genre:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono #reboxed:classicserie #lang:en,216
+#players:1 #genre:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono #reboxed:playerschoice #lang:en,217
+#players:1 #genre:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono #search:feature>mario #lang:en,218
+#players:1 #genre:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono #search:feature>mario #lang:en #rev:1,219
+#players:1 #genre:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono #search:feature>mario #lang:en #rev:2,220
+#players:1 #genre:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono #search:feature>mario #reboxed:classicserie #lang:en #rev:2,221
+#players:1 #genre:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono #search:feature>mario #reboxed:playerschoice #lang:en #rev:1,222
+#players:1 #genre:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:en,223
+#players:1 #genre:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:en #unfinished:beta,224
+#players:1 #genre:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,225
+#players:1 #genre:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja #unfinished:proto,226
+#players:1 #genre:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #reboxed:classicserie #lang:en,227
+#players:1 #genre:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #reboxed:classicserie #lang:en #rev:1,228
+#players:1 #genre:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #reboxed:playerschoice #lang:en,229
+#players:1 #genre:action>platformer #port:sega>megadrive #compatibility:gameboy>mono #lang:en,230
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based #lang:en,231
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based #lang:en #unfinished:beta,232
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based #lang:en:fr:de,233
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based #reboxed #lang:en:fr:de,234
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based:disney #search:feature>mickey #lang:en,235
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based:disney #search:feature>mickey #lang:ja,236
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based:disney #search:feature>mickey #lang:ja #rev:1,237
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based:disney #search:feature>mickey #port:nintendo>famicom #lang:en,238
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based:disney #search:feature>mickey #reboxed:playerschoice #lang:en,239
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based:looneytunes #lang:en,240
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based:looneytunes #lang:ja,241
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based:manganime #lang:ja,242
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based:movie #lang:en,243
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based:movie #lang:ja,244
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based:movie #reboxed #lang:en,245
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based:smurfs #lang:en:fr:de:es,246
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #based:smurfs #reboxed #lang:en:fr:de:es,247
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #lang:en,248
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #lang:en #rev:1,249
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #lang:en #unfinished:beta,250
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #lang:en #unfinished:proto,251
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #lang:en #unfinished:sample,252
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #lang:en #unlicensed:clone,253
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #lang:en:fr:de:es,254
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #lang:en:fr:de:es:it,255
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #lang:ja,256
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #port:nintendo>famicom #lang:en,257
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #port:nintendo>famicom #lang:ja,258
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #reboxed:playerschoice #lang:en,259
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #search:franchise>castlevania:feature>dracula #lang:en,260
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #search:franchise>castlevania:feature>dracula #lang:en #rerelease:castlevaniaanniversary,261
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #search:franchise>castlevania:feature>dracula #lang:ja,262
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #search:franchise>castlevania:feature>dracula #lang:ja #rerelease:castlevaniaanniversary,263
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #search:franchise>castlevania:feature>dracula #port:nintendo>famicom #lang:en,264
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono #search:franchise>castlevania:feature>dracula #port:nintendo>famicom #lang:ja,265
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based #lang:en:es:it:sv,266
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based #lang:en:es:it:sv #unfinished:beta,267
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based #reboxed #lang:en:es:it:sv,268
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based #reboxed #lang:en:fr:de:nl,269
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based:disney #search:feature>mickey #lang:ja,270
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based:looneytunes #lang:en,271
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based:looneytunes #rev:1 #lang:en,272
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,273
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based:marvel #lang:en,274
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based:movie #lang:en,275
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based:movie:disney #lang:en,276
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based:movie:jurassicpark #lang:en,277
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based:smurfs #lang:en:fr:de,278
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based:smurfs #lang:en:fr:de #rev:1,279
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based:smurfs #lang:en:fr:de:es,280
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based:smurfs #reboxed #lang:en:fr:de:es,281
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #based:smurfs #reboxed:playerschoice #lang:en:fr:de,282
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #lang:en,283
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #lang:ja,284
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #search:feature>alien #lang:en,285
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #search:feature>alien #lang:en #unfinished:beta,286
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #search:feature>alien #lang:ja,287
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #search:feature>pacman #port:commodore>amiga #lang:en,288
+#players:1 #genre:action>platformer #save:password #compatibility:gameboy>mono>sgb #search:feature>pacman #port:commodore>amiga #lang:en #rev:1,289
+#players:1 #genre:action>platformer #save:password #port:nintendo>superfamicom #compatibility:gameboy>mono #lang:en,290
+#players:1 #genre:action>platformer #search:keyword>brand #port:commodore>amiga #lang:en,291
+#players:1 #genre:action>platformer:adventure #compatibility:gameboy>mono #based:movie:starwars #port:nintendo>famicom #lang:en,292
+#players:1 #genre:action>platformer:adventure #compatibility:gameboy>mono #based:movie:starwars #port:nintendo>famicom #lang:en #rev:1,293
+#players:1 #genre:action>platformer:adventure #compatibility:gameboy>mono #based:movie:starwars #port:nintendo>famicom #reboxed:playerschoice #lang:en #rev:1,294
+#players:1 #genre:action>platformer:minigames #compatibility:gameboy>mono #based:manganime #lang:ja,295
+#players:1 #genre:action>platformer:minigames #compatibility:gameboy>mono>sgb #multigame:compilation>gbgenjin>gbgenjin2>gbgenjinlandvco #search:feature>alien #lang:ja,296
+#players:1 #genre:action>platformer:parlor>mogurataiji #save:password #compatibility:gameboy>mono #based:looneytunes #lang:en,297
+#players:1 #genre:action>platformer:parlor>mogurataiji #save:password #compatibility:gameboy>mono #based:looneytunes #lang:en #unfinished:beta,298
+#players:1 #genre:action>platformer:parlor>mogurataiji #save:password #compatibility:gameboy>mono #based:looneytunes #lang:ja,299
+#players:1 #genre:action>platformer:parlor>mogurataiji #save:password #compatibility:gameboy>mono #based:looneytunes #lang:ja #unfinished:beta,300
+#players:1 #genre:action>platformer:puzzle #compatibility:gameboy>mono #based #lang:en,301
+#players:1 #genre:action>platformer:puzzle #compatibility:gameboy>mono #based:movie #lang:en,302
+#players:1 #genre:action>platformer:puzzle #compatibility:gameboy>mono #based:movie #lang:en #unfinished:beta,303
+#players:1 #genre:action>platformer:puzzle #compatibility:gameboy>mono #lang:en,304
+#players:1 #genre:action>platformer:puzzle #compatibility:gameboy>mono #lang:ja,305
+#players:1 #genre:action>platformer:puzzle #compatibility:gameboy>mono>sgb #save:password #port:sega>megadrive #based:looneytunes #lang:en,306
+#players:1 #genre:action>platformer:puzzle #embedded:backup>battery:gbkiss #save:backup:password #compatibility:gameboy>mono>sgb #lang:en,307
+#players:1 #genre:action>platformer:puzzle #embedded:backup>battery:gbkiss #save:backup:password #compatibility:gameboy>mono>sgb #lang:ja,308
+#players:1 #genre:action>platformer:puzzle #save:password #compatibility:gameboy>mono #based #port:msx #lang:en,309
+#players:1 #genre:action>platformer:puzzle #save:password #compatibility:gameboy>mono #lang:ja,310
+#players:1 #genre:action>platformer:puzzle #save:password #compatibility:gameboy>mono>sgb #lang:ja,311
+#players:1 #genre:action>platformer:puzzle #save:password #port:commodore>amiga #compatibility:gameboy>mono #based:simpsons #lang:en,312
+#players:1 #genre:action>platformer:puzzle:action>blockbreaker #save:password #compatibility:gameboy>mono #lang:en,313
+#players:1 #genre:action>platformer:puzzle:action>blockbreaker #save:password #compatibility:gameboy>mono #lang:en:fr:de:es:it:nl:sv,314
+#players:1 #genre:action>platformer:puzzle:rpg #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,315
+#players:1 #genre:action>platformer:racing:shmup>h #save:password #compatibility:gameboy>mono #multigame:compilation>bubblebobble>taitochasehq>elevatoraction>sagaia #lang:en,316
+#players:1 #genre:action>platformer:racing:shmup>h #save:password #compatibility:gameboy>mono #multigame:compilation>bubblebobble>taitochasehq>elevatoraction>sagaia #lang:ja,317
+#players:1 #genre:action>platformer:rhythm #compatibility:gameboy>mono>sgb #based #lang:ja,318
+#players:1 #genre:action>platformer:rpg>a:shmup>h #compatibility:gameboy>mono #based:manganime #lang:ja,319
+#players:1 #genre:action>platformer:rpg>j #embedded:backup>battery #save:backup:password #compatibility:gameboy>mono>sgb #multigame:compilation>momotaroudengeki2>momotaroudensetsugaiden #lang:ja,320
+#players:1 #genre:action>platformer:shmup:action>maze:sports>golf #save:password #compatibility:gameboy>mono>sgb #multigame:compilation>battlecity>galaga>mappy>namcoclassic #port:arcade:nintendo>famicom #lang:en,321
+#players:1 #genre:action>platformer:shmup>h #compatibility:gameboy>mono #based:looneytunes #lang:en,322
+#players:1 #genre:action>platformer:shmup>h #compatibility:gameboy>mono #based:marvel #port:arcade #lang:en,323
+#players:1 #genre:action>platformer:shmup>h #save:password #compatibility:gameboy>mono>sgb #based #lang:en:fr:de:es,324
+#players:1 #genre:action>platformer:shmup>h #save:password #compatibility:gameboy>mono>sgb #based #lang:en:fr:de:es #unfinished:beta,325
+#players:1 #genre:action>platformer:shmup>h:fighting #save:password #compatibility:gameboy>mono>sgb #based #lang:ja,326
+#players:1 #genre:action>platformer:shmup>v #save:password #compatibility:gameboy>mono>sgb #based:movie:starwars #port:nintendo>superfamicom #lang:en,327
+#players:1 #genre:action>platformer:shmup>v:sports>soccer:puzzle>drop:fighting #compatibility:gameboy>mono #multigame:compilation #lang:en #unlicensed,328
+#players:1 #genre:action>platformer:shooting>gallery #save:password #compatibility:gameboy>mono #based #lang:en:fr:de:es,329
+#players:1 #genre:action>platformer:sports>golf #compatibility:gameboy>mono #based:simpsons #lang:en,330
+#players:1 #genre:action>platformer:sports>golf #compatibility:gameboy>mono #based:simpsons #lang:en #unfinished:beta,331
+#players:1 #genre:action>platformer:sports>skateboarding #compatibility:gameboy>mono #lang:en,332
+#players:1 #genre:action>platformer>hackandslash #compatibility:gameboy>mono>sgb #based #search:feature>asterix #lang:en:es,333
+#players:1 #genre:action>platformer>hackandslash #compatibility:gameboy>mono>sgb #based #search:feature>asterix #lang:fr:de,334
+#players:1 #genre:action>platformer>hackandslash #compatibility:gameboy>mono>sgb #based #search:feature>asterix #lang:fr:de #unfinished:beta,335
+#players:1 #genre:action>platformer>hackandslash:shmup>h #compatibility:gameboy>mono #lang:en,336
+#players:1 #genre:action>platformer>hackandslash:shmup>h #compatibility:gameboy>mono #lang:en #unfinished:proto,337
+#players:1 #genre:action>platformer>hackandslash:shmup>h #compatibility:gameboy>mono #lang:ja,338
+#players:1 #genre:action>platformer>maze #compatibility:gameboy>mono #based:movie #lang:en,339
+#players:1 #genre:action>platformer>maze #compatibility:gameboy>mono #based:movie #lang:ja,340
+#players:1 #genre:action>platformer>maze #compatibility:gameboy>mono #lang:en,341
+#players:1 #genre:action>platformer>metroidvania #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,342
+#players:1 #genre:action>platformer>metroidvania #embedded:backup>battery #save:backup #compatibility:gameboy>mono #reboxed:playerschoice #lang:en,343
+#players:1 #genre:action>platformer>metroidvania #save:password #compatibility:gameboy>mono #based:tmnt #lang:en,344
+#players:1 #genre:action>platformer>metroidvania #save:password #compatibility:gameboy>mono #based:tmnt #lang:en #rerelease:cowabunga,345
+#players:1 #genre:action>platformer>metroidvania #save:password #compatibility:gameboy>mono #based:tmnt #lang:en #rev:1,346
+#players:1 #genre:action>platformer>metroidvania #save:password #compatibility:gameboy>mono #based:tmnt #lang:en #rev:1 #unfinished:beta,347
+#players:1 #genre:action>platformer>metroidvania #save:password #compatibility:gameboy>mono #based:tmnt #lang:ja,348
+#players:1 #genre:action>platformer>metroidvania #save:password #compatibility:gameboy>mono #based:tmnt #lang:ja #rerelease:cowabunga,349
+#players:1 #genre:action>platformer>metroidvania #save:password #compatibility:gameboy>mono #lang:en,350
+#players:1 #genre:action>platformer>metroidvania #save:password #compatibility:gameboy>mono #lang:en #lang:en:fr:es:it:de:nl:sv,351
+#players:1 #genre:action>platformer>metroidvania #save:password #compatibility:gameboy>mono #lang:en:fr:de:es:it:nl:sv,352
+#players:1 #genre:action>platformer>metroidvania #save:password #compatibility:gameboy>mono #lang:en:fr:de:es:it:nl:sv #unfinished:beta,353
+#players:1 #genre:action>platformer>runandgun #compatibility:gameboy>mono #based:manganime #lang:ja,354
+#players:1 #genre:action>runandgun #compatibility:gameboy>mono #based:movie #port:arcade #lang:en,355
+#players:1 #genre:action>runandgun #compatibility:gameboy>mono #based:movie #port:arcade #lang:en #rev:1,356
+#players:1 #genre:action>runandgun #compatibility:gameboy>mono #lang:en,357
+#players:1 #genre:action>runandgun #compatibility:gameboy>mono #lang:en #rerelease:contraanniversary,358
+#players:1 #genre:action>runandgun #compatibility:gameboy>mono #lang:en #unfinished:proto,359
+#players:1 #genre:action>runandgun #compatibility:gameboy>mono #port:arcade #lang:en,360
+#players:1 #genre:action>runandgun #compatibility:gameboy>mono #port:arcade #lang:en:fr:de:es:it:nl:sv,361
+#players:1 #genre:action>runandgun #compatibility:gameboy>mono #port:arcade #lang:en:fr:de:es:it:nl:sv #unfinished:beta,362
+#players:1 #genre:action>runandgun #save:password #compatibility:gameboy>mono #based #lang:en,363
+#players:1 #genre:action>runandgun #save:password #compatibility:gameboy>mono #based:movie #lang:en,364
+#players:1 #genre:action>runandgun #save:password #compatibility:gameboy>mono>sgb #port:nintendo>superfamicom #lang:en,365
+#players:1 #genre:action>runandgun #save:password #compatibility:gameboy>mono>sgb #port:nintendo>superfamicom #lang:en #unfinished:beta,366
+#players:1 #genre:action>runandgun:puzzle #compatibility:gameboy>mono #based:movie #lang:en,367
+#players:1 #genre:action>runandgun:shmup #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,368
+#players:1 #genre:action>runandgun>platformer #compatibility:gameboy>mono #port:commodore>c64 #lang:en,369
+#players:1 #genre:action>runandgun>platformer #compatibility:gameboy>mono #port:commodore>c64 #reboxed #lang:en,370
+#players:1 #genre:action>runandgun>platformer #compatibility:gameboy>mono #search:feature>dracula #lang:en,371
+#players:1 #genre:action>runandgun>platformer #compatibility:gameboy>mono #search:feature>dracula #lang:ja,372
+#players:1 #genre:action>runandgun>platformer #compatibility:gameboy>mono #search:feature>dracula #reboxed #lang:en,373
+#players:1 #genre:action>runandgun>platformer #save:password #compatibility:gameboy>mono #based:movie #lang:en,374
+#players:1 #genre:adventure #save:password #compatibility:gameboy>mono #based #lang:en,375
+#players:1 #genre:adventure #save:password #compatibility:gameboy>mono #lang:ja,376
+#players:1 #genre:adventure #save:password #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,377
+#players:1 #genre:adventure:action #save:password #compatibility:gameboy>mono #based:movie:disney #lang:en,378
+#players:1 #genre:adventure:action #save:password #compatibility:gameboy>mono #based:movie:disney #lang:es,379
+#players:1 #genre:adventure:action #save:password #compatibility:gameboy>mono #based:movie:disney #reboxed:disneysclassic #lang:en,380
+#players:1 #genre:adventure:action>platformer #compatibility:gameboy>mono>sgb #based:movie #lang:en,381
+#players:1 #genre:adventure:action>platformer #compatibility:gameboy>mono>sgb #based:movie #lang:en #unfinished:proto,382
+#players:1 #genre:adventure:fighting #save:password #compatibility:gameboy>mono #based:manganime #lang:ja,383
+#players:1 #genre:adventure:puzzle #save:password #compatibility:gameboy>mono #based:manganime #lang:ja,384
+#players:1 #genre:board #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,385
+#players:1 #genre:board:puzzle #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,386
+#players:1 #genre:board:sim>cardgame #compatibility:gameboy>mono #lang:ja,387
+#players:1 #genre:board>cards #compatibility:gameboy>mono #lang:en,388
+#players:1 #genre:board>cards #compatibility:gameboy>mono #lang:fr:de,389
+#players:1 #genre:board>cards:notagame>educational #compatibility:gameboy>mono #lang:en #unfinished:proto,390
+#players:1 #genre:board>cards:parlor>jackpot #compatibility:gameboy>mono #lang:en,391
+#players:1 #genre:board>cards:parlor>jackpot #compatibility:gameboy>mono #search:keyword>official #lang:en,392
+#players:1 #genre:board>cards:parlor>jackpot #compatibility:gameboy>mono #search:keyword>official #lang:en #rev:1,393
+#players:1 #genre:board>cards:parlor>jackpot #compatibility:gameboy>mono #search:keyword>official #lang:en:fr:de:es:it,394
+#players:1 #genre:board>chess #compatibility:gameboy>mono #lang:en,395
+#players:1 #genre:board>chess #compatibility:gameboy>mono #lang:en:ja,396
+#players:1 #genre:board>chess #compatibility:gameboy>mono #port:nintendo>famicom #lang:en,397
+#players:1 #genre:board>chess #compatibility:gameboy>mono #port:nintendo>famicom #lang:en #rev:1,398
+#players:1 #genre:board>chess #compatibility:gameboy>mono #port:nintendo>famicom #reboxed #lang:en,399
+#players:1 #genre:board>go #compatibility:gameboy>mono #lang:en:ja,400
+#players:1 #genre:board>go #compatibility:gameboy>mono #search:keyword>endorsed #lang:ja,401
+#players:1 #genre:board>go #save:password #compatibility:gameboy>mono>sgb #search:keyword>endorsed #lang:ja,402
+#players:1 #genre:board>mahjong #compatibility:gameboy>mono>sgb #lang:ja,403
+#players:1 #genre:board>mahjong:minigames #compatibility:gameboy>mono>sgb #search:keyword>brand #lang:ja,404
+#players:1 #genre:board>mahjong:puzzle>drop #save:password #compatibility:gameboy>mono #multigame #lang:en:zh #unlicensed:clone,405
+#players:1 #genre:board>mahjong:quiz #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #search:keyword>endorsed #lang:ja,406
+#players:1 #genre:board>party #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,407
+#players:1 #genre:board>shougi #compatibility:gameboy>mono #lang:ja,408
+#players:1 #genre:board>shougi #compatibility:gameboy>mono>sgb #lang:ja,409
+#players:1 #genre:board>shougi #compatibility:gameboy>mono>sgb #lang:ja #rev:1,410
+#players:1 #genre:board>shougi #compatibility:gameboy>mono>sgb #lang:ja #unfinished:beta,411
+#players:1 #genre:board>shougi #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,412
+#players:1 #genre:board>shougi #save:password #compatibility:gameboy>mono #lang:ja,413
+#players:1 #genre:brawler #compatibility:gameboy>mono #based #lang:ja,414
+#players:1 #genre:brawler #compatibility:gameboy>mono #based:movie #lang:en,415
+#players:1 #genre:brawler #compatibility:gameboy>mono #based:movie #lang:en #unfinished:beta,416
+#players:1 #genre:brawler #compatibility:gameboy>mono #based:tmnt #lang:en,417
+#players:1 #genre:brawler #compatibility:gameboy>mono #based:tmnt #lang:en #rerelease:cowabunga,418
+#players:1 #genre:brawler #compatibility:gameboy>mono #based:tmnt #lang:en #unfinished:beta,419
+#players:1 #genre:brawler #compatibility:gameboy>mono #based:tmnt #reboxed #lang:en,420
+#players:1 #genre:brawler #compatibility:gameboy>mono #lang:en,421
+#players:1 #genre:brawler:action>platformer #compatibility:gameboy>mono #lang:en,422
+#players:1 #genre:brawler:action>platformer:shmup>h #compatibility:gameboy>mono #port:nintendo>famicom #lang:en,423
+#players:1 #genre:fighting #compatibility:gameboy>mono #based:manganime #lang:ja,424
+#players:1 #genre:fighting #compatibility:gameboy>mono #port:arcade #lang:en,425
+#players:1 #genre:fighting #compatibility:gameboy>mono #port:arcade #lang:en #unfinished:beta,426
+#players:1 #genre:fighting #compatibility:gameboy>mono>sgb #based:manganime #search:feature>compatihero>gundam #lang:ja,427
+#players:1 #genre:fighting #compatibility:gameboy>mono>sgb #lang:ja,428
+#players:1 #genre:fighting:action>hackandslash #compatibility:gameboy>mono #based:movie #lang:en,429
+#players:1 #genre:fighting:action>hackandslash #compatibility:gameboy>mono #based:movie #lang:en #unfinished:proto,430
+#players:1 #genre:fighting:sports>boxing #save:password #compatibility:gameboy>mono #search:keyword>endorsed #lang:en,431
+#players:1 #genre:fighting:sports>boxing #save:password #compatibility:gameboy>mono #search:keyword>endorsed #port:sega>megadrive #lang:en,432
+#players:1 #genre:fighting:sports>kickboxing #compatibility:gameboy>mono #port:commodore>amiga #lang:en,433
+#players:1 #genre:fighting:sports>sumo #compatibility:gameboy>mono #based:manganime #lang:ja,434
+#players:1 #genre:fighting:sports>wrestling #compatibility:gameboy>mono #based #lang:ja,435
+#players:1 #genre:fighting:sports>wrestling #compatibility:gameboy>mono #search:keyword>official #lang:en,436
+#players:1 #genre:fighting:sports>wrestling #compatibility:gameboy>mono #search:keyword>official #lang:ja #unfinished:sample,437
+#players:1 #genre:fighting:sports>wrestling #save:password #compatibility:gameboy>mono #search:keyword>official #lang:en,438
+#players:1 #genre:minigames #addon:pocketcamera:printer>pocketprinter #compatibility:gameboy>mono>sgb #based #lang:ja #unfinished:proto,439
+#players:1 #genre:minigames #compatibility:gameboy>mono #based #lang:de,440
+#players:1 #genre:minigames #compatibility:gameboy>mono #based:manganime #lang:ja,441
+#players:1 #genre:minigames #compatibility:gameboy>mono #lang:ja,442
+#players:1 #genre:minigames #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,443
+#players:1 #genre:minigames #compatibility:gameboy>mono>sgb #multigame:compilation>ball>vermin>flagman>manhole>cementfactory #port:nintendo>gameandwatch #search:feature>mario #lang:en,444
+#players:1 #genre:minigames #compatibility:gameboy>mono>sgb #multigame:compilation>ball>vermin>flagman>manhole>cementfactory #port:nintendo>gameandwatch #search:feature>mario #reboxed #lang:en,445
+#players:1 #genre:minigames #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,446
+#players:1 #genre:minigames #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #multigame:compilation>manhole>oilpanic>octopus>fire #port:nintendo>gameandwatch #search:feature>mario #lang:en,447
+#players:1 #genre:minigames #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #multigame:compilation>manhole>oilpanic>octopus>fire #search:feature>mario #port:nintendo>gameandwatch #lang:en,448
+#players:1 #genre:minigames #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #multigame:compilation>manhole>oilpanic>octopus>fire #search:feature>mario #port:nintendo>gameandwatch #lang:ja,449
+#players:1 #genre:minigames #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #multigame:compilation>parachute>helmet>chef>vermin>donkeykong>ball #search:feature>mario #lang:ja,450
+#players:1 #genre:minigames #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #search:feature>mario #multigame:compilation>ball>vermin>flagman>manhole>cementfactory #port:nintendo>gameandwatch #lang:en,451
+#players:1 #genre:minigames #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #search:feature>mario #multigame:compilation>ball>vermin>flagman>manhole>cementfactory #port:nintendo>gameandwatch #lang:en #rev:1,452
+#players:1 #genre:minigames #embedded:gbkiss #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,453
+#players:1 #genre:minigames #save:password #compatibility:gameboy>mono #based:manganime #lang:ja,454
+#players:1 #genre:minigames #save:password #compatibility:gameboy>mono>sgb #based #lang:ja,455
+#players:1 #genre:minigames:action>blockbreaker:parlor>bowling:puzzle #save:password #compatibility:gameboy>mono>sgb #based:movie:disney #lang:en,456
+#players:1 #genre:minigames:action>platformer #compatibility:gameboy>mono #based:manganime #lang:ja,457
+#players:1 #genre:minigames:action>platformer #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,458
+#players:1 #genre:minigames:action>platformer #compatibility:gameboy>mono>sgb #lang:ja #unlicensed:clone,459
+#players:1 #genre:minigames:board>cards:parlor>jackpot #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:en,460
+#players:1 #genre:minigames:puzzle #compatibility:gameboy>mono #based:disney #search:feature>mickey #lang:en,461
+#players:1 #genre:minigames:puzzle #compatibility:gameboy>mono #based:disney #search:feature>mickey #lang:en #unfinished:beta,462
+#players:1 #genre:minigames:quiz #save:password #compatibility:gameboy>mono>sgb #based:disney #search:feature>mickey #lang:ja,463
+#players:1 #genre:minigames:shmup>h:racing:board>cards:parlor>jackpot:sim>derby #compatibility:gameboy>mono>sgb #lang:ja,464
+#players:1 #genre:minigames:sim>life #compatibility:gameboy>mono #based:manganime #lang:ja,465
+#players:1 #genre:minigames:sim>life #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,466
+#players:1 #genre:minigames:sports #compatibility:gameboy>mono #based:simpsons #lang:en,467
+#players:1 #genre:notagame #compatibility:gameboy>mono #lang:en #rev:1 #unlicensed,468
+#players:1 #genre:notagame #compatibility:gameboy>mono #lang:en #unlicensed,469
+#players:1 #genre:notagame>application #addon:link>gamelinkcable:keyboard>workboy #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en #unfinished:proto,470
+#players:1 #genre:notagame>application #addon:printer>pocketprinter #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en #unlicensed,471
+#players:1 #genre:notagame>application #addon:printer>pocketprinter #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,472
+#players:1 #genre:notagame>application #compatibility:gameboy>mono #lang:de #unlicensed,473
+#players:1 #genre:notagame>application #compatibility:gameboy>mono #lang:en,474
+#players:1 #genre:notagame>application #compatibility:gameboy>mono #lang:en #unfinished:demo #unlicensed,475
+#players:1 #genre:notagame>application #compatibility:gameboy>mono #lang:en #unfinished:proto,476
+#players:1 #genre:notagame>application #compatibility:gameboy>mono #lang:en #unlicensed,477
+#players:1 #genre:notagame>application #compatibility:gameboy>mono>color #lang:it:en:fr:de:es #unlicensed,478
+#players:1 #genre:notagame>application #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,479
+#players:1 #genre:notagame>application #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en #unlicensed,480
+#players:1 #genre:notagame>application #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,481
+#players:1 #genre:notagame>application #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja #rev:1 #unfinished:beta,482
+#players:1 #genre:notagame>application:minigames #addon:pocketcamera:printer>pocketprinter #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #search:feature>mario #lang:en,483
+#players:1 #genre:notagame>application:minigames #addon:pocketcamera:printer>pocketprinter #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #search:feature>mario #lang:ja,484
+#players:1 #genre:notagame>application:minigames #compatibility:gameboy>mono #lang:en #unlicensed,485
+#players:1 #genre:notagame>application>educational:sim>fishing:minigames #embedded:pocketsonar #compatibility:gameboy>mono #lang:ja,486
+#players:1 #genre:notagame>educational #compatibility:gameboy>mono #based:manganime #lang:ja,487
+#players:1 #genre:notagame>educational #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,488
+#players:1 #genre:notagame>educational #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja #rev:1,489
+#players:1 #genre:notagame>educational #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja #unfinished:proto,490
+#players:1 #genre:notagame>test #addon:pocketcamera #compatibility:gameboy>mono>sgb #lang:en,491
+#players:1 #genre:notagame>test #compatibility:gameboy>mono #lang:en #rev:1 #unlicensed,492
+#players:1 #genre:notagame>test #compatibility:gameboy>mono #lang:en #unfinished:proto,493
+#players:1 #genre:notagame>test #compatibility:gameboy>mono #lang:en #unlicensed,494
+#players:1 #genre:notagame>test #compatibility:gameboy>mono #lang:ja,495
+#players:1 #genre:parlor>billiards #compatibility:gameboy>mono #search:keyword>official #lang:en,496
+#players:1 #genre:parlor>pachinko #compatibility:gameboy>mono #save:password #lang:ja,497
+#players:1 #genre:parlor>pachinko #compatibility:gameboy>mono>sgb #based:manganime #search:feature>compatihero>gundam #lang:ja,498
+#players:1 #genre:parlor>pachinko #compatibility:gameboy>mono>sgb #lang:ja,499
+#players:1 #genre:parlor>pachinko #save:password #compatibility:gameboy>mono #lang:ja,500
+#players:1 #genre:parlor>pachinko #save:password #compatibility:gameboy>mono>sgb #lang:ja,501
+#players:1 #genre:parlor>pinball #compatibility:gameboy>mono #lang:en,502
+#players:1 #genre:parlor>pinball #compatibility:gameboy>mono #multigame:compilation>pinballdreams>pinballfantasies #lang:en,503
+#players:1 #genre:parlor>pinball #compatibility:gameboy>mono #port:commodore>amiga #lang:en,504
+#players:1 #genre:parlor>pinball #compatibility:gameboy>mono>sgb #lang:ja,505
+#players:1 #genre:parlor>pinball #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,506
+#players:1 #genre:parlor>pinball #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,507
+#players:1 #genre:parlor>pinball #embedded:backup>battery #save:backup #compatibility:gameboy>mono #reboxed:playerschoice #lang:en,508
+#players:1 #genre:parlor>pinball #save:password #compatibility:gameboy>mono #lang:ja,509
+#players:1 #genre:puzzle #addon:printer>pocketprinter #save:password #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,510
+#players:1 #genre:puzzle #compatibility:gameboy>mono #based #lang:en:fr:de:es,511
+#players:1 #genre:puzzle #compatibility:gameboy>mono #lang:en,512
+#players:1 #genre:puzzle #compatibility:gameboy>mono #lang:en #unfinished:beta,513
+#players:1 #genre:puzzle #compatibility:gameboy>mono #lang:en #unlicensed,514
+#players:1 #genre:puzzle #compatibility:gameboy>mono #lang:en:fr:de:es:it,515
+#players:1 #genre:puzzle #compatibility:gameboy>mono #lang:ja,516
+#players:1 #genre:puzzle #compatibility:gameboy>mono #port:apple>mac #lang:en,517
+#players:1 #genre:puzzle #compatibility:gameboy>mono #port:commodore>amiga #lang:en,518
+#players:1 #genre:puzzle #compatibility:gameboy>mono #save:password #lang:en #unfinished:proto,519
+#players:1 #genre:puzzle #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,520
+#players:1 #genre:puzzle #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,521
+#players:1 #genre:puzzle #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #search:feature>mario #lang:en,522
+#players:1 #genre:puzzle #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #search:feature>mario #lang:ja,523
+#players:1 #genre:puzzle #port:apple>mac #compatibility:gameboy>mono #lang:ja,524
+#players:1 #genre:puzzle #port:apple>mac #compatibility:gameboy>mono #lang:ja #rev:1,525
+#players:1 #genre:puzzle #port:apple>mac:arcade #compatibility:gameboy>mono>sgb #lang:ja,526
+#players:1 #genre:puzzle #save:password #compatibility:gameboy>mono #based #lang:ja #unfinished:proto,527
+#players:1 #genre:puzzle #save:password #compatibility:gameboy>mono #lang:en,528
+#players:1 #genre:puzzle #save:password #compatibility:gameboy>mono #lang:en #rerelease:qubyte,529
+#players:1 #genre:puzzle #save:password #compatibility:gameboy>mono #lang:en #rev:1,530
+#players:1 #genre:puzzle #save:password #compatibility:gameboy>mono #lang:en #unfinished:proto,531
+#players:1 #genre:puzzle #save:password #compatibility:gameboy>mono #lang:en:fr:de:es:it,532
+#players:1 #genre:puzzle #save:password #compatibility:gameboy>mono #lang:en:fr:de:es:it:nl,533
+#players:1 #genre:puzzle #save:password #compatibility:gameboy>mono #lang:ja,534
+#players:1 #genre:puzzle #save:password #compatibility:gameboy>mono #port:commodore>amiga #lang:en,535
+#players:1 #genre:puzzle #save:password #compatibility:gameboy>mono #port:commodore>amiga #lang:en #rev:1,536
+#players:1 #genre:puzzle #save:password #compatibility:gameboy>mono #port:commodore>amiga #lang:en #unfinished:beta,537
+#players:1 #genre:puzzle #save:password #compatibility:gameboy>mono #reboxed #lang:en,538
+#players:1 #genre:puzzle #save:password #compatibility:gameboy>mono>sgb #based #lang:ja,539
+#players:1 #genre:puzzle #save:password #compatibility:gameboy>mono>sgb #lang:en,540
+#players:1 #genre:puzzle:action #save:password #compatibility:gameboy>mono #lang:en,541
+#players:1 #genre:puzzle:action>maze #save:password #compatibility:gameboy>mono #lang:en,542
+#players:1 #genre:puzzle:action>maze #save:password #compatibility:gameboy>mono #lang:ja,543
+#players:1 #genre:puzzle:action>maze #save:password #compatibility:gameboy>mono #multigame #lang:en #unlicensed,544
+#players:1 #genre:puzzle:action>platformer #compatibility:gameboy>mono #lang:en,545
+#players:1 #genre:puzzle:action>platformer #compatibility:gameboy>mono #port:sega>sg1000 #lang:en,546
+#players:1 #genre:puzzle:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #search:feature>mario #lang:en,547
+#players:1 #genre:puzzle:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #search:feature>mario #lang:en #rev:1,548
+#players:1 #genre:puzzle:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #search:feature>mario #reboxed:classicserie #lang:en,549
+#players:1 #genre:puzzle:action>platformer #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #search:feature>mario #reboxed:playerschoice #lang:en #rev:1,550
+#players:1 #genre:puzzle:action>platformer #save:password #compatibility:gameboy>mono #based #lang:en:fr:de:es,551
+#players:1 #genre:puzzle:action>platformer #save:password #compatibility:gameboy>mono #based #lang:en:fr:de:es #unfinished:beta,552
+#players:1 #genre:puzzle:action>platformer #save:password #compatibility:gameboy>mono #based #lang:ja,553
+#players:1 #genre:puzzle:action>platformer #save:password #compatibility:gameboy>mono #based:movie #lang:en #unfinished:proto,554
+#players:1 #genre:puzzle:action>platformer #save:password #compatibility:gameboy>mono #based:movie:disney #lang:en #unfinished:proto,555
+#players:1 #genre:puzzle:action>platformer #save:password #compatibility:gameboy>mono #lang:en,556
+#players:1 #genre:puzzle:action>platformer #save:password #compatibility:gameboy>mono #lang:ja,557
+#players:1 #genre:puzzle:action>platformer #save:password #compatibility:gameboy>mono #multigame #lang:en #unlicensed,558
+#players:1 #genre:puzzle:action>platformer #save:password #compatibility:gameboy>mono #port:sharp>mz700 #lang:en,559
+#players:1 #genre:puzzle:action>platformer #save:password #compatibility:gameboy>mono #port:sharp>mz700 #lang:en #unfinished:beta,560
+#players:1 #genre:puzzle:action>platformer #save:password #compatibility:gameboy>mono #port:sharp>mz700 #lang:en #unfinished:proto>1,561
+#players:1 #genre:puzzle:action>platformer #save:password #compatibility:gameboy>mono #port:sharp>mz700 #lang:en #unfinished:proto>2,562
+#players:1 #genre:puzzle:action>platformer #save:password #port:sharp>mz700 #compatibility:gameboy>mono #lang:en,563
+#players:1 #genre:puzzle:board>cards #compatibility:gameboy>mono #lang:en:ja,564
+#players:1 #genre:puzzle:shmup:action>maze>platformer #save:password #compatibility:gameboy>mono #multigame #lang:en #unlicensed,565
+#players:1 #genre:puzzle:sim>strategy #save:password #compatibility:gameboy>mono #lang:en,566
+#players:1 #genre:puzzle>drop #compatibility:gameboy>mono #lang:en,567
+#players:1 #genre:puzzle>drop #compatibility:gameboy>mono #lang:zh #unlicensed,568
+#players:1 #genre:puzzle>drop #compatibility:gameboy>mono #port:arcade #lang:en,569
+#players:1 #genre:puzzle>drop #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,570
+#players:1 #genre:puzzle>drop #compatibility:gameboy>mono>sgb #lang:ja,571
+#players:1 #genre:puzzle>drop #compatibility:gameboy>mono>sgb #search:feature>pacman #lang:en,572
+#players:1 #genre:puzzle>drop:action:shmup>h #compatibility:gameboy>mono #multigame #lang:en #unlicensed,573
+#players:1 #genre:puzzle>drop:action:shmup>h:action>platformer #compatibility:gameboy>mono #multigame #lang:en #unlicensed,574
+#players:1 #genre:puzzle>drop:shmup>v #save:password #compatibility:gameboy>mono #multigame #lang:en #unlicensed,575
+#players:1 #genre:quiz #compatibility:gameboy>mono #based #lang:ja,576
+#players:1 #genre:quiz #compatibility:gameboy>mono #based #rev:1 #lang:ja,577
+#players:1 #genre:quiz #compatibility:gameboy>mono #lang:en #unfinished:demo #unlicensed,578
+#players:1 #genre:quiz #compatibility:gameboy>mono #lang:ja,579
+#players:1 #genre:quiz #compatibility:gameboy>mono #port:arcade #lang:ja,580
+#players:1 #genre:quiz #save:password #compatibility:gameboy>mono #lang:ja,581
+#players:1 #genre:quiz #save:password #compatibility:gameboy>mono>sgb #lang:ja,582
+#players:1 #genre:quiz:rpg>j #compatibility:gameboy>mono #based:manganime #lang:ja,583
+#players:1 #genre:quiz:sim>cardgame #save:password #compatibility:gameboy>mono #lang:ja,584
+#players:1 #genre:racing #addon:barcodeboy #compatibility:gameboy>mono #lang:ja,585
+#players:1 #genre:racing #compatibility:gameboy>mono #based:movie #port:pc #lang:en,586
+#players:1 #genre:racing #compatibility:gameboy>mono #lang:en,587
+#players:1 #genre:racing #compatibility:gameboy>mono #lang:en #unfinished:proto,588
+#players:1 #genre:racing #compatibility:gameboy>mono #port:arcade #lang:en,589
+#players:1 #genre:racing #compatibility:gameboy>mono #port:arcade #lang:en #unfinished:beta,590
+#players:1 #genre:racing #compatibility:gameboy>mono #search:keyword>official #lang:en,591
+#players:1 #genre:racing #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,592
+#players:1 #genre:racing #save:password #compatibility:gameboy>mono #port:commodore>amiga #search:keyword>brand #lang:en,593
+#players:1 #genre:racing:action #compatibility:gameboy>mono #port:arcade #lang:en,594
+#players:1 #genre:racing:action #compatibility:gameboy>mono #port:arcade #lang:ja,595
+#players:1 #genre:racing:sports>formula1 #save:password #compatibility:gameboy>mono #search:keyword>endorsed #lang:en,596
+#players:1 #genre:racing:sports>formula1 #save:password #compatibility:gameboy>mono #search:keyword>endorsed>official #lang:ja,597
+#players:1 #genre:racing:sports>formula1 #save:password #compatibility:gameboy>mono #search:keyword>endorsed>official #lang:ja #unfinished:beta,598
+#players:1 #genre:racing:sports>rally #save:password #compatibility:gameboy>mono #lang:en:fr:de,599
+#players:1 #genre:racing>combat #compatibility:gameboy>mono #based #lang:ja,600
+#players:1 #genre:racing>combat #compatibility:gameboy>mono #lang:en,601
+#players:1 #genre:racing>combat #save:password #compatibility:gameboy>mono #lang:en,602
+#players:1 #genre:racing>combat #save:password #compatibility:gameboy>mono #lang:en #unfinished:beta,603
+#players:1 #genre:rpg:action>roguelite #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,604
+#players:1 #genre:rpg:minigames #save:password #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,605
+#players:1 #genre:rpg:sim>fishing #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:en,606
+#players:1 #genre:rpg:sim>fishing #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,607
+#players:1 #genre:rpg>a #compatibility:gameboy>mono #based:movie #search:feature>alien #lang:en,608
+#players:1 #genre:rpg>a #compatibility:gameboy>mono #based:movie #search:feature>alien #lang:ja,609
+#players:1 #genre:rpg>a #compatibility:gameboy>mono #lang:en #unfinished:proto,610
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:de,611
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:de #rerelease,612
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:de #unfinished:proto,613
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,614
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en #reboxed:classicserie #rev:2,615
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en #rerelease,616
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en #rev:1,617
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en #unfinished:beta>1,618
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en #unfinished:beta>2,619
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en #unfinished:proto,620
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:fr,621
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:fr #rerelease,622
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:fr #unfinished:proto,623
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,624
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja #rerelease,625
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja #rev:1,626
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja #rev:1 #unfinished:demo,627
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #reboxed #lang:en,628
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #reboxed:playerschoice #lang:en #rev:2,629
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono #search:franchise>dragonslayer #lang:ja,630
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based #lang:en,631
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based #reboxed:playerschoice #lang:en,632
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,633
+#players:1 #genre:rpg>a #save:password #compatibility:gameboy>mono #lang:en,634
+#players:1 #genre:rpg>a #save:password #compatibility:gameboy>mono #lang:ja,635
+#players:1 #genre:rpg>a #save:password #compatibility:gameboy>mono #port:nintendo>famicom #lang:en #unlicensed,636
+#players:1 #genre:rpg>a #save:password #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,637
+#players:1 #genre:rpg>a #save:password #compatibility:gameboy>mono>sgb #based:manganime #search:feature>gundam #lang:ja,638
+#players:1 #genre:rpg>a #save:password #compatibility:gameboy>mono>sgb #lang:en,639
+#players:1 #genre:rpg>a #save:password #compatibility:gameboy>mono>sgb #lang:ja,640
+#players:1 #genre:rpg>a:brawler #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,641
+#players:1 #genre:rpg>dungeoncrawler #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,642
+#players:1 #genre:rpg>dungeoncrawler #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en #unfinished:beta,643
+#players:1 #genre:rpg>dungeoncrawler #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,644
+#players:1 #genre:rpg>dungeoncrawler #embedded:backup>battery #save:backup:password #compatibility:gameboy>mono>sgb #multigame:compilation>selectionem>selection2anf #lang:ja,645
+#players:1 #genre:rpg>dungeoncrawler #save:password #compatibility:gameboy>mono #lang:de,646
+#players:1 #genre:rpg>dungeoncrawler #save:password #compatibility:gameboy>mono #lang:en,647
+#players:1 #genre:rpg>dungeoncrawler #save:password #compatibility:gameboy>mono #lang:en #unfinished:proto,648
+#players:1 #genre:rpg>dungeoncrawler #save:password #compatibility:gameboy>mono #lang:es,649
+#players:1 #genre:rpg>dungeoncrawler #save:password #compatibility:gameboy>mono #lang:ja,650
+#players:1 #genre:rpg>dungeoncrawler #save:password #compatibility:gameboy>mono #lang:sv,651
+#players:1 #genre:rpg>j #compatibility:gameboy>mono #based #lang:ja,652
+#players:1 #genre:rpg>j #compatibility:gameboy>mono #lang:ja,653
+#players:1 #genre:rpg>j #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,654
+#players:1 #genre:rpg>j #compatibility:gameboy>mono>sgb #lang:ja,655
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono #based #lang:ja,656
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono #based:manganime #lang:ja,657
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono #based:manganime #search:feature>gundam #lang:ja,658
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,659
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en #rerelease,660
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,661
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja #rerelease,662
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja #rev:1,663
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja #rev:1 #rerelease,664
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja #rev:1 #unfinished:beta,665
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:zh #unlicensed:translation,666
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono #reboxed #lang:en,667
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based #lang:ja,668
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,669
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based:manganime #lang:ja #unfinished:beta,670
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,671
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja #rev:1,672
+#players:1 #genre:rpg>j #save:password #addon:barcodeboy #compatibility:gameboy>mono #based #lang:ja,673
+#players:1 #genre:rpg>j #save:password #compatibility:gameboy>mono #lang:en,674
+#players:1 #genre:rpg>j #save:password #compatibility:gameboy>mono #lang:ja,675
+#players:1 #genre:rpg>j:minigames #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,676
+#players:1 #genre:rpg>j:minigames #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based:manganime #lang:en #unfinished:proto,677
+#players:1 #genre:rpg>j:minigames #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,678
+#players:1 #genre:rpg>j:sim>cardgame #embedded:backup>battery #save:backup #compatibility:gameboy>mono #based #lang:ja,679
+#players:1 #genre:rpg>s #compatibility:gameboy>mono>sgb #lang:ja,680
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en #unfinished:proto,681
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,682
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,683
+#players:1 #genre:shmup #compatibility:gameboy>mono #lang:en,684
+#players:1 #genre:shmup #compatibility:gameboy>mono #lang:en #rev:1,685
+#players:1 #genre:shmup #compatibility:gameboy>mono>sgb #multigame:compilation>centipede>millipede #lang:en,686
+#players:1 #genre:shmup #compatibility:gameboy>mono>sgb #port:arcade #lang:en,687
+#players:1 #genre:shmup #compatibility:gameboy>mono>sgb #port:arcade #lang:en #unfinished:beta,688
+#players:1 #genre:shmup #compatibility:gameboy>mono>sgb #port:arcade #reboxed:playerschoice #lang:en,689
+#players:1 #genre:shmup:action>platformer>maze:sports>baseball #save:password #compatibility:gameboy>mono>sgb #multigame:compilation>galaxian>digdug>thetowerofdruaga>famista4 #port:arcade #lang:en,690
+#players:1 #genre:shmup:puzzle>drop #save:password #compatibility:gameboy>mono #multigame #lang:en #unlicensed,691
+#players:1 #genre:shmup:shooting>gallery #compatibility:gameboy>mono #lang:en,692
+#players:1 #genre:shmup:shooting>gallery #compatibility:gameboy>mono>sgb #multigame:compilation>asteroids>missilecommand #lang:en,693
+#players:1 #genre:shmup:shooting>gallery #multigame:compilation>asteroids>missilecommand #compatibility:gameboy>mono>sgb #lang:en,694
+#players:1 #genre:shmup>h #compatibility:gameboy>mono #lang:en,695
+#players:1 #genre:shmup>h #compatibility:gameboy>mono #lang:en #rev:1 #unfinished:beta,696
+#players:1 #genre:shmup>h #compatibility:gameboy>mono #lang:en #unfinished:proto,697
+#players:1 #genre:shmup>h #compatibility:gameboy>mono #lang:ja,698
+#players:1 #genre:shmup>h #compatibility:gameboy>mono #port:arcade #lang:en,699
+#players:1 #genre:shmup>h #compatibility:gameboy>mono #port:arcade #lang:en #unfinished:beta,700
+#players:1 #genre:shmup>h #compatibility:gameboy>mono #port:arcade #lang:en #unfinished:proto,701
+#players:1 #genre:shmup>h #compatibility:gameboy>mono #port:nintendo>famicom #lang:en,702
+#players:1 #genre:shmup>h #compatibility:gameboy>mono #port:nintendo>famicom #lang:es #unfinished:proto,703
+#players:1 #genre:shmup>h #compatibility:gameboy>mono #reboxed #port:nintendo>famicom #lang:en,704
+#players:1 #genre:shmup>h #save:password #compatibility:gameboy>mono #based #lang:en,705
+#players:1 #genre:shmup>h #save:password #compatibility:gameboy>mono #lang:en,706
+#players:1 #genre:shmup>h:action #compatibility:gameboy>mono #port:atari>atari400 #lang:en,707
+#players:1 #genre:shmup>h:action #compatibility:gameboy>mono #port:atari>atari400 #lang:en #unfinished:beta,708
+#players:1 #genre:shmup>h:action>platformer:fighting #compatibility:gameboy>mono>sgb #search:franchise>castlevania:feature>dracula #port:arcade #multigame:compilation>nemesis2>draculadensetsu2>yiearkungfu>kekkyokunankyokudaibouken #lang:ja,709
+#players:1 #genre:shmup>h:action>platformer>runandgun:puzzle #compatibility:gameboy>mono #port:arcade #multigame:compilation>rtype2>saigononindou>gansoyanchamaru>shisenshou #lang:ja,710
+#players:1 #genre:shmup>h:action>runandgun>platformer:racing:sports>formula1 #compatibility:gameboy>mono>sgb #search:franchise>castlevania:feature>dracula #port:arcade #multigame:compilation>nemesis>draculadensetsu>f1spirit>operationc #lang:ja,711
+#players:1 #genre:shmup>h:puzzle>drop:sports>decathlon #compatibility:gameboy>mono>sgb #port:arcade #multigame:compilation>parodiusdashinwakaraowaraie>quarth>hyperolympic>frogger #lang:ja,712
+#players:1 #genre:shmup>h>v:rpg #compatibility:gameboy>mono #based:manganime #lang:ja,713
+#players:1 #genre:shmup>i #save:password #compatibility:gameboy>mono #port:sega>megadrive #lang:en,714
+#players:1 #genre:shmup>i #save:password #compatibility:gameboy>mono>sgb #lang:en,715
+#players:1 #genre:shmup>i #save:password #compatibility:gameboy>mono>sgb #port:sega>megadrive #lang:en,716
+#players:1 #genre:shmup>v #compatibility:gameboy>mono #based:manganime #lang:ja,717
+#players:1 #genre:shmup>v #compatibility:gameboy>mono #lang:en,718
+#players:1 #genre:shmup>v #compatibility:gameboy>mono #lang:en #unfinished:proto,719
+#players:1 #genre:shmup>v #compatibility:gameboy>mono #lang:en #unlicensed,720
+#players:1 #genre:shmup>v #compatibility:gameboy>mono #reboxed #lang:en,721
+#players:1 #genre:shmup>v:action>blockbreaker:puzzle #save:password #compatibility:gameboy>mono #multigame #lang:en #unlicensed,722
+#players:1 #genre:shmup>v:rpg>a:racing:sports>motocross:puzzle #compatibility:gameboy>mono>sgb #port:arcade #multigame:compilation>twinbeeda>ganbaregoemonse>motocrossmaniacs>guttanggottong #lang:ja,723
+#players:1 #genre:shooting>fps #compatibility:gameboy>mono #lang:en,724
+#players:1 #genre:shooting>fps #compatibility:gameboy>mono #lang:en #unfinished:proto>1,725
+#players:1 #genre:shooting>fps #compatibility:gameboy>mono #lang:en #unfinished:proto>2,726
+#players:1 #genre:shooting>gallery #compatibility:gameboy>mono #based:marvel #search:feature>spiderman #port:nintendo>famicom #lang:en,727
+#players:1 #genre:shooting>gallery #compatibility:gameboy>mono #based:movie #port:arcade #lang:en,728
+#players:1 #genre:sim>date #compatibility:gameboy>mono #based #lang:ja,729
+#players:1 #genre:sim>date #compatibility:gameboy>mono #based #lang:ja #rev:1,730
+#players:1 #genre:sim>date #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,731
+#players:1 #genre:sim>date #save:password #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,732
+#players:1 #genre:sim>derby #compatibility:gameboy>mono #based #lang:ja,733
+#players:1 #genre:sim>derby #compatibility:gameboy>mono #lang:ja,734
+#players:1 #genre:sim>derby #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,735
+#players:1 #genre:sim>derby #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,736
+#players:1 #genre:sim>derby #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja #rev:1,737
+#players:1 #genre:sim>derby #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,738
+#players:1 #genre:sim>farm #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:en,739
+#players:1 #genre:sim>farm #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,740
+#players:1 #genre:sim>farm #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #rev:1 #lang:ja,741
+#players:1 #genre:sim>farm #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb>np #lang:ja,742
+#players:1 #genre:sim>farm>god #save:password #compatibility:gameboy>mono #lang:en #unfinished:proto,743
+#players:1 #genre:sim>farm>god #save:password #compatibility:gameboy>mono #lang:ja,744
+#players:1 #genre:sim>fishing #addon:controller>reeladapter #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,745
+#players:1 #genre:sim>fishing #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:en #unfinished:proto,746
+#players:1 #genre:sim>fishing #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,747
+#players:1 #genre:sim>fishing #compatibility:gameboy>mono #lang:ja,748
+#players:1 #genre:sim>fishing #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:en,749
+#players:1 #genre:sim>fishing #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,750
+#players:1 #genre:sim>fishing #save:password #compatibility:gameboy>mono #lang:en:ja,751
+#players:1 #genre:sim>flight #compatibility:gameboy>mono #lang:en,752
+#players:1 #genre:sim>flight #compatibility:gameboy>mono #lang:ja,753
+#players:1 #genre:sim>flight #compatibility:gameboy>mono #save:password #based #lang:de,754
+#players:1 #genre:sim>flight #compatibility:gameboy>mono #save:password #based #lang:en,755
+#players:1 #genre:sim>flight #compatibility:gameboy>mono #save:password #based #lang:es,756
+#players:1 #genre:sim>flight #save:password #compatibility:gameboy>mono #based #lang:en,757
+#players:1 #genre:sim>flight #save:password #compatibility:gameboy>mono #based #lang:en #unfinished:beta,758
+#players:1 #genre:sim>flight #save:password #compatibility:gameboy>mono #based:movie #lang:en,759
+#players:1 #genre:sim>flight #save:password #compatibility:gameboy>mono>sgb #based #lang:en,760
+#players:1 #genre:sim>flight:shooting>gallery #save:password #compatibility:gameboy>mono #lang:en #unfinished:beta,761
+#players:1 #genre:sim>flight:shooting>gallery #save:password #compatibility:gameboy>mono #port:atari>atari400 #lang:en,762
+#players:1 #genre:sim>life #compatibility:gameboy>mono>sgb #lang:ja,763
+#players:1 #genre:sim>life #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,764
+#players:1 #genre:sim>life:minigames #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,765
+#players:1 #genre:sim>life:minigames #embedded:backup>battery #save:backup #compatibility:gameboy>mono #based:manganime #lang:ja,766
+#players:1 #genre:sim>life:minigames #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based #lang:ja,767
+#players:1 #genre:sim>life:minigames #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,768
+#players:1 #genre:sim>life:minigames #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb>np #lang:ja #rev:1,769
+#players:1 #genre:sim>life:minigames #save:password #compatibility:gameboy>mono #based #lang:ja,770
+#players:1 #genre:sim>life:minigames #save:password #compatibility:gameboy>mono #based:manganime #lang:ja,771
+#players:1 #genre:sim>pet #compatibility:gameboy>mono #lang:zh #unlicensed,772
+#players:1 #genre:sim>pet #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,773
+#players:1 #genre:sim>pet:minigames #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,774
+#players:1 #genre:sim>pet:minigames #compatibility:gameboy>mono>sgb #based #lang:ja,775
+#players:1 #genre:sim>pet:minigames #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based #lang:en,776
+#players:1 #genre:sim>pet:minigames #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based #lang:fr,777
+#players:1 #genre:sim>pet:minigames #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based #lang:ja,778
+#players:1 #genre:sim>strategy #addon:barcodeboy #compatibility:gameboy>mono #lang:ja,779
+#players:1 #genre:sim>strategy #compatibility:gameboy>mono #based:manganime #lang:ja,780
+#players:1 #genre:sim>strategy #compatibility:gameboy>mono #lang:ja,781
+#players:1 #genre:sim>strategy #compatibility:gameboy>mono #port:nintendo>famicom #lang:ja,782
+#players:1 #genre:sim>strategy #embedded:backup>battery #save:backup #compatibility:gameboy>mono #based:manganime #lang:ja,783
+#players:1 #genre:sim>strategy #embedded:backup>battery #save:backup:password #compatibility:gameboy>mono>sgb #lang:ja,784
+#players:1 #genre:sim>strategy #embedded:gbkiss #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,785
+#players:1 #genre:sim>strategy #save:password #compatibility:gameboy>mono #based:manganime #lang:ja,786
+#players:1 #genre:sim>strategy #save:password #compatibility:gameboy>mono #lang:ja,787
+#players:1 #genre:sim>strategy:board #compatibility:gameboy>mono #search:keyword>brand #lang:en,788
+#players:1 #genre:sim>strategy:board #compatibility:gameboy>mono #search:keyword>brand #port:commodore>amiga #lang:en,789
+#players:1 #genre:sim>strategy:fighting #compatibility:gameboy>mono>sgb #based:movie #lang:ja,790
+#players:1 #genre:sim>strategy:notagame>educational #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,791
+#players:1 #genre:sim>strategy:notagame>educational #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja #rev:1,792
+#players:1 #genre:sim>strategy>god #compatibility:gameboy>mono #port:commodore>amiga #lang:en,793
+#players:1 #genre:sim>strategy>god #compatibility:gameboy>mono #port:commodore>amiga #lang:en #unfinished:sample,794
+#players:1 #genre:sim>train #save:password #compatibility:gameboy>mono>sgb #lang:ja,795
+#players:1 #genre:sports:minigames #compatibility:gameboy>mono #based #lang:en,796
+#players:1 #genre:sports>baseball #save:password #compatibility:gameboy>mono #based #lang:en,797
+#players:1 #genre:sports>baseball #save:password #compatibility:gameboy>mono #search:keyword>endorsed>official>brand #lang:en,798
+#players:1 #genre:sports>basketball #compatibility:gameboy>mono #lang:en,799
+#players:1 #genre:sports>basketball #compatibility:gameboy>mono #search:keyword>endorsed #port:commodore>c64 #lang:en,800
+#players:1 #genre:sports>basketball #compatibility:gameboy>mono #search:keyword>official #lang:en,801
+#players:1 #genre:sports>basketball #compatibility:gameboy>mono #search:keyword>official #port:arcade #lang:en,802
+#players:1 #genre:sports>basketball #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,803
+#players:1 #genre:sports>basketball #save:password #compatibility:gameboy>mono #port:arcade #search:keyword>official #lang:en,804
+#players:1 #genre:sports>basketball #save:password #compatibility:gameboy>mono #search:keyword>official #port:arcade #lang:en,805
+#players:1 #genre:sports>decathlon>archery #compatibility:gameboy>mono>sgb #based #lang:en,806
+#players:1 #genre:sports>decathlon>archery #compatibility:gameboy>mono>sgb #search:keyword>official #lang:en,807
+#players:1 #genre:sports>decathlon>judo #compatibility:gameboy>mono #search:feature>kuniokun #port:nintendo>famicom #lang:ja,808
+#players:1 #genre:sports>dodgeball #compatibility:gameboy>mono #based:manganime #search:feature>compatihero>gundam #lang:ja,809
+#players:1 #genre:sports>football #compatibility:gameboy>mono #search:keyword>official #lang:en,810
+#players:1 #genre:sports>football #compatibility:gameboy>mono #search:keyword>official #lang:en #unfinished:proto,811
+#players:1 #genre:sports>football #compatibility:gameboy>mono>sgb #lang:en #search:keyword>endorsed #unfinished:proto>1,812
+#players:1 #genre:sports>football #compatibility:gameboy>mono>sgb #lang:en #search:keyword>endorsed #unfinished:proto>2,813
+#players:1 #genre:sports>football #compatibility:gameboy>mono>sgb #search:keyword>official #lang:en,814
+#players:1 #genre:sports>football #save:password #compatibility:gameboy>mono>sgb #search:keyword>endorsed #lang:en,815
+#players:1 #genre:sports>formula1 #save:password #compatibility:gameboy>mono #search:keyword>brand #port:nintendo>famicom #lang:en,816
+#players:1 #genre:sports>formula1 #save:password #compatibility:gameboy>mono #search:keyword>official #port:nintendo>famicom #lang:en,817
+#players:1 #genre:sports>golf #embedded:backup>battery #save:backup #compatibility:gameboy>mono #search:keyword>endorsed #lang:en #unfinished:proto,818
+#players:1 #genre:sports>hockey #compatibility:gameboy>mono>sgb #search:keyword>official #lang:en,819
+#players:1 #genre:sports>skateboarding #compatibility:gameboy>mono #lang:en,820
+#players:1 #genre:sports>skiing:minigames #compatibility:gameboy>mono #lang:en,821
+#players:1 #genre:sports>skiing:minigames #compatibility:gameboy>mono #search:keyword>official #lang:en #rev:1 #unfinished:beta,822
+#players:1 #genre:sports>skiing:minigames #search:keyword>official #compatibility:gameboy>mono #lang:en,823
+#players:1 #genre:sports>soccer #compatibility:gameboy>mono #based:manganime #lang:ja,824
+#players:1 #genre:sports>soccer #compatibility:gameboy>mono #lang:en,825
+#players:1 #genre:sports>soccer #compatibility:gameboy>mono #lang:en #lang:en:fr:de #unfinished:proto,826
+#players:1 #genre:sports>soccer #compatibility:gameboy>mono #lang:en:fr:de:it:nl,827
+#players:1 #genre:sports>soccer #compatibility:gameboy>mono #lang:ja,828
+#players:1 #genre:sports>soccer #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,829
+#players:1 #genre:sports>soccer #compatibility:gameboy>mono>sgb #lang:en,830
+#players:1 #genre:sports>soccer #compatibility:gameboy>mono>sgb #lang:en:fr:de,831
+#players:1 #genre:sports>soccer #compatibility:gameboy>mono>sgb #search:keyword>official #lang:en,832
+#players:1 #genre:sports>soccer #compatibility:gameboy>mono>sgb #search:keyword>official #lang:en #rev:1,833
+#players:1 #genre:sports>soccer #compatibility:gameboy>mono>sgb #search:keyword>official #lang:en:fr:de:es,834
+#players:1 #genre:sports>soccer #compatibility:gameboy>mono>sgb #search:keyword>official #lang:ja,835
+#players:1 #genre:sports>soccer #embedded:backup>battery #save:backup #compatibility:gameboy>mono #search:keyword>official #lang:en:fr:de:es:it:nl:pt:sv,836
+#players:1 #genre:sports>soccer #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:en,837
+#players:1 #genre:sports>soccer #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #search:keyword>official #lang:ja,838
+#players:1 #genre:sports>soccer #save:password #compatibility:gameboy>mono>sgb #search:keyword>official #lang:ja,839
+#players:2 #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #lang:ja,840
+#players:2 #genre:shmup:shooting>gallery #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja #unfinished:beta,841
+#players:2:alt #genre:action #compatibility:gameboy>mono #based #lang:en,842
+#players:2:alt #genre:action #compatibility:gameboy>mono #lang:en,843
+#players:2:alt #genre:action #compatibility:gameboy>mono #port:arcade #lang:en,844
+#players:2:alt #genre:action>maze #compatibility:gameboy>mono #port:nintendo>famicom #lang:en #unlicensed,845
+#players:2:alt #genre:action>maze #compatibility:gameboy>mono #search:feature>pacman #lang:en,846
+#players:2:alt #genre:action>maze #save:password #compatibility:gameboy>mono #lang:en #unlicensed,847
+#players:2:alt #genre:action>platformer #addon:link>gamelinkcable #compatibility:gameboy>mono #port:arcade #lang:en,848
+#players:2:alt #genre:action>platformer #addon:link>gamelinkcable #compatibility:gameboy>mono #port:arcade #lang:ja,849
+#players:2:alt #genre:action>platformer #compatibility:gameboy>mono #based #lang:en,850
+#players:2:alt #genre:action>platformer #compatibility:gameboy>mono #based #lang:en #unfinished:proto,851
+#players:2:alt #genre:action>platformer #compatibility:gameboy>mono #based #lang:sv,852
+#players:2:alt #genre:action>platformer #compatibility:gameboy>mono #based:looneytunes #lang:en,853
+#players:2:alt #genre:action>platformer #compatibility:gameboy>mono #based:looneytunes #lang:en #unfinished:beta,854
+#players:2:alt #genre:action>platformer #compatibility:gameboy>mono #based:movie #lang:en,855
+#players:2:alt #genre:action>platformer #compatibility:gameboy>mono #lang:en,856
+#players:2:alt #genre:action>platformer #save:password #compatibility:gameboy>mono #based #lang:en,857
+#players:2:alt #genre:action>platformer #save:password #compatibility:gameboy>mono #based #lang:en #unfinished:beta,858
+#players:2:alt #genre:action>platformer:puzzle #save:password #compatibility:gameboy>mono #based #port:msx #lang:ja,859
+#players:2:alt #genre:action>platformer:shmup #compatibility:gameboy>mono>sgb #multigame:compilation>defender>joust #lang:en,860
+#players:2:alt #genre:action>platformer>maze #save:password #compatibility:gameboy>mono #based:movie #lang:en,861
+#players:2:alt #genre:action>platformer>maze #save:password #compatibility:gameboy>mono #based:movie #lang:en #rerelease:limitedrun,862
+#players:2:alt #genre:action>runandgun #compatibility:gameboy>mono #based:movie #lang:en,863
+#players:2:alt #genre:action>runandgun #compatibility:gameboy>mono #based:movie #lang:ja,864
+#players:2:alt #genre:shmup #compatibility:gameboy>mono>sgb #multigame:compilation>galaga>galaxian #port:arcade #lang:en,865
+#players:2:alt #genre:shmup:action #save:password #compatibility:gameboy>mono #lang:en,866
+#players:2:alt #genre:shmup:action #save:password #compatibility:gameboy>mono #port:nintendo>superfamicom:sega>gamegear #lang:en,867
+#players:2:alt #genre:shmup>v #compatibility:gameboy>mono #port:commodore>amiga #lang:en,868
+#players:2:alt #genre:shooting>gallery #compatibility:gameboy>mono #port:arcade #lang:en,869
+#players:2:coop #genre:action #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,870
+#players:2:coop #genre:action #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en #unfinished:beta,871
+#players:2:coop #genre:action:puzzle #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,872
+#players:2:coop #genre:action:puzzle #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en #unfinished:beta,873
+#players:2:coop #genre:action>maze #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono>sgb #multigame:compilation>bomberboy>bombermangb>bombermangb2 #lang:ja,874
+#players:2:coop #genre:action>platformer #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,875
+#players:2:coop #genre:brawler #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,876
+#players:2:coop #genre:brawler #addon:link>gamelinkcable #compatibility:gameboy>mono #port:arcade #lang:en,877
+#players:2:coop #genre:brawler #addon:link>gamelinkcable #compatibility:gameboy>mono #search:feature>kuniokun #lang:ja,878
+#players:2:coop #genre:brawler:adventure #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #port:nintendo>famicom #search:feature>kuniokun #lang:ja,879
+#players:2:coop #genre:rpg>a #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,880
+#players:2:coop #genre:rpg>a #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,881
+#players:2:coop #genre:rpg>a #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,882
+#players:2:coop #genre:rpg>a #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:ja,883
+#players:2:coop #genre:rpg>j>a #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,884
+#players:2:coop #genre:rpg>j>a #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:ja,885
+#players:2:coop #genre:rpg>j>a #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono>sgb #lang:ja,886
+#players:2:coop #genre:rpg>j>a #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono>sgb #multigame:compilation>superchineseland>superchineseland2ud>superchineseland3 #lang:ja,887
+#players:2:coop #genre:shmup:action>runandgun #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,888
+#players:2:coop:vs #genre:action>maze #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,889
+#players:2:coop:vs #genre:action>maze>platformer #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #multigame:compilation>takahashimeijinnoboukenjima2>gbgenjin>bomberboy>meikyuukumikyoku #lang:ja,890
+#players:2:coop:vs #genre:racing:sports>volleyball>boxing>soccer>dodgeball #addon:link>gamelinkcable #compatibility:gameboy>mono #multigame:compilation>seasidevolley>boxing>roadster>soccer>dodgeboy #lang:en,891
+#players:2:coop:vs #genre:rpg>a #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,892
+#players:2:coop:vs #genre:rpg>a #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,893
+#players:2:coop:vs #genre:sports>football #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #port:nintendo>famicom #lang:en,894
+#players:2:coop:vs #genre:sports>soccer #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #port:nintendo>famicom #lang:en,895
+#players:2:coop:vs #genre:sports>soccer #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #port:nintendo>famicom #search:feature>kuniokun #lang:ja,896
+#players:2:coop:vs #genre:sports>tennis #addon:link>gamelinkcable>fourplayeradapter #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,897
+#players:2:coop:vs #genre:sports>volleyball #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,898
+#players:2:coop:vs #genre:sports>volleyball #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,899
+#players:2:coop:vs #genre:sports>volleyball #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en #unfinished:beta,900
+#players:2:vs #addon:link>gamelinkcable #genre:sports>baseball #compatibility:gameboy>mono #search:keyword>endorsed #lang:en,901
+#players:2:vs #addon:link>gamelinkcable #genre:sports>baseball #compatibility:gameboy>mono #search:keyword>endorsed #lang:en #rev:1,902
+#players:2:vs #genre:action #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,903
+#players:2:vs #genre:action #addon:link>gamelinkcable #compatibility:gameboy>mono #port:arcade #lang:en,904
+#players:2:vs #genre:action #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,905
+#players:2:vs #genre:action #compatibility:gameboy>mono #based:manganime #search:feature>gundam #lang:ja,906
+#players:2:vs #genre:action:puzzle #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:en,907
+#players:2:vs #genre:action:puzzle #addon:link>gamelinkcable #compatibility:gameboy>mono #based:manganime #lang:ja,908
+#players:2:vs #genre:action:puzzle #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,909
+#players:2:vs #genre:action:puzzle #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:en,910
+#players:2:vs #genre:action:puzzle #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,911
+#players:2:vs #genre:action:puzzle #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #based #lang:en,912
+#players:2:vs #genre:action:puzzle #embedded:gbkiss #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,913
+#players:2:vs #genre:action>hackandslash:action>platformer:shmup>h:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono #based:manganime #multigame:compilation>genkibakuhatsygambaruger>zettaimutekiraijinou>zoidsdensetsu>miracleadventuresofesparksusp #lang:ja,914
+#players:2:vs #genre:action>hackandslash:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,915
+#players:2:vs #genre:action>hackandslash>platformer #save:password #compatibility:gameboy>mono #based:manganime #lang:ja,916
+#players:2:vs #genre:action>maze #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:en,917
+#players:2:vs #genre:action>maze #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:en #unfinished:proto,918
+#players:2:vs #genre:action>maze #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,919
+#players:2:vs #genre:action>maze #addon:link>gamelinkcable #compatibility:gameboy>mono #port:atari>atari400 #lang:en,920
+#players:2:vs #genre:action>maze #addon:link>gamelinkcable #compatibility:gameboy>mono #search:feature>pacman #port:arcade #lang:en,921
+#players:2:vs #genre:action>maze #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,922
+#players:2:vs #genre:action>maze #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:ja,923
+#players:2:vs #genre:action>maze:puzzle #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #port:arcade #lang:en,924
+#players:2:vs #genre:action>maze:puzzle #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #port:arcade #reboxed #lang:en,925
+#players:2:vs #genre:action>maze:sports>formula1 #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,926
+#players:2:vs #genre:action>platformer #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:en,927
+#players:2:vs #genre:action>platformer #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:ja,928
+#players:2:vs #genre:action>platformer #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:ja #rev:1,929
+#players:2:vs #genre:action>platformer #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,930
+#players:2:vs #genre:action>platformer #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,931
+#players:2:vs #genre:action>platformer #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #reboxed #lang:en,932
+#players:2:vs #genre:action>platformer #compatibility:gameboy>mono #based:movie #lang:en,933
+#players:2:vs #genre:action>platformer #compatibility:gameboy>mono #based:movie #lang:en #unfinished:sample,934
+#players:2:vs #genre:action>platformer #compatibility:gameboy>mono #lang:en,935
+#players:2:vs #genre:action>platformer #compatibility:gameboy>mono #save:password #lang:en,936
+#players:2:vs #genre:action>platformer:puzzle #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,937
+#players:2:vs #genre:board #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,938
+#players:2:vs #genre:board #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en:fr:de:es,939
+#players:2:vs #genre:board #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en:fr:de:es #unfinished:proto,940
+#players:2:vs #genre:board #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja,941
+#players:2:vs #genre:board #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #based #lang:en,942
+#players:2:vs #genre:board #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #based #lang:en #unfinished:beta,943
+#players:2:vs #genre:board #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,944
+#players:2:vs #genre:board #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:ja,945
+#players:2:vs #genre:board #compatibility:gameboy>mono #based #lang:de,946
+#players:2:vs #genre:board #compatibility:gameboy>mono #based #lang:en,947
+#players:2:vs #genre:board #compatibility:gameboy>mono #port:sega>sg1000 #lang:en,948
+#players:2:vs #genre:board #compatibility:gameboy>mono>sgb #lang:ja,949
+#players:2:vs #genre:board:sports>soccer #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,950
+#players:2:vs #genre:board:sports>soccer #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en #unfinished:proto,951
+#players:2:vs #genre:board>cards #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,952
+#players:2:vs #genre:board>cards #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en #unfinished:proto,953
+#players:2:vs #genre:board>cards #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja,954
+#players:2:vs #genre:board>cards #save:password #compatibility:gameboy>mono #lang:en,955
+#players:2:vs #genre:board>chess #multigame #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,956
+#players:2:vs #genre:board>go #compatibility:gameboy>mono>sgb #lang:ja,957
+#players:2:vs #genre:board>mahjong #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja,958
+#players:2:vs #genre:board>mahjong #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja #rev:1,959
+#players:2:vs #genre:board>mahjong #compatibility:gameboy>mono #lang:ja,960
+#players:2:vs #genre:board>mahjong:quiz #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,961
+#players:2:vs #genre:board>party #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:en,962
+#players:2:vs #genre:board>party #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:en:fr:de,963
+#players:2:vs #genre:board>party #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:ja,964
+#players:2:vs #genre:board>shougi #compatibility:gameboy>mono #lang:ja,965
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:ja,966
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono #based:manganime #lang:ja,967
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono #based:manganime #search:feature>compatihero>gundam #lang:ja,968
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,969
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en #rev:1,970
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en #unfinished:beta,971
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en #unfinished:demo,972
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja,973
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono #multigame:compilation>mortalkombat>mortalkombat2 #lang:en,974
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono #port:arcade #lang:en,975
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono #port:arcade #lang:en #unfinished:beta,976
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,977
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #lang:en,978
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #lang:en #unfinished:beta,979
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #lang:ja,980
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #lang:ja #rev:1,981
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #port:arcade #lang:en,982
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #port:arcade #lang:ja,983
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #port:arcade #reboxed #lang:en,984
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #reboxed:classicserie #lang:en #rev:1,985
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #reboxed:playerschoice #lang:en #rev:1,986
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #search:keyword>endorsed #lang:en,987
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,988
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #based:manganime #lang:en,989
+#players:2:vs #genre:fighting #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #based:manganime #lang:ja,990
+#players:2:vs #genre:fighting:sports>boxing #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,991
+#players:2:vs #genre:fighting:sports>boxing #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #search:keyword>endorsed #lang:en,992
+#players:2:vs #genre:fighting:sports>boxing #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #search:keyword>endorsed #lang:en #unfinished:beta,993
+#players:2:vs #genre:fighting:sports>wrestling #addon:link>gamelinkcable #compatibility:gameboy>mono #based:manganime #lang:ja,994
+#players:2:vs #genre:fighting:sports>wrestling #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,995
+#players:2:vs #genre:fighting:sports>wrestling #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en #unfinished:beta,996
+#players:2:vs #genre:fighting:sports>wrestling #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja,997
+#players:2:vs #genre:fighting:sports>wrestling #addon:link>gamelinkcable #compatibility:gameboy>mono #port:arcade #lang:en,998
+#players:2:vs #genre:fighting:sports>wrestling #addon:link>gamelinkcable #compatibility:gameboy>mono #search:keyword>official #lang:en,999
+#players:2:vs #genre:fighting:sports>wrestling #addon:lockon>supergameboy #save:password #compatibility:gameboy>mono>sgb #lang:ja,1000
+#players:2:vs #genre:minigames:sports #addon:link>gamelinkcable #compatibility:gameboy>mono #based:looneytunes #lang:en,1001
+#players:2:vs #genre:minigames:sports #addon:link>gamelinkcable #compatibility:gameboy>mono #based:looneytunes #lang:ja,1002
+#players:2:vs #genre:notagame>educational #addon:link>gamelinkcable:printer>pocketprinter #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,1003
+#players:2:vs #genre:parlor>billiards #addon:link>gamelinkcable #compatibility:gameboy>mono #port:arcade #lang:en,1004
+#players:2:vs #genre:parlor>billiards #addon:link>gamelinkcable #compatibility:gameboy>mono #port:arcade #reboxed #lang:en,1005
+#players:2:vs #genre:parlor>bowling #compatibility:gameboy>mono #lang:en,1006
+#players:2:vs #genre:parlor>bowling #compatibility:gameboy>mono #lang:en #unfinished:proto,1007
+#players:2:vs #genre:parlor>mogurataiji #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja,1008
+#players:2:vs #genre:parlor>pachinko:puzzle>drop #save:password #compatibility:gameboy>mono #multigame:compilation>gbpachiokun>gbpachiokun2>gbpachiokun3>pachiokunpuzzlecastle #lang:ja,1009
+#players:2:vs #genre:parlor>pinball #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,1010
+#players:2:vs #genre:parlor>pinball #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en #unfinished:beta,1011
+#players:2:vs #genre:parlor>pinball #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,1012
+#players:2:vs #genre:puzzle #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,1013
+#players:2:vs #genre:puzzle #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en #unfinished:beta,1014
+#players:2:vs #genre:puzzle #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja,1015
+#players:2:vs #genre:puzzle #addon:link>gamelinkcable #compatibility:gameboy>mono #port:atari>atarist #lang:en,1016
+#players:2:vs #genre:puzzle #addon:link>gamelinkcable #compatibility:gameboy>mono #port:atari>atarist #lang:en #unfinished:beta,1017
+#players:2:vs #genre:puzzle #addon:link>gamelinkcable #compatibility:gameboy>mono #port:nec>pc88 #lang:en,1018
+#players:2:vs #genre:puzzle #addon:link>gamelinkcable #compatibility:gameboy>mono #reboxed #lang:en,1019
+#players:2:vs #genre:puzzle #addon:link>gamelinkcable #compatibility:gameboy>mono #search:feature>mario #lang:en,1020
+#players:2:vs #genre:puzzle #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:en #unfinished:proto,1021
+#players:2:vs #genre:puzzle #addon:link>gamelinkcable #port:nec>pc88:nintendo>famicom #compatibility:gameboy>mono #lang:en,1022
+#players:2:vs #genre:puzzle #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,1023
+#players:2:vs #genre:puzzle #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #port:arcade #lang:en,1024
+#players:2:vs #genre:puzzle #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #port:arcade #lang:en #unfinished:proto,1025
+#players:2:vs #genre:puzzle #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono>sgb #lang:en,1026
+#players:2:vs #genre:puzzle #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono>sgb #lang:en #rev:1,1027
+#players:2:vs #genre:puzzle #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono>sgb #lang:ja,1028
+#players:2:vs #genre:puzzle #compatibility:gameboy>mono #lang:en,1029
+#players:2:vs #genre:puzzle:action #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #port:commodore>amiga #lang:en,1030
+#players:2:vs #genre:puzzle:action>maze #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja,1031
+#players:2:vs #genre:puzzle:board #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,1032
+#players:2:vs #genre:puzzle:board #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja,1033
+#players:2:vs #genre:puzzle:shmup>v #addon:link>gamelinkcable #compatibility:gameboy>mono #port:arcade #lang:en,1034
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #based:manganime #port:nintendo>famicom #lang:ja #unlicensed:clone,1035
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #based:movie #lang:en,1036
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #based:movie #lang:en #unfinished:proto,1037
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,1038
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en #unfinished:proto,1039
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en #unlicensed,1040
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja,1041
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #port:arcade #lang:en,1042
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #port:arcade #lang:ja,1043
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #port:nintendo>famicom #based #lang:ja,1044
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #port:nintendo>famicom #lang:en,1045
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #port:pc #lang:de #unfinished:proto,1046
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #port:pc #lang:en,1047
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #port:pc #lang:en #unfinished:beta,1048
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #port:pc #lang:en #unfinished:proto,1049
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #port:pc #lang:fr #unfinished:proto,1050
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #reboxed:classicserie #lang:en #rev:1,1051
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #reboxed:playerschoice #lang:en #rev:1,1052
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #search:feature>mario #lang:en,1053
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #search:feature>mario #lang:en #unfinished:beta,1054
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #search:feature>mario #port:elektronika60 #lang:en,1055
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #search:feature>mario #port:elektronika60 #lang:en #rev:1,1056
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono #search:feature>mario #port:elektronika60 #reboxed:playerschoice #lang:en,1057
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #lang:en,1058
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #lang:ja,1059
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #port:arcade #lang:en,1060
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #port:arcade #lang:ja,1061
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #port:msx>2 #lang:ja,1062
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #port:msx>2 #lang:ja #rev:1,1063
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #port:nintendo>famicom #lang:en,1064
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #port:nintendo>famicom #lang:en #rev:1,1065
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #port:nintendo>famicom #lang:en #rev:2,1066
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #search:keyword>endorsed #lang:en,1067
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb>np #port:arcade #lang:ja #rev:1,1068
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:en,1069
+#players:2:vs #genre:puzzle>drop #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,1070
+#players:2:vs #genre:puzzle>drop:action>blockbreaker:board>mahjong:sports>tennis #addon:link>gamelinkcable #compatibility:gameboy>mono #search:feature>mario #multigame:compilation>tetris>alleway>yakuman>tennis #lang:ja,1071
+#players:2:vs #genre:quiz #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:ja,1072
+#players:2:vs #genre:quiz #compatibility:gameboy>mono #lang:ja,1073
+#players:2:vs #genre:quiz #compatibility:gameboy>mono>sgb #lang:ja,1074
+#players:2:vs #genre:quiz #save:password #compatibility:gameboy>mono #based:manganime #lang:ja,1075
+#players:2:vs #genre:quiz:board #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:en,1076
+#players:2:vs #genre:quiz:board #compatibility:gameboy>mono>sgb #based #lang:en,1077
+#players:2:vs #genre:racing #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:en,1078
+#players:2:vs #genre:racing #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:en #unfinished:proto,1079
+#players:2:vs #genre:racing #addon:link>gamelinkcable #compatibility:gameboy>mono #based #multigame:compilation>dirtyracing>jeepjamboreeora #lang:en,1080
+#players:2:vs #genre:racing #addon:link>gamelinkcable #compatibility:gameboy>mono #based #port:sega>megadrive #lang:en,1081
+#players:2:vs #genre:racing #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,1082
+#players:2:vs #genre:racing #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,1083
+#players:2:vs #genre:racing #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,1084
+#players:2:vs #genre:racing:sports #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #search:keyword>official>endorsed #lang:en,1085
+#players:2:vs #genre:racing:sports>formula1 #addon:link>gamelinkcable #compatibility:gameboy>mono #search:keyword>official #lang:en,1086
+#players:2:vs #genre:racing:sports>formula1 #compatibility:gameboy>mono #based:manganime #lang:en,1087
+#players:2:vs #genre:racing:sports>formula1 #compatibility:gameboy>mono #lang:en,1088
+#players:2:vs #genre:racing:sports>motogp #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,1089
+#players:2:vs #genre:racing>combat #addon:link>gamelinkcable #compatibility:gameboy>mono #based:manganime #lang:ja,1090
+#players:2:vs #genre:racing>combat #compatibility:gameboy>mono #lang:en,1091
+#players:2:vs #genre:rpg>dungeoncrawler #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,1092
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:de,1093
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:en,1094
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:en #unlicensed:translation,1095
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:es,1096
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:fr,1097
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:it,1098
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,1099
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja #rev:1,1100
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:zh #unlicensed:translation,1101
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #reboxed:playerschoice #lang:en,1102
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:printer>pocketprinter #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,1103
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:printer>pocketprinter #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja #unfinished:demo,1104
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:printer>pocketprinter #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja #unfinished:demo:debug,1105
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:printer>pocketprinter:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,1106
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:printer>pocketprinter:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based:manganime #lang:ja #rev:1,1107
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:printer>pocketprinter:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based:manganime #lang:ja #rev:2,1108
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:printer>pocketprinter:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based:manganime #lang:ja #rev:3,1109
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:printer>pocketprinter:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based:manganime #lang:zh #unlicensed:translation,1110
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:printer>pocketprinter:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb>color #based:manganime #lang:de,1111
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:printer>pocketprinter:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb>color #based:manganime #lang:en,1112
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:printer>pocketprinter:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb>color #based:manganime #lang:en #unfinished:beta,1113
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:printer>pocketprinter:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb>color #based:manganime #lang:en #unfinished:beta #alt,1114
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:printer>pocketprinter:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb>color #based:manganime #lang:es,1115
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:printer>pocketprinter:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb>color #based:manganime #lang:fr,1116
+#players:2:vs #genre:rpg>j #addon:link>gamelinkcable:printer>pocketprinter:lockon>transferpak #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb>color #based:manganime #lang:it,1117
+#players:2:vs #genre:rpg>j:sim>cardgame #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,1118
+#players:2:vs #genre:rpg>s #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #based:manganime #search:feature>gundam #lang:ja,1119
+#players:2:vs #genre:shmup #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,1120
+#players:2:vs #genre:shmup #addon:link>gamelinkcable #compatibility:gameboy>mono #port:arcade #lang:en,1121
+#players:2:vs #genre:shmup #addon:link>gamelinkcable #compatibility:gameboy>mono #port:arcade #lang:en #unfinished:beta,1122
+#players:2:vs #genre:shmup #compatibility:gameboy>mono #lang:en,1123
+#players:2:vs #genre:shmup:shooting>gallery #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,1124
+#players:2:vs #genre:shmup:shooting>gallery #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en #unfinished:beta,1125
+#players:2:vs #genre:shmup:shooting>gallery #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja,1126
+#players:2:vs #genre:shmup:sim>strategy #addon:link>gamelinkcable #compatibility:gameboy>mono #based:movie #lang:en,1127
+#players:2:vs #genre:shmup>h #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:ja,1128
+#players:2:vs #genre:shmup>h #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #port:nintendo>famicom #lang:en,1129
+#players:2:vs #genre:shmup>v #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,1130
+#players:2:vs #genre:shmup>v #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en #unfinished:beta,1131
+#players:2:vs #genre:shmup>v #compatibility:gameboy>mono #lang:en,1132
+#players:2:vs #genre:shmup>v:sports>tennis:puzzle #save:password #compatibility:gameboy>mono>sgb #multigame:compilation>skykid>babel>familytennis>jantakuboy #port:arcade:nintendo>famicom #lang:en,1133
+#players:2:vs #genre:shooting>fps #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,1134
+#players:2:vs #genre:sim:sports>dodgeball #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #based:manganime #lang:ja,1135
+#players:2:vs #genre:sim>cardgame #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,1136
+#players:2:vs #genre:sim>cardgame #embedded:gbkiss #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,1137
+#players:2:vs #genre:sim>derby #compatibility:gameboy>mono #port:nintendo>famicom #lang:ja,1138
+#players:2:vs #genre:sim>fishing #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja,1139
+#players:2:vs #genre:sim>fishing #embedded:backup>battery #save:backup #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #lang:ja,1140
+#players:2:vs #genre:sim>flight #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en #unfinished:proto,1141
+#players:2:vs #genre:sim>life #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,1142
+#players:2:vs #genre:sim>life #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #rev:1 #lang:ja,1143
+#players:2:vs #genre:sim>strategy #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:en:fr:de,1144
+#players:2:vs #genre:sim>strategy #addon:link>gamelinkcable #compatibility:gameboy>mono #based #lang:ja,1145
+#players:2:vs #genre:sim>strategy #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,1146
+#players:2:vs #genre:sim>strategy #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja,1147
+#players:2:vs #genre:sim>strategy #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,1148
+#players:2:vs #genre:sim>strategy #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,1149
+#players:2:vs #genre:sim>strategy #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,1150
+#players:2:vs #genre:sim>strategy #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,1151
+#players:2:vs #genre:sim>strategy #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en #rev:1,1152
+#players:2:vs #genre:sim>strategy #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:ja,1153
+#players:2:vs #genre:sim>strategy #compatibility:gameboy>mono #lang:ja,1154
+#players:2:vs #genre:sim>strategy #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja,1155
+#players:2:vs #genre:sim>strategy #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #lang:ja,1156
+#players:2:vs #genre:sim>strategy:board #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,1157
+#players:2:vs #genre:sim>strategy:board #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en #unfinished:beta,1158
+#players:2:vs #genre:sim>strategy:board #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en #unfinished:proto,1159
+#players:2:vs #genre:sim>strategy:fighting #addon:link>gamelinkcable #compatibility:gameboy>mono #based:manganime #search:feature>gundam #lang:ja,1160
+#players:2:vs #genre:sim>strategy:fighting #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #based:manganime #search:feature>gundam #lang:ja,1161
+#players:2:vs #genre:sports>baseball #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,1162
+#players:2:vs #genre:sports>baseball #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja,1163
+#players:2:vs #genre:sports>baseball #addon:link>gamelinkcable #compatibility:gameboy>mono #port:nintendo>famicom #lang:en,1164
+#players:2:vs #genre:sports>baseball #addon:link>gamelinkcable #compatibility:gameboy>mono #search:keyword>endorsed #lang:ja,1165
+#players:2:vs #genre:sports>baseball #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #lang:ja,1166
+#players:2:vs #genre:sports>baseball #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #lang:ja #rev:1,1167
+#players:2:vs #genre:sports>baseball #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #search:keyword>official>endorsed #lang:en,1168
+#players:2:vs #genre:sports>baseball #compatibility:gameboy>mono #lang:en,1169
+#players:2:vs #genre:sports>baseball #compatibility:gameboy>mono #lang:ja,1170
+#players:2:vs #genre:sports>baseball>football #addon:link>gamelinkcable #compatibility:gameboy>mono #multigame #search:keyword>endorsed #lang:en,1171
+#players:2:vs #genre:sports>baseball>football #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #multigame #based #lang:en,1172
+#players:2:vs #genre:sports>basketball #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,1173
+#players:2:vs #genre:sports>basketball #addon:link>gamelinkcable #compatibility:gameboy>mono #search:keyword>official #lang:en,1174
+#players:2:vs #genre:sports>basketball #addon:link>gamelinkcable #compatibility:gameboy>mono>sgb #lang:en,1175
+#players:2:vs #genre:sports>basketball #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono>sgb #search:keyword>official #lang:en,1176
+#players:2:vs #genre:sports>decathlon #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,1177
+#players:2:vs #genre:sports>decathlon #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en #unfinished:beta,1178
+#players:2:vs #genre:sports>decathlon #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #search:keyword>endorsed #lang:de,1179
+#players:2:vs #genre:sports>decathlon #compatibility:gameboy>mono #lang:en,1180
+#players:2:vs #genre:sports>decathlon #compatibility:gameboy>mono #lang:en #unfinished:proto,1181
+#players:2:vs #genre:sports>decathlon>swimming>archery #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,1182
+#players:2:vs #genre:sports>dodgeball #save:password #compatibility:gameboy>mono #lang:en,1183
+#players:2:vs #genre:sports>football #addon:link>gamelinkcable #compatibility:gameboy>mono #search:keyword>official #lang:en,1184
+#players:2:vs #genre:sports>football #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #based #lang:en,1185
+#players:2:vs #genre:sports>golf #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:ja,1186
+#players:2:vs #genre:sports>golf #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,1187
+#players:2:vs #genre:sports>golf #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en #unfinished:beta,1188
+#players:2:vs #genre:sports>golf #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #reboxed #lang:en,1189
+#players:2:vs #genre:sports>golf #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #search:feature>mario #lang:en,1190
+#players:2:vs #genre:sports>golf #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #search:feature>mario #reboxed:playerschoice #lang:en,1191
+#players:2:vs #genre:sports>golf #compatibility:gameboy>mono #port:nintendo>famicom #lang:en,1192
+#players:2:vs #genre:sports>golf #save:password #compatibility:gameboy>mono>sgb #based #lang:en,1193
+#players:2:vs #genre:sports>golf #save:password #compatibility:gameboy>mono>sgb #lang:en,1194
+#players:2:vs #genre:sports>golf #save:password #compatibility:gameboy>mono>sgb #search:keyword>official #lang:en,1195
+#players:2:vs #genre:sports>golf #save:password #compatibility:gameboy>mono>sgb #search:keyword>official #port:commodore>amiga #lang:en,1196
+#players:2:vs #genre:sports>hockey #addon:link>gamelinkcable #compatibility:gameboy>mono #port:arcade #lang:en,1197
+#players:2:vs #genre:sports>hockey #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,1198
+#players:2:vs #genre:sports>hockey #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en #unfinished:proto,1199
+#players:2:vs #genre:sports>motocross #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,1200
+#players:2:vs #genre:sports>motocross #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en #rev:1,1201
+#players:2:vs #genre:sports>pingpong #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,1202
+#players:2:vs #genre:sports>soccer #addon:link>gamelinkcable #compatibility:gameboy>mono #lang:en,1203
+#players:2:vs #genre:sports>soccer #addon:link>gamelinkcable #compatibility:gameboy>mono #search:keyword>endorsed #lang:ja,1204
+#players:2:vs #genre:sports>soccer #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #search:keyword>official #lang:en,1205
+#players:2:vs #genre:sports>soccer #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono #search:keyword>official #lang:ja,1206
+#players:2:vs #genre:sports>soccer #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #search:keyword>endorsed #lang:de,1207
+#players:2:vs #genre:sports>soccer #addon:link>gamelinkcable #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #search:keyword>official #lang:ja,1208
+#players:2:vs #genre:sports>soccer #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #lang:en,1209
+#players:2:vs #genre:sports>tennis #addon:link>gamelinkcable #compatibility:gameboy>mono #search:feature>mario #lang:en,1210
+#players:2:vs #genre:sports>tennis #addon:link>gamelinkcable #compatibility:gameboy>mono #search:feature>mario #reboxed:playerschoice #lang:en,1211
+#players:2:vs #genre:sports>tennis #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #search:keyword>endorsed #lang:en,1212
+#players:2:vs #genre:sports>tennis #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono #search:keyword>endorsed #lang:en #unfinished:beta,1213
+#players:2:vs #genre:sports>volleyball #addon:link>gamelinkcable #save:password #compatibility:gameboy>mono>sgb #search:feature>kuniokun #lang:ja,1214
+#players:4:coop:vs #genre:sports>dodgeball #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #port:arcade #search:feature>kuniokun #lang:ja,1215
+#players:4:vs #addon:multitap>super #genre:board #compatibility:gameboy>mono>sgb #based:manganime #lang:ja,1216
+#players:4:vs #genre:action #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #lang:en,1217
+#players:4:vs #genre:action:brawler #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #port:nintendo>famicom #search:feature>kuniokun #lang:ja,1218
+#players:4:vs #genre:action>maze #addon:link>gamelinkcable:multitap>super #save:password #compatibility:gameboy>mono>sgb #lang:en,1219
+#players:4:vs #genre:action>maze #addon:link>gamelinkcable:multitap>super #save:password #compatibility:gameboy>mono>sgb #lang:ja,1220
+#players:4:vs #genre:action>platformer:board>party #addon:link>gamelinkcable>fourplayeradapter #embedded:backup>battery #save:backup:password #compatibility:gameboy>mono>sgb #multigame:compilation>momotaroudengeki>supermomotaroudentetsu2 #lang:ja,1221
+#players:4:vs #genre:action>runandgun:shmup #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #lang:en,1222
+#players:4:vs #genre:action>runandgun:shmup #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #lang:ja,1223
+#players:4:vs #genre:board #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:ja #port:nintendo>famicom #unfinished:proto,1224
+#players:4:vs #genre:board:quiz #compatibility:gameboy>mono #based #lang:en:fr:de:nl,1225
+#players:4:vs #genre:board:sim>cardgame #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #based #lang:ja,1226
+#players:4:vs #genre:board:sim>cardgame #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono>sgb #based #lang:ja,1227
+#players:4:vs #genre:board>cards #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #lang:ja,1228
+#players:4:vs #genre:board>mahjong #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #lang:ja,1229
+#players:4:vs #genre:board>mahjong #compatibility:gameboy>mono #lang:ja,1230
+#players:4:vs #genre:board>party #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #lang:ja,1231
+#players:4:vs #genre:board>party #addon:link>gamelinkcable>fourplayeradapter #embedded:backup>battery #save:backup #compatibility:gameboy>mono #port:nec>pcengine #lang:ja,1232
+#players:4:vs #genre:board>party #addon:multitap>super #embedded:backup>battery #save:backup #compatibility:gameboy>mono>sgb #based #lang:ja,1233
+#players:4:vs #genre:puzzle #compatibility:gameboy>mono #lang:en,1234
+#players:4:vs #genre:puzzle #compatibility:gameboy>mono #lang:en #unfinished:proto,1235
+#players:4:vs #genre:puzzle>drop #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #search:feature>mario #lang:en,1236
+#players:4:vs #genre:puzzle>drop #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #search:feature>mario #lang:ja,1237
+#players:4:vs #genre:quiz #compatibility:gameboy>mono #based #addon:link>gamelinkcable>fourplayeradapter #lang:en,1238
+#players:4:vs #genre:racing #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #based #port:nintendo>famicom #lang:en,1239
+#players:4:vs #genre:racing #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #lang:en,1240
+#players:4:vs #genre:racing #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #reboxed:classicserie #lang:en,1241
+#players:4:vs #genre:racing #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #reboxed:playerschoice #lang:en,1242
+#players:4:vs #genre:racing:sports>formula1 #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #lang:en,1243
+#players:4:vs #genre:racing:sports>formula1 #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #lang:ja,1244
+#players:4:vs #genre:racing:sports>formula1 #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #port:nintendo>famicom #lang:en,1245
+#players:4:vs #genre:racing:sports>formula1 #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #port:nintendo>famicom #reboxed:playerschoice #lang:en #rev:1,1246
+#players:4:vs #genre:racing:sports>formula1 #addon:link>gamelinkcable>fourplayeradapter #save:password #compatibility:gameboy>mono #lang:en,1247
+#players:4:vs #genre:racing:sports>formula1 #addon:link>gamelinkcable>fourplayeradapter #save:password #compatibility:gameboy>mono #lang:en #unfinished:beta,1248
+#players:4:vs #genre:racing:sports>formula1 #addon:link>gamelinkcable>fourplayeradapter #save:password #compatibility:gameboy>mono #search:keyword>endorsed #lang:ja,1249
+#players:4:vs #genre:racing:sports>jetski #addon:link>gamelinkcable>fourplayeradapter #embedded:backup>battery #save:backup #compatibility:gameboy>mono #lang:en,1250
+#players:4:vs #genre:racing:sports>jetski #addon:link>gamelinkcable>fourplayeradapter #embedded:backup>battery #save:backup #compatibility:gameboy>mono #reboxed:playerschoice #lang:en,1251
+#players:4:vs #genre:racing>combat #addon:link>gamelinkcable>fourplayeradapter #save:password #compatibility:gameboy>mono #lang:en #unfinished:proto,1252
+#players:4:vs #genre:shooting>fps #addon:link>gamelinkcable>fourplayeradapter #compatibility:gameboy>mono #port:atari>atarist #lang:en,1253
+#players:4:vs #genre:sports>golf #save:password #compatibility:gameboy>mono #search:keyword>endorsed #lang:en,1254
+#players:4:vs #genre:sports>golf #save:password #compatibility:gameboy>mono #search:keyword>endorsed #lang:fr,1255
+#players:6:vs #genre:sports>football #compatibility:gameboy>mono #search:keyword>official #lang:en,1256

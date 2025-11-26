@@ -2,7 +2,7 @@ name: Generate README
 
 on:
   push:
-    branches: [ main ]
+    branches: [ disabled-main ]
     paths:
       - 'scripts/generate_readme.py'
       - 'scripts/README_TEMPLATE.md'
@@ -62,13 +62,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
+
           # Stage changes
           git add README.md
-          
+
           # Commit changes if any
           git commit -m "docs: auto-generate README [skip ci]" || echo "No changes to commit"
-          
+
           # Attempt to pull and rebase, resolving conflicts automatically
           git pull --rebase -X theirs origin ${{ github.head_ref }} || (
             echo "Rebase failed, conflicts detected" &&
@@ -81,7 +81,7 @@ jobs:
             done &&
             git rebase --abort
           )
-          
+
           # Push changes to the head branch
           git push origin HEAD:${{ github.head_ref }}
 
@@ -95,4 +95,3 @@ jobs:
               .addHeading('Generated README')
               .addRaw(report)
               .write();
-

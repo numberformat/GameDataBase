@@ -1,0 +1,646 @@
+tag_name,tag_id
+#players:1 #genre:action #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge1 #lang:en,1
+#players:1 #genre:action #addon:expansion>fmsoundunit #lang:en,2
+#players:1 #genre:action #addon:expansion>fmsoundunit #lang:en #unlicensed,3
+#players:1 #genre:action #addon:expansion>fmsoundunit #port:arcade #lang:en,4
+#players:1 #genre:action #addon:expansion>fmsoundunit #port:arcade #lang:en #unfinished:beta,5
+#players:1 #genre:action #based:marvel #search:feature>xmen #port:sega>gamegear #lang:en,6
+#players:1 #genre:action #based:movie #lang:en,7
+#players:1 #genre:action #based:movie #port:commodore>c64 #lang:en,8
+#players:1 #genre:action #based:movie #port:nintendo>famicom #lang:en,9
+#players:1 #genre:action #based:movie #port:sega>megadrive #lang:en,10
+#players:1 #genre:action #based:movie #port:sega>megadrive #lang:en #unfinished:beta,11
+#players:1 #genre:action #based:movie #search:feature>batman #lang:en,12
+#players:1 #genre:action #based:movie #search:feature>batman #reboxed:classicedition #lang:en,13
+#players:1 #genre:action #embedded:chip>ram #based #lang:en,14
+#players:1 #genre:action #embedded:chip>ram #based:movie #port:sega>megadrive #lang:en,15
+#players:1 #genre:action #embedded:chip>ram #reboxed:classicedition #based #lang:en,16
+#players:1 #genre:action #lang:en,17
+#players:1 #genre:action #lang:en #unfinished:beta,18
+#players:1 #genre:action #multigame:compilation>shinobi>ninja>makairetsuden #lang:en,19
+#players:1 #genre:action #port:arcade #lang:en,20
+#players:1 #genre:action #port:arcade #lang:en #rev:a,21
+#players:1 #genre:action #port:arcade #lang:en #unfinished:beta,22
+#players:1 #genre:action #port:arcade #lang:en #unfinished:beta>1,23
+#players:1 #genre:action #port:arcade #lang:en #unfinished:beta>2,24
+#players:1 #genre:action #port:arcade #lang:en #unfinished:beta>3,25
+#players:1 #genre:action #port:arcade #lang:en #unfinished:demo,26
+#players:1 #genre:action #port:arcade #lang:en #unlicensed,27
+#players:1 #genre:action #port:commodore>amiga #lang:en,28
+#players:1 #genre:action #port:commodore>amiga #lang:en #unlicensed,29
+#players:1 #genre:action #port:msx #lang:en #unlicensed,30
+#players:1 #genre:action #port:nintendo>famicom #based:movie #lang:en #unlicensed,31
+#players:1 #genre:action #port:sega>megadrive>gamegear #based:movie:disney #lang:en,32
+#players:1 #genre:action #reboxed:bluebox #port:arcade #lang:en,33
+#players:1 #genre:action #save:password #based:movie #port:commodore>c64 #lang:en,34
+#players:1 #genre:action #save:password #port:apple>apple2 #lang:en,35
+#players:1 #genre:action #save:password #port:apple>apple2 #lang:en #unlicensed,36
+#players:1 #genre:action:adventure #addon:expansion>fmsoundunit #based:manganime #compatibility:mark3>goldcartridge1 #lang:ja,37
+#players:1 #genre:action:adventure #addon:expansion>fmsoundunit #based:manganime #lang:ja #unfinished:beta,38
+#players:1 #genre:action:adventure #addon:expansion>fmsoundunit #lang:en,39
+#players:1 #genre:action:adventure #addon:expansion>fmsoundunit #lang:en #unfinished:beta,40
+#players:1 #genre:action:adventure #based:simpsons #port:nintendo>famicom #lang:en,41
+#players:1 #genre:action:adventure #lang:en,42
+#players:1 #genre:action:adventure #port:sega>megadrive #based:movie #lang:en,43
+#players:1 #genre:action:adventure #reboxed:purplebox #based:simpsons #port:nintendo>famicom #lang:en,44
+#players:1 #genre:action:adventure #save:password #port:sega>gamegear #lang:en,45
+#players:1 #genre:action:adventure #save:password #port:sega>megadrive #lang:en,46
+#players:1 #genre:action:adventure:puzzle #based:movie #lang:en,47
+#players:1 #genre:action:puzzle:action>platformer>blockbreaker #multigame:compilation>adventurekid>suhojeonsa>twinmouse>totoworld3 #lang:en #unlicensed,48
+#players:1 #genre:action:shmup #port:arcade #lang:en #unlicensed,49
+#players:1 #genre:action:shmup>h #lang:en #unlicensed,50
+#players:1 #genre:action>blockbreaker #addon:controller>paddlecontrol #compatibility:mark3>mycard #lang:en,51
+#players:1 #genre:action>blockbreaker #lang:en #unlicensed,52
+#players:1 #genre:action>blockbreaker #lang:en #unlicensed:clone,53
+#players:1 #genre:action>hackandslash #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #port:arcade #lang:en,54
+#players:1 #genre:action>hackandslash #addon:expansion>fmsoundunit #port:arcade #lang:en,55
+#players:1 #genre:action>hackandslash #addon:expansion>fmsoundunit #port:arcade #lang:en #unfinished:beta,56
+#players:1 #genre:action>hackandslash #addon:expansion>fmsoundunit #port:arcade #reboxed:bluebox #lang:en,57
+#players:1 #genre:action>hackandslash #based:marvel #lang:en,58
+#players:1 #genre:action>hackandslash #lang:en,59
+#players:1 #genre:action>hackandslash #reboxed:kixxedition #based:marvel #lang:en,60
+#players:1 #genre:action>maze #port:msx #lang:en #unlicensed,61
+#players:1 #genre:action>maze #search:feature>pacman #port:arcade #lang:en,62
+#players:1 #genre:action>platformer #addon:controller>paddlecontrol:expansion>fmsoundunit #compatibility:mark3>goldcartridge1 #port:arcade #lang:en,63
+#players:1 #genre:action>platformer #addon:expansion>fmsoundunit #based #port:arcade #lang:pt,64
+#players:1 #genre:action>platformer #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #lang:ja,65
+#players:1 #genre:action>platformer #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #port:arcade #lang:en,66
+#players:1 #genre:action>platformer #addon:expansion>fmsoundunit #lang:en,67
+#players:1 #genre:action>platformer #addon:expansion>fmsoundunit #lang:en #unlicensed,68
+#players:1 #genre:action>platformer #addon:expansion>fmsoundunit #port:arcade #lang:en,69
+#players:1 #genre:action>platformer #addon:expansion>fmsoundunit #search:franchise>wonderboy #compatibility:mark3>goldcartridge2 #port:arcade #lang:ja,70
+#players:1 #genre:action>platformer #addon:expansion>fmsoundunit #search:franchise>wonderboy #port:arcade #lang:en,71
+#players:1 #genre:action>platformer #addon:expansion>fmsoundunit #search:franchise>wonderboy #port:arcade #lang:en #unfinished:beta,72
+#players:1 #genre:action>platformer #based #lang:en #unlicensed,73
+#players:1 #genre:action>platformer #based #lang:pt,74
+#players:1 #genre:action>platformer #based #search:feature>superman #port:sega>megadrive #lang:en,75
+#players:1 #genre:action>platformer #based:disney #search:feature>donald #lang:en,76
+#players:1 #genre:action>platformer #based:disney #search:feature>donald #lang:en #unfinished:beta,77
+#players:1 #genre:action>platformer #based:disney #search:feature>mickey #lang:en,78
+#players:1 #genre:action>platformer #based:disney #search:feature>mickey #lang:en #rev:1,79
+#players:1 #genre:action>platformer #based:disney #search:feature>mickey #lang:en #unfinished:demo,80
+#players:1 #genre:action>platformer #based:disney #search:feature>mickey #port:sega>gamegear #lang:en,81
+#players:1 #genre:action>platformer #based:looneytunes #lang:en,82
+#players:1 #genre:action>platformer #based:looneytunes #lang:en #unfinished:beta,83
+#players:1 #genre:action>platformer #based:looneytunes #lang:en:fr:de:es,84
+#players:1 #genre:action>platformer #based:looneytunes #lang:en:fr:de:es:it,85
+#players:1 #genre:action>platformer #based:looneytunes #port:sega>megadrive>gamegear #lang:en,86
+#players:1 #genre:action>platformer #based:marvel #search:feature>spiderman #lang:en,87
+#players:1 #genre:action>platformer #based:marvel #search:feature>spiderman #port:nintendo>famicom #lang:en,88
+#players:1 #genre:action>platformer #based:movie #lang:en,89
+#players:1 #genre:action>platformer #based:movie #lang:en #unfinished:beta,90
+#players:1 #genre:action>platformer #based:movie #port:nintendo>superfamicom #lang:en #unfinished:proto,91
+#players:1 #genre:action>platformer #based:movie #search:feature>dracula #lang:en,92
+#players:1 #genre:action>platformer #based:movie:disney #lang:en,93
+#players:1 #genre:action>platformer #based:movie:disney #port:sega>megadrive #lang:en,94
+#players:1 #genre:action>platformer #based:movie:disney #reboxed #lang:en,95
+#players:1 #genre:action>platformer #based:movie:disney #reboxed #port:sega>megadrive #lang:en,96
+#players:1 #genre:action>platformer #based:simpsons #port:nintendo>famicom #lang:en,97
+#players:1 #genre:action>platformer #compatibility:mark3>epmycard #port:arcade #lang:en #unfinished:proto,98
+#players:1 #genre:action>platformer #compatibility:mark3>mycard #port:arcade #lang:en,99
+#players:1 #genre:action>platformer #compatibility:mark3>thesegacard #port:arcade #lang:en,100
+#players:1 #genre:action>platformer #embedded:chip>ram #based:looneytunes #lang:en:fr:de:es:it,101
+#players:1 #genre:action>platformer #embedded:chip>ram #based:looneytunes #reboxed:classicedition #lang:en:fr:de:es:it,102
+#players:1 #genre:action>platformer #embedded:chip>ram #based:looneytunes #reboxed:purplebox #lang:en:fr:de:es:it,103
+#players:1 #genre:action>platformer #lang:en,104
+#players:1 #genre:action>platformer #lang:en #unfinished:beta,105
+#players:1 #genre:action>platformer #lang:en #unlicensed,106
+#players:1 #genre:action>platformer #lang:en #unlicensed:clone,107
+#players:1 #genre:action>platformer #lang:pt,108
+#players:1 #genre:action>platformer #port:arcade #lang:en,109
+#players:1 #genre:action>platformer #port:arcade #lang:en #unfinished:demo,110
+#players:1 #genre:action>platformer #port:arcade #lang:en #unlicensed,111
+#players:1 #genre:action>platformer #port:commodore>amiga #lang:en,112
+#players:1 #genre:action>platformer #port:msx #lang:en #unlicensed,113
+#players:1 #genre:action>platformer #port:msx #lang:en #unlicensed:clone,114
+#players:1 #genre:action>platformer #port:sega>gamegear #lang:en,115
+#players:1 #genre:action>platformer #port:sega>megadrive #based:looneytunes #lang:pt,116
+#players:1 #genre:action>platformer #port:sega>megadrive>gamegear #lang:en,117
+#players:1 #genre:action>platformer #reboxed:classicedition #based:disney #search:feature>donald #lang:en,118
+#players:1 #genre:action>platformer #reboxed:kixxedition #port:commodore>amiga #lang:en,119
+#players:1 #genre:action>platformer #reboxed:purplebox #based:looneytunes #lang:en:fr:de:es,120
+#players:1 #genre:action>platformer #reboxed:purplebox #based:marvel #search:feature>spiderman #port:nintendo>famicom #lang:en,121
+#players:1 #genre:action>platformer #reboxed:purplebox #based:movie:disney #reboxed #lang:en,122
+#players:1 #genre:action>platformer #reboxed:purplebox #based:movie:disney #reboxed #port:sega>megadrive #lang:en,123
+#players:1 #genre:action>platformer #save:password #based #lang:en:fr:de:es:it,124
+#players:1 #genre:action>platformer #save:password #based #port:sega>gamegear #lang:en,125
+#players:1 #genre:action>platformer #save:password #based #search:feature>asterix #lang:en:fr:de:es:it,126
+#players:1 #genre:action>platformer #save:password #based:movie #lang:en,127
+#players:1 #genre:action>platformer #save:password #based:movie #lang:en #unfinished:proto,128
+#players:1 #genre:action>platformer #save:password #based:movie #reboxed #lang:en,129
+#players:1 #genre:action>platformer #save:password #based:movie #reboxed:bluebox #lang:en,130
+#players:1 #genre:action>platformer #save:password #based:movie #reboxed:purplebox #lang:en,131
+#players:1 #genre:action>platformer #save:password #based:movie:disney #lang:en,132
+#players:1 #genre:action>platformer #save:password #based:smurfs #lang:en:fr:de:es,133
+#players:1 #genre:action>platformer #save:password #based:smurfs #lang:en:fr:de:es #unfinished:beta,134
+#players:1 #genre:action>platformer #save:password #based:smurfs #port:nintendo>gameboy #lang:en:fr:de:es,135
+#players:1 #genre:action>platformer #save:password #lang:en,136
+#players:1 #genre:action>platformer #save:password #port:arcade #lang:en #unlicensed:clone,137
+#players:1 #genre:action>platformer #save:password #port:commodore>amiga #lang:en,138
+#players:1 #genre:action>platformer #save:password #reboxed:classicedition #based #lang:en:fr:de:es:it,139
+#players:1 #genre:action>platformer #save:password #reboxed:classicedition #search:franchise>wonderboy #port:sega>megadrive #lang:en,140
+#players:1 #genre:action>platformer #save:password #reboxed:purplebox #based #search:feature>asterix #lang:en:fr:de:es:it,141
+#players:1 #genre:action>platformer #save:password #search:franchise>wonderboy #port:sega>megadrive #lang:en,142
+#players:1 #genre:action>platformer #save:password #search:franchise>wonderboy #port:sega>megadrive #lang:en #unfinished:beta,143
+#players:1 #genre:action>platformer #search:feature>dracula #port:sega>gamegear #lang:en,144
+#players:1 #genre:action>platformer #search:feature>dracula #port:sega>gamegear #lang:en #unfinished:beta,145
+#players:1 #genre:action>platformer #search:feature>dracula #port:sega>gamegear #reboxed:classicedition #lang:en,146
+#players:1 #genre:action>platformer #search:feature>sonic #lang:en,147
+#players:1 #genre:action>platformer #search:feature>sonic #lang:en #rev:1,148
+#players:1 #genre:action>platformer #search:feature>sonic #lang:en #unfinished:beta>1,149
+#players:1 #genre:action>platformer #search:feature>sonic #lang:en #unfinished:beta>2,150
+#players:1 #genre:action>platformer #search:feature>sonic #port:sega>gamegear #lang:en,151
+#players:1 #genre:action>platformer #search:feature>sonic #reboxed:bios #lang:en,152
+#players:1 #genre:action>platformer #search:keyword>brand #lang:en,153
+#players:1 #genre:action>platformer #search:keyword>brand #port:commodore>amiga #lang:en,154
+#players:1 #genre:action>platformer:adventure #based:manganime #compatibility:mark3>goldcartridge1 #lang:ja:en,155
+#players:1 #genre:action>platformer:adventure #based:manganime #lang:en,156
+#players:1 #genre:action>platformer:adventure #based:manganime #lang:en #rev:1,157
+#players:1 #genre:action>platformer:adventure #based:manganime #lang:ja:en,158
+#players:1 #genre:action>platformer:adventure #based:manganime #rev:2 #lang:en,159
+#players:1 #genre:action>platformer:adventure #based:movie:starwars #port:nintendo>famicom #lang:en,160
+#players:1 #genre:action>platformer:adventure #based:movie:starwars #port:nintendo>famicom #reboxed:kixxedition #lang:en,161
+#players:1 #genre:action>platformer:adventure #save:password #addon:expansion>fmsoundunit #based:manganime #compatibility:mark3>goldcartridge2 #lang:ja,162
+#players:1 #genre:action>platformer:adventure #save:password #addon:expansion>fmsoundunit #lang:en,163
+#players:1 #genre:action>platformer:board>jankenpon #compatibility:mark3>goldcartridge1 #lang:en,164
+#players:1 #genre:action>platformer:board>jankenpon #lang:en,165
+#players:1 #genre:action>platformer:board>jankenpon #lang:en #rerelease:segaages,166
+#players:1 #genre:action>platformer:board>jankenpon #lang:en #rev:1,167
+#players:1 #genre:action>platformer:board>jankenpon #lang:en #unlicensed,168
+#players:1 #genre:action>platformer:board>jankenpon #lang:ja #rerelease:segaages,169
+#players:1 #genre:action>platformer:board>jankenpon #reboxed:bios #lang:en,170
+#players:1 #genre:action>platformer:board>jankenpon #reboxed:bios #lang:en #rerelease:segaages,171
+#players:1 #genre:action>platformer:board>jankenpon #reboxed:bios #lang:en #unlicensed,172
+#players:1 #genre:action>platformer:parlor>pinball #reboxed:purplebox #search:feature>sonic #lang:en,173
+#players:1 #genre:action>platformer:parlor>pinball #search:feature>sonic #lang:en,174
+#players:1 #genre:action>platformer:puzzle #compatibility:mark3>goldcartridge1 #based:manganime #lang:ja,175
+#players:1 #genre:action>platformer:puzzle #lang:en,176
+#players:1 #genre:action>platformer:puzzle #lang:en #unfinished:beta,177
+#players:1 #genre:action>platformer:puzzle #save:password #port:commodore>amiga #based:simpsons #lang:en,178
+#players:1 #genre:action>platformer:rpg #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #lang:ja,179
+#players:1 #genre:action>platformer:rpg #addon:expansion>fmsoundunit #lang:en,180
+#players:1 #genre:action>platformer:rpg #addon:expansion>fmsoundunit #lang:ja #unlicensed,181
+#players:1 #genre:action>platformer:rpg #save:password #based:manganime #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge4 #lang:ja,182
+#players:1 #genre:action>platformer:shooting>gallery #based:movie:jurassicpark #lang:en,183
+#players:1 #genre:action>platformer:shooting>gallery #reboxed:purplebox #based:movie:jurassicpark #lang:en,184
+#players:1 #genre:action>platformer>metroidvania #save:password #addon:expansion>fmsoundunit #based #lang:pt,185
+#players:1 #genre:action>platformer>metroidvania #save:password #addon:expansion>fmsoundunit #search:franchise>wonderboy #lang:en,186
+#players:1 #genre:action>platformer>runandgun #port:msx #lang:en,187
+#players:1 #genre:action>runandgun #based #lang:en,188
+#players:1 #genre:action>runandgun #port:arcade #lang:en,189
+#players:1 #genre:action>runandgun #port:msx #lang:en #unlicensed,190
+#players:1 #genre:action>runandgun #reboxed:classicedition #based #lang:en,191
+#players:1 #genre:action>runandgun #save:password #based:movie #lang:en,192
+#players:1 #genre:action>runandgun:shmup>v #based:movie #lang:en,193
+#players:1 #genre:action>runandgun:shmup>v #compatibility:mark3>goldcartridge1 #port:arcade #lang:en,194
+#players:1 #genre:action>runandgun:shmup>v #port #lang:en #unfinished:beta,195
+#players:1 #genre:action>runandgun:shmup>v #port:arcade #lang:en,196
+#players:1 #genre:action>runandgun:shmup>v #port:arcade #lang:en #rev:1,197
+#players:1 #genre:action>runandgun:shmup>v #port:arcade #lang:en #unlicensed,198
+#players:1 #genre:action>runandgun:shooting>gallery #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #port:arcade #lang:en,199
+#players:1 #genre:action>runandgun:shooting>gallery #addon:expansion>fmsoundunit #port:arcade #lang:en,200
+#players:1 #genre:action>runandgun:shooting>gallery #addon:expansion>fmsoundunit #port:arcade #lang:en #rev:1,201
+#players:1 #genre:action>runandgun:shooting>gallery #addon:expansion>fmsoundunit #port:arcade #lang:ja,202
+#players:1 #genre:action>runandgun>platformer #addon:expansion>fmsoundunit #based:manganime #compatibility:mark3>goldcartridge1 #lang:en,203
+#players:1 #genre:action>runandgun>platformer #addon:expansion>fmsoundunit #based:manganime #lang:en,204
+#players:1 #genre:action>runandgun>platformer #addon:expansion>fmsoundunit #based:manganime #lang:en #unfinished:beta,205
+#players:1 #genre:adventure #based #lang:en,206
+#players:1 #genre:adventure #based:manganime #compatibility:mark3>goldcartridge1 #lang:ja,207
+#players:1 #genre:adventure #save:password #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #lang:ja,208
+#players:1 #genre:adventure #save:password #lang:en,209
+#players:1 #genre:adventure #save:password #search:feature>sherlock #compatibility:mark3>goldcartridge1 #lang:ja,210
+#players:1 #genre:adventure #save:password #unfinished:beta>1 #lang:en,211
+#players:1 #genre:adventure #save:password #unfinished:beta>2 #lang:en,212
+#players:1 #genre:adventure:action>maze #addon:glasses>3dglasses:expansion>fmsoundunit #compatibility:mark3>goldcartridge1 #search:3d>stereo #lang:en,213
+#players:1 #genre:adventure:action>maze #search:3d>stereo #addon:glasses>3dglasses #addon:expansion>fmsoundunit #lang:en,214
+#players:1 #genre:adventure:action>maze #search:3d>stereo #addon:glasses>3dglasses #lang:en #rerelease:3dfukkoku>2,215
+#players:1 #genre:adventure:action>platformer #port:nintendo>famicom #lang:en:fr:de:es:it,216
+#players:1 #genre:adventure:notagame>educational #port:apple>apple2 #lang:en,217
+#players:1 #genre:brawler #addon:expansion>fmsoundunit #port:arcade #lang:en,218
+#players:1 #genre:brawler #based:manganime #compatibility:mark3>goldcartridge1 #lang:ja,219
+#players:1 #genre:brawler #based:movie #lang:en #unlicensed,220
+#players:1 #genre:brawler #port:arcade #lang:en,221
+#players:1 #genre:brawler #port:arcade #lang:en #unfinished:demo,222
+#players:1 #genre:brawler #port:sega>megadrive #lang:en,223
+#players:1 #genre:brawler:shooting>gallery:action>runandgun #port:arcade #lang:en,224
+#players:1 #genre:minigames #lang:pt,225
+#players:1 #genre:minigames:puzzle #based:disney #search:feature>mickey #port:sega>gamegear #lang:en,226
+#players:1 #genre:notagame #search:feature>sonic #lang:en #unfinished:proto,227
+#players:1 #genre:notagame>drawing #lang:en #unfinished:proto,228
+#players:1 #genre:notagame>educational #search:feature>sonic #lang:en #unfinished:proto,229
+#players:1 #genre:notagame>educational:minigames #addon:expansion>fmsoundunit #lang:ja #unfinished:proto,230
+#players:1 #genre:notagame>sound #based #lang:en #unfinished:proto,231
+#players:1 #genre:notagame>sound #based:movie #lang:en #unfinished:proto,232
+#players:1 #genre:notagame>test #lang:en #rev:1 #unfinished:proto,233
+#players:1 #genre:notagame>test #lang:en #unfinished:proto,234
+#players:1 #genre:parlor>bowling:minigames #based #lang:en,235
+#players:1 #genre:parlor>pinball>jackpot:board>cards:minigames #save:password #addon:expansion>fmsoundunit #lang:en,236
+#players:1 #genre:puzzle #port:arcade #lang:en #unlicensed,237
+#players:1 #genre:puzzle:action #port:commodore>amiga #lang:en #unfinished:proto,238
+#players:1 #genre:puzzle:action #save:password #port:commodore>amiga #lang:en,239
+#players:1 #genre:puzzle:action #save:password #port:commodore>amiga #lang:en #unfinished:beta,240
+#players:1 #genre:puzzle:action>platformer #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge1 #lang:en,241
+#players:1 #genre:puzzle:action>platformer #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #lang:en,242
+#players:1 #genre:puzzle:action>platformer #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #lang:en #unlicensed,243
+#players:1 #genre:puzzle:action>platformer #lang:en #unfinished:beta,244
+#players:1 #genre:puzzle:action>platformer #save:password #addon:expansion>fmsoundunit #port:arcade #compatibility:mark3>silvercartridge #lang:en,245
+#players:1 #genre:puzzle:action>platformer #save:password #addon:expansion>fmsoundunit #port:arcade #lang:ja #unfinished:beta,246
+#players:1 #genre:puzzle:board>mahjong #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge1 #lang:ja,247
+#players:1 #genre:puzzle:board>mahjong #addon:expansion>fmsoundunit #lang:ja,248
+#players:1 #genre:puzzle:board>mahjong #addon:expansion>fmsoundunit #lang:ja #unfinished:beta,249
+#players:1 #genre:puzzle>drop #lang:en #unlicensed:clone,250
+#players:1 #genre:puzzle>drop #save:password #port:arcade #lang:en,251
+#players:1 #genre:puzzle>drop #save:password #port:arcade:sega>gamegear #lang:en,252
+#players:1 #genre:racing #addon:controller>paddlecontrol:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #port:arcade #lang:en,253
+#players:1 #genre:racing #addon:controller>paddlecontrol:expansion>fmsoundunit #port:arcade #lang:en,254
+#players:1 #genre:racing #addon:controller>paddlecontrol:expansion>fmsoundunit #port:arcade #reboxed:bluebox #lang:en,255
+#players:1 #genre:racing #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge1 #lang:en,256
+#players:1 #genre:racing #genre:action #port:arcade #lang:en,257
+#players:1 #genre:racing #port:msx #lang:en #unlicensed,258
+#players:1 #genre:racing #search:3d>stereo #addon:glasses>3dglasses #addon:controller>paddlecontrol:expansion>fmsoundunit #lang:en,259
+#players:1 #genre:racing #search:3d>stereo #addon:glasses>3dglasses #port:arcade #lang:en #rerelease:3dfukkoku>1,260
+#players:1 #genre:racing #search:3d>stereo #addon:glasses>3dglasses:controller>paddlecontrol:expansion>fmsoundunit #lang:en,261
+#players:1 #genre:racing #search:3d>stereo #addon:glasses>3dglasses:controller>paddlecontrol:expansion>fmsoundunit #lang:en #unfinished:beta,262
+#players:1 #genre:racing:action #port:arcade #lang:en,263
+#players:1 #genre:racing:action #port:arcade #lang:en #unfinished:beta,264
+#players:1 #genre:racing:action #port:msx #lang:en #unlicensed,265
+#players:1 #genre:racing:sports>formula1 #addon:controller>paddlecontrol:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #lang:en,266
+#players:1 #genre:racing:sports>formula1 #compatibility:mark3>goldcartridge1 #lang:en,267
+#players:1 #genre:racing:sports>formula1 #lang:en,268
+#players:1 #genre:racing:sports>formula1 #lang:en #unfinished:beta,269
+#players:1 #genre:racing:sports>formula1 #lang:en #unlicensed,270
+#players:1 #genre:racing:sports>formula1 #save:password #reboxed:classicedition #search:keyword>endorsed #lang:en,271
+#players:1 #genre:racing:sports>formula1 #save:password #search:keyword>endorsed #lang:en,272
+#players:1 #genre:racing:sports>motocross #compatibility:mark3>goldcartridge2 #lang:en,273
+#players:1 #genre:racing:sports>motocross #lang:en,274
+#players:1 #genre:racing:sports>motogp #compatibility:mark3>mycard #port:arcade #lang:en,275
+#players:1 #genre:racing:sports>motogp #compatibility:mark3>thesegacard #port:arcade #lang:en,276
+#players:1 #genre:racing:sports>motogp #port:arcade #lang:en,277
+#players:1 #genre:racing:sports>motogp #port:arcade #lang:en #unfinished:beta,278
+#players:1 #genre:racing:sports>motogp #reboxed:bios #lang:en,279
+#players:1 #genre:racing:sports>motogp:shooting>gallery #multigame:compilation>hangon>safarihunt #addon:lightgun>lightphaser #port:arcade #lang:en,280
+#players:1 #genre:racing:sports>motogp:shooting>gallery #multigame:compilation>hangon>safarihunt #addon:lightgun>lightphaser #port:arcade #lang:en #reboxed:bios,281
+#players:1 #genre:racing:sports>motogp:shooting>gallery #multigame:compilation>hangon>safarihunt #addon:lightgun>lightphaser #port:arcade #lang:en #unfinished:beta,282
+#players:1 #genre:racing>combat #addon:expansion>fmsoundunit #lang:en,283
+#players:1 #genre:racing>combat #lang:en,284
+#players:1 #genre:racing>combat #save:password #port:sega>megadrive #lang:en,285
+#players:1 #genre:racing>combat #save:password #reboxed:kixxedition #port:sega>megadrive #lang:en,286
+#players:1 #genre:racing>combat #save:password #reboxed:purplebox #port:sega>megadrive #lang:en,287
+#players:1 #genre:rpg #based:dnd #lang:en,288
+#players:1 #genre:rpg #based:dnd #lang:en #unfinished:beta,289
+#players:1 #genre:rpg:adventure #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #port:apple>apple2 #lang:en,290
+#players:1 #genre:rpg:adventure #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #port:apple>apple2 #lang:en #unfinished:beta,291
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #port:nec>pc88 #lang:ja,292
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #lang:ja #port:nec>pc88 #lang:en #unfinished:demo,293
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #port:nec>pc88 #lang:en,294
+#players:1 #genre:rpg>a #embedded:backup>battery #save:backup #lang:en,295
+#players:1 #genre:rpg>a #save:password #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #port:msx #lang:ja,296
+#players:1 #genre:rpg>a #save:password #addon:expansion>fmsoundunit #port:msx #lang:en,297
+#players:1 #genre:rpg>a #save:password #addon:expansion>fmsoundunit #port:msx #lang:en #unfinished:beta,298
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #port:nec>pc88 #lang:ja,299
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge4 #lang:ja,300
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #lang:en,301
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #lang:en #rev:a,302
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #lang:en #unfinished:beta,303
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #lang:ko #unlicensed,304
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #lang:pt,305
+#players:1 #genre:rpg>j #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #reboxed:bluebox #lang:pt,306
+#players:1 #genre:rpg>j #lang:en #rerelease:segaages,307
+#players:1 #genre:rpg>j #lang:ja #rerelease:segaages,308
+#players:1 #genre:rpg>j #lang:ja #rerelease:virtualconsole>wii,309
+#players:1 #genre:rpg>j:adventure #port:sega>gamegear #lang:en,310
+#players:1 #genre:shmup #lang:en,311
+#players:1 #genre:shmup:action:sports #multigame:compilation>qbert>hypersports3>gulkave>pooyan #port:msx #lang:en #unlicensed,312
+#players:1 #genre:shmup>h #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #lang:en,313
+#players:1 #genre:shmup>h #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge4 #port:arcade #lang:en,314
+#players:1 #genre:shmup>h #addon:expansion>fmsoundunit #lang:en,315
+#players:1 #genre:shmup>h #addon:expansion>fmsoundunit #port:arcade #lang:en,316
+#players:1 #genre:shmup>h #addon:expansion>fmsoundunit #port:arcade #lang:en #unlicensed,317
+#players:1 #genre:shmup>h #based #lang:en #unlicensed,318
+#players:1 #genre:shmup>h #lang:en,319
+#players:1 #genre:shmup>h #lang:en #unlicensed,320
+#players:1 #genre:shmup>h #port:arcade #lang:en,321
+#players:1 #genre:shmup>h #port:arcade #lang:en #unlicensed,322
+#players:1 #genre:shmup>i #save:password #port:sega>megadrive #lang:en:fr:de:es,323
+#players:1 #genre:shmup>v #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge1 #lang:en,324
+#players:1 #genre:shmup>v #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #lang:en,325
+#players:1 #genre:shmup>v #addon:expansion>fmsoundunit #lang:en,326
+#players:1 #genre:shmup>v #addon:expansion>fmsoundunit #lang:en #unfinished:beta,327
+#players:1 #genre:shmup>v #based #lang:pt,328
+#players:1 #genre:shmup>v #compatibility:mark3>goldcartridge1 #lang:en,329
+#players:1 #genre:shmup>v #lang:en,330
+#players:1 #genre:shmup>v #lang:en #unlicensed,331
+#players:1 #genre:shmup>v #port:arcade #lang:en #unlicensed,332
+#players:1 #genre:shmup>v #port:commodore>amiga #lang:en,333
+#players:1 #genre:shmup>v #port:commodore>amiga #lang:en #rev:1,334
+#players:1 #genre:shmup>v #port:msx #lang:en #unlicensed,335
+#players:1 #genre:shmup>v #port:nintendo>famicom #lang:en #unlicensed,336
+#players:1 #genre:shmup>v #reboxed:purplebox #based #lang:pt,337
+#players:1 #genre:shmup>v #search:3d>stereo #addon:glasses>3dglasses #port:arcade #lang:en,338
+#players:1 #genre:shooting>gallery #addon:expansion>fmsoundunit #lang:en,339
+#players:1 #genre:shooting>gallery #addon:lightgun>lightphaser #addon:expansion>fmsoundunit #lang:en,340
+#players:1 #genre:shooting>gallery #addon:lightgun>lightphaser #based:movie #port:arcade #lang:en,341
+#players:1 #genre:shooting>gallery #addon:lightgun>lightphaser #lang:en,342
+#players:1 #genre:shooting>gallery #addon:lightgun>lightphaser #multigame:compilation>marksmanshooting>trapshooting #lang:en,343
+#players:1 #genre:shooting>gallery #addon:lightgun>lightphaser #multigame:compilation>marksmanshooting>trapshooting>safarihunt #lang:en,344
+#players:1 #genre:shooting>gallery #addon:lightgun>lightphaser #port:arcade #lang:en,345
+#players:1 #genre:shooting>gallery #addon:lightgun>lightphaser:expansion>fmsoundunit #based:movie #lang:en,346
+#players:1 #genre:shooting>gallery #addon:lightgun>lightphaser:expansion>fmsoundunit #lang:en,347
+#players:1 #genre:shooting>gallery #addon:lightgun>lightphaser:glasses>3dglasses #search:3d>stereo #lang:en,348
+#players:1 #genre:shooting>gallery #addon:lightgun>lightphaser:glasses>3dglasses #search:3d>stereo #lang:en #unfinished:beta,349
+#players:1 #genre:shooting>gallery #addon:lightgun>lightphaser:glasses>3dglasses #search:3d>stereo #lang:en #unfinished:proto,350
+#players:1 #genre:shooting>gallery #addon:lightgun>lightphaser:glasses>3dglasses #search:3d>stereo #lang:en #unfinished:sample,351
+#players:1 #genre:shooting>gallery #addon:lightgun>lightphaser:glasses>3dglasses #search:3d>stereo #reboxed:bios #lang:en,352
+#players:1 #genre:shooting>gallery #compatibility:mark3>mycard #lang:en,353
+#players:1 #genre:shooting>gallery #compatibility:mark3>thesegacard #port:arcade #lang:en,354
+#players:1 #genre:shooting>gallery #lang:en #unlicensed,355
+#players:1 #genre:shooting>gallery #port:arcade #lang:en,356
+#players:1 #genre:shooting>gallery #port:arcade #lang:en #unfinished:beta,357
+#players:1 #genre:shooting>gallery #search:3d>stereo #addon:glasses>3dglasses #lang:en,358
+#players:1 #genre:shooting>rail #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #port:arcade #lang:en,359
+#players:1 #genre:shooting>rail #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge4 #port:arcade #lang:en,360
+#players:1 #genre:shooting>rail #addon:expansion>fmsoundunit #port:arcade #lang:en,361
+#players:1 #genre:shooting>rail #addon:expansion>fmsoundunit #port:arcade #lang:en #unfinished:beta,362
+#players:1 #genre:shooting>rail #addon:expansion>fmsoundunit #port:arcade #lang:en #unlicensed,363
+#players:1 #genre:shooting>rail #addon:expansion>fmsoundunit #search:3d>stereo #addon:glasses>3dglasses #compatibility:mark3>goldcartridge1 #lang:en,364
+#players:1 #genre:shooting>rail #addon:expansion>fmsoundunit #search:3d>stereo #addon:glasses>3dglasses #lang:en,365
+#players:1 #genre:shooting>rail #addon:expansion>fmsoundunit #search:3d>stereo #addon:glasses>3dglasses #lang:en #unfinished:beta,366
+#players:1 #genre:shooting>rail #search:3d>stereo #addon:glasses>3dglasses #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #port:arcade #lang:en,367
+#players:1 #genre:shooting>rail #search:3d>stereo #addon:glasses>3dglasses #addon:expansion>fmsoundunit #port:arcade #lang:en,368
+#players:1 #genre:shooting>rail #search:3d>stereo #addon:glasses>3dglasses #addon:expansion>fmsoundunit #port:arcade #lang:en #unfinished:beta,369
+#players:1 #genre:shooting>rail 3d:stereoscopic #addon:glasses>3dglasses #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge1 #port:arcade #lang:en,370
+#players:1 #genre:sim>flight #compatibility:mark3>mycard #port:msx #lang:en,371
+#players:1 #genre:sim>flight #compatibility:mark3>thesegacard #port:msx #lang:en,372
+#players:1 #genre:sim>flight #compatibility:mark3>thesegacard #port:msx #lang:en #rev:1,373
+#players:1 #genre:sim>flight #lang:en,374
+#players:1 #genre:sim>flight #port:msx #lang:en,375
+#players:1 #genre:sim>flight #port:msx #lang:en #unlicensed,376
+#players:1 #genre:sim>strategy>god #save:password #port:commodore>amiga #lang:en,377
+#players:1 #genre:sports>basketball #addon:expansion>fmsoundunit #lang:en #unfinished:demo,378
+#players:1 #genre:sports>decathlon>swimming>rowing>archery:minigames #search:keyword>official #lang:en:fr:de:es:it:nl:pt:sv,379
+#players:1 #genre:sports>hockey #port:sega>megadrive #lang:en,380
+#players:1 #genre:sports>soccer #save:password #port:sega>gamegear #search:keyword>official #lang:en:es:pt,381
+#players:10:vs #genre:board>party #embedded:backup>battery #save:backup #based #lang:en,382
+#players:10:vs #genre:board>party #embedded:backup>battery #save:backup #based #rev:a #lang:en,383
+#players:10:vs #genre:board>party #embedded:backup>battery #save:backup #based #unfinished:beta>1 #lang:en,384
+#players:10:vs #genre:board>party #embedded:backup>battery #save:backup #based #unfinished:beta>2 #lang:en,385
+#players:2 #genre:action>platformer>maze #multigame:compilation #port:msx #lang:en #unlicensed,386
+#players:2 #genre:racing:sports>motocross>formula1 #multigame:compilation>enduroracer>supermonacogp>thecircuit #lang:en,387
+#players:2 #genre:shooting>rail #port:arcade #lang:en,388
+#players:2 #genre:sports>soccer>tennis>volleyball #search:keyword>official #multigame:compilation>worldcupitalia90>wimbledon>greatvolleyball #lang:en,389
+#players:2 #genre:sports>soccer>tennis>volleyball #search:keyword>official #multigame:compilation>worldcupitalia90>wimbledon>greatvolleyball #reboxed:purplebox #lang:en,390
+#players:2:alt #genre:action #compatibility:mark3>mycard #lang:en,391
+#players:2:alt #genre:action #lang:en #unfinished:beta,392
+#players:2:alt #genre:action #port:msx #lang:en #unlicensed,393
+#players:2:alt #genre:action:racing:sports>skiing:minigames #based #lang:en,394
+#players:2:alt #genre:action>hackandslash:fighting #based:manganime #compatibility:mark3>goldcartridge1 #lang:ja,395
+#players:2:alt #genre:action>hackandslash:fighting #based:manganime #lang:ja #unlicensed,396
+#players:2:alt #genre:action>hackandslash:fighting #lang:en,397
+#players:2:alt #genre:action>hackandslash:fighting #lang:en #unlicensed,398
+#players:2:alt #genre:action>platformer #addon:expansion>fmsoundunit #compatibility:mark3>silvercartridge #port:arcade #lang:en,399
+#players:2:alt #genre:action>platformer #addon:expansion>fmsoundunit #port:arcade #lang:en #unlicensed,400
+#players:2:alt #genre:action>platformer #based #lang:pt,401
+#players:2:alt #genre:action>platformer #based #search:feature>asterix #lang:en:fr,402
+#players:2:alt #genre:action>platformer #based #search:feature>asterix #lang:en:fr #rev:1,403
+#players:2:alt #genre:action>platformer #based #search:feature>asterix #lang:en:fr:de,404
+#players:2:alt #genre:action>platformer #based #search:feature>asterix #reboxed:classicedition #lang:en:fr:de,405
+#players:2:alt #genre:action>platformer #based #search:feature>dracula #lang:pt,406
+#players:2:alt #genre:action>platformer #based:movie #search:feature>alien #port:sega>megadrive #lang:en,407
+#players:2:alt #genre:action>platformer #port:nintendo>famicom #lang:en #unfinished:proto,408
+#players:2:alt #genre:action>platformer #search:feature>dracula #compatibility:mark3>mycard #lang:en,409
+#players:2:alt #genre:action>platformer #search:feature>dracula #compatibility:mark3>thesegacard #lang:en,410
+#players:2:alt #genre:action>platformer #search:feature>dracula #lang:en,411
+#players:2:alt #genre:action>platformer #search:feature>dracula #lang:en #unfinished:beta,412
+#players:2:alt #genre:action>platformer #search:feature>dracula #lang:en #unlicensed,413
+#players:2:alt #genre:action>platformer #search:franchise>wonderboy #compatibility:mark3>goldcartridge1 #port:arcade #lang:en,414
+#players:2:alt #genre:action>platformer #search:franchise>wonderboy #port:arcade #lang:en,415
+#players:2:alt #genre:action>platformer #search:franchise>wonderboy #port:arcade #lang:en #rev:1,416
+#players:2:alt #genre:action>platformer:racing:shmup:sports>formula1>motogp #multigame:compilation>kingsvalley>ghosthouse>segagalaga>monacogp>magicaltree>ninjaprincess>satellite7>hangon #search:feature>dracula #port:arcade:msx #lang:en #unlicensed,417
+#players:2:alt #genre:action>platformer>hackandslash #compatibility:mark3>mycard #port:arcade #lang:en,418
+#players:2:alt #genre:action>platformer>hackandslash #compatibility:mark3>thesegacard #port:arcade #lang:en,419
+#players:2:alt #genre:action>platformer>hackandslash #port:arcade #lang:en,420
+#players:2:alt #genre:action>platformer>hackandslash #port:arcade #lang:en #unlicensed,421
+#players:2:alt #genre:action>platformer>hackandslash #reboxed:purplebox #port:arcade #lang:en,422
+#players:2:alt #genre:action>platformer>hackandslash:action #search:feature>dracula #multigame:compilation>ghosthouse>teddyboyblues>seishunscandal #lang:en #unlicensed,423
+#players:2:alt #genre:action>platformer>maze:puzzle>drop #multigame:compilation>dizzyprinceoftheyolkfolk>dizzypanic>godizzygo #lang:en:fr:de:es:it #unfinished:proto,424
+#players:2:alt #genre:action>runandgun #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #port:arcade #lang:en,425
+#players:2:alt #genre:action>runandgun #addon:expansion>fmsoundunit #port:arcade #lang:en,426
+#players:2:alt #genre:action>runandgun #addon:expansion>fmsoundunit #port:arcade #lang:en #unfinished:beta,427
+#players:2:alt #genre:action>runandgun #compatibility:mark3>goldcartridge1 #lang:ja,428
+#players:2:alt #genre:action>runandgun #lang:en,429
+#players:2:alt #genre:action>runandgun #lang:en #unlicensed,430
+#players:2:alt #genre:fighting #based #lang:pt,431
+#players:2:alt #genre:fighting #compatibility:mark3>goldcartridge1 #lang:ja,432
+#players:2:alt #genre:fighting #lang:en,433
+#players:2:alt #genre:fighting #lang:en #unlicensed,434
+#players:2:alt #genre:racing:shmup>v:sports>motogp #multigame:compilation>hangon>astrowarrior #port:arcade #lang:en,435
+#players:2:alt #genre:shmup #port:arcade #lang:en #unlicensed,436
+#players:2:alt #genre:shmup:action #port:arcade #lang:en,437
+#players:2:alt #genre:shmup:action #port:arcade #lang:en #unfinished:beta,438
+#players:2:alt #genre:shmup:action #port:arcade #lang:en #unfinished:proto,439
+#players:2:alt #genre:shmup:action #port:arcade #lang:en #unlicensed,440
+#players:2:alt #genre:shmup:action>blockbreaker #multigame:compilation>centipede>breakout>missilecommand #port:arcade #lang:en,441
+#players:2:alt #genre:shmup:action>platformer #multigame:compilation>teddyboyblues>pitpot>astroflash #lang:en #unlicensed,442
+#players:2:alt #genre:shmup>h #addon:expansion>fmsoundunit #port:arcade #lang:en,443
+#players:2:alt #genre:shmup>h #compatibility:mark3>goldcartridge1 #port:arcade #lang:en,444
+#players:2:alt #genre:shmup>h #port:arcade #lang:en #rev:1,445
+#players:2:alt #genre:shmup>h #port:arcade #lang:en #unfinished:beta,446
+#players:2:alt #genre:shmup>h #port:arcade #lang:en #unlicensed,447
+#players:2:alt #genre:shmup>h #port:msx #lang:en #unlicensed,448
+#players:2:alt #genre:shmup>h:action>platformer #compatibility:mark3>mycard #lang:en,449
+#players:2:alt #genre:shmup>h:action>platformer #compatibility:mark3>thesegacard #lang:en,450
+#players:2:alt #genre:shmup>h:action>platformer #lang:en,451
+#players:2:alt #genre:shmup>h:action>platformer #lang:en #unfinished:beta,452
+#players:2:alt #genre:shmup>h:action>platformer #reboxed:purplebox #lang:en,453
+#players:2:alt #genre:shmup>v #addon:expansion>fmsoundunit #port:arcade #lang:en,454
+#players:2:alt #genre:shmup>v #multigame:compilation>astrowarrior>pitpot #lang:en,455
+#players:2:alt #genre:shmup>v #multigame:compilation>astrowarrior>pitpot #lang:en #rerelease,456
+#players:2:alt #genre:shmup>v #multigame:compilation>astrowarrior>pitpot #lang:en #unfinished:sample,457
+#players:2:alt #genre:shooting>gallery #port:arcade #lang:en,458
+#players:2:alt:coop #genre:shmup:action>hackandslash>platformer:sports>soccer #multigame:compilation>satellite7>greatbaseball>seishunscandal #lang:en #unlicensed,459
+#players:2:alt:coop #genre:shmup>v #compatibility:mark3>mycard #lang:en,460
+#players:2:coop #genre:action #addon:expansion>fmsoundunit #port:arcade #lang:en,461
+#players:2:coop #genre:action #addon:expansion>fmsoundunit #port:arcade #lang:en #unfinished:beta,462
+#players:2:coop #genre:action #port:arcade #lang:en,463
+#players:2:coop #genre:action>maze #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge1 #lang:en,464
+#players:2:coop #genre:action>maze #addon:expansion>fmsoundunit #lang:en,465
+#players:2:coop #genre:action>platformer #based:movie #lang:en,466
+#players:2:coop #genre:action>platformer #compatibility:mark3>goldcartridge1 #port:arcade #lang:en,467
+#players:2:coop #genre:action>platformer #port:arcade #lang:en,468
+#players:2:coop #genre:action>platformer #port:arcade #lang:en #unlicensed,469
+#players:2:coop #genre:action>platformer #port:arcade #lang:en #unlicensed:clone,470
+#players:2:coop #genre:action>platformer #save:password #compatibility:mark3>goldcartridge2 #port:arcade #lang:ja,471
+#players:2:coop #genre:action>platformer #save:password #lang:en #unlicensed:clone,472
+#players:2:coop #genre:action>platformer #save:password #port:arcade #lang:en,473
+#players:2:coop #genre:action>platformer #save:password #port:arcade #lang:en #unlicensed,474
+#players:2:coop #genre:action>runandgun #addon:expansion>fmsoundunit #port:arcade #lang:en,475
+#players:2:coop #genre:action>runandgun #based:movie #lang:en,476
+#players:2:coop #genre:action>runandgun #compatibility:mark3>goldcartridge1 #lang:en,477
+#players:2:coop #genre:action>runandgun #lang:en,478
+#players:2:coop #genre:action>runandgun #lang:en #unlicensed,479
+#players:2:coop #genre:action>runandgun #port:arcade #lang:en,480
+#players:2:coop #genre:action>runandgun #port:arcade #lang:en #unfinished:beta,481
+#players:2:coop #genre:brawler #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #port:arcade #lang:en,482
+#players:2:coop #genre:brawler #addon:expansion>fmsoundunit #port:arcade #lang:en,483
+#players:2:coop #genre:brawler #addon:expansion>fmsoundunit #port:arcade #lang:en #unlicensed,484
+#players:2:coop #genre:brawler #port:arcade #lang:en,485
+#players:2:coop #genre:brawler:action:racing #port:nintendo>superfamicom #lang:en,486
+#players:2:coop #genre:puzzle:shmup #port:msx #multigame:compilation>moaiuibomul>david2 #lang:en #unlicensed,487
+#players:2:coop #genre:shmup #addon:controller>paddlecontrol:expansion>fmsoundunit #compatibility:mark3>goldcartridge1 #lang:en,488
+#players:2:coop #genre:shmup>h #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge1 #port:arcade #lang:en,489
+#players:2:coop #genre:shmup>h #addon:expansion>fmsoundunit #port:arcade #lang:en,490
+#players:2:coop #genre:shmup>h #addon:expansion>fmsoundunit #port:arcade #lang:en #unfinished:beta,491
+#players:2:coop #genre:shmup>v #addon:expansion>fmsoundunit #port:arcade #lang:en,492
+#players:2:coop #genre:shmup>v #addon:expansion>fmsoundunit #port:arcade #lang:en #unfinished:beta,493
+#players:2:coop #genre:shmup>v #addon:expansion>fmsoundunit #port:arcade #lang:en #unlicensed,494
+#players:2:coop #genre:shmup>v #lang:en #unlicensed,495
+#players:2:coop #genre:shmup>v #port:arcade #lang:en,496
+#players:2:coop #genre:shooting>gallery #addon:expansion>fmsoundunit #lang:en,497
+#players:2:coop #genre:shooting>gallery #addon:expansion>fmsoundunit #lang:en #unfinished:beta,498
+#players:2:coop #genre:shooting>gallery #addon:lightgun>lightphaser #lang:en,499
+#players:2:coop #genre:shooting>gallery #addon:lightgun>lightphaser #reboxed:bluebox #lang:en,500
+#players:2:coop:vs #genre:fighting:sports>wrestling #search:keyword>official #lang:en,501
+#players:2:coop:vs #genre:puzzle #port:apple>mac:arcade #lang:en,502
+#players:2:coop:vs #genre:puzzle #port:apple>mac:arcade #lang:en #unfinished:beta,503
+#players:2:coop:vs #genre:puzzle:shmup:action>platformer:fighting:sports #port:msx #multigame:compilation #based:movie #search:keyword>endorsed #lang:en #unlicensed,504
+#players:2:coop:vs #genre:puzzle>drop #port:arcade #lang:en,505
+#players:2:coop:vs #genre:puzzle>drop #port:arcade #lang:en #unfinished:beta,506
+#players:2:coop:vs #genre:sports>soccer #port:commodore>amiga #lang:en:fr:de:es:it:nl:pt:sv,507
+#players:2:coop:vs #genre:sports>tennis #compatibility:mark3>mycard #lang:en,508
+#players:2:coop:vs #genre:sports>tennis #compatibility:mark3>thesegacard #lang:en,509
+#players:2:coop:vs #genre:sports>tennis #lang:en,510
+#players:2:coop:vs #genre:sports>tennis #port:sega>megadrive #search:keyword>endorsed #lang:en,511
+#players:2:coop:vs #genre:sports>tennis #save:password #addon:expansion>fmsoundunit #lang:en,512
+#players:2:coop:vs #genre:sports>tennis #save:password #reboxed:classicedition #search:keyword>official #lang:en,513
+#players:2:coop:vs #genre:sports>tennis #save:password #search:keyword>official #lang:en,514
+#players:2:coop:vs:alt #genre:action:fighting:puzzle:racing:shmup:sports #port:msx:sega>sg1000 #based:movie #search:feature>dracula #multigame:compilation #lang:en #unlicensed,515
+#players:2:coop:vs:alt #genre:action:fighting:puzzle:racing:shmup:sports #port:msx:sega>sg1000 #search:feature>dracula #multigame:compilation #lang:en #unlicensed,516
+#players:2:coop:vs:alt #genre:action:fighting:sports:shmup:racing #multigame:compilation #based:movie #port:msx #lang:en #unlicensed,517
+#players:2:coop:vs:alt #genre:action:fighting:sports:shmup:racing #multigame:compilation #port:msx #lang:en #rev:1 #unlicensed,518
+#players:2:coop:vs:alt #genre:action:fighting:sports:shmup:racing #multigame:compilation #port:msx #lang:en #unlicensed,519
+#players:2:coop:vs:alt #genre:action>maze #port:arcade #search:feature>pacman #lang:en,520
+#players:2:coop:vs:alt #genre:action>platformer>maze:puzzle:shmup:fighting:racing:sports #multigame:compilation #port:msx #based:movie #search:feature>dracula #lang:en #unlicensed,521
+#players:2:coop:vs:alt #genre:action>platformer>maze:puzzle:shmup:fighting:racing:sports #multigame:compilation #port:msx #lang:en #unlicensed,522
+#players:2:coop:vs:alt #genre:action>platformer>maze:puzzle:shmup:fighting:racing:sports>tennis>motogp #port:msx #based:movie #lang:en #unlicensed,523
+#players:2:vs #genre:action:puzzle #based #port:commodore>c64 #compatibility:mark3>mycard #lang:en,524
+#players:2:vs #genre:action:puzzle #based #port:commodore>c64 #lang:en,525
+#players:2:vs #genre:action:puzzle #based #port:commodore>c64 #lang:en #unlicensed,526
+#players:2:vs #genre:action:puzzle #compatibility:mark3>thesegacard #based #port:commodore>c64 #lang:en,527
+#players:2:vs #genre:action:puzzle:action>platformer>hackandslash:racing:sports>soccer>baseball>motogp #multigame:compilation>ghosthouse>satellite7>pitpot>hangon>comicalmachinegunjoe>spyvspy>teddyboyblues>seishunscandal>astroflash>greatbaseball>greatsoccer #port:arcade #lang:en #unlicensed,528
+#players:2:vs #genre:action:puzzle:racing:sports>motogp #based #multigame:compilation>hangon>pitpot>spyvsspy #lang:en #unlicensed,529
+#players:2:vs #genre:action:racing:shmup:fighting:sports>soccer>baseball>tennis #port:msx #based:movie #multigame:compilation #lang:en #unlicensed,530
+#players:2:vs #genre:action:racing:shmup:shooting>rail:fighting:parlor>billiards:fighting:sports>soccer>baseball>tennis #port:msx #based:movie #multigame:compilation #lang:en #unlicensed,531
+#players:2:vs #genre:action:racing:shmup:shooting>rail:fighting:puzzle:parlor>billiards #port:msx #multigame:compilation #lang:en #unlicensed,532
+#players:2:vs #genre:action:sports>soccer #port:commodore>amiga #lang:en,533
+#players:2:vs #genre:action:sports>soccer #port:commodore>amiga #lang:en #rev:1,534
+#players:2:vs #genre:action>platformer:adventure #save:password #port:nintendo>famicom #lang:en:fr:de:es,535
+#players:2:vs #genre:action>platformer:fighting:shooting>rail:racing:shmup:sports>baseball #multigame:compilation>athleticland>supertank>bombjack>hypersports>circuscharlie>exerion>greatbaseball>yiearkungfu #port:msx #lang:en #unlicensed,536
+#players:2:vs #genre:action>platformer:shmup:fighting:puzzle:sports>dodgeball>soccer #multigame:compilation>dallyeorapiguwang>jangpung2>totoworld3>94superworldcupsoccer>suhojeonsa>agigongnyongdooly>bugtris #based #lang:en #unlicensed:clone,537
+#players:2:vs #genre:action>platformer:shooting>gallery #multigame:compilation>teddyboyblues>greatsoccer>comicalmachinegunjoe #lang:en #unlicensed,538
+#players:2:vs #genre:board>chess #lang:en,539
+#players:2:vs #genre:fighting #based:manganime #port:sega>gamegear #lang:en,540
+#players:2:vs #genre:fighting #genre:fighting:sports>wrestling #port:arcade #lang:en,541
+#players:2:vs #genre:fighting #lang:en,542
+#players:2:vs #genre:fighting #lang:en #unlicensed,543
+#players:2:vs #genre:fighting #lang:en #unlicensed:clone,544
+#players:2:vs #genre:fighting #port:arcade #lang:en,545
+#players:2:vs #genre:fighting #port:sega>gamegear #lang:en,546
+#players:2:vs #genre:fighting:sports>boxing #based:movie #lang:en,547
+#players:2:vs #genre:fighting:sports>boxing #lang:en,548
+#players:2:vs #genre:fighting:sports>boxing #search:keyword>endorsed #lang:en,549
+#players:2:vs #genre:fighting:sports>boxing #search:keyword>endorsed #lang:en #unfinished:sample,550
+#players:2:vs #genre:fighting:sports>wrestling #port:arcade #lang:en,551
+#players:2:vs #genre:fighting:sports>wrestling #search:keyword>endorsed #port:arcade #compatibility:mark3>goldcartridge1 #lang:en,552
+#players:2:vs #genre:puzzle:shmup>v #port:arcade #lang:en #unlicensed,553
+#players:2:vs #genre:puzzle>drop #lang:en #unlicensed:clone,554
+#players:2:vs #genre:puzzle>drop #port:msx #lang:en #unlicensed,555
+#players:2:vs #genre:puzzle>drop #save:password #based #lang:en,556
+#players:2:vs #genre:puzzle>drop @multigame:compilation>columns>tetris #lang:en #unlicensed:clone,557
+#players:2:vs #genre:racing #based #port:nintendo>famicom #lang:en,558
+#players:2:vs #genre:racing #genre:sports>motogp #port:arcade #lang:en,559
+#players:2:vs #genre:racing #port:arcade #lang:en,560
+#players:2:vs #genre:racing #port:arcade #lang:en #unfinished:beta,561
+#players:2:vs #genre:racing:puzzle>drop:sports>soccer>formula1 #save:password #multigame:compilation>supermonacogp>columns>worldsoccer #lang:en,562
+#players:2:vs #genre:racing:sports>formula1 #port:arcade #lang:en,563
+#players:2:vs #genre:racing:sports>formula1 #port:arcade #lang:en #unfinished:beta,564
+#players:2:vs #genre:racing:sports>formula1 #port:arcade #unfinished:beta>1 #lang:en,565
+#players:2:vs #genre:racing:sports>formula1 #port:arcade #unfinished:beta>2 #lang:en,566
+#players:2:vs #genre:racing:sports>formula1 #save:password #lang:en #unlicensed,567
+#players:2:vs #genre:racing:sports>formula1 #save:password #port:arcade #lang:en,568
+#players:2:vs #genre:racing:sports>formula1 #search:keyword>official #lang:en,569
+#players:2:vs #genre:racing:sports>motogp #port:arcade #lang:en,570
+#players:2:vs #genre:racing>combat #save:password #lang:en,571
+#players:2:vs #genre:sim>strategy #save:password #port:arcade #lang:en,572
+#players:2:vs #genre:sports>baseball #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge2 #lang:ja,573
+#players:2:vs #genre:sports>baseball #compatibility:mark3>goldcartridge1 #lang:ja,574
+#players:2:vs #genre:sports>baseball #compatibility:mark3>mycard #lang:en,575
+#players:2:vs #genre:sports>baseball #lang:en,576
+#players:2:vs #genre:sports>baseball #search:keyword>endorsed #lang:en,577
+#players:2:vs #genre:sports>baseball>soccer>tennis #multigame:compilation>greatbaseball>greatsoccer>greattennis #lang:en #unlicensed,578
+#players:2:vs #genre:sports>basketball #compatibility:mark3>goldcartridge1 #lang:en,579
+#players:2:vs #genre:sports>basketball #lang:en,580
+#players:2:vs #genre:sports>basketball #lang:en #unfinished:beta>1,581
+#players:2:vs #genre:sports>basketball #lang:en #unfinished:beta>2,582
+#players:2:vs #genre:sports>basketball #lang:en #unlicensed,583
+#players:2:vs #genre:sports>basketball #port:arcade #lang:en #unfinished:proto,584
+#players:2:vs #genre:sports>basketball #search:keyword>endorsed #lang:en #unfinished:proto,585
+#players:2:vs #genre:sports>boxing #based:movie #compatibility:mark3>goldcartridge2 #lang:en,586
+#players:2:vs #genre:sports>boxing #lang:en,587
+#players:2:vs #genre:sports>dodgeball #lang:en #unlicensed,588
+#players:2:vs #genre:sports>football #addon:controller>sportspad #lang:en,589
+#players:2:vs #genre:sports>football #compatibility:mark3>goldcartridge1 #lang:en,590
+#players:2:vs #genre:sports>football #lang:en,591
+#players:2:vs #genre:sports>football #save:password #lang:en,592
+#players:2:vs #genre:sports>football #save:password #search:keyword>endorsed #lang:en,593
+#players:2:vs #genre:sports>football #search:keyword>endorsed #lang:en,594
+#players:2:vs #genre:sports>golf #lang:en,595
+#players:2:vs #genre:sports>golf #lang:en #unfinished:beta,596
+#players:2:vs #genre:sports>hockey #addon:controller>sportspad #compatibility:mark3>themegacartridge #lang:en,597
+#players:2:vs #genre:sports>hockey #addon:controller>sportspad #lang:en,598
+#players:2:vs #genre:sports>hockey #lang:en,599
+#players:2:vs #genre:sports>hockey #lang:en #rev:1,600
+#players:2:vs #genre:sports>hockey #lang:en #unfinished:beta,601
+#players:2:vs #genre:sports>hockey #lang:en #unfinished:sample,602
+#players:2:vs #genre:sports>soccer #addon:controller>sportspad #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge1 #lang:en,603
+#players:2:vs #genre:sports>soccer #compatibility:mark3>goldcartridge1 #lang:en,604
+#players:2:vs #genre:sports>soccer #compatibility:mark3>mycard #lang:en,605
+#players:2:vs #genre:sports>soccer #compatibility:mark3>thesegacard #lang:en,606
+#players:2:vs #genre:sports>soccer #lang:en,607
+#players:2:vs #genre:sports>soccer #lang:en #unlicensed,608
+#players:2:vs #genre:sports>soccer #port:commodore>amiga #lang:en,609
+#players:2:vs #genre:sports>soccer #port:msx #lang:en #unlicensed,610
+#players:2:vs #genre:sports>soccer #save:password #lang:en,611
+#players:2:vs #genre:sports>soccer #save:password #lang:en #unfinished:beta,612
+#players:2:vs #genre:sports>soccer #save:password #search:keyword>official #lang:en:fr:de:es:it:nl:pt:sv,613
+#players:2:vs #genre:sports>soccer #search:feature>sonic #lang:en:fr:de:es:it,614
+#players:2:vs #genre:sports>soccer #search:keyword>official #lang:en,615
+#players:2:vs #genre:sports>soccer #search:keyword>official #lang:en #unfinished:demo,616
+#players:2:vs #genre:sports>soccer #search:keyword>official #lang:pt,617
+#players:2:vs #genre:sports>volleyball #compatibility:mark3>goldcartridge1 #lang:en,618
+#players:2:vs #genre:sports>volleyball #lang:en,619
+#players:2:vs:alt #genre:action:fighting:puzzle:racing:shmup:sports>golf>tennis #port:msx:sega>sg1000 #search:feature>dracula #multigame:compilation #lang:en #unlicensed,620
+#players:2:vs:alt #genre:action:fighting:puzzle:racing:shmup:sports>tennis #port:msx:sega>sg1000 #based:movie #search:feature>dracula #multigame:compilation #lang:en #unlicensed,621
+#players:2:vs:alt #genre:shmup:racing:action>platformer:fighting:sports>boxing #port:msx #multigame:compilation>hypersports2>championboxing>safarirace>astroflash>monkeyacademy>starforce>bankpanic>teddyboyblues #lang:en #unlicensed,622
+#players:4:vs #genre:parlor>billiards>darts:minigames #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge1 #lang:en,623
+#players:4:vs #genre:parlor>billiards>darts:minigames #addon:expansion>fmsoundunit #lang:en,624
+#players:4:vs #genre:racing #lang:en,625
+#players:4:vs #genre:racing #lang:en #unfinished:beta,626
+#players:4:vs #genre:sports:minigames #port:commodore>c64 #lang:en,627
+#players:4:vs #genre:sports:minigames #port:commodore>c64 #lang:en #unfinished:beta,628
+#players:4:vs #genre:sports>golf #addon:expansion>fmsoundunit #compatibility:mark3>goldcartridge1 #lang:en,629
+#players:4:vs #genre:sports>golf #addon:expansion>fmsoundunit #lang:en,630
+#players:4:vs #genre:sports>golf #addon:expansion>fmsoundunit #lang:en #unfinished:beta,631
+#players:4:vs #genre:sports>golf #compatibility:mark3>goldcartridge1 #lang:en,632
+#players:4:vs #genre:sports>golf #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #lang:en,633
+#players:4:vs #genre:sports>golf #embedded:backup>battery #save:backup #addon:expansion>fmsoundunit #lang:en #unfinished:beta,634
+#players:4:vs #genre:sports>golf #lang:en,635
+#players:4:vs #genre:sports>golf #lang:en #unlicensed,636
+#players:4:vs #genre:sports>golf #search:keyword>official #port:pc #lang:en,637
+#players:4:vs #genre:sports>skiing:minigames #reboxed:kixxedition #search:keyword>official #lang:en:fr:de:es:it:pt:sv:no,638
+#players:4:vs #genre:sports>skiing:minigames #search:keyword>official #lang:en:fr:de:es:it:pt:sv:no,639
+#players:6:vs #genre:board:notagame>educational #based #lang:en:fr:de:es,640
+#players:8:vs #genre:sports:minigames #addon:expansion>fmsoundunit #lang:en,641
+#players:8:vs #genre:sports:minigames #addon:expansion>fmsoundunit #lang:en #unfinished:beta>1,642
+#players:8:vs #genre:sports:minigames #addon:expansion>fmsoundunit #lang:en #unfinished:beta>2,643
+#players:8:vs #genre:sports:minigames #addon:expansion>fmsoundunit #port:apple>apple2 #lang:en,644
+#players:8:vs #genre:sports:minigames #port:pc #lang:en,645

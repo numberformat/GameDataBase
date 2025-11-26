@@ -1,0 +1,449 @@
+tag_name,tag_id
+#input:buttons>1 #players:1 #genre:notagame>redemption #arcadeboard:sega>stv #based:manganime #lang:ja #mameparent,1
+#input:buttons>19 #players:1 #genre:board>mahjong #arcadeboard:sega>system24 #search:keyword>endorsed>brand #lang:ja #mameparent,2
+#input:buttons>23 #players:1 #genre:board>mahjong #arcadeboard:sega>system16a #search:keyword>strip #set:1,3
+#input:buttons>23 #players:1 #genre:board>mahjong #arcadeboard:sega>system16b #search:keyword>strip #set:2 #mameparent,4
+#input:buttons>27 #players:1 #genre:board>mahjong #arcadeboard:sega>stv #lang:en #mameparent,5
+#input:buttons>27 #players:1 #genre:board>mahjong #arcadeboard:sega>stv #search:keyword>strip #lang:ja #mameparent,6
+#input:buttons>4 #players:4:vs #genre:quiz:puzzle #arcadeboard:sega>system32 #lang:ja,7
+#input:buttons>4 #players:4:vs #genre:quiz:puzzle #arcadeboard:sega>system32 #mameparent,8
+#input:buttons>4 #players:4:vs #genre:quiz:puzzle #arcadeboard:sega>system32 #rev:a #lang:ja #mameparent,9
+#input:buttons>4:pedals>1 #players:2:vs #genre:sports>golf #arcadeboard:sega>system24,10
+#input:buttons>4:pedals>1 #players:2:vs #genre:sports>golf #arcadeboard:sega>system24 #mameparent,11
+#input:buttons>4:pedals>1 #players:2:vs #genre:sports>golf #arcadeboard:sega>system24 #search:keyword>endorsed,12
+#input:buttons>6:pedals>1 #players:1 #genre:notagame>redemption #arcadeboard:sega>stv #search:keyword>endorsed #lang:ja,13
+#input:buttons>6:pedals>1 #players:1 #genre:notagame>redemption:rhythm #arcadeboard:sega>stv #search:keyword>endorsed #lang:ja,14
+#input:buttons>7 #players:1 #genre:rhythm:parlor>mogurataiji #arcadeboard:sega>stv #lang:ja,15
+#input:dial:buttons>1 #players:2:alt #search:tate>cw #genre:action>blockbreaker #arcadeboard:sega>system1 #search:keyword>strip #mameparent,16
+#input:dial:buttons>1 #players:2:coop #search:tate>cw #genre:shooting>gallery #arcadeboard:sega #mameparent,17
+#input:dial:buttons>1 #players:2:vs #genre:action>blockbreaker #arcadeboard:sega>systemc2 #mameparent,18
+#input:dial:buttons>2 #players:1 #search:tate>cw #genre:action>blockbreaker #arcadeboard:sega>systeme #mameparent,19
+#input:dial:buttons>3 #players:1 #genre:notagame>popcorn #arcadeboard:sega>systemc2 #search:feature>sonic #mameparent,20
+#input:joystick:buttons>1 #players:1 #genre:shooting>gallery #search:3d>stereo #arcadeboard:sega>vco #lang:en #mameparent,21
+#input:joystick>2h:buttons>1 #players:2:alt #genre:action>platformer #arcadeboard:sega>system1 #mameparent,22
+#input:joystick>2h:buttons>2 #players:1 #genre:notagame>purikura #arcadeboard:sega>systemc2,23
+#input:joystick>2h:buttons>2 #players:1 #genre:notagame>purikura #arcadeboard:sega>systemc2 #mameparent,24
+#input:joystick>2h:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:sega>system1 #search:franchise>wonderboy #set:1 #mameparent,25
+#input:joystick>2h:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:sega>system1 #search:franchise>wonderboy #set:2,26
+#input:joystick>2h:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:sega>system1 #search:franchise>wonderboy #set:3,27
+#input:joystick>2h:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:sega>system1 #search:franchise>wonderboy #set:6,28
+#input:joystick>2h:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:sega>system2 #search:franchise>wonderboy #set:1,29
+#input:joystick>2h:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:sega>system2 #search:franchise>wonderboy #set:2,30
+#input:joystick>2h:buttons>3 #players:1 #genre:notagame>popcorn #arcadeboard:sega>systemc2 #based:manganime #rev:a #lang:ja,31
+#input:joystick>2h:buttons>3 #players:1 #genre:notagame>popcorn #arcadeboard:sega>systemc2 #based:manganime #rev:b #lang:ja #mameparent,32
+#input:joystick>2h:buttons>3 #players:1 #genre:parlor>kiddieride #arcadeboard:sega>systemc2 #based:manganime #lang:ja #mameparent,33
+#input:joystick>2h:buttons>3 #players:1 #genre:parlor>kiddieride #arcadeboard:sega>systemc2 #mameparent,34
+#input:joystick>2h:buttons>3 #players:1 #genre:shmup>v #arcadeboard:sega>systemc2 #search:feature>sonic,35
+#input:joystick>2h:buttons>3 #players:1 #genre:shmup>v #arcadeboard:sega>systemc2 #search:feature>sonic #mameparent,36
+#input:joystick>2h:buttons>3 #players:2:alt #genre:shooting>gallery #arcadeboard:sega #mameparent,37
+#input:joystick>2v:buttons>3 #players:2:alt #search:tate>ccw #genre:shooting>gallery #arcadeboard:sega #mameparent,38
+#input:joystick>3:buttons>2 #players:2:alt #search:tate>ccw #genre:parlor>pinball #arcadeboard:sega>system16a #set:1,39
+#input:joystick>3:buttons>2 #players:2:alt #search:tate>ccw #genre:parlor>pinball #arcadeboard:sega>system16b #set:2 #mameparent,40
+#input:joystick>3:buttons>2 #players:2:alt #search:tate>ccw #genre:parlor>pinball #arcadeboard:sega>system16b #set:3,41
+#input:joystick>4:buttons>1 #players:2:alt #search:tate>cw #genre:action>maze #arcadeboard:sega #mameparent,42
+#input:joystick>4:buttons>1 #players:2:alt #search:tate>cw #genre:action>maze #arcadeboard:sega #unlicensed:bootleg,43
+#input:joystick>4:buttons>1 #players:2:alt #search:tate>cw #genre:action>maze:puzzle #arcadeboard:sega #set:1 #rev:c #mameparent,44
+#input:joystick>4:buttons>1 #players:2:alt #search:tate>cw #genre:action>maze:puzzle #arcadeboard:sega #set:2,45
+#input:joystick>4:buttons>1 #players:2:alt #search:tate>cw #genre:action>maze:puzzle #arcadeboard:sega #set:4,46
+#input:joystick>4:buttons>1 #players:2:alt #search:tate>cw #genre:action>maze:puzzle #arcadeboard:sega #set:5,47
+#input:joystick>4:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:sega>system1 #mameparent,48
+#input:joystick>4:buttons>2 #players:2:alt #search:tate>ccw #genre:shmup #arcadeboard:sega>system1 #mameparent,49
+#input:joystick>4:buttons>2 #players:4:vs #genre:minigames:sports>snowboarding>skiing #arcadeboard:sega>stv #lang:ja:en #mameparent,50
+#input:joystick>8 #players:2:coop #genre:action #arcadeboard:sega>systemc2,51
+#input:joystick>8 #players:2:coop #genre:action #arcadeboard:sega>systemc2 #mameparent,52
+#input:joystick>8:buttons>1 #players:1 #genre:board>hanafuda #arcadeboard:sega>stv #search:keyword>strip #lang:ja #mameparent,53
+#input:joystick>8:buttons>1 #players:1 #genre:notagame:quiz #arcadeboard:sega>stv #lang:ja,54
+#input:joystick>8:buttons>1 #players:1 #genre:notagame>purikura #arcadeboard:sega>stv #lang:ja,55
+#input:joystick>8:buttons>1 #players:1 #genre:sports>golf #arcadeboard:sega>stv #lang:en #mameparent,56
+#input:joystick>8:buttons>1 #players:2:alt #search:tate>ccw #genre:action>maze #arcadeboard:sega>system1,57
+#input:joystick>8:buttons>1 #players:2:alt #search:tate>ccw #genre:action>maze #arcadeboard:sega>system1 #mameparent,58
+#input:joystick>8:buttons>1 #players:2:alt #search:tate>cw #genre:action>platformer #arcadeboard:sega,59
+#input:joystick>8:buttons>1 #players:2:alt #search:tate>cw #genre:action>platformer #arcadeboard:sega #rev:c,60
+#input:joystick>8:buttons>1 #players:2:alt #search:tate>cw #genre:action>platformer #arcadeboard:sega #rev:c #mameparent,61
+#input:joystick>8:buttons>1 #players:2:alt #search:tate>cw #genre:shmup>i #arcadeboard:sega #mameparent,62
+#input:joystick>8:buttons>1 #players:2:coop #genre:action>runandgun #arcadeboard:sega>system16a #set:1,63
+#input:joystick>8:buttons>1 #players:2:coop #genre:action>runandgun #arcadeboard:sega>system16a #set:2,64
+#input:joystick>8:buttons>1 #players:2:coop #genre:action>runandgun #arcadeboard:sega>system16a #set:5,65
+#input:joystick>8:buttons>1 #players:2:coop #genre:action>runandgun #arcadeboard:sega>system16b #set:3,66
+#input:joystick>8:buttons>1 #players:2:coop #genre:action>runandgun #arcadeboard:sega>system16b #set:4 #mameparent,67
+#input:joystick>8:buttons>1 #players:2:coop #genre:action>runandgun #arcadeboard:sega>system16b #set:6,68
+#input:joystick>8:buttons>1 #players:2:coop #genre:action>runandgun #arcadeboard:sega>system16b #set:7,69
+#input:joystick>8:buttons>1 #players:2:vs #genre:minigames #arcadeboard:sega>stv #search:keyword>brand #lang:ja #mameparent,70
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle:action:minigames #arcadeboard:sega>stv #lang:ja #mameparent,71
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle:action:minigames #arcadeboard:sega>stv #lang:ko,72
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle:minigames #arcadeboard:sega>stv #lang:en,73
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle:minigames #arcadeboard:sega>stv #lang:ja #mameparent,74
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle:minigames #arcadeboard:sega>stv #lang:ko,75
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle:minigames #arcadeboard:sega>systemc2,76
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle:minigames #arcadeboard:sega>systemc2 #mameparent,77
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>stv #lang:ja #mameparent,78
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>stv #port:sega>saturn #lang:ja #mameparent,79
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>system16b #mameparent,80
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>system16b #unlicensed:clone #mameparent,81
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>systemc,82
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>systemc #mameparent,83
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>systemc #rev:a,84
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>systemc2 #mameparent,85
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>systemc2 #port:msx>2 #rev:a,86
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>systemc2 #port:msx>2 #rev:b,87
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>systemc2 #search:feature>sonic #unfinished:proto #lang:ja #mameparent,88
+#input:joystick>8:buttons>1 #players:2:vs #genre:quiz:rhythm>karaoke #arcadeboard:sega>stv #lang:ja #mameparent,89
+#input:joystick>8:buttons>1 #players:4:vs #genre:quiz:puzzle #arcadeboard:sega>system24 #lang:ja #mameparent,90
+#input:joystick>8:buttons>12 #players:1 #genre:notagame>redemption #arcadeboard:sega>systemc2 #based #lang:ja #mameparent,91
+#input:joystick>8:buttons>2 #players:1 #genre:action>maze #arcadeboard:sega,92
+#input:joystick>8:buttons>2 #players:1 #genre:action>maze #arcadeboard:sega #mameparent,93
+#input:joystick>8:buttons>2 #players:1 #genre:action>maze #arcadeboard:sega>systeme #mameparent,94
+#input:joystick>8:buttons>2 #players:1 #genre:action>maze #arcadeboard:sega>systeme #rev:a,95
+#input:joystick>8:buttons>2 #players:1 #genre:board>cards:puzzle #arcadeboard:sega>system16b,96
+#input:joystick>8:buttons>2 #players:1 #genre:board>cards:puzzle #arcadeboard:sega>system16b #rev:a #mameparent,97
+#input:joystick>8:buttons>2 #players:1 #genre:board>mahjong #arcadeboard:sega>stv #search:keyword>strip #lang:ja #mameparent,98
+#input:joystick>8:buttons>2 #players:1 #genre:notagame>purikura #arcadeboard:sega>stv #based #lang:ja #mameparent,99
+#input:joystick>8:buttons>2 #players:1 #genre:notagame>purikura #arcadeboard:sega>stv #based #search:feature>sonic #lang:ja #mameparent,100
+#input:joystick>8:buttons>2 #players:1 #genre:notagame>purikura #arcadeboard:sega>stv #based:disney #lang:ja #mameparent,101
+#input:joystick>8:buttons>2 #players:1 #genre:notagame>purikura #arcadeboard:sega>stv #based:manganime #lang:en #mameparent,102
+#input:joystick>8:buttons>2 #players:1 #genre:notagame>purikura #arcadeboard:sega>stv #lang:en #mameparent,103
+#input:joystick>8:buttons>2 #players:1 #genre:puzzle #arcadeboard:sega>stv #port:sega>saturn #search:keyword>strip #lang:ja #mameparent,104
+#input:joystick>8:buttons>2 #players:1 #genre:shmup>h #arcadeboard:sega>systeme,105
+#input:joystick>8:buttons>2 #players:1 #genre:shmup>h #arcadeboard:sega>systeme #mameparent,106
+#input:joystick>8:buttons>2 #players:1 #genre:sports>hockey #arcadeboard:sega>systeme #mameparent,107
+#input:joystick>8:buttons>2 #players:1 #genre:sports>snowboarding #arcadeboard:sega>stv #port:sega>saturn #lang:ja #mameparent,108
+#input:joystick>8:buttons>2 #players:1 #search:tate>cw #genre:shmup>v #arcadeboard:sega>system1 #mameparent,109
+#input:joystick>8:buttons>2 #players:1 #search:tate>cw #genre:shmup>v #arcadeboard:sega>system1 #unfinished:proto,110
+#input:joystick>8:buttons>2 #players:2:alt #genre:action #arcadeboard:sega>system1,111
+#input:joystick>8:buttons>2 #players:2:alt #genre:action #arcadeboard:sega>system1 #mameparent,112
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>maze #arcadeboard:sega>system1,113
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>maze #arcadeboard:sega>system1 #mameparent,114
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>maze #arcadeboard:sega>system2 #mameparent,115
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>maze #arcadeboard:sega>system2 #unlicensed:bootleg,116
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:sega>system1,117
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:sega>system1 #mameparent,118
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:sega>system1 #search:franchise>wonderboy #rerelease:virtualconsole>wii,119
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:sega>system1 #search:keyword>endorsed #mameparent,120
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:sega>system1 #unlicensed:hack,121
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:sega>system2 #search:franchise>wonderboy,122
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:sega>system2 #search:franchise>wonderboy #mameparent,123
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer>hackandslash #arcadeboard:sega>system1,124
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer>hackandslash #arcadeboard:sega>system1 #mameparent,125
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup #arcadeboard:sega #mameparent,126
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:sega>system1 #mameparent,127
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:sega>system1 #port:apple>apple2,128
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:sega>system1 #port:apple>apple2 #mameparent,129
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:sega>system1 #port:apple>apple2 #unlicensed:bootleg,130
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:sega>system16 #set:1 #rev:a,131
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:sega>system16 #set:2 #rev:b,132
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:sega>system16 #set:3,133
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:sega>system16 #set:4 #mameparent,134
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:sega>system16a,135
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:sega>system16a #rev:a #mameparent,136
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:sega>system16a #unfinished:proto,137
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:sega>system16c #rerelease #mameparent,138
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:sega>system16c #unfinished:proto #rerelease,139
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>v #arcadeboard:sega>system1 #mameparent,140
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:action>runandgun:shmup>v #arcadeboard:sega>system1 #mameparent,141
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:action>runandgun:shmup>v #arcadeboard:sega>system16a,142
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:action>runandgun:shmup>v #arcadeboard:sega>system16a #mameparent,143
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:action>runandgun:shmup>v #arcadeboard:sega>system16b,144
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:shmup>v #arcadeboard:sega>system1,145
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:shmup>v #arcadeboard:sega>system1 #mameparent,146
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:shmup>v #arcadeboard:sega>system1 #rev:a #mameparent,147
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:shmup>v #arcadeboard:sega>system1 #unlicensed:bootleg,148
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:shmup>v #arcadeboard:sega>system16b #mameparent,149
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:sega>system16a #set:1,150
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:sega>system16a #set:2 #mameparent,151
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer:shmup>h #arcadeboard:sega>system16a #search:franchise>wonderboy #set:1,152
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer:shmup>h #arcadeboard:sega>system16a #search:franchise>wonderboy #set:5,153
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer:shmup>h #arcadeboard:sega>system16b #search:franchise>wonderboy #set:2,154
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer:shmup>h #arcadeboard:sega>system16b #search:franchise>wonderboy #set:3,155
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer:shmup>h #arcadeboard:sega>system16b #search:franchise>wonderboy #set:4,156
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer:shmup>h #arcadeboard:sega>system16b #search:franchise>wonderboy #set:6 #mameparent,157
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>runandgun:shmup #arcadeboard:sega>systemc2 #mameparent,158
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>runandgun>platformer #arcadeboard:sega>system16,159
+#input:joystick>8:buttons>2 #players:2:coop #genre:brawler #arcadeboard:sega>system16 #set:1,160
+#input:joystick>8:buttons>2 #players:2:coop #genre:brawler #arcadeboard:sega>system16 #set:2,161
+#input:joystick>8:buttons>2 #players:2:coop #genre:brawler #arcadeboard:sega>system16 #set:3 #mameparent,162
+#input:joystick>8:buttons>2 #players:2:coop #genre:brawler #arcadeboard:sega>system16b #mameparent,163
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:sega>system16b #unlicensed:clone #mameparent,164
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #arcadeboard:sega>stv #search:tate>ccw #lang:en #mameparent,165
+#input:joystick>8:buttons>2 #players:2:vs #genre:board>mahjong #arcadeboard:sega>system1 #search:keyword>strip #unfinished:proto #mameparent,166
+#input:joystick>8:buttons>2 #players:2:vs #genre:board>othello #arcadeboard:sega>stv #lang:ja #mameparent,167
+#input:joystick>8:buttons>2 #players:2:vs #genre:fighting #arcadeboard:sega>system32 #rev:a #mameparent,168
+#input:joystick>8:buttons>2 #players:2:vs #genre:fighting:sports>wrestling #arcadeboard:sega>system16b #set:1,169
+#input:joystick>8:buttons>2 #players:2:vs #genre:fighting:sports>wrestling #arcadeboard:sega>system16b #set:2,170
+#input:joystick>8:buttons>2 #players:2:vs #genre:fighting:sports>wrestling #arcadeboard:sega>system16b #set:3 #mameparent,171
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle #arcadeboard:sega>stv #port:sega>saturn #lang:ja #mameparent,172
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle #arcadeboard:sega>systemc2,173
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle #arcadeboard:sega>systemc2 #mameparent,174
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle #arcadeboard:sega>systemc2 #set:2,175
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>stv #lang:ja #mameparent,176
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>systemc2,177
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>systemc2 #mameparent,178
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>systeme,179
+#input:joystick>8:buttons>2 #players:2:vs #genre:sports>baseball #arcadeboard:sega>stv #lang:ja,180
+#input:joystick>8:buttons>2 #players:2:vs #genre:sports>baseball #arcadeboard:sega>stv #search:keyword>official #lang:en #mameparent,181
+#input:joystick>8:buttons>2 #players:2:vs #genre:sports>decathlon #arcadeboard:sega>stv #lang:en #mameparent,182
+#input:joystick>8:buttons>2 #players:2:vs #genre:sports>decathlon #arcadeboard:sega>stv #lang:ja,183
+#input:joystick>8:buttons>2 #players:2:vs #search:tate>cw #genre:racing #arcadeboard:sega #mameparent,184
+#input:joystick>8:buttons>2 #players:3:vs #genre:quiz #arcadeboard:sega>stv #lang:ja #mameparent,185
+#input:joystick>8:buttons>2 #players:4:coop #genre:action>runandgun>platformer #arcadeboard:sega>system16a,186
+#input:joystick>8:buttons>2 #players:4:coop #genre:action>runandgun>platformer #arcadeboard:sega>system16a #rev:a #mameparent,187
+#input:joystick>8:buttons>2 #players:4:coop #genre:brawler #arcadeboard:sega>system32,188
+#input:joystick>8:buttons>2 #players:4:coop #genre:brawler #arcadeboard:sega>system32 #mameparent,189
+#input:joystick>8:buttons>2 #players:4:coop #genre:brawler:action>platformer #arcadeboard:sega>system32 #based:marvel #search:feature>spiderman #lang:ja,190
+#input:joystick>8:buttons>2 #players:4:coop #genre:brawler:action>platformer #arcadeboard:sega>system32 #based:marvel #search:feature>spiderman #mameparent,191
+#input:joystick>8:buttons>2 #players:4:coop #genre:brawler:action>platformer #arcadeboard:sega>system32 #based:marvel #search:feature>spiderman #rev:a,192
+#input:joystick>8:buttons>3 #players:1 #genre:action>maze #arcadeboard:sega>system16b #unlicensed:clone #mameparent,193
+#input:joystick>8:buttons>3 #players:1 #genre:shmup>h #arcadeboard:sega>systemc2,194
+#input:joystick>8:buttons>3 #players:1 #genre:shmup>h #arcadeboard:sega>systemc2 #mameparent,195
+#input:joystick>8:buttons>3 #players:1 #genre:shmup>h #arcadeboard:sega>systemc2 #unfinished:proto,196
+#input:joystick>8:buttons>3 #players:1 #genre:shmup>h:notagame>redemption #arcadeboard:sega>stv #lang:en #mameparent,197
+#input:joystick>8:buttons>3 #players:1 #genre:shooting>rail #arcadeboard:sega>vco #based #lang:en #mameparent,198
+#input:joystick>8:buttons>3 #players:1 #genre:shooting>rail #arcadeboard:sega>vco #based #lang:en #set:1,199
+#input:joystick>8:buttons>3 #players:1 #genre:shooting>rail #arcadeboard:sega>vco #based #lang:en #set:2,200
+#input:joystick>8:buttons>3 #players:1 #genre:shooting>rail #arcadeboard:sega>vco #lang:en,201
+#input:joystick>8:buttons>3 #players:2:alt #genre:action>platformer #arcadeboard:sega>system18,202
+#input:joystick>8:buttons>3 #players:2:alt #genre:action>platformer #arcadeboard:sega>system18 #mameparent,203
+#input:joystick>8:buttons>3 #players:2:alt #genre:action>runandgun #arcadeboard:sega>system1,204
+#input:joystick>8:buttons>3 #players:2:alt #genre:action>runandgun #arcadeboard:sega>system1 #mameparent,205
+#input:joystick>8:buttons>3 #players:2:alt #genre:action>runandgun:shooting>gallery #arcadeboard:sega>system16a #set:1,206
+#input:joystick>8:buttons>3 #players:2:alt #genre:action>runandgun:shooting>gallery #arcadeboard:sega>system16a #set:6 #mameparent,207
+#input:joystick>8:buttons>3 #players:2:alt #genre:action>runandgun:shooting>gallery #arcadeboard:sega>system16b #set:2,208
+#input:joystick>8:buttons>3 #players:2:alt #genre:action>runandgun:shooting>gallery #arcadeboard:sega>system16b #set:3,209
+#input:joystick>8:buttons>3 #players:2:alt #genre:action>runandgun:shooting>gallery #arcadeboard:sega>system16b #set:4,210
+#input:joystick>8:buttons>3 #players:2:alt #genre:action>runandgun:shooting>gallery #arcadeboard:sega>system16b #set:5,211
+#input:joystick>8:buttons>3 #players:2:alt #genre:action>runandgun:shooting>gallery #arcadeboard:sega>system16b #set:6,212
+#input:joystick>8:buttons>3 #players:2:alt #genre:action>runandgun:shooting>gallery:shmup>v #arcadeboard:sega>system16b #set:1,213
+#input:joystick>8:buttons>3 #players:2:alt #genre:action>runandgun:shooting>gallery:shmup>v #arcadeboard:sega>system16b #set:2,214
+#input:joystick>8:buttons>3 #players:2:alt #genre:action>runandgun:shooting>gallery:shmup>v #arcadeboard:sega>system16b #set:3 #mameparent,215
+#input:joystick>8:buttons>3 #players:2:alt #genre:fighting:sports>wrestling #arcadeboard:sega #mameparent,216
+#input:joystick>8:buttons>3 #players:2:coop #genre:action #arcadeboard:sega>system16 #set:1,217
+#input:joystick>8:buttons>3 #players:2:coop #genre:action #arcadeboard:sega>system16 #set:2,218
+#input:joystick>8:buttons>3 #players:2:coop #genre:action #arcadeboard:sega>system16 #set:3,219
+#input:joystick>8:buttons>3 #players:2:coop #genre:action #arcadeboard:sega>system16 #set:4 #mameparent,220
+#input:joystick>8:buttons>3 #players:2:coop #genre:action:brawler #arcadeboard:sega>system16b #unlicensed:clone #mameparent,221
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>hackandslash #arcadeboard:sega>system16b #mameparent #set:8,222
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>hackandslash #arcadeboard:sega>system16b #set:1,223
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>hackandslash #arcadeboard:sega>system16b #set:2,224
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>hackandslash #arcadeboard:sega>system16b #set:3,225
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>hackandslash #arcadeboard:sega>system16b #set:4,226
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>hackandslash #arcadeboard:sega>system16b #set:5,227
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>hackandslash #arcadeboard:sega>system16b #set:6,228
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>hackandslash #arcadeboard:sega>system16b #set:7,229
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>maze #arcadeboard:sega>system24,230
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>maze #arcadeboard:sega>system24 #mameparent,231
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>platformer #arcadeboard:sega>system24,232
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>platformer #arcadeboard:sega>system24 #mameparent,233
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>runandgun #arcadeboard:sega>stv #lang:en #mameparent,234
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>runandgun #arcadeboard:sega>system16b #set:1,235
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>runandgun #arcadeboard:sega>system16b #set:2,236
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>runandgun #arcadeboard:sega>system16b #set:3 #mameparent,237
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>runandgun #search:tate>ccw #arcadeboard:sega>system24,238
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:sega>stv #based:movie #lang:en #mameparent,239
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:sega>stv #based:movie #search:feature>batman #lang:en #mameparent,240
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:sega>stv #lang:ja,241
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:sega>system16b #set:1,242
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:sega>system16b #set:2,243
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:sega>system16b #set:2 #mameparent,244
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:sega>system16b #set:3,245
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:sega>system16b #set:4,246
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:sega>system16b #set:5,247
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:sega>system16b #set:6 #mameparent,248
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:sega>system18,249
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler:shooting>gallery #arcadeboard:sega>system18,250
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler:shooting>gallery #arcadeboard:sega>system18 #mameparent,251
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>h #arcadeboard:sega>stv #lang:ja #mameparent,252
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>v #arcadeboard:sega>stv #lang:ja #mameparent,253
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:sega>system24,254
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:sega>system24 #mameparent,255
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:sega>system24 #rev:a,256
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>v #search:tate>cw #arcadeboard:sega>system18 #unfinished:proto #mameparent,257
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #arcadeboard:sega>stv #lang:en #mameparent,258
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #arcadeboard:sega>stv #lang:ja #mameparent,259
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #arcadeboard:sega>stv #search:keyword>brand #lang:en #mameparent,260
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #arcadeboard:sega>system32 #based:manganime #rev:a #mameparent,261
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting:sports>boxing #arcadeboard:sega>stv #search:keyword>endorsed #lang:en #mameparent,262
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting:sports>wrestling #arcadeboard:sega>system16 #mameparent,263
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting:sports>wrestling #search:keyword>endorsed #arcadeboard:sega>system16,264
+#input:joystick>8:buttons>3 #players:2:vs #genre:puzzle:minigames #arcadeboard:sega>stv #based:manganime #lang:ja #mameparent,265
+#input:joystick>8:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>system16 #set:1,266
+#input:joystick>8:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>system16 #set:2 #mameparent,267
+#input:joystick>8:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>system16 #unlicensed:bootleg,268
+#input:joystick>8:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>system16a #set:3,269
+#input:joystick>8:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>system16a #set:3 #unlicensed:bootleg,270
+#input:joystick>8:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>system16a #set:4 #mameparent,271
+#input:joystick>8:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>system16b #set:1,272
+#input:joystick>8:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>system16b #set:1 #unlicensed:bootleg,273
+#input:joystick>8:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>system16b #set:2,274
+#input:joystick>8:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>system16b #set:2 #unlicensed:bootleg,275
+#input:joystick>8:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>system18 #mameparent,276
+#input:joystick>8:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>systemc,277
+#input:joystick>8:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:sega>systemc #rev:a,278
+#input:joystick>8:buttons>3 #players:2:vs #genre:quiz #arcadeboard:sega>stv #lang:ja,279
+#input:joystick>8:buttons>3 #players:2:vs #genre:quiz #arcadeboard:sega>system24 #lang:ja #mameparent,280
+#input:joystick>8:buttons>3 #players:2:vs #genre:quiz:puzzle #arcadeboard:sega>system24 #lang:ja #mameparent,281
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>baseball #arcadeboard:sega>system16b #set:1,282
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>baseball #arcadeboard:sega>system16b #set:2,283
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>baseball #arcadeboard:sega>system18,284
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>baseball #arcadeboard:sega>system18 #mameparent,285
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>soccer #arcadeboard:sega>stv #lang:en,286
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>soccer #arcadeboard:sega>stv #lang:en #mameparent,287
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>soccer #arcadeboard:sega>system32,288
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>soccer #arcadeboard:sega>system32 #rev:a #mameparent,289
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>soccer #arcadeboard:sega>system32 #search:keyword>official,290
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>soccer #arcadeboard:sega>system32 #search:keyword>official #rev:a,291
+#input:joystick>8:buttons>3 #players:3:coop #genre:action>runandgun #arcadeboard:sega>system18 #lang:en,292
+#input:joystick>8:buttons>3 #players:3:coop #genre:action>runandgun #arcadeboard:sega>system18 #lang:en #mameparent,293
+#input:joystick>8:buttons>3 #players:3:coop #genre:action>runandgun #search:tate>ccw #arcadeboard:sega>system24 #rev:a #mameparent,294
+#input:joystick>8:buttons>3 #players:3:coop #genre:brawler #arcadeboard:sega>system18 #mameparent,295
+#input:joystick>8:buttons>3 #players:3:coop #genre:brawler:shooting>gallery #arcadeboard:sega>system18,296
+#input:joystick>8:buttons>3 #players:3:coop #search:tate>ccw #genre:action>runandgun #arcadeboard:sega>system18,297
+#input:joystick>8:buttons>3 #players:3:coop #search:tate>ccw #genre:action>runandgun #arcadeboard:sega>system18 #mameparent,298
+#input:joystick>8:buttons>3 #players:4:coop #genre:brawler #arcadeboard:sega>system18,299
+#input:joystick>8:buttons>3 #players:4:coop #genre:brawler #arcadeboard:sega>system32 #lang:ja,300
+#input:joystick>8:buttons>3 #players:4:coop #genre:brawler #arcadeboard:sega>system32 #rev:a,301
+#input:joystick>8:buttons>3 #players:4:coop #genre:brawler #arcadeboard:sega>system32 #rev:b #mameparent,302
+#input:joystick>8:buttons>4 #players:2:vs #genre:quiz #arcadeboard:sega>stv #search:keyword>strip #lang:ja #mameparent,303
+#input:joystick>8:buttons>4 #players:2:vs #search:tate>ccw #genre:sports>tennis #arcadeboard:sega>system16b #mameparent,304
+#input:joystick>8:buttons>4 #players:4:coop:vs #search:tate>ccw #genre:sports>tennis #arcadeboard:sega>system16a,305
+#input:joystick>8:buttons>4 #players:4:coop:vs #search:tate>ccw #genre:sports>tennis #arcadeboard:sega>system16b,306
+#input:joystick>8:buttons>4 #players:4:coop:vs #search:tate>ccw #genre:sports>tennis #arcadeboard:sega>system16b #unfinished:proto,307
+#input:joystick>8:buttons>4 #players:6:coop:vs #genre:sports>basketball #arcadeboard:sega>multi32 #lang:ja,308
+#input:joystick>8:buttons>4 #players:6:coop:vs #genre:sports>basketball #arcadeboard:sega>multi32 #mameparent,309
+#input:joystick>8:buttons>5 #players:2:vs #genre:fighting #arcadeboard:sega>system32,310
+#input:joystick>8:buttons>5 #players:2:vs #genre:fighting #arcadeboard:sega>system32 #mameparent,311
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:sega>stv #lang:en #mameparent,312
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:sega>stv #lang:ja #mameparent,313
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:sega>stv #lang:ja:en,314
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:sega>stv #lang:ja:en #mameparent,315
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:sega>system32,316
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:sega>system32 #mameparent,317
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting:sports>wrestling #arcadeboard:sega>stv #lang:ja,318
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting:sports>wrestling #arcadeboard:sega>stv #lang:ja #mameparent,319
+#input:joystick>8:dial:buttons>1 #players:2:alt #search:tate>ccw #genre:shmup #arcadeboard:sega #unfinished:proto #mameparent,320
+#input:joystick>8:dial:buttons>3 #players:2:vs #genre:racing #arcadeboard:sega>system24 #mameparent,321
+#input:joystick>8:joystick>double>8:buttons>1 #players:2:alt #search:tate>ccw #genre:sports>swimming #arcadeboard:sega>system1 #mameparent,322
+#input:joystick>8:optical:buttons>1 #players:2:vs #genre:quiz:parlor>mogurataiji #arcadeboard:sega>stv #lang:ja #mameparent,323
+#input:joystick>8:trackball:buttons>1 #players:2:coop #genre:shmup>h #arcadeboard:sega>system16a,324
+#input:joystick>8:trackball:buttons>1 #players:2:coop #genre:shmup>h #arcadeboard:sega>system16a #mameparent,325
+#input:joystick>8:trackball:buttons>1 #players:2:coop #genre:shmup>h #arcadeboard:sega>system16b,326
+#input:joystick>double>2h:buttons>4 #players:1 #genre:racing #arcadeboard:sega>systemc2 #search:feature>sonic #mameparent,327
+#input:joystick>double>8 #players:2:alt #search:tate>cw #genre:action>platformer #arcadeboard:sega #mameparent,328
+#input:joystick>double>8 #players:2:vs #genre:fighting:sports>boxing #arcadeboard:sega>multi32,329
+#input:joystick>double>8 #players:2:vs #genre:fighting:sports>boxing #arcadeboard:sega>multi32 #lang:ja,330
+#input:joystick>double>8 #players:2:vs #genre:fighting:sports>boxing #arcadeboard:sega>multi32 #mameparent,331
+#input:joystick>double>8 #players:3:coop #genre:action>runandgun #arcadeboard:sega>system16b #mameparent,332
+#input:joystick>rotary>8:buttons>1 #players:2:vs #genre:shooting>tps #arcadeboard:sega>xboard #lang:ja #mameparent,333
+#input:lightgun #players:2:coop #genre:shooting>gallery #arcadeboard:sega>yboard,334
+#input:lightgun #players:2:coop #genre:shooting>gallery #arcadeboard:sega>yboard #mameparent,335
+#input:optical:buttons>3 #players:1 #genre:parlor>mogurataiji:shooting>gallery #arcadeboard:sega>stv #lang:en #mameparent,336
+#input:optical:buttons>3 #players:1 #genre:parlor>mogurataiji:shooting>gallery #arcadeboard:sega>stv #lang:ja,337
+#input:paddle:buttons>1:pedals>2 #players:1 #genre:racing:sports>motogp #arcadeboard:sega,338
+#input:paddle:buttons>1:pedals>2 #players:1 #genre:racing:sports>motogp #arcadeboard:sega #mameparent,339
+#input:paddle:buttons>1:pedals>2 #players:1 #genre:racing:sports>motogp #arcadeboard:sega #rerelease,340
+#input:paddle:buttons>1:pedals>2 #players:1 #genre:racing:sports>motogp #arcadeboard:sega #rev:a,341
+#input:paddle:buttons>1:pedals>2 #players:1 #genre:racing:sports>motogp #arcadeboard:sega #unlicensed:bootleg,342
+#input:paddle:buttons>2 #players:1 #genre:sim>fishing #arcadeboard:sega>stv #lang:en #mameparent,343
+#input:paddle:buttons>2 #players:1 #genre:sim>fishing #arcadeboard:sega>stv #lang:ja,344
+#input:paddle:buttons>2 #players:2:alt #search:tate>cw #genre:action>platformer #arcadeboard:sega>systeme #mameparent,345
+#input:paddle:buttons>3 #players:1 #genre:sim>fishing #arcadeboard:sega>stv #lang:en #mameparent,346
+#input:paddle:buttons>3 #players:1 #genre:sim>fishing #arcadeboard:sega>stv #lang:ja,347
+#input:paddle:buttons>4:pedals #players:2:alt #search:tate>ccw #genre:action>runandgun:shmup>v #arcadeboard:sega>system16a,348
+#input:paddle:buttons>4:pedals #players:2:alt #search:tate>ccw #genre:action>runandgun:shmup>v #arcadeboard:sega>system16b,349
+#input:paddle:pedals>1 #players:1 #genre:racing #arcadeboard:sega #rev:1,350
+#input:paddle:pedals>1 #players:1 #genre:racing #arcadeboard:sega #rev:a,351
+#input:paddle:pedals>1 #players:1 #genre:racing #arcadeboard:sega #rev:b,352
+#input:paddle:pedals>1 #players:1 #genre:racing:sports>motocross #arcadeboard:sega #mameparent,353
+#input:paddle:pedals>1 #players:1 #genre:racing>combat #arcadeboard:sega>xboard,354
+#input:paddle:pedals>1 #players:1 #genre:racing>combat #arcadeboard:sega>xboard #mameparent,355
+#input:paddle:pedals>1:buttons>2 #players:1 #genre:sports>golf #arcadeboard:sega>system24,356
+#input:paddle:pedals>1:buttons>2 #players:1 #genre:sports>golf #arcadeboard:sega>system24 #mameparent,357
+#input:paddle:pedals>2 #players:1 #genre:racing:sports>motogp #arcadeboard:sega,358
+#input:paddle:pedals>2 #players:1 #genre:racing:sports>motogp #arcadeboard:sega #rev:a,359
+#input:paddle:pedals>2 #players:1 #genre:racing:sports>motogp #arcadeboard:sega #rev:a #mameparent,360
+#input:paddle:pedals>2 #players:1 #genre:racing:sports>motogp #arcadeboard:sega>systeme #rev:b #mameparent,361
+#input:paddle:pedals>2 #players:1 #genre:racing:sports>motogp #arcadeboard:sega>xboard #mameparent,362
+#input:paddle:pedals>2 #players:2:vs #genre:racing:sports>motogp #arcadeboard:sega>xboard,363
+#input:paddle:pedals>2 #players:2:vs #genre:racing:sports>motogp #arcadeboard:sega>xboard #mameparent,364
+#input:paddle:pedals>2:buttons>1 #players:8:vs #genre:racing:sports>motocross #arcadeboard:sega>multi32,365
+#input:paddle:pedals>2:buttons>1 #players:8:vs #genre:racing:sports>motocross #arcadeboard:sega>multi32 #mameparent,366
+#input:pedals>2:buttons>3 #players:1 #genre:parlor>kiddieride:sim>train #arcadeboard:sega>stv #lang:ja,367
+#input:stick:buttons>1 #players:2:coop #genre:shooting>rail #arcadeboard:sega>system32 #based:movie:jurassicpark #lang:ja,368
+#input:stick:buttons>1 #players:2:coop #genre:shooting>rail #arcadeboard:sega>system32 #based:movie:jurassicpark #rev:a #lang:ja,369
+#input:stick:buttons>1 #players:2:coop #genre:shooting>rail #arcadeboard:sega>system32 #based:movie:jurassicpark #rev:a #mameparent,370
+#input:stick:buttons>2 #players:1 #genre:shooting>rail:shmup>v #arcadeboard:sega>xboard,371
+#input:stick:buttons>2 #players:1 #genre:shooting>rail:shmup>v #arcadeboard:sega>xboard #mameparent,372
+#input:stick:buttons>2 #players:2:coop #genre:action:sim>flight #arcadeboard:sega>system32,373
+#input:stick:buttons>2 #players:2:coop #genre:action:sim>flight #arcadeboard:sega>system32 #lang:ja,374
+#input:stick:buttons>2 #players:2:coop #genre:action:sim>flight #arcadeboard:sega>system32 #mameparent,375
+#input:stick:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:sega>system32 #based:movie #search:feature>alien #lang:ja,376
+#input:stick:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:sega>system32 #based:movie #search:feature>alien #mameparent,377
+#input:stick:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:sega>system32 #based:movie #search:feature>alien #rev:a,378
+#input:stick:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:sega>xboard,379
+#input:stick:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:sega>xboard #mameparent,380
+#input:stick:buttons>2:pedals>2 #players:1 #genre:shooting>rail #arcadeboard:sega>yboard,381
+#input:stick:buttons>2:pedals>2 #players:1 #genre:shooting>rail #arcadeboard:sega>yboard #mameparent,382
+#input:stick:buttons>2:pedals>2 #players:1 #genre:shooting>rail #arcadeboard:sega>yboard #rev:a,383
+#input:stick:buttons>3 #players:1 #genre:shooting>rail #arcadeboard:sega #rev:1,384
+#input:stick:buttons>3 #players:1 #genre:shooting>rail #arcadeboard:sega #rev:a #mameparent,385
+#input:stick:buttons>3 #players:1 #genre:shooting>rail:sim>flight #arcadeboard:sega>yboard,386
+#input:stick:buttons>3 #players:1 #genre:shooting>rail:sim>flight #arcadeboard:sega>yboard #mameparent,387
+#input:stick:buttons>4 #players:3:coop #genre:shooting>gallery #arcadeboard:sega>system18,388
+#input:stick:buttons>4 #players:3:coop #genre:shooting>gallery #arcadeboard:sega>system18 #mameparent,389
+#input:stick:buttons>4 #players:3:coop #genre:shooting>gallery #arcadeboard:sega>system18 #unlicensed:bootleg,390
+#input:stick:positional>2:buttons>1 #players:1 #genre:shooting>rail #arcadeboard:sega>xboard,391
+#input:stick:positional>2:buttons>1 #players:1 #genre:shooting>rail #arcadeboard:sega>xboard #mameparent,392
+#input:stick>twin #players:2:alt #genre:fighting:sports>boxing #arcadeboard:sega>system16,393
+#input:stick>twin #players:2:alt #genre:fighting:sports>boxing #arcadeboard:sega>system16 #set:1 #mameparent,394
+#input:stick>twin #players:2:alt #genre:fighting:sports>boxing #arcadeboard:sega>system16 #set:2,395
+#input:trackball:buttons>1 #players:1 #genre:notagame>redemption:action #arcadeboard:sega>stv #lang:ja #mameparent,396
+#input:trackball:buttons>1 #players:1 #genre:notagame>redemption:parlor>bowling #arcadeboard:sega>stv #port:sega>saturn #lang:ja #mameparent,397
+#input:trackball:buttons>1 #players:2:coop #genre:puzzle #arcadeboard:sega>system18 #lang:ja,398
+#input:trackball:buttons>1 #players:2:coop #genre:puzzle #arcadeboard:sega>system18 #lang:ja #rev:b #mameparent,399
+#input:trackball:buttons>1 #players:3:coop #genre:action>platformer #arcadeboard:sega>system32 #search:feature>sonic #rev:c #lang:ja #mameparent,400
+#input:trackball:buttons>1 #players:3:coop #genre:action>platformer #arcadeboard:sega>system32 #search:feature>sonic #unfinished:proto #lang:ja,401
+#input:trackball:buttons>1 #players:3:coop #genre:puzzle #arcadeboard:sega>system18 #lang:ja #rev:a,402
+#input:trackball:buttons>2 #players:4:coop:vs #genre:sports>basketball #arcadeboard:sega>system16b,403
+#input:trackball:buttons>2 #players:4:coop:vs #genre:sports>basketball #arcadeboard:sega>system16b #rev:a,404
+#input:trackball:buttons>2 #players:4:coop:vs #genre:sports>basketball #arcadeboard:sega>system16b #rev:c #mameparent,405
+#input:trackball:buttons>3 #players:2:vs #genre:sports>baseball #arcadeboard:sega>system16b #mameparent,406
+#input:trackball:dial:buttons>3 #players:2:alt #genre:sports>baseball #arcadeboard:sega>system16b #mameparent,407
+#input:trackball:dial:buttons>5 #players:2:coop #genre:sports>baseball #search:tate>ccw #arcadeboard:sega>system16a #mameparent,408
+#input:trackball:stick:buttons>1:pedals>1:positional>2 #players:2:vs #search:tate>ccw #genre:sports>volleyball #arcadeboard:sega>system16a,409
+#input:trackball:stick:buttons>1:pedals>1:positional>2 #players:2:vs #search:tate>ccw #genre:sports>volleyball #arcadeboard:sega>system16a #mameparent,410
+#input:wheel:buttons>1 #players:2:vs #genre:racing>combat:parlor>kiddieride #based #arcadeboard:sega>system16b #lang:ja #mameparent,411
+#input:wheel:buttons>1:pedals>2 #players:1 #genre:racing #arcadeboard:sega>yboard,412
+#input:wheel:paddle:buttons>2 #players:1 #genre:parlor>kiddieride #arcadeboard:sega>stv #lang:ja #mameparent,413
+#input:wheel:pedals>1 #players:1 #genre:racing #arcadeboard:sega>vco #search:tate>ccw #lang:en,414
+#input:wheel:pedals>1 #players:1 #genre:racing #arcadeboard:sega>vco #search:tate>ccw #lang:en #mameparent,415
+#input:wheel:pedals>1 #players:1 #genre:racing #arcadeboard:sega>vco #search:tate>ccw #lang:en #rev:a,416
+#input:wheel:pedals>1 #players:1 #genre:racing #arcadeboard:sega>vco #search:tate>ccw #lang:en #rev:b,417
+#input:wheel:pedals>1 #players:1 #genre:racing #arcadeboard:sega>vco #search:tate>ccw #lang:en #rev:c,418
+#input:wheel:pedals>1 #players:1 #genre:racing #arcadeboard:sega>vco #search:tate>ccw #lang:en #unlicensed:bootleg,419
+#input:wheel:pedals>1 #players:3:vs #genre:racing #arcadeboard:sega>system24 #set:1 #mameparent,420
+#input:wheel:pedals>1 #players:3:vs #genre:racing #arcadeboard:sega>system24 #set:2,421
+#input:wheel:pedals>1 #players:4:vs #genre:racing #arcadeboard:sega>system24 #rev:b,422
+#input:wheel:pedals>1 #players:4:vs #genre:racing #arcadeboard:sega>system24 #rev:c,423
+#input:wheel:pedals>2 #players:1 #genre:racing:sports>formula1 #arcadeboard:sega>xboard #mameparent,424
+#input:wheel:pedals>2 #players:1 #genre:racing:sports>formula1 #arcadeboard:sega>xboard #rev:a,425
+#input:wheel:pedals>2 #players:1 #genre:racing:sports>formula1 #arcadeboard:sega>xboard #rev:b,426
+#input:wheel:pedals>2:buttons>1 #players:2:vs #genre:racing:sports>formula1 #arcadeboard:sega>system32 #rev:a,427
+#input:wheel:pedals>2:buttons>1 #players:2:vs #genre:racing:sports>formula1 #arcadeboard:sega>system32 #rev:a #mameparent,428
+#input:wheel:pedals>2:buttons>1 #players:6:vs #genre:racing:sports>formula1 #arcadeboard:sega>system32,429
+#input:wheel:pedals>2:buttons>1 #players:6:vs #genre:racing:sports>formula1 #arcadeboard:sega>system32 #mameparent,430
+#input:wheel:pedals>2:buttons>2 #players:1 #genre:racing #arcadeboard:sega>system32 #search:feature>sonic,431
+#input:wheel:pedals>2:buttons>2 #players:1 #genre:racing #arcadeboard:sega>system32 #search:feature>sonic #mameparent,432
+#input:wheel:pedals>2:buttons>2 #players:2:vs #genre:racing:sports>formula1 #arcadeboard:sega>system32 #search:keyword>official,433
+#input:wheel:pedals>2:buttons>2 #players:2:vs #genre:racing:sports>formula1 #arcadeboard:sega>system32 #search:keyword>official #mameparent,434
+#input:wheel:positional>2:pedals>2 #players:1 #genre:racing #arcadeboard:sega,435
+#input:wheel:positional>2:pedals>2 #players:1 #genre:racing #arcadeboard:sega #mameparent,436
+#input:wheel:positional>2:pedals>2 #players:1 #genre:racing #arcadeboard:sega #rev:a,437
+#input:wheel:positional>2:pedals>2 #players:1 #genre:racing #arcadeboard:sega #rev:b,438
+#input:wheel:positional>2:pedals>2 #players:1 #genre:racing #arcadeboard:sega #rev:b #mameparent,439
+#input:wheel:positional>2:pedals>2 #players:1 #genre:racing #arcadeboard:sega #unlicensed:hack,440
+#input:wheel:positional>2:pedals>2 #players:1 #genre:racing #arcadeboard:sega>yboard,441
+#input:wheel:positional>2:pedals>2 #players:1 #genre:racing #arcadeboard:sega>yboard #rev:a #mameparent,442
+#input:wheel:positional>2:pedals>2 #players:2:vs #genre:racing #arcadeboard:sega>multi32 #search:feature>sonic #lang:ja,443
+#input:wheel:positional>2:pedals>2 #players:2:vs #genre:racing #arcadeboard:sega>system32 #search:feature>sonic,444
+#input:wheel:positional>2:pedals>2 #players:2:vs #genre:racing #arcadeboard:sega>system32 #search:feature>sonic #mameparent,445
+#input:wheel:positional>2:pedals>2 #players:2:vs #genre:racing #arcadeboard:sega>yboard #rev:a #mameparent,446
+#input:wheel:positional>2:pedals>2 #players:2:vs #genre:racing #search:feature>sonic #arcadeboard:sega>multi32,447
+#input:wheel:positional>2:pedals>2 #players:2:vs #genre:racing #search:feature>sonic #arcadeboard:sega>multi32 #mameparent,448

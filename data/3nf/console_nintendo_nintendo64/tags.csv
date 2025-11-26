@@ -1,0 +1,812 @@
+tag_name,tag_id
+#players:1 #genre:action #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #lang:en,1
+#players:1 #genre:action #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #lang:en #rev:1,2
+#players:1 #genre:action #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #lang:en:de,3
+#players:1 #genre:action #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #lang:ja,4
+#players:1 #genre:action #addon:backup>controllerpak #save:backup #lang:en #port:sony>playstation #unfinished:proto>1,5
+#players:1 #genre:action #addon:backup>controllerpak #save:backup #lang:en #port:sony>playstation #unfinished:proto>2,6
+#players:1 #genre:action #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,7
+#players:1 #genre:action #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based:marvel #search:feature>spiderman #port:sony>playstation #lang:en,8
+#players:1 #genre:action:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #search:keyword>dolby #lang:en,9
+#players:1 #genre:action:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #search:keyword>dolby #lang:en:fr:de:es:it:nl,10
+#players:1 #genre:action:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #port:sony>playstation #lang:en:fr:de:es:it #unfinished:proto,11
+#players:1 #genre:action:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #port:sony>playstation #lang:en:fr:es #unfinished:proto,12
+#players:1 #genre:action:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:franchise>castlevania:feature>dracula #lang:en,13
+#players:1 #genre:action:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:franchise>castlevania:feature>dracula #lang:en #rev:1,14
+#players:1 #genre:action:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:franchise>castlevania:feature>dracula #lang:en #rev:2,15
+#players:1 #genre:action:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:franchise>castlevania:feature>dracula #lang:en:fr:de,16
+#players:1 #genre:action:adventure #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based #lang:de,17
+#players:1 #genre:action:adventure #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based #lang:en,18
+#players:1 #genre:action:adventure #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based #lang:en:es:it,19
+#players:1 #genre:action:adventure #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based #lang:fr,20
+#players:1 #genre:action:adventure #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based #lang:pt,21
+#players:1 #genre:action:adventure #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #search:franchise>castlevania:feature>dracula #save:backup #lang:en,22
+#players:1 #genre:action:adventure #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #search:franchise>castlevania:feature>dracula #save:backup #lang:en:fr:de,23
+#players:1 #genre:action:adventure #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:franchise>castlevania:feature>dracula #lang:ja,24
+#players:1 #genre:action:adventure #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #port:sony>playstation #lang:en,25
+#players:1 #genre:action:adventure #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #port:sony>playstation #lang:en #unfinished:beta,26
+#players:1 #genre:action:adventure #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #port:sony>playstation #lang:ja,27
+#players:1 #genre:action:adventure #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #based #search:keyword>dolby #lang:en,28
+#players:1 #genre:action:adventure #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #based #search:keyword>dolby #lang:en #unfinished:proto,29
+#players:1 #genre:action:adventure #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #search:franchise>castlevania:feature>dracula #save:backup #lang:ja,30
+#players:1 #genre:action:adventure #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #lang:en #unfinished:proto,31
+#players:1 #genre:action:adventure #embedded:backup>eeprom #save:backup #lang:ja #unfinished:proto,32
+#players:1 #genre:action:adventure #lang:en #unfinished:proto,33
+#players:1 #genre:action:fighting:action>hackandslash #addon:backup>controllerpak:vibration>rumblepak #save:backup:password #lang:en,34
+#players:1 #genre:action:puzzle #addon:backup>controllerpak #save:backup #lang:en #unfinished:proto,35
+#players:1 #genre:action:puzzle #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,36
+#players:1 #genre:action:puzzle #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en:fr:de:es:it,37
+#players:1 #genre:action:puzzle #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,38
+#players:1 #genre:action:racing:shmup>h #addon:backup>controllerpak #save:backup #port:arcade #multigame:compilation>defender>joust>robotron2084>sinistar>spyhunter>tapper #lang:en,39
+#players:1 #genre:action:shooting>fps #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based:movie #lang:de,40
+#players:1 #genre:action:shooting>fps #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based:movie #lang:en,41
+#players:1 #genre:action:shooting>fps #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based:movie #lang:es,42
+#players:1 #genre:action:shooting>fps #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based:movie #lang:es #rev:1,43
+#players:1 #genre:action:shooting>fps #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based:movie #lang:fr,44
+#players:1 #genre:action:shooting>fps #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based:movie #lang:it,45
+#players:1 #genre:action>platformer #addon:backup>controllerpak:expansion>expansionpak #embedded:backup>eeprom #save:backup #based:disney #search:feature>donald #lang:en:fr:de:es:it,46
+#players:1 #genre:action>platformer #addon:backup>controllerpak:expansion>expansionpak #save:backup #lang:en #unlicensed:aftermarket,47
+#players:1 #genre:action>platformer #addon:backup>controllerpak:expansion>expansionpak #save:backup #lang:en:es:it #unfinished:proto,48
+#players:1 #genre:action>platformer #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,49
+#players:1 #genre:action>platformer #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie:disney #lang:de,50
+#players:1 #genre:action>platformer #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie:disney #lang:en,51
+#players:1 #genre:action>platformer #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie:disney #lang:fr,52
+#players:1 #genre:action>platformer #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie:disney #lang:it,53
+#players:1 #genre:action>platformer #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie:disney #port:sony>playstation #lang:de,54
+#players:1 #genre:action>platformer #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie:disney #port:sony>playstation #lang:en,55
+#players:1 #genre:action>platformer #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie:disney #port:sony>playstation #lang:fr,56
+#players:1 #genre:action>platformer #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie:disney #reboxed #port:sony>playstation #lang:en,57
+#players:1 #genre:action>platformer #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,58
+#players:1 #genre:action>platformer #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en:es:it,59
+#players:1 #genre:action>platformer #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:fr:de,60
+#players:1 #genre:action>platformer #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja,61
+#players:1 #genre:action>platformer #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en:fr:de:es:it,62
+#players:1 #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based:looneytunes #lang:en #unfinished:proto,63
+#players:1 #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based:looneytunes #lang:en:fr:de:es:it:nl,64
+#players:1 #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based:looneytunes #lang:en:fr:es,65
+#players:1 #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based:looneytunes #lang:en:fr:es #unfinished:beta,66
+#players:1 #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,67
+#players:1 #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en #rev:1,68
+#players:1 #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en:fr:de,69
+#players:1 #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en:fr:de:es:it,70
+#players:1 #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en:fr:de:es:it:nl:pt,71
+#players:1 #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en:ja,72
+#players:1 #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,73
+#players:1 #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja #unfinished:proto,74
+#players:1 #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:zh #rerelease,75
+#players:1 #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #reboxed:playerschoice #lang:en:ja,76
+#players:1 #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:feature>mario #reboxed #lang:ja #rev:1,77
+#players:1 #genre:action>platformer #embedded:backup>eeprom #save:backup #lang:en,78
+#players:1 #genre:action>platformer #embedded:backup>eeprom #save:backup #lang:en #rev:1,79
+#players:1 #genre:action>platformer #embedded:backup>eeprom #save:backup #lang:ja,80
+#players:1 #genre:action>platformer #embedded:backup>eeprom #save:backup #search:feature>mario #lang:en,81
+#players:1 #genre:action>platformer #embedded:backup>eeprom #save:backup #search:feature>mario #lang:en:fr:de,82
+#players:1 #genre:action>platformer #embedded:backup>eeprom #save:backup #search:feature>mario #lang:ja,83
+#players:1 #genre:action>platformer #embedded:backup>eeprom #save:backup #search:feature>mario #lang:zh #rerelease,84
+#players:1 #genre:action>platformer #embedded:backup>eeprom #save:backup #search:feature>mario #reboxed:playerschoice #lang:en,85
+#players:1 #genre:action>platformer:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie:disney #lang:de,86
+#players:1 #genre:action>platformer:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie:disney #lang:de #rev:1,87
+#players:1 #genre:action>platformer:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie:disney #lang:en,88
+#players:1 #genre:action>platformer:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie:disney #lang:en #rev:1,89
+#players:1 #genre:action>platformer:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie:disney #lang:fr,90
+#players:1 #genre:action>platformer:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,91
+#players:1 #genre:action>platformer:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en:fr:de:es:it,92
+#players:1 #genre:action>platformer:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja,93
+#players:1 #genre:action>platformer:adventure #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based:manganime #lang:ja,94
+#players:1 #genre:action>platformer:adventure #embedded:backup>eeprom #save:backup #based:manganime #lang:ja,95
+#players:1 #genre:action>platformer:adventure #embedded:backup>eeprom #save:backup #lang:en:fr:de,96
+#players:1 #genre:action>platformer:adventure #embedded:backup>eeprom #save:backup #lang:en:fr:es,97
+#players:1 #genre:action>platformer:puzzle #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,98
+#players:1 #genre:action>platformer:puzzle #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en #unfinished:beta,99
+#players:1 #genre:action>platformer:puzzle #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en:fr:de,100
+#players:1 #genre:action>platformer:puzzle #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,101
+#players:1 #genre:action>platformer:puzzle #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #reboxed:playerschoice #lang:en #rev:1,102
+#players:1 #genre:action>platformer:puzzle #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #reboxed:playerschoice #lang:en:fr:de,103
+#players:1 #genre:adventure #addon:backup>controllerpak #save:backup #based #lang:en,104
+#players:1 #genre:adventure #addon:backup>controllerpak #save:backup #based #lang:en #rev:1,105
+#players:1 #genre:adventure #addon:backup>controllerpak #save:backup #lang:en,106
+#players:1 #genre:adventure #addon:backup>controllerpak #save:backup #lang:en:es,107
+#players:1 #genre:adventure #addon:backup>controllerpak #save:backup #lang:es:it,108
+#players:1 #genre:adventure #addon:backup>controllerpak #save:backup #lang:fr:de:nl,109
+#players:1 #genre:adventure #addon:backup>controllerpak #save:backup #lang:ja,110
+#players:1 #genre:adventure #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,111
+#players:1 #genre:adventure #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #lang:de,112
+#players:1 #genre:adventure #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #lang:en,113
+#players:1 #genre:adventure #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #lang:en #unfinished:demo>kiosk,114
+#players:1 #genre:adventure #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #lang:es,115
+#players:1 #genre:adventure #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #lang:fr,116
+#players:1 #genre:adventure #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #lang:it,117
+#players:1 #genre:adventure #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #lang:ja,118
+#players:1 #genre:adventure #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #lang:ja #rerelease:virtualconsole>wii,119
+#players:1 #genre:adventure:shooting>tps #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,120
+#players:1 #genre:adventure:shooting>tps #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en:fr:de,121
+#players:1 #genre:adventure>survivalhorror #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,122
+#players:1 #genre:adventure>survivalhorror #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>battery #save:backup #search:keyword>dolby #port:sony>playstation #lang:en,123
+#players:1 #genre:adventure>survivalhorror #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>battery #save:backup #search:keyword>dolby #port:sony>playstation #lang:en #rev:1,124
+#players:1 #genre:adventure>survivalhorror #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>battery #save:backup #search:keyword>dolby #port:sony>playstation #lang:en:fr,125
+#players:1 #genre:adventure>survivalhorror #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>battery #save:backup #search:keyword>dolby #port:sony>playstation #lang:ja,126
+#players:1 #genre:board>cards #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja,127
+#players:1 #genre:board>cards:parlor>jackpot #addon:backup>controllerpak #save:backup #lang:en,128
+#players:1 #genre:board>hanafuda:sim>date #addon:backup>controllerpak #save:backup #lang:ja,129
+#players:1 #genre:board>mahjong #addon:backup>controllerpak #save:backup #lang:ja,130
+#players:1 #genre:board>mahjong #addon:backup>controllerpak #save:backup #lang:ja #rev:1,131
+#players:1 #genre:board>mahjong #embedded:backup>eeprom #save:backup #search:keyword>endorsed #lang:ja,132
+#players:1 #genre:board>mahjong #save:password #based:manganime #lang:ja,133
+#players:1 #genre:board>shougi #addon:backup>controllerpak #embedded:slot>rj11 #save:backup #lang:ja,134
+#players:1 #genre:board>shougi #addon:backup>controllerpak #save:backup #lang:ja,135
+#players:1 #genre:board>shougi #addon:backup>controllerpak #save:backup #search:keyword>endorsed #lang:ja,136
+#players:1 #genre:brawler #addon:vibration>rumblepak #save:backup #based #search:feature>batman #lang:en,137
+#players:1 #genre:brawler #addon:vibration>rumblepak #save:backup #based #search:feature>batman #lang:en:fr:de,138
+#players:1 #genre:fighting #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based:manganime #lang:ja,139
+#players:1 #genre:fighting:sports>sumo:minigames:sim>fishing #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja,140
+#players:1 #genre:minigames:sim>derby>building>date>pet #addon:backup>controllerpak #save:backup #lang:ja,141
+#players:1 #genre:notagame>application #lang:de #unlicensed,142
+#players:1 #genre:notagame>application #lang:en #unlicensed,143
+#players:1 #genre:notagame>application:shmup>v>h #addon:vibration>rumblepak #embedded:backup>battery #save:backup #lang:ja,144
+#players:1 #genre:notagame>drawing>purikura:minigames:puzzle #addon:backup>smartmediacard #embedded:slot>smartmedia #save:backup #search:feature>mario #lang:ja,145
+#players:1 #genre:notagame>educational:minigames #based #lang:en,146
+#players:1 #genre:parlor>pachinko #addon:backup>controllerpak #save:backup #lang:ja,147
+#players:1 #genre:parlor>pachinko #embedded:backup>eeprom #save:backup #based #lang:ja,148
+#players:1 #genre:parlor>pachinko>jackpot #addon:backup>controllerpak #save:backup #lang:ja,149
+#players:1 #genre:puzzle:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,150
+#players:1 #genre:puzzle:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en #rev:1 #unfinished:proto,151
+#players:1 #genre:puzzle:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en #unfinished:beta,152
+#players:1 #genre:puzzle:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en #unfinished:proto>1,153
+#players:1 #genre:puzzle:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en #unfinished:proto>2 [b],154
+#players:1 #genre:puzzle:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en #unfinished:proto>3,155
+#players:1 #genre:puzzle:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en:fr:de,156
+#players:1 #genre:puzzle:minigames #based:manganime #lang:ja,157
+#players:1 #genre:racing:sports>formula1 #addon:backup>controllerpak #save:backup #lang:ja,158
+#players:1 #genre:racing:sports>formula1 #addon:backup>controllerpak #save:backup #search:keyword>official #lang:en:fr:de,159
+#players:1 #genre:rpg #addon:backup>controllerpak:expansion>expansionpak #save:backup #lang:en,160
+#players:1 #genre:rpg #addon:backup>controllerpak:expansion>expansionpak #save:backup #lang:en #rev:1,161
+#players:1 #genre:rpg #addon:backup>controllerpak:expansion>expansionpak #save:backup #lang:en #unfinished:beta,162
+#players:1 #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #lang:ch #rerelease,163
+#players:1 #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #lang:zh #rerelease,164
+#players:1 #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #reboxed #search:keyword>dolby #lang:en,165
+#players:1 #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #reboxed:playerschoice #search:keyword>dolby #lang:en #rev:2,166
+#players:1 #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>dolby #lang:en,167
+#players:1 #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>dolby #lang:en #rerelease,168
+#players:1 #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>dolby #lang:en #rerelease #unfinished:beta,169
+#players:1 #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>dolby #lang:en #rerelease #unfinished:debug,170
+#players:1 #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>dolby #lang:en #rev:1,171
+#players:1 #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>dolby #lang:en #unfinished:beta,172
+#players:1 #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>dolby #lang:en:fr:de,173
+#players:1 #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>dolby #lang:en:fr:de #rev:1,174
+#players:1 #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>dolby #lang:ja,175
+#players:1 #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>dolby #lang:ja #rerelease,176
+#players:1 #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>dolby #lang:ja #rev:1,177
+#players:1 #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>dolby #lang:ja #rev:2,178
+#players:1 #genre:rpg>a #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #lang:en #unfinished:demo>kiosk,179
+#players:1 #genre:rpg>a #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #lang:en:fr:de:es #rerelease:virtualconsole>wii,180
+#players:1 #genre:rpg>a #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #reboxed #search:keyword>dolby #lang:en,181
+#players:1 #genre:rpg>a #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #reboxed #search:keyword>dolby #lang:ja,182
+#players:1 #genre:rpg>a #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:en,183
+#players:1 #genre:rpg>a #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:en #rerelease,184
+#players:1 #genre:rpg>a #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:en:fr:de:es,185
+#players:1 #genre:rpg>a #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:en:fr:de:es #rev:1,186
+#players:1 #genre:rpg>a #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:en:fr:de:es #rev:1 #unfinished:debug,187
+#players:1 #genre:rpg>a #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:ja,188
+#players:1 #genre:rpg>a #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:ja #rerelease,189
+#players:1 #genre:rpg>a #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:ja #rev:1,190
+#players:1 #genre:rpg>j #addon:backup>controllerpak #embedded:backup>battery #save:backup #lang:ja,191
+#players:1 #genre:rpg>j #addon:backup>controllerpak #save:backup #lang:de,192
+#players:1 #genre:rpg>j #addon:backup>controllerpak #save:backup #lang:en,193
+#players:1 #genre:rpg>j #addon:backup>controllerpak #save:backup #lang:fr,194
+#players:1 #genre:rpg>j #addon:backup>controllerpak #save:backup #lang:ja,195
+#players:1 #genre:rpg>j #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja,196
+#players:1 #genre:rpg>j #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #search:feature>mario #lang:en,197
+#players:1 #genre:rpg>j #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #search:feature>mario #lang:en:fr:de:es,198
+#players:1 #genre:rpg>j #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #search:feature>mario #lang:ja,199
+#players:1 #genre:rpg>j #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #search:feature>mario #lang:zh #rerelease,200
+#players:1 #genre:rpg>s #addon:backup>controllerpak:lockon>transferpak #embedded:backup>battery #save:backup #based:manganime #search:feature>gundam #lang:ja,201
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:en,202
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:en #rerelease:virtualconsole>wii,203
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:en #rev:1,204
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:ja,205
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #lang:ja #rerelease:virtualconsole>wii,206
+#players:1 #genre:shmup #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,207
+#players:1 #genre:shmup:shooting>tps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup:password #lang:de,208
+#players:1 #genre:shmup:shooting>tps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup:password #lang:de #unfinished:beta,209
+#players:1 #genre:shmup:shooting>tps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup:password #lang:en,210
+#players:1 #genre:shmup:shooting>tps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup:password #lang:en:fr,211
+#players:1 #genre:shmup:shooting>tps #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,212
+#players:1 #genre:shmup:shooting>tps #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,213
+#players:1 #genre:shmup>v #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,214
+#players:1 #genre:shmup>v #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,215
+#players:1 #genre:shooting>fps #addon:backup>controllerpak #save:backup #lang:de,216
+#players:1 #genre:shooting>fps #addon:backup>controllerpak #save:backup #lang:de #rev:1,217
+#players:1 #genre:shooting>fps #addon:backup>controllerpak #save:backup #lang:de #rev:2,218
+#players:1 #genre:shooting>fps #addon:backup>controllerpak #save:backup #lang:en,219
+#players:1 #genre:shooting>fps #addon:backup>controllerpak #save:backup #lang:en #rev:1,220
+#players:1 #genre:shooting>fps #addon:backup>controllerpak #save:backup #lang:en #rev:2,221
+#players:1 #genre:shooting>fps #addon:backup>controllerpak #save:backup #lang:ja,222
+#players:1 #genre:shooting>fps #addon:backup>controllerpak #save:backup #reboxed:playerschoice #lang:en #rev:2,223
+#players:1 #genre:shooting>fps #addon:backup>controllerpak #save:backup:password #lang:en,224
+#players:1 #genre:shooting>fps #addon:backup>controllerpak #save:backup:password #lang:en #rev:1,225
+#players:1 #genre:shooting>fps #addon:backup>controllerpak #save:backup:password #lang:ja,226
+#players:1 #genre:shooting>fps #based:movie #lang:en #unfinished:proto>1,227
+#players:1 #genre:shooting>fps #based:movie #lang:en #unfinished:proto>2,228
+#players:1 #genre:shooting>fps #based:movie #lang:en #unfinished:proto>3,229
+#players:1 #genre:shooting>rail #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,230
+#players:1 #genre:shooting>rail #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja #unfinished:proto,231
+#players:1 #genre:shooting>rail #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:zh #rerelease,232
+#players:1 #genre:shooting>tps #embedded:backup>eeprom #save:backup #based:starwars #lang:en,233
+#players:1 #genre:shooting>tps #embedded:backup>eeprom #save:backup #based:starwars #lang:en #rev:1,234
+#players:1 #genre:shooting>tps #embedded:backup>eeprom #save:backup #based:starwars #lang:en #rev:2,235
+#players:1 #genre:shooting>tps #embedded:backup>eeprom #save:backup #based:starwars #lang:en #unfinished:beta,236
+#players:1 #genre:shooting>tps #embedded:backup>eeprom #save:backup #based:starwars #lang:ja,237
+#players:1 #genre:sim>derby #addon:backup>controllerpak #save:backup #search:keyword>rs #lang:ja,238
+#players:1 #genre:sim>derby #addon:backup>controllerpak #save:backup #search:keyword>rs #lang:ja #rev:1,239
+#players:1 #genre:sim>farm #addon:backup>controllerpak #embedded:backup>battery #save:backup #lang:ja,240
+#players:1 #genre:sim>farm #addon:backup>controllerpak #embedded:backup>battery #save:backup #lang:ja #rev:1,241
+#players:1 #genre:sim>farm #addon:backup>controllerpak #embedded:backup>battery #save:backup #lang:ja #rev:2,242
+#players:1 #genre:sim>farm #embedded:backup>battery #save:backup #lang:en,243
+#players:1 #genre:sim>fishing #addon:backup>controllerpak:vibration>rumblepak:lockon>transferpak #save:backup #lang:ja,244
+#players:1 #genre:sim>fishing #addon:backup>controllerpak:vibration>rumblepak:lockon>transferpak #save:backup #lang:ja #rev:1,245
+#players:1 #genre:sim>fishing #addon:vibration>rumblepak #embedded:backup>battery #save:backup #lang:ja,246
+#players:1 #genre:sim>fishing #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based #lang:en,247
+#players:1 #genre:sim>fishing #addon:vibration>rumblepak:controller>tsurikon64 #embedded:backup>battery #save:backup #lang:ja,248
+#players:1 #genre:sim>fishing #addon:vibration>rumblepak:lockon>transferpak #embedded:backup>battery #save:backup #lang:ja,249
+#players:1 #genre:sim>flight:minigames #embedded:backup>eeprom #save:backup #lang:en,250
+#players:1 #genre:sim>flight:minigames #embedded:backup>eeprom #save:backup #lang:en:fr:de,251
+#players:1 #genre:sim>flight:minigames #embedded:backup>eeprom #save:backup #lang:ja,252
+#players:1 #genre:sim>flight:shooting>gallery:shooting>tps #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #based:movie:starwars #lang:en,253
+#players:1 #genre:sim>flight:shooting>gallery:shooting>tps #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #based:starwars #lang:en,254
+#players:1 #genre:sim>flight:shooting>gallery:shooting>tps #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #based:starwars #lang:en:fr:de,255
+#players:1 #genre:sim>flight:shooting>gallery:shooting>tps #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #based:starwars #lang:en:fr:de #rev:1,256
+#players:1 #genre:sim>flight:shooting>gallery:shooting>tps #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #based:starwars #lang:ja,257
+#players:1 #genre:sim>flight:shooting>gallery:shooting>tps #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #based:starwars #reboxed:playerschoice #lang:en #rev:1,258
+#players:1 #genre:sim>life #addon:backup>controllerpak #embedded:backup>battery:chip>rtc #save:backup #lang:ja,259
+#players:1 #genre:sim>life #addon:backup>controllerpak #embedded:backup>battery:chip>rtc #save:backup #lang:zh #rerelease,260
+#players:1 #genre:sim>life #addon:backup>controllerpak #embedded:backup>battery:chip>rtc #save:backup #reboxed #lang:ja,261
+#players:1 #genre:sim>life #addon:backup>controllerpak #save:backup #lang:ja,262
+#players:1 #genre:sim>pet #addon:backup>controllerpak #save:backup #lang:ja,263
+#players:1 #genre:sim>pet #addon:vibration>rumblepak:mic>vrs #embedded:backup>eeprom #save:backup #lang:en,264
+#players:1 #genre:sim>pet #addon:vibration>rumblepak:mic>vrs #embedded:backup>eeprom #save:backup #lang:ja,265
+#players:1 #genre:sim>strategy #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #lang:de,266
+#players:1 #genre:sim>strategy #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #lang:en,267
+#players:1 #genre:sim>strategy #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #lang:en:fr,268
+#players:1 #genre:sim>train #addon:vibration>rumblepak:mic>vrs #embedded:backup>eeprom #save:backup #reboxed #lang:ja,269
+#players:1 #genre:sports>baseball #addon:backup>controllerpak #embedded:backup>battery #save:backup #lang:ja,270
+#players:1 #genre:sports>baseball #addon:backup>controllerpak #embedded:backup>battery #save:backup #lang:ja #rev:1,271
+#players:1 #genre:sports>baseball #addon:backup>controllerpak #embedded:backup>battery #save:backup #search:keyword>rs #lang:ja #rev:1,272
+#players:1 #genre:sports>baseball #addon:backup>controllerpak #embedded:backup>battery #save:backup #search:keyword>rs #lang:ja #rev:2,273
+#players:1 #genre:sports>baseball #addon:backup>controllerpak #embedded:backup>battery #search:keyword>rs #save:backup #lang:ja,274
+#players:1 #genre:sports>baseball #addon:backup>controllerpak #save:backup #lang:ja,275
+#players:1 #genre:sports>baseball #addon:backup>controllerpak #save:backup #lang:ja #unfinished:beta,276
+#players:1 #genre:sports>baseball #addon:backup>controllerpak #save:backup #search:keyword>official #lang:en,277
+#players:1 #genre:sports>baseball #addon:backup>controllerpak #save:backup #search:keyword>official #lang:ja,278
+#players:1 #genre:sports>baseball #addon:backup>controllerpak #save:backup #search:keyword>rs #lang:ja,279
+#players:1 #genre:sports>baseball #addon:backup>controllerpak #save:backup #search:keyword>rs #lang:ja #rev:1,280
+#players:1 #genre:sports>baseball #addon:backup>controllerpak:lockon>transferpak #embedded:backup>battery #save:backup #lang:ja,281
+#players:1 #genre:sports>baseball #addon:backup>controllerpak:lockon>transferpak #embedded:backup>battery #save:backup #lang:ja #rev:1,282
+#players:1 #genre:sports>baseball #addon:backup>controllerpak:lockon>transferpak #embedded:backup>battery #save:backup #search:keyword>rs #lang:ja,283
+#players:1 #genre:sports>baseball #addon:backup>controllerpak:lockon>transferpak #embedded:backup>battery #save:backup #search:keyword>rs #lang:ja #rev:1,284
+#players:1 #genre:sports>baseball #addon:backup>controllerpak:lockon>transferpak #embedded:backup>battery #save:backup #search:keyword>rs #lang:ja #rev:2,285
+#players:1 #genre:sports>baseball #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:ja,286
+#players:1 #genre:sports>golf #addon:backup>controllerpak #save:backup #search:keyword>official #lang:ja,287
+#players:1 #genre:sports>soccer:sim #embedded:backup>eeprom #save:backup #search:keyword>dolby #port:sony>playstation #lang:en,288
+#players:2:alt #genre:action #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,289
+#players:2:alt #genre:action>maze:shmup:racing:sports>formula1 #addon:backup>controllerpak:expansion>expansionpak #save:backup #search:feature>pacman #multigame:compilation>pacman>mspacman>galaga>galaxian>poleposition>digdug #port:arcade #lang:en,290
+#players:2:coop #genre:action #addon:backup>controllerpak #save:backup #based #lang:en,291
+#players:2:coop #genre:action:shmup #addon:backup>controllerpak #save:backup #port:sony>playstation #lang:en,292
+#players:2:coop #genre:action>platformer #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,293
+#players:2:coop #genre:action>platformer #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en:fr:de,294
+#players:2:coop #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>battery #save:backup #lang:ja,295
+#players:2:coop #genre:brawler #addon:backup>controllerpak:vibration>rumblepak #save:backup #port:sony>playstation #lang:en,296
+#players:2:coop #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based #port:pc #lang:de,297
+#players:2:coop #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based #port:pc #lang:en,298
+#players:2:coop #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based #port:pc #lang:fr,299
+#players:2:coop:vs #genre:shmup #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,300
+#players:2:coop:vs #genre:sports>football #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #port:arcade #lang:en,301
+#players:2:vs #genre:action>platformer:minigames #embedded:backup>flashram #save:backup #lang:en,302
+#players:2:vs #genre:action>platformer:minigames #embedded:backup>flashram #save:backup #lang:en:fr:de:es:it:nl:da,303
+#players:2:vs #genre:action>platformer:minigames #embedded:backup>flashram #save:backup #reboxed #lang:en:fr:de:es:it:nl:da,304
+#players:2:vs #genre:action>platformer:rhythm #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie #lang:en,305
+#players:2:vs #genre:action>platformer:rhythm #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie #lang:en:fr:de:es:it:nl,306
+#players:2:vs #genre:action>platformer:rhythm #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie #lang:en:fr:de:es:it:nl #unfinished:beta,307
+#players:2:vs #genre:action>platformer:rhythm #addon:backup>controllerpak:vibration>rumblepak #save:backup #based:movie #lang:en:fr:de:es:it:nl #unfinished:beta #alt,308
+#players:2:vs #genre:fighting #addon:backup>controllerpak #save:backup #lang:en,309
+#players:2:vs #genre:fighting #addon:backup>controllerpak #save:backup #lang:ja,310
+#players:2:vs #genre:fighting #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:de,311
+#players:2:vs #genre:fighting #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,312
+#players:2:vs #genre:fighting #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:fr,313
+#players:2:vs #genre:fighting #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,314
+#players:2:vs #genre:fighting #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,315
+#players:2:vs #genre:fighting #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja,316
+#players:2:vs #genre:fighting #addon:backup>controllerpak:vibration>rumblepak #save:backup #port:arcade #lang:en,317
+#players:2:vs #genre:fighting #addon:backup>controllerpak:vibration>rumblepak:lockon>transferpak #save:backup #lang:ja,318
+#players:2:vs #genre:fighting #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based:manganime #search:feature>gundam #lang:ja,319
+#players:2:vs #genre:fighting #addon:vibration>rumblepak #lang:en,320
+#players:2:vs #genre:fighting #addon:vibration>rumblepak:lockon>transferpak #embedded:backup>eeprom #save:backup #based #lang:en,321
+#players:2:vs #genre:fighting #addon:vibration>rumblepak:lockon>transferpak #embedded:backup>eeprom #save:backup #based #lang:ja,322
+#players:2:vs #genre:fighting #embedded:backup>eeprom #save:backup #lang:en,323
+#players:2:vs #genre:fighting #embedded:backup>eeprom #save:backup #lang:en #rev:1,324
+#players:2:vs #genre:fighting #embedded:backup>eeprom #save:backup #lang:en #rev:2,325
+#players:2:vs #genre:fighting #lang:en,326
+#players:2:vs #genre:fighting #lang:en #unfinished:beta,327
+#players:2:vs #genre:fighting #lang:ja,328
+#players:2:vs #genre:fighting #port:arcade #lang:en,329
+#players:2:vs #genre:fighting #port:arcade #lang:en #unfinished:beta,330
+#players:2:vs #genre:fighting #port:sony>playstation #lang:en,331
+#players:2:vs #genre:fighting #port:sony>playstation #lang:en #rev:1,332
+#players:2:vs #genre:fighting #port:sony>playstation #lang:en #rev:2,333
+#players:2:vs #genre:fighting #port:sony>playstation #lang:en #unfinished:beta,334
+#players:2:vs #genre:fighting:action #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based #lang:en,335
+#players:2:vs #genre:fighting:action #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based #lang:en:fr:de:es:it:nl,336
+#players:2:vs #genre:fighting:action #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,337
+#players:2:vs #genre:fighting:action #save:password #based #lang:en,338
+#players:2:vs #genre:fighting:sports>boxing #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,339
+#players:2:vs #genre:fighting:sports>boxing #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en:fr:de,340
+#players:2:vs #genre:fighting:sports>wrestling #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official>dolby #lang:en,341
+#players:2:vs #genre:parlor>billiards #addon:backup>controllerpak #save:backup #lang:en,342
+#players:2:vs #genre:puzzle #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #based:manganime #lang:de,343
+#players:2:vs #genre:puzzle #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #based:manganime #lang:de #rerelease:virtualconsole>wii,344
+#players:2:vs #genre:puzzle #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #based:manganime #lang:en,345
+#players:2:vs #genre:puzzle #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #based:manganime #lang:en #rerelease:virtualconsole>wii,346
+#players:2:vs #genre:puzzle #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #based:manganime #lang:fr,347
+#players:2:vs #genre:puzzle #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #based:manganime #lang:fr #rerelease:virtualconsole>wii,348
+#players:2:vs #genre:puzzle:action #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based #lang:ja,349
+#players:2:vs #genre:puzzle>drop #addon:backup>controllerpak #save:backup #lang:en:fr:de:es:it:nl,350
+#players:2:vs #genre:puzzle>drop #addon:backup>controllerpak #save:backup #lang:ja,351
+#players:2:vs #genre:puzzle>drop #addon:backup>controllerpak #save:backup #port:arcade #lang:en,352
+#players:2:vs #genre:puzzle>drop #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja,353
+#players:2:vs #genre:puzzle>drop #addon:backup>controllerpak:vibration>rumblepak:lockon>transferpak #save:backup #port:sega>dreamcast #lang:ja,354
+#players:2:vs #genre:puzzle>drop #addon:vibration>rumblepak #based:disney #search:feature>mickey #lang:de,355
+#players:2:vs #genre:puzzle>drop #addon:vibration>rumblepak #based:disney #search:feature>mickey #lang:en,356
+#players:2:vs #genre:puzzle>drop #addon:vibration>rumblepak #based:disney #search:feature>mickey #lang:fr,357
+#players:2:vs #genre:puzzle>drop #addon:vibration>rumblepak #based:disney #search:feature>mickey #lang:ja,358
+#players:2:vs #genre:puzzle>drop #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #port:arcade #lang:ja,359
+#players:2:vs #genre:puzzle>drop #embedded:backup>eeprom #save:backup #lang:en,360
+#players:2:vs #genre:racing #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #based #lang:zh #rerelease,361
+#players:2:vs #genre:racing #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #port:arcade #lang:en,362
+#players:2:vs #genre:racing #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #port:arcade #lang:en #rerelease:virtualconsole>wii,363
+#players:2:vs #genre:racing #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #port:arcade #lang:en #rev:1,364
+#players:2:vs #genre:racing #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #port:arcade #reboxed:playerschoice #lang:en #rev:2,365
+#players:2:vs #genre:racing #addon:backup>controllerpak #save:backup #lang:en,366
+#players:2:vs #genre:racing #addon:backup>controllerpak #save:backup #lang:en:fr:de,367
+#players:2:vs #genre:racing #addon:backup>controllerpak #save:backup #lang:ja #rev:1,368
+#players:2:vs #genre:racing #addon:backup>controllerpak #save:backup #lang:ja #unfinished:demo>kiosk,369
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #based #lang:en,370
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,371
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en:fr:de,372
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,373
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en #unfinished:beta,374
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en:fr:de,375
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>official #lang:ja,376
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #lang:en,377
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #lang:en:fr:de,378
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,379
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en:fr:de:es:it,380
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en:fr:de:es:it:nl,381
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup #port:arcade #lang:en,382
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup #port:arcade #lang:en #unfinished:proto,383
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup:password #port:arcade #lang:en:fr:de,384
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup:password #port:arcade #lang:en:fr:de #rev:1,385
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en,386
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en #unfinished:beta,387
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:ja,388
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #port:arcade #lang:en,389
+#players:2:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #port:arcade #lang:fr,390
+#players:2:vs #genre:racing #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #based:movie:starwars #lang:en,391
+#players:2:vs #genre:racing #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #based:movie:starwars #lang:en:fr:de,392
+#players:2:vs #genre:racing #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #based:movie:starwars #lang:ja,393
+#players:2:vs #genre:racing:action #addon:backup>controllerpak:vibration>rumblepak #save:backup #port:pc #lang:en,394
+#players:2:vs #genre:racing:action #addon:backup>controllerpak:vibration>rumblepak #save:backup #port:pc #lang:en:fr:de:es,395
+#players:2:vs #genre:racing:action #addon:backup>controllerpak:vibration>rumblepak #save:backup #port:pc #lang:en:fr:es:it,396
+#players:2:vs #genre:racing:sports>formula1 #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #lang:en,397
+#players:2:vs #genre:racing:sports>formula1 #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #lang:en:fr:es:it,398
+#players:2:vs #genre:racing:sports>formula1 #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>brand #lang:de,399
+#players:2:vs #genre:racing:sports>formula1 #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en:fr,400
+#players:2:vs #genre:racing:sports>formula1 #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en:fr:de:es:it,401
+#players:2:vs #genre:racing:sports>formula1 #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>official #lang:de,402
+#players:2:vs #genre:racing:sports>formula1 #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en,403
+#players:2:vs #genre:racing:sports>formula1 #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en #unfinished:beta,404
+#players:2:vs #genre:racing:sports>formula1 #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>official #lang:fr,405
+#players:2:vs #genre:racing:sports>formula1 #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>official #lang:ja,406
+#players:2:vs #genre:racing:sports>formula1 #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>official #reboxed:playerschoice #lang:de,407
+#players:2:vs #genre:racing:sports>formula1 #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>official #reboxed:playerschoice #lang:en,408
+#players:2:vs #genre:racing:sports>formula1 #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en,409
+#players:2:vs #genre:racing:sports>formula1 #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en:fr:de:es,410
+#players:2:vs #genre:racing:sports>jetski #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #based #lang:ja,411
+#players:2:vs #genre:racing:sports>jetski #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #search:keyword>brand #lang:en,412
+#players:2:vs #genre:racing:sports>jetski #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #search:keyword>brand #lang:en #reboxed:playerschoice #rev:1,413
+#players:2:vs #genre:racing:sports>jetski #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #search:keyword>brand #lang:en:de,414
+#players:2:vs #genre:racing:sports>jetski #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #search:keyword>brand #reboxed:playerschoice #lang:en:de,415
+#players:2:vs #genre:racing:sports>jetski #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #based #lang:ja #rev:2,416
+#players:2:vs #genre:racing:sports>jetski #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #based #reboxed #lang:ja #rev:1,417
+#players:2:vs #genre:racing:sports>motocross #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based #lang:en,418
+#players:2:vs #genre:racing:sports>motocross #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based #lang:en:fr:de,419
+#players:2:vs #genre:racing:sports>nascar #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en,420
+#players:2:vs #genre:racing:sports>nascar #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en:fr:de,421
+#players:2:vs #genre:racing:sports>rally #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,422
+#players:2:vs #genre:racing:sports>rally #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja,423
+#players:2:vs #genre:racing:sports>rally #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,424
+#players:2:vs #genre:racing:sports>rally #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en:fr:de,425
+#players:2:vs #genre:racing:sports>rally #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,426
+#players:2:vs #genre:racing:sports>snowboarding #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #lang:en,427
+#players:2:vs #genre:racing:sports>snowboarding #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #lang:ja,428
+#players:2:vs #genre:racing:sports>snowboarding #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en,429
+#players:2:vs #genre:racing:sports>snowboarding #addon:vibration>rumblepak #embedded:backup>battery #save:backup #based #lang:en:ja:fr:de,430
+#players:2:vs #genre:racing:sports>snowboarding #addon:vibration>rumblepak #embedded:backup>battery #save:backup #based #reboxed:playerschoice #lang:en:ja:fr:de,431
+#players:2:vs #genre:racing:sports>snowboarding #addon:vibration>rumblepak #embedded:backup>battery #save:backup #lang:en:ja,432
+#players:2:vs #genre:racing:sports>snowboarding #addon:vibration>rumblepak #embedded:backup>battery #save:backup #reboxed:playerschoice #lang:en:ja,433
+#players:2:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #lang:en:fr:de:es:it:nl:sv:no:da:fi,434
+#players:2:vs #genre:rhythm #addon:vibration>rumblepak:controller>ddr #based:disney #search:feature>mickey>donald #lang:ja,435
+#players:2:vs #genre:rpg>a #embedded:backup>eeprom #save:backup #lang:ja,436
+#players:2:vs #genre:rpg>a #embedded:backup>eeprom #save:backup #lang:zh #rerelease,437
+#players:2:vs #genre:rpg>a:action:adventure #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #embedded:backup>battery #save:backup #lang:ja,438
+#players:2:vs #genre:rpg>a:action:adventure #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en,439
+#players:2:vs #genre:rpg>a:action:adventure #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en:fr:de,440
+#players:2:vs #genre:rpg>j #addon:backup>controllerpak:lockon>transferpak #embedded:backup>eeprom #save:backup #based #lang:ja,441
+#players:2:vs #genre:rpg>j #addon:lockon>transferpak #embedded:backup>eeprom #save:backup #lang:ja,442
+#players:2:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak #save:backup #port:pc #lang:en,443
+#players:2:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #port:pc #lang:en,444
+#players:2:vs #genre:shooting>tps #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,445
+#players:2:vs #genre:shooting>tps #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en:fr:de:es:it,446
+#players:2:vs #genre:shooting>tps #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja,447
+#players:2:vs #genre:sim>fishing #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #lang:en,448
+#players:2:vs #genre:sim>fishing #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #lang:en #unfinished:beta,449
+#players:2:vs #genre:sim>flight:shooting>gallery #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,450
+#players:2:vs #genre:sim>flight:shooting>gallery #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en:fr:de,451
+#players:2:vs #genre:sim>flight:shooting>gallery #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,452
+#players:2:vs #genre:sim>strategy #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #port:pc #lang:de #unfinished:proto,453
+#players:2:vs #genre:sim>strategy #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #port:pc #lang:en,454
+#players:2:vs #genre:sim>strategy #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #port:pc #lang:en #unfinished:beta,455
+#players:2:vs #genre:sim>strategy:fighting #addon:vibration>rumblepak:lockon>transferpak #embedded:backup>battery #save:backup #lang:ja,456
+#players:2:vs #genre:sim>strategy:fighting #addon:vibration>rumblepak:lockon>transferpak #embedded:backup>battery #save:backup #reboxed #lang:ja,457
+#players:2:vs #genre:sports>baseball #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en,458
+#players:2:vs #genre:sports>baseball #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official>endorsed #lang:en,459
+#players:2:vs #genre:sports>baseball #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>flashram #save:backup #based #search:keyword>endorsed>dolby #lang:en,460
+#players:2:vs #genre:sports>basketball #addon:backup>controllerpak #save:backup #search:keyword>official #lang:en,461
+#players:2:vs #genre:sports>kayak:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en #unfinished:proto,462
+#players:2:vs #genre:sports>skateboarding #addon:backup>controllerpak #save:backup #lang:ja,463
+#players:2:vs #genre:sports>skateboarding #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #search:keyword>endorsed #port:sony>playstation #lang:en,464
+#players:2:vs #genre:sports>skateboarding #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #search:keyword>endorsed #port:sony>playstation #lang:en #rev:1,465
+#players:2:vs #genre:sports>skateboarding #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #search:keyword>endorsed #port:sony>playstation #lang:en #unfinished:beta,466
+#players:2:vs #genre:sports>skateboarding #embedded:backup>eeprom #save:backup #lang:en,467
+#players:2:vs #genre:sports>skiing>snowboarding #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #based #lang:en,468
+#players:3:coop #genre:action #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,469
+#players:3:vs #genre:board #addon:vibration>rumblepak #based #lang:en,470
+#players:3:vs #genre:quiz:board #based #lang:en,471
+#players:4:alt #genre:action:adventure:minigames #addon:backup>controllerpak #save:backup #based:movie #lang:en,472
+#players:4:alt #genre:action:adventure:minigames #addon:backup>controllerpak #save:backup #based:movie #reboxed #lang:en,473
+#players:4:coop #genre:action #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en:fr:de:es:it:nl,474
+#players:4:coop #genre:board:adventure #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja,475
+#players:4:coop #genre:rpg>a #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en,476
+#players:4:coop #genre:rpg>a #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:ja,477
+#players:4:coop #genre:shooting>rail #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,478
+#players:4:coop #genre:shooting>rail #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en:fr:de,479
+#players:4:coop #genre:shooting>rail #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,480
+#players:4:coop #genre:shooting>rail #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja #rerelease:virtualconsole>wii,481
+#players:4:coop #genre:shooting>rail #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:zh #rerelease,482
+#players:4:coop #genre:shooting>rail #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #reboxed #lang:ja,483
+#players:4:coop #genre:shooting>rail #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #reboxed:playerschoice #lang:en #rev:1,484
+#players:4:coop #genre:shooting>rail #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #reboxed:playerschoice #lang:en:fr:de,485
+#players:4:coop #genre:shooting>rail #addon:vibration>rumblepak #lang:en,486
+#players:4:coop #genre:shooting>rail #addon:vibration>rumblepak #lang:ja,487
+#players:4:coop:vs #genre:action>hackandslash #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en #unfinished:proto,488
+#players:4:coop:vs #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>dolby #lang:en,489
+#players:4:coop:vs #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>dolby #lang:en:fr:de:es,490
+#players:4:coop:vs #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>dolby #lang:ja,491
+#players:4:coop:vs #genre:board #addon:vibration>rumblepak #based #lang:de,492
+#players:4:coop:vs #genre:board #addon:vibration>rumblepak #based #lang:en,493
+#players:4:coop:vs #genre:board #addon:vibration>rumblepak #based #lang:fr,494
+#players:4:coop:vs #genre:fighting:action #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja #unfinished:proto,495
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:backup>controllerpak #save:backup #search:keyword>official #lang:ja,496
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>battery #save:backup #based #lang:ja,497
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>official #lang:en,498
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>official #lang:ja,499
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>flashram #save:backup #search:keyword>official #lang:en,500
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>flashram #save:backup #search:keyword>official #lang:en #rev:1,501
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #lang:ja,502
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:de,503
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en,504
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en #rev:1,505
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>official #lang:en,506
+#players:4:coop:vs #genre:parlor>bowling #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,507
+#players:4:coop:vs #genre:parlor>bowling #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja,508
+#players:4:coop:vs #genre:shmup #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup:password #port:sony>playstation #lang:en,509
+#players:4:coop:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup:password #based #lang:de,510
+#players:4:coop:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup:password #based #lang:en,511
+#players:4:coop:vs #genre:shooting>fps #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>eeprom #save:backup #reboxed #search:keyword>dolby #lang:ja,512
+#players:4:coop:vs #genre:shooting>fps #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>eeprom #save:backup #reboxed:playerschoice #search:keyword>dolby #lang:en #rev:1,513
+#players:4:coop:vs #genre:shooting>fps #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>eeprom #save:backup #search:keyword>dolby #lang:en,514
+#players:4:coop:vs #genre:shooting>fps #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>eeprom #save:backup #search:keyword>dolby #lang:en #unfinished:debug,515
+#players:4:coop:vs #genre:shooting>fps #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>eeprom #save:backup #search:keyword>dolby #lang:en:fr:de:es:it,516
+#players:4:coop:vs #genre:shooting>fps #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>eeprom #save:backup #search:keyword>dolby #lang:ja,517
+#players:4:coop:vs #genre:sports>baseball #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>battery #save:backup #based #search:keyword>endorsed #lang:en,518
+#players:4:coop:vs #genre:sports>baseball #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>official>endorsed #lang:en,519
+#players:4:coop:vs #genre:sports>baseball #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en,520
+#players:4:coop:vs #genre:sports>baseball #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #search:keyword>official #lang:en,521
+#players:4:coop:vs #genre:sports>basketball #addon:backup>controllerpak #save:backup #search:keyword>official #port:arcade #lang:en,522
+#players:4:coop:vs #genre:sports>basketball #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>official>endorsed #lang:en,523
+#players:4:coop:vs #genre:sports>basketball #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en,524
+#players:4:coop:vs #genre:sports>basketball #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en:fr:de:es,525
+#players:4:coop:vs #genre:sports>basketball #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en:fr:de:es:it,526
+#players:4:coop:vs #genre:sports>basketball #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:ja,527
+#players:4:coop:vs #genre:sports>basketball #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #search:keyword>official #lang:en,528
+#players:4:coop:vs #genre:sports>basketball #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #search:keyword>official>endorsed #lang:en,529
+#players:4:coop:vs #genre:sports>football #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>endorsed #lang:en,530
+#players:4:coop:vs #genre:sports>football #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en,531
+#players:4:coop:vs #genre:sports>football #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #port:arcade #lang:en,532
+#players:4:coop:vs #genre:sports>football #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #port:arcade #lang:en #rev:1,533
+#players:4:coop:vs #genre:sports>football #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official>endorsed #lang:en,534
+#players:4:coop:vs #genre:sports>football #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official>endorsed #lang:en #rev:1,535
+#players:4:coop:vs #genre:sports>football #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official>endorsed #lang:en #unfinished:beta,536
+#players:4:coop:vs #genre:sports>football #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #search:keyword>official #lang:en,537
+#players:4:coop:vs #genre:sports>football #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #search:keyword>official #port:arcade #lang:en,538
+#players:4:coop:vs #genre:sports>football #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #search:keyword>official>endorsed #lang:en,539
+#players:4:coop:vs #genre:sports>hockey #addon:backup>controllerpak #save:backup #search:keyword>official #lang:en,540
+#players:4:coop:vs #genre:sports>hockey #addon:backup>controllerpak #save:backup #search:keyword>official #lang:en:fr:de:es,541
+#players:4:coop:vs #genre:sports>hockey #addon:backup>controllerpak #save:backup #search:keyword>official #lang:ja,542
+#players:4:coop:vs #genre:sports>hockey #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en,543
+#players:4:coop:vs #genre:sports>hockey #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official>dolby #lang:en,544
+#players:4:coop:vs #genre:sports>hockey #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official>dolby #lang:en:de:sv:fi,545
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak #save:backup #lang:en,546
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak #save:backup #search:keyword>dolby #lang:en,547
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak #save:backup #search:keyword>dolby #lang:en #unfinished:beta,548
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak #save:backup #search:keyword>endorsed #lang:pt #unlicensed:hack,549
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak #save:backup #search:keyword>official #lang:en:fr:de,550
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak #save:backup #search:keyword>official #lang:ja,551
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak #save:backup #search:keyword>official>dolby  #lang:ja,552
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak #save:backup #search:keyword>official>dolby #lang:en:fr:de:es:it:nl:sv,553
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak #save:backup #search:keyword>official>dolby>rs #lang:ja,554
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak #save:backup #search:keyword>official>dolby>rs #lang:ja #rev:1,555
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak #save:backup #search:keyword>official>dolby>rs #lang:ja #rev:2,556
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak #save:backup #search:keyword>official>rs #lang:ja,557
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:de,558
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:fr,559
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>endorsed #lang:en,560
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>endorsed #lang:en:es,561
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #embedded:backup>battery #save:backup #search:keyword>official>dolby>rs #lang:ja,562
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #embedded:backup>battery #save:backup #search:keyword>official>dolby>rs #lang:ja #rev:1,563
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #search:keyword>dolby #lang:en:de,564
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #search:keyword>dolby #lang:en:es,565
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #search:keyword>dolby #lang:en:es #rev:1,566
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #search:keyword>dolby #lang:fr:it,567
+#players:4:coop:vs #genre:sports>soccer #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #search:keyword>official #lang:en:fr:de:es:it:nl:pt:sv,568
+#players:4:coop:vs #genre:sports>soccer #embedded:backup>eeprom #save:backup #search:keyword>official #lang:ja,569
+#players:4:coop:vs #genre:sports>soccer #embedded:backup>eeprom #save:backup #search:keyword>official #lang:ja #rev:1,570
+#players:4:coop:vs #genre:sports>tennis #addon:backup>controllerpak #save:backup #lang:en,571
+#players:4:coop:vs #genre:sports>tennis #addon:backup>controllerpak #save:backup #lang:ja,572
+#players:4:coop:vs #genre:sports>tennis #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>endorsed #lang:en,573
+#players:4:coop:vs #genre:sports>tennis #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>endorsed #lang:en:fr:de:es:it,574
+#players:4:coop:vs #genre:sports>tennis #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>official>endorsed #lang:en:fr:de:es:it,575
+#players:4:coop:vs #genre:sports>tennis #addon:vibration>rumblepak:lockon>transferpak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:en,576
+#players:4:coop:vs #genre:sports>tennis #addon:vibration>rumblepak:lockon>transferpak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:en #rerelease:virtualconsole>wii,577
+#players:4:coop:vs #genre:sports>tennis #addon:vibration>rumblepak:lockon>transferpak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:ja,578
+#players:4:coop:vs #genre:sports>tennis #addon:vibration>rumblepak:lockon>transferpak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:ja #rerelease:virtualconsole>wii,579
+#players:4:coop>vs #genre:sports>hockey #addon:backup>controllerpak #save:backup #search:keyword>official>endorsed #port:arcade #lang:en,580
+#players:4:coop>vs #genre:sports>hockey #addon:backup>controllerpak #save:backup #search:keyword>official>endorsed #port:arcade #lang:en #rev:1,581
+#players:4:coop>vs #genre:sports>hockey #addon:backup>controllerpak #save:backup #search:keyword>official>endorsed #port:arcade #lang:en:fr:de:es,582
+#players:4:coop>vs #genre:sports>hockey #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official>endorsed #lang:en,583
+#players:4:coop>vs #genre:sports>hockey #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official>endorsed #lang:en:fr:de:es,584
+#players:4:coop>vs #genre:sports>hockey #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official>endorsed #port:arcade #lang:ja,585
+#players:4:coop>vs #genre:sports>soccer #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en:fr:de:es:it:nl:sv:da,586
+#players:4:coop>vs #genre:sports>soccer #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #reboxed #lang:en:fr:de:es:it:nl:sv:da,587
+#players:4:vs #genre:action #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en,588
+#players:4:vs #genre:action #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup:password #lang:de,589
+#players:4:vs #genre:action #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup:password #lang:en,590
+#players:4:vs #genre:action #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup:password #lang:fr,591
+#players:4:vs #genre:action:adventure:shooting>tps #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,592
+#players:4:vs #genre:action:adventure:shooting>tps #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en:fr:de:es:it,593
+#players:4:vs #genre:action:adventure:shooting>tps #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja,594
+#players:4:vs #genre:action:adventure:shooting>tps #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja #rev:1,595
+#players:4:vs #genre:action:puzzle #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #lang:en,596
+#players:4:vs #genre:action:puzzle #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #lang:ja,597
+#players:4:vs #genre:action:puzzle #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,598
+#players:4:vs #genre:action:puzzle #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,599
+#players:4:vs #genre:action:sim>flight:shooting>fps #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #search:feature>superman #lang:en #unfinished:beta,600
+#players:4:vs #genre:action:sim>flight:shooting>fps #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #search:feature>superman #lang:en:fr:de:es:it:nl,601
+#players:4:vs #genre:action:sim>flight:shooting>fps #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #search:feature>superman #lang:en:fr:es,602
+#players:4:vs #genre:action:sim>strategy #embedded:backup>eeprom #save:backup #port:pc #lang:en:fr:de:es:it:nl,603
+#players:4:vs #genre:action:sim>strategy #embedded:backup>eeprom #save:backup #port:pc #lang:en:fr:es,604
+#players:4:vs #genre:action>maze:puzzle #addon:backup>controllerpak:vibration>rumblepak #save:backup #port:sony>playstation #lang:en,605
+#players:4:vs #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,606
+#players:4:vs #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en #rev:1,607
+#players:4:vs #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,608
+#players:4:vs #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>dolby #lang:en,609
+#players:4:vs #genre:action>platformer #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>dolby #lang:en #unfinished:beta,610
+#players:4:vs #genre:action>platformer #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #search:keyword>dolby #lang:en,611
+#players:4:vs #genre:action>platformer #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #search:keyword>dolby #lang:en #unfinished:demo>kiosk,612
+#players:4:vs #genre:action>platformer #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #search:keyword>dolby #lang:en:fr:de:es,613
+#players:4:vs #genre:action>platformer #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #search:keyword>dolby #lang:ja,614
+#players:4:vs #genre:action>platformer:minigames #addon:vibration>rumblepak #embedded:backup>battery #save:backup #lang:ja,615
+#players:4:vs #genre:action>platformer:minigames #addon:vibration>rumblepak #embedded:backup>battery #save:backup #lang:ja #rev:1,616
+#players:4:vs #genre:action>platformer:minigames #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,617
+#players:4:vs #genre:action>platformer:minigames #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja #rev:2,618
+#players:4:vs #genre:action>platformer:minigames #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja #rev:3,619
+#players:4:vs #genre:board #addon:backup>controllerpak #save:backup #lang:ja,620
+#players:4:vs #genre:board:minigames #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:en,621
+#players:4:vs #genre:board:minigames #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:en #rerelease:virtualconsole>wii,622
+#players:4:vs #genre:board:minigames #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:en:fr:de,623
+#players:4:vs #genre:board:minigames #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:en:fr:de:es,624
+#players:4:vs #genre:board:minigames #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:en:fr:de:es:it,625
+#players:4:vs #genre:board:minigames #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:en:fr:de:es:it #rerelease:virtualconsole>wii,626
+#players:4:vs #genre:board:minigames #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:ja,627
+#players:4:vs #genre:board:minigames #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:ja #rerelease:virtualconsole>wii,628
+#players:4:vs #genre:board:minigames:sim>pet #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #lang:ja,629
+#players:4:vs #genre:board:sim>cardgame #addon:backup>controllerpak #embedded:backup>battery #save:backup:password #lang:ja,630
+#players:4:vs #genre:board>chess #addon:backup>controllerpak #save:backup #lang:en:fr:de:es:it:nl,631
+#players:4:vs #genre:board>chess #addon:backup>controllerpak #save:backup #lang:en:fr:es,632
+#players:4:vs #genre:board>party #addon:vibration>rumblepak #embedded:backup>battery #save:backup #lang:ja,633
+#players:4:vs #genre:board>party #embedded:backup>eeprom #save:backup #based #lang:en,634
+#players:4:vs #genre:fighting #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,635
+#players:4:vs #genre:fighting #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,636
+#players:4:vs #genre:fighting #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based #lang:en,637
+#players:4:vs #genre:fighting:sports>wrestling #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:de,638
+#players:4:vs #genre:fighting:sports>wrestling #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en,639
+#players:4:vs #genre:fighting>melee #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:feature>mario #lang:en,640
+#players:4:vs #genre:fighting>melee #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:feature>mario #lang:en:fr:de,641
+#players:4:vs #genre:fighting>melee #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:feature>mario #lang:ja,642
+#players:4:vs #genre:fighting>melee #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:feature>mario #lang:zh #rerelease,643
+#players:4:vs #genre:minigames:action>maze:puzzle>drop #embedded:backup>eeprom #save:backup #lang:ja,644
+#players:4:vs #genre:parlor>bowling #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,645
+#players:4:vs #genre:puzzle #addon:vibration>rumblepak #save:password #lang:en,646
+#players:4:vs #genre:puzzle>drop #addon:backup>controllerpak #embedded:backup>battery #save:backup #lang:en,647
+#players:4:vs #genre:puzzle>drop #addon:backup>controllerpak:vibration>rumblepak #save:backup #port:arcade #lang:en,648
+#players:4:vs #genre:puzzle>drop #addon:backup>controllerpak:vibration>rumblepak #save:backup #port:arcade #lang:ja,649
+#players:4:vs #genre:puzzle>drop #addon:health>biosensor #embedded:backup>eeprom #save:backup #lang:en,650
+#players:4:vs #genre:puzzle>drop #embedded:backup>eeprom #save:backup #search:feature>mario #lang:en,651
+#players:4:vs #genre:puzzle>drop #embedded:backup>eeprom #save:backup #search:feature>mario #lang:zh #rerelease,652
+#players:4:vs #genre:quiz #based #search:keyword>dolby #lang:en,653
+#players:4:vs #genre:racing #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #lang:en,654
+#players:4:vs #genre:racing #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #lang:ja,655
+#players:4:vs #genre:racing #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #reboxed #lang:ja,656
+#players:4:vs #genre:racing #addon:backup>controllerpak #save:backup #lang:en,657
+#players:4:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #lang:en:fr:es,658
+#players:4:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #lang:ja,659
+#players:4:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>brand #lang:en,660
+#players:4:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>brand #lang:en:fr:de,661
+#players:4:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>brand #lang:en:fr:de:es:it:nl,662
+#players:4:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>brand #lang:ja,663
+#players:4:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #port:arcade #lang:en,664
+#players:4:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #port:arcade #lang:en:fr:de:es:it:nl,665
+#players:4:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak:lockon>transferpak #embedded:backup>eeprom #save:backup #lang:ja,666
+#players:4:vs #genre:racing #addon:vibration>rumblepak #embedded:backup>battery #save:backup #lang:en,667
+#players:4:vs #genre:racing #addon:vibration>rumblepak #embedded:backup>battery #save:backup #lang:ja,668
+#players:4:vs #genre:racing #addon:vibration>rumblepak #embedded:backup>battery #save:backup #lang:zh #rerelease,669
+#players:4:vs #genre:racing #addon:vibration>rumblepak #embedded:backup>battery #save:backup #reboxed:playerschoice #lang:en,670
+#players:4:vs #genre:racing #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #port:arcade #lang:en,671
+#players:4:vs #genre:racing #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #port:arcade #lang:en #rev:1,672
+#players:4:vs #genre:racing #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #lang:en,673
+#players:4:vs #genre:racing #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #lang:ja,674
+#players:4:vs #genre:racing #embedded:backup>eeprom #save:backup #lang:en,675
+#players:4:vs #genre:racing #embedded:backup>eeprom #save:backup #lang:ja #unfinished:proto,676
+#players:4:vs #genre:racing #embedded:backup>eeprom #save:backup #search:keyword>brand #lang:en #unfinished:proto,677
+#players:4:vs #genre:racing:puzzle #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,678
+#players:4:vs #genre:racing:puzzle #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja,679
+#players:4:vs #genre:racing:rpg>a #addon:vibration>rumblepak #embedded:backup>battery #save:backup #search:keyword>dolby #lang:en #unfinished:beta,680
+#players:4:vs #genre:racing:sports>motocross #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #lang:en,681
+#players:4:vs #genre:racing:sports>motocross #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #lang:en #rev:1,682
+#players:4:vs #genre:racing:sports>motocross #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #lang:en #unfinished:demo>kiosk,683
+#players:4:vs #genre:racing:sports>motocross #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #lang:ja,684
+#players:4:vs #genre:racing:sports>motocross #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #embedded:backup>eeprom #save:backup #lang:zh #rerelease,685
+#players:4:vs #genre:racing:sports>motocross #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #search:keyword>endorsed #lang:en,686
+#players:4:vs #genre:racing:sports>rally #addon:backup>controllerpak #save:backup #lang:en,687
+#players:4:vs #genre:racing:sports>rally #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #lang:en,688
+#players:4:vs #genre:racing:sports>rally #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:ja,689
+#players:4:vs #genre:racing:sports>rally #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en,690
+#players:4:vs #genre:racing:sports>rally #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en #unfinished:beta,691
+#players:4:vs #genre:racing:sports>rally #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:ja,692
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:en,693
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:ja,694
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:ja #rev:1,695
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:zh #rerelease,696
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #search:feature>mario #lang:zh #rev:1 #rerelease,697
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #search:feature>mario #reboxed:playerschoice #lang:en,698
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak #embedded:backup>eeprom #save:backup #search:feature>mario #reboxed:playerschoice #lang:en #rev:1,699
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en:fr,700
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en:fr:de,701
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en:fr:de #rev:1,702
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,703
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak #embedded:backup>eeprom #save:backup #reboxed:playerschoice #lang:en:fr #rev:1,704
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #lang:en,705
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #lang:en #unfinished:beta,706
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,707
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en #unfinished:beta,708
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en:fr:de,709
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en:fr:de:es:it,710
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja,711
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak #save:backup:password #lang:en,712
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak #save:backup:password #lang:en:fr:de,713
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en,714
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en #unfinished:beta,715
+#players:4:vs #genre:racing>combat #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en:fr:de:es,716
+#players:4:vs #genre:racing>combat #addon:vibration>rumblepak #save:password #lang:en,717
+#players:4:vs #genre:racing>combat #addon:vibration>rumblepak #save:password #lang:en:fr:de:es:it,718
+#players:4:vs #genre:racing>combat #addon:vibration>rumblepak:lockon>transferpak #embedded:backup>eeprom #save:backup #based:disney #search:feature>mickey>donald:keyword>dolby #lang:en,719
+#players:4:vs #genre:racing>combat #addon:vibration>rumblepak:lockon>transferpak #embedded:backup>eeprom #save:backup #based:disney #search:feature>mickey>donald:keyword>dolby #lang:en:fr:de:es:it,720
+#players:4:vs #genre:racing>combat #addon:vibration>rumblepak:lockon>transferpak #embedded:backup>eeprom #save:backup #based:disney #search:feature>mickey>donald:keyword>dolby #lang:ja,721
+#players:4:vs #genre:racing>combat:sports>snowboarding #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,722
+#players:4:vs #genre:racing>combat:sports>snowboarding #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja,723
+#players:4:vs #genre:racing>combat:sports>snowboarding #addon:backup>controllerpak:vibration>rumblepak #save:backup #reboxed:playerschoice #lang:en,724
+#players:4:vs #genre:racing>combat:sports>snowboarding #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:en,725
+#players:4:vs #genre:racing>combat:sports>snowboarding #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,726
+#players:4:vs #genre:rpg>a #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #lang:ja,727
+#players:4:vs #genre:shmup #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,728
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak #save:backup #port:pc #lang:de,729
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak #save:backup #port:pc #lang:en,730
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak #save:backup #port:pc #lang:fr,731
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak #save:backup #port:pc #lang:ja,732
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:de,733
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,734
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en:fr:es:it,735
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak #save:backup #port:pc #lang:en,736
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak #save:backup #port:pc #lang:en #unfinished:beta,737
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak #save:backup #port:pc #lang:fr,738
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based #lang:de,739
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based #lang:en,740
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based #lang:en:fr:es,741
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based #lang:pt,742
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based:movie #lang:en,743
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based:movie #lang:en #unfinished:beta>1,744
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based:movie #lang:en #unfinished:beta>2,745
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #based:movie #lang:en:fr:de,746
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:de,747
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en,748
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en #rev:1,749
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en #unfinished:beta,750
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en #unfinished:demo>kiosk,751
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en:fr:de,752
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en:fr:es:it,753
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en:fr:it,754
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:ja,755
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #reboxed #based:movie #lang:en:fr:de,756
+#players:4:vs #genre:shooting>fps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #reboxed:playerschoice #lang:en #rev:1,757
+#players:4:vs #genre:shooting>fps #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based:movie #lang:en,758
+#players:4:vs #genre:shooting>fps #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based:movie #lang:ja,759
+#players:4:vs #genre:shooting>fps #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based:movie #reboxed:playerschoice #lang:en,760
+#players:4:vs #genre:shooting>gallery:action #addon:backup>controllerpak:lockon>transferpak #embedded:backup>eeprom #save:backup #based #lang:ja,761
+#players:4:vs #genre:shooting>tps #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en,762
+#players:4:vs #genre:shooting>tps #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:en:fr:de,763
+#players:4:vs #genre:shooting>tps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en,764
+#players:4:vs #genre:shooting>tps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:fr,765
+#players:4:vs #genre:shooting>tps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup:password #lang:en,766
+#players:4:vs #genre:shooting>tps #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup:password #lang:en:fr:de,767
+#players:4:vs #genre:shooting>tps:adventure #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:en,768
+#players:4:vs #genre:shooting>tps:adventure #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:en #unfinished:demo>kiosk,769
+#players:4:vs #genre:shooting>tps:adventure #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:en:fr:de:es,770
+#players:4:vs #genre:shooting>tps:adventure #addon:vibration>rumblepak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:ja,771
+#players:4:vs #genre:sim>date #addon:backup>controllerpak:vibration>rumblepak #save:backup #lang:ja,772
+#players:4:vs #genre:sim>derby #addon:backup>controllerpak #embedded:backup>flashram #save:backup #lang:ja,773
+#players:4:vs #genre:sim>derby #addon:backup>controllerpak #embedded:backup>flashram #save:backup #lang:ja #unfinished:beta,774
+#players:4:vs #genre:sim>flight #addon:backup>controllerpak #save:backup #based:manganime #lang:en #unfinished:proto>1,775
+#players:4:vs #genre:sim>flight #addon:backup>controllerpak #save:backup #based:manganime #lang:en #unfinished:proto>2,776
+#players:4:vs #genre:sim>strategy:fighting #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>flashram #save:backup #lang:de,777
+#players:4:vs #genre:sim>strategy:fighting #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>flashram #save:backup #lang:en,778
+#players:4:vs #genre:sim>strategy:fighting #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>flashram #save:backup #lang:en #rev:1,779
+#players:4:vs #genre:sim>strategy:fighting #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>flashram #save:backup #lang:en #rev:2,780
+#players:4:vs #genre:sim>strategy:fighting #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>flashram #save:backup #lang:es,781
+#players:4:vs #genre:sim>strategy:fighting #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>flashram #save:backup #lang:fr,782
+#players:4:vs #genre:sim>strategy:fighting #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>flashram #save:backup #lang:it,783
+#players:4:vs #genre:sim>strategy:fighting #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>flashram #save:backup #lang:ja,784
+#players:4:vs #genre:sim>strategy:fighting #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:de,785
+#players:4:vs #genre:sim>strategy:fighting #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:en,786
+#players:4:vs #genre:sim>strategy:fighting #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:es,787
+#players:4:vs #genre:sim>strategy:fighting #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:fr,788
+#players:4:vs #genre:sim>strategy:fighting #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:it,789
+#players:4:vs #genre:sim>strategy:fighting #addon:vibration>rumblepak:expansion>expansionpak:lockon>transferpak #embedded:backup>flashram #save:backup #search:keyword>dolby #lang:ja,790
+#players:4:vs #genre:sports>baseball:minigames #addon:backup>controllerpak #save:backup #search:feature>pacman #lang:ja,791
+#players:4:vs #genre:sports>decathlon #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en,792
+#players:4:vs #genre:sports>decathlon #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #lang:en:fr:de,793
+#players:4:vs #genre:sports>decathlon #addon:vibration>rumblepak:expansion>expansionpak #embedded:backup>battery #save:backup #based #lang:ja,794
+#players:4:vs #genre:sports>golf #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:ja,795
+#players:4:vs #genre:sports>golf #addon:backup>controllerpak:vibration>rumblepak:expansion>expansionpak #save:backup #search:keyword>official>endorsed #lang:en,796
+#players:4:vs #genre:sports>golf #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based #lang:en,797
+#players:4:vs #genre:sports>golf #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #based #lang:en #rev:1,798
+#players:4:vs #genre:sports>golf #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en,799
+#players:4:vs #genre:sports>golf #addon:vibration>rumblepak #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en #rev:1,800
+#players:4:vs #genre:sports>golf #addon:vibration>rumblepak:lockon>transferpak #embedded:backup>battery #save:backup #search:feature>mario #lang:en,801
+#players:4:vs #genre:sports>golf #addon:vibration>rumblepak:lockon>transferpak #embedded:backup>battery #save:backup #search:feature>mario #lang:ja,802
+#players:4:vs #genre:sports>golf #addon:vibration>rumblepak:lockon>transferpak #embedded:backup>battery #save:backup #search:feature>mario #lang:ja #rev:1,803
+#players:4:vs #genre:sports>golf #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en,804
+#players:4:vs #genre:sports>golf #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en:fr:de:es:it,805
+#players:4:vs #genre:sports>skiing>snowboarding #addon:backup>controllerpak #save:backup #based #lang:ja,806
+#players:4:vs #genre:sports>skiing>snowboarding #addon:backup>controllerpak #save:backup #search:keyword>official #lang:en,807
+#players:6:vs #genre:parlor>bowling #addon:backup>controllerpak:vibration>rumblepak #save:backup #search:keyword>official #lang:en,808
+#players:8:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #port:sony>playstation #lang:en,809
+#players:8:vs #genre:racing #addon:backup>controllerpak:vibration>rumblepak #save:backup #based #port:sony>playstation #lang:en:fr:de:es:it,810
+#players:8:vs #genre:sports>decathlon #addon:backup>controllerpak:expansion>expansionpak #save:backup #search:keyword>official #port:pc #lang:en #unfinished:proto,811

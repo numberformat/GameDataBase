@@ -1,0 +1,403 @@
+tag_name,tag_id
+#players:1 #genre:action #addon:peripheral>megacd #based #lang:en,1
+#players:1 #genre:action #addon:peripheral>megacd #based:movie #search:feature>dracula #lang:en,2
+#players:1 #genre:action #addon:peripheral>megacd #based:movie #search:feature>dracula #lang:en #alt:1,3
+#players:1 #genre:action #addon:peripheral>megacd #based:movie #search:feature>dracula #lang:en #alt:2,4
+#players:1 #genre:action #addon:peripheral>megacd #disc:2>2 #based:movie #search:feature>dracula #multigame:compilation>bramstokersdraculacd #reboxed #lang:en,5
+#players:1 #genre:action #addon:peripheral>megacd #lang:en,6
+#players:1 #genre:action #addon:peripheral>megacd #lang:en #unfinished:proto,7
+#players:1 #genre:action #addon:peripheral>megacd #lang:en:fr:de:it:ja,8
+#players:1 #genre:action #addon:peripheral>megacd #port:arcade #lang:en,9
+#players:1 #genre:action #addon:peripheral>megacd #port:arcade #lang:en #unfinished:demo,10
+#players:1 #genre:action #addon:peripheral>megacd #port:arcade #lang:en:fr:de:it,11
+#players:1 #genre:action #addon:peripheral>megacd #port:commodore>amiga #lang:en,12
+#players:1 #genre:action #addon:peripheral>megacd #port:commodore>amiga #lang:en #unfinished:demo,13
+#players:1 #genre:action #addon:peripheral>megacd #port:commodore>amiga #lang:ja,14
+#players:1 #genre:action #addon:peripheral>megacd #port:nintendo>superfamicom #based:movie #lang:en #unfinished:demo,15
+#players:1 #genre:action #addon:peripheral>megacd #port:nintendo>superfamicom #based:movie #lang:en #unfinished:proto,16
+#players:1 #genre:action #addon:peripheral>megacd #save:backup #port:apple>apple2 #lang:en,17
+#players:1 #genre:action #addon:peripheral>megacd #save:backup #port:apple>apple2 #lang:ja,18
+#players:1 #genre:action #addon:peripheral>megacd #save:password #port:arcade #lang:en,19
+#players:1 #genre:action #addon:peripheral>megacd #save:password #port:arcade #lang:ja,20
+#players:1 #genre:action #addon:peripheral>megacd #save:password #port:commodore>amiga #multigame:compilation>anotherworld>heartofthealien #lang:en,21
+#players:1 #genre:action #addon:peripheral>megacd:backup>backupramcart #save:backup #based:manganime #lang:ja,22
+#players:1 #genre:action:adventure #addon:peripheral>megacd #based:movie #lang:en,23
+#players:1 #genre:action:adventure #addon:peripheral>megacd #based:movie #lang:ja,24
+#players:1 #genre:action:adventure #addon:peripheral>megacd #lang:en #unlicensed,25
+#players:1 #genre:action:adventure #addon:peripheral>megacd #port:sega>megadrive #reboxed #save:password #lang:en,26
+#players:1 #genre:action:adventure #addon:peripheral>megacd #port:sega>megadrive #save:password #lang:en,27
+#players:1 #genre:action:adventure #addon:peripheral>megacd #save:password #disc:1>2 #multigame:compilation>eccothedolphin #lang:ja,28
+#players:1 #genre:action:adventure #addon:peripheral>megacd #save:password #disc:2>2 #multigame:compilation>eccothetidesoftime #lang:ja,29
+#players:1 #genre:action:adventure #addon:peripheral>megacd #save:password #lang:en:fr:de:es,30
+#players:1 #genre:action:adventure #addon:peripheral>megacd #save:password #port:sega>megadrive #lang:en,31
+#players:1 #genre:action:adventure #addon:peripheral>megacd #save:password #port:sega>megadrive #lang:en #alt,32
+#players:1 #genre:action:adventure #addon:peripheral>megacd #save:password #port:sega>megadrive #multigame:compilation>eccothedolphin #reboxed #lang:en,33
+#players:1 #genre:action:fighting #addon:peripheral>megacd:controller>6button #disc:1>2 #save:backup #lang:en:ch,34
+#players:1 #genre:action:fighting #addon:peripheral>megacd:controller>6button #disc:1>2 #save:backup #lang:en:ch #alt,35
+#players:1 #genre:action:fighting #addon:peripheral>megacd:controller>6button #disc:2>2 #save:backup #lang:en:ch,36
+#players:1 #genre:action:fighting #addon:peripheral>megacd>super32x:controller>6button #disc:1>2 #save:backup #lang:en:ch,37
+#players:1 #genre:action:fighting #addon:peripheral>megacd>super32x:controller>6button #disc:2>2 #save:backup #lang:en:ch,38
+#players:1 #genre:action:puzzle #addon:peripheral>megacd #based:movie #lang:en,39
+#players:1 #genre:action:puzzle #addon:peripheral>megacd #based:movie #lang:en #unfinished:demo,40
+#players:1 #genre:action:racing #addon:peripheral>megacd #port:arcade #lang:en,41
+#players:1 #genre:action:racing #addon:peripheral>megacd #port:arcade #lang:ja,42
+#players:1 #genre:action:sports>basketball #addon:peripheral>megacd #save:backup #disc:1>4 #search:keyword>endorsed #lang:en,43
+#players:1 #genre:action:sports>basketball #addon:peripheral>megacd #save:backup #disc:1>4 #search:keyword>endorsed #lang:en #unfinished:demo,44
+#players:1 #genre:action:sports>basketball #addon:peripheral>megacd #save:backup #disc:2>4 #search:keyword>endorsed #lang:en,45
+#players:1 #genre:action:sports>basketball #addon:peripheral>megacd #save:backup #disc:3>4 #search:keyword>endorsed #lang:en,46
+#players:1 #genre:action:sports>basketball #addon:peripheral>megacd #save:backup #disc:4>4 #search:keyword>endorsed #lang:en,47
+#players:1 #genre:action:sports>basketball #addon:peripheral>megacd>super32x #save:backup #disc:1>4 #search:keyword>endorsed #lang:en,48
+#players:1 #genre:action:sports>basketball #addon:peripheral>megacd>super32x #save:backup #disc:2>4 #search:keyword>endorsed #lang:en,49
+#players:1 #genre:action:sports>basketball #addon:peripheral>megacd>super32x #save:backup #disc:3>4 #search:keyword>endorsed #lang:en,50
+#players:1 #genre:action:sports>basketball #addon:peripheral>megacd>super32x #save:backup #disc:4>4 #search:keyword>endorsed #lang:en,51
+#players:1 #genre:action>platformer #addon:peripheral>megacd #based:movie #lang:en,52
+#players:1 #genre:action>platformer #addon:peripheral>megacd #based:movie #port:nintendo>superfamicom #lang:en,53
+#players:1 #genre:action>platformer #addon:peripheral>megacd #disc:2>2 #based:movie #port:nintendo>superfamicom #multigame:compilation>hook #reboxed #lang:en,54
+#players:1 #genre:action>platformer #addon:peripheral>megacd #lang:ja,55
+#players:1 #genre:action>platformer #addon:peripheral>megacd #port:commodore>amiga #lang:en,56
+#players:1 #genre:action>platformer #addon:peripheral>megacd #port:commodore>amiga #lang:ja,57
+#players:1 #genre:action>platformer #addon:peripheral>megacd #port:commodore>amiga:sega>megadrive #lang:en,58
+#players:1 #genre:action>platformer #addon:peripheral>megacd #port:sega>megadrive #based:disney #search:feature>mickey #lang:en,59
+#players:1 #genre:action>platformer #addon:peripheral>megacd #port:sega>megadrive #based:disney #search:feature>mickey #lang:en #unfinished:demo>1,60
+#players:1 #genre:action>platformer #addon:peripheral>megacd #port:sega>megadrive #based:disney #search:feature>mickey #lang:en #unfinished:demo>2,61
+#players:1 #genre:action>platformer #addon:peripheral>megacd #port:sega>megadrive #lang:en:fr:de:es:nl,62
+#players:1 #genre:action>platformer #addon:peripheral>megacd #port:sega>megadrive #save:password #lang:en,63
+#players:1 #genre:action>platformer #addon:peripheral>megacd #port:sega>megadrive #save:password #lang:en #unfinished:proto,64
+#players:1 #genre:action>platformer #addon:peripheral>megacd #save:backup #lang:en,65
+#players:1 #genre:action>platformer #addon:peripheral>megacd #save:backup #search:feature>sonic #port:sega>megadrive #lang:en #unlicensed,66
+#players:1 #genre:action>platformer #addon:peripheral>megacd #save:password #lang:en,67
+#players:1 #genre:action>platformer #addon:peripheral>megacd #save:password #lang:ja,68
+#players:1 #genre:action>platformer #addon:peripheral>megacd #save:password #port:commodore>amiga #lang:en,69
+#players:1 #genre:action>platformer #addon:peripheral>megacd #save:password #port:sega>megadrive #based:marvel #search:feature>spiderman #lang:en,70
+#players:1 #genre:action>platformer #addon:peripheral>megacd #save:password #port:sega>megadrive #based:marvel #search:feature>spiderman #lang:en #rev:1,71
+#players:1 #genre:action>platformer #addon:peripheral>megacd #save:password #port:sega>megadrive #based:smurfs #lang:en:fr:de:es:it,72
+#players:1 #genre:action>platformer #addon:peripheral>megacd #save:password #port:sega>megadrive #lang:en,73
+#players:1 #genre:action>platformer #addon:peripheral>megacd #save:password #port:sega>megadrive #lang:en #unlicensed,74
+#players:1 #genre:action>platformer #addon:peripheral>megacd #save:password #port:sega>megadrive #lang:en:fr:de:es,75
+#players:1 #genre:action>platformer #addon:peripheral>megacd #save:password #reboxed #lang:en,76
+#players:1 #genre:action>platformer #addon:peripheral>megacd #search:feature>sonic #lang:en #unfinished:beta>1,77
+#players:1 #genre:action>platformer #addon:peripheral>megacd #search:feature>sonic #lang:en #unfinished:beta>2,78
+#players:1 #genre:action>platformer #addon:peripheral>megacd #search:feature>sonic #lang:en #unfinished:beta>3,79
+#players:1 #genre:action>platformer #addon:peripheral>megacd:backup>backupramcart #save:backup #search:feature>sonic #lang:en,80
+#players:1 #genre:action>platformer #addon:peripheral>megacd:backup>backupramcart #save:backup #search:feature>sonic #lang:en #alt:1,81
+#players:1 #genre:action>platformer #addon:peripheral>megacd:backup>backupramcart #save:backup #search:feature>sonic #lang:en #alt:2,82
+#players:1 #genre:action>platformer #addon:peripheral>megacd:backup>backupramcart #save:backup #search:feature>sonic #lang:en #unfinished:beta>1,83
+#players:1 #genre:action>platformer #addon:peripheral>megacd:backup>backupramcart #save:backup #search:feature>sonic #lang:en #unfinished:beta>2,84
+#players:1 #genre:action>platformer #addon:peripheral>megacd:backup>backupramcart #save:backup #search:feature>sonic #lang:en #unfinished:beta>4,85
+#players:1 #genre:action>platformer #addon:peripheral>megacd:backup>backupramcart #save:backup #search:feature>sonic #lang:en #unfinished:beta>5,86
+#players:1 #genre:action>platformer #addon:peripheral>megacd:backup>backupramcart #save:backup #search:feature>sonic #lang:en #unfinished:demo,87
+#players:1 #genre:action>platformer #addon:peripheral>megacd:controller>6button #lang:en,88
+#players:1 #genre:action>platformer #addon:peripheral>megacd:controller>6button #lang:en #unfinished:demo,89
+#players:1 #genre:action>platformer:notagame>media #addon:peripheral>megacd #search:keyword>endorsed #port:arcade #lang:en,90
+#players:1 #genre:action>platformer:puzzle #addon:peripheral>megacd #port:sega>megadrive #lang:en,91
+#players:1 #genre:action>platformer:racing #addon:peripheral>megacd #port:sega>megadrive #based:movie #search:feature>batman #lang:en,92
+#players:1 #genre:action>platformer:racing #addon:peripheral>megacd #port:sega>megadrive #based:movie #search:feature>batman #lang:en #alt,93
+#players:1 #genre:action>platformer:shmup>h #addon:peripheral>megacd #based:manganime #lang:ja,94
+#players:1 #genre:action>platformer:shooting>gallery:notagame>media #addon:peripheral>megacd #port:sega>megadrive #multigame:compilation>puggsy>microcosm>wiznliz #lang:en #unfinished:demo,95
+#players:1 #genre:action>platformer:shooting>gallery:notagame>media #addon:peripheral>megacd #port:sega>megadrive #multigame:compilation>puggsy>microcosm>wiznliz #lang:en #unfinished:demo #alt,96
+#players:1 #genre:action>runandgun #addon:peripheral>megacd #based:movie #port:sega>megadrive #lang:en,97
+#players:1 #genre:adventure #addon:peripheral>megacd #based:manganime #save:backup #lang:ja,98
+#players:1 #genre:adventure #addon:peripheral>megacd #disc:1>2 #based:movie #port:pc #lang:en #unlicensed,99
+#players:1 #genre:adventure #addon:peripheral>megacd #disc:1>2 #lang:en,100
+#players:1 #genre:adventure #addon:peripheral>megacd #disc:1>2 #lang:en #alt,101
+#players:1 #genre:adventure #addon:peripheral>megacd #disc:1>2 #lang:fr,102
+#players:1 #genre:adventure #addon:peripheral>megacd #disc:1>2 #lang:ja,103
+#players:1 #genre:adventure #addon:peripheral>megacd #disc:1>2 #reboxed #lang:en,104
+#players:1 #genre:adventure #addon:peripheral>megacd #disc:1>2 #reboxed #lang:en #alt,105
+#players:1 #genre:adventure #addon:peripheral>megacd #disc:2>2 #based:movie #port:pc #lang:en #unlicensed,106
+#players:1 #genre:adventure #addon:peripheral>megacd #disc:2>2 #lang:en,107
+#players:1 #genre:adventure #addon:peripheral>megacd #disc:2>2 #lang:fr,108
+#players:1 #genre:adventure #addon:peripheral>megacd #disc:2>2 #lang:ja,109
+#players:1 #genre:adventure #addon:peripheral>megacd #disc:2>2 #reboxed #lang:en,110
+#players:1 #genre:adventure #addon:peripheral>megacd #disc:2>2 #reboxed #lang:en #alt,111
+#players:1 #genre:adventure #addon:peripheral>megacd #lang:en,112
+#players:1 #genre:adventure #addon:peripheral>megacd #lang:fr,113
+#players:1 #genre:adventure #addon:peripheral>megacd #lang:ja,114
+#players:1 #genre:adventure #addon:peripheral>megacd #lang:ja #unfinished:sample,115
+#players:1 #genre:adventure #addon:peripheral>megacd #port:sharp>x68000 #lang:ja,116
+#players:1 #genre:adventure #addon:peripheral>megacd #save:backup #disc:1>2 #search:feature>dracula #lang:en,117
+#players:1 #genre:adventure #addon:peripheral>megacd #save:backup #disc:1>2 #search:feature>dracula #lang:en #alt,118
+#players:1 #genre:adventure #addon:peripheral>megacd #save:backup #disc:1>2 #search:feature>sherlock #lang:en,119
+#players:1 #genre:adventure #addon:peripheral>megacd #save:backup #disc:2>2 #search:feature>dracula #lang:en,120
+#players:1 #genre:adventure #addon:peripheral>megacd #save:backup #disc:2>2 #search:feature>dracula #lang:en #alt,121
+#players:1 #genre:adventure #addon:peripheral>megacd #save:backup #disc:2>2 #search:feature>sherlock #lang:en,122
+#players:1 #genre:adventure #addon:peripheral>megacd #save:backup #disc:2>2 #search:feature>sherlock #multigame:compilation>sherlockholmesconsultingdetective #lang:en,123
+#players:1 #genre:adventure #addon:peripheral>megacd #save:backup #port:nec>cdromrom #based:manganime #lang:en,124
+#players:1 #genre:adventure #addon:peripheral>megacd #save:backup #port:pc #lang:en,125
+#players:1 #genre:adventure #addon:peripheral>megacd #save:backup #port:pc #lang:en #alt,126
+#players:1 #genre:adventure #addon:peripheral>megacd #save:backup #search:feature>sherlock #lang:en,127
+#players:1 #genre:adventure #addon:peripheral>megacd:backup>backupramcart #save:backup #based:manganime #lang:ja,128
+#players:1 #genre:adventure #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:en,129
+#players:1 #genre:adventure #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:ja,130
+#players:1 #genre:adventure #addon:peripheral>megacd:backup>backupramcart #save:backup #port:fmtowns #lang:ja,131
+#players:1 #genre:adventure #addon:peripheral>megacd:backup>backupramcart #save:backup #port:fmtowns #lang:ja #unfinished:demo>auto,132
+#players:1 #genre:adventure #addon:peripheral>megacd:backup>backupramcart #save:backup #reboxed #lang:en,133
+#players:1 #genre:adventure #addon:peripheral>megacd:backup>backupramcart:controller>6button:mouse>md #save:backup #based:manganime #lang:ja,134
+#players:1 #genre:adventure #addon:peripheral>megacd:backup>backupramcart:controller>6button:mouse>md #save:backup #based:manganime #lang:ja #unfinished:sample,135
+#players:1 #genre:adventure #addon:peripheral>megacd:backup>backupramcart:mouse>md #save:backup #lang:en,136
+#players:1 #genre:adventure #addon:peripheral>megacd:backup>backupramcart:mouse>md #save:backup #lang:en #alt,137
+#players:1 #genre:adventure #addon:peripheral>megacd:backup>backupramcart:mouse>md #save:backup #lang:ja,138
+#players:1 #genre:adventure #addon:peripheral>megacd:backup>backupramcart:mouse>md #save:backup #lang:ja #unfinished:sample,139
+#players:1 #genre:adventure #addon:peripheral>megacd:mouse>md #port:pc #lang:en,140
+#players:1 #genre:adventure #addon:peripheral>megacd:mouse>md #port:pc #lang:ja,141
+#players:1 #genre:adventure #addon:peripheral>megacd:mouse>md #port:pc #reboxed:limitedrun #lang:en,142
+#players:1 #genre:adventure #addon:peripheral>megacd>super32x #disc:1>2 #lang:en,143
+#players:1 #genre:adventure #addon:peripheral>megacd>super32x #disc:2>2 #lang:en,144
+#players:1 #genre:adventure:fighting #addon:peripheral>megacd #save:backup #disc:1>2 #based:movie #multigame:compilation>maryshelleysfrankensteincd #lang:en,145
+#players:1 #genre:adventure:rpg #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:ja,146
+#players:1 #genre:adventure:shooting>gallery #addon:peripheral>megacd:backup>backupramcart:lightgun>justifier:rss #save:backup #port:nec>pc88 #lang:en,147
+#players:1 #genre:adventure:shooting>gallery #addon:peripheral>megacd:backup>backupramcart:lightgun>justifier:rss #save:backup #port:nec>pc88 #lang:en #unfinished:beta,148
+#players:1 #genre:adventure:sim>flight:shooting>gallery #addon:peripheral>megacd:backup>backupramcart:controller>6button #save:backup #port:pc #lang:en,149
+#players:1 #genre:adventure:sim>flight:shooting>gallery #addon:peripheral>megacd:backup>backupramcart:controller>6button #save:backup #port:pc #lang:ja,150
+#players:1 #genre:adventure:sim>strategy #addon:peripheral>megacd #based:movie #port:commodore>amiga #save:backup #lang:en:fr:de:it:es:fremen,151
+#players:1 #genre:adventure>pointandclick #addon:peripheral>megacd:backup>backupramcart:mouse>md #save:backup #based:manganime #lang:ja,152
+#players:1 #genre:adventure>pointandclick:notagame>educational #addon:peripheral>megacd:backup>backupramcart #save:backup #based:movie:jurassicpark #search:keyword>endorsed #lang:de,153
+#players:1 #genre:adventure>pointandclick:notagame>educational #addon:peripheral>megacd:backup>backupramcart #save:backup #based:movie:jurassicpark #search:keyword>endorsed #lang:en,154
+#players:1 #genre:adventure>pointandclick:notagame>educational #addon:peripheral>megacd:backup>backupramcart #save:backup #based:movie:jurassicpark #search:keyword>endorsed #lang:es,155
+#players:1 #genre:adventure>pointandclick:notagame>educational #addon:peripheral>megacd:backup>backupramcart #save:backup #based:movie:jurassicpark #search:keyword>endorsed #lang:fr,156
+#players:1 #genre:adventure>pointandclick:notagame>educational #addon:peripheral>megacd:backup>backupramcart #save:backup #based:movie:jurassicpark #search:keyword>endorsed #lang:ja,157
+#players:1 #genre:adventure>pointandclick:notagame>educational #addon:peripheral>megacd:backup>backupramcart #save:backup #based:movie:jurassicpark #search:keyword>endorsed #reboxed #lang:en,158
+#players:1 #genre:adventure>survivalhorror #addon:peripheral>megacd #save:backup #port:pc #lang:en,159
+#players:1 #genre:board>mahjong:adventure #addon:peripheral>megacd:backup>backupramcart #save:backup #based:manganime #lang:ja,160
+#players:1 #genre:board>mahjong:shmup #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:ja,161
+#players:1 #genre:brawler #addon:peripheral>megacd #disc:1>2 #multigame:compilation>ultraverseprime #based #lang:en,162
+#players:1 #genre:brawler #addon:peripheral>megacd #lang:ja,163
+#players:1 #genre:brawler #addon:peripheral>megacd #port:arcade #lang:ja,164
+#players:1 #genre:brawler:sports>snowboarding #addon:peripheral>megacd #port:sega>megadrive #based:movie #lang:en,165
+#players:1 #genre:fighting:sports>boxing #addon:peripheral>megacd:controller>6button #save:backup #disc:1>2 #lang:en,166
+#players:1 #genre:fighting:sports>boxing #addon:peripheral>megacd:controller>6button #save:backup #disc:1>2 #lang:ja,167
+#players:1 #genre:fighting:sports>boxing #addon:peripheral>megacd:controller>6button #save:backup #disc:1>2 #reboxed:xeye #lang:en,168
+#players:1 #genre:fighting:sports>boxing #addon:peripheral>megacd:controller>6button #save:backup #disc:2>2 #lang:en,169
+#players:1 #genre:fighting:sports>boxing #addon:peripheral>megacd:controller>6button #save:backup #disc:2>2 #lang:ja,170
+#players:1 #genre:fighting:sports>boxing #addon:peripheral>megacd:controller>6button #save:backup #disc:2>2 #reboxed:xeye #lang:en,171
+#players:1 #genre:notagame #addon:peripheral>megacd #lang:en,172
+#players:1 #genre:notagame>application #addon:peripheral>megacd #lang:ja,173
+#players:1 #genre:notagame>application>educational #addon:peripheral>megacd #port:pc #lang:en,174
+#players:1 #genre:notagame>application>educational #addon:peripheral>megacd #port:pc #reboxed:xeye #lang:en,175
+#players:1 #genre:notagame>application>educational #addon:peripheral>megacd #port:pc #reboxed:xeye #lang:en #rev:1,176
+#players:1 #genre:notagame>application>educational #addon:peripheral>megacd #port:pc #reboxed:xeye #lang:en #rev:2,177
+#players:1 #genre:notagame>application>media #addon:peripheral>megacd #search:keyword>endorsed #lang:en,178
+#players:1 #genre:notagame>application>media #addon:peripheral>megacd #search:keyword>endorsed #lang:en #unfinished:beta,179
+#players:1 #genre:notagame>application>media #addon:peripheral>megacd #search:keyword>promo #lang:en,180
+#players:1 #genre:notagame>drawing #addon:peripheral>megacd:mouse>md #port:commodore>amiga #lang:en,181
+#players:1 #genre:notagame>educational #addon:peripheral>megacd #search:keyword>brand #lang:en,182
+#players:1 #genre:notagame>educational #addon:peripheral>megacd:backup>backupramcart:mouse>md #save:backup #lang:en,183
+#players:1 #genre:notagame>educational #addon:peripheral>megacd:backup>backupramcart:mouse>md #save:backup #lang:ja,184
+#players:1 #genre:notagame>media>slideshow #addon:peripheral>megacd #search:feature>sonic #lang:en #unfinished:demo:proto,185
+#players:1 #genre:notagame>sound:rpg>j #addon:peripheral>megacd #lang:en #unlicensed:aftermarket,186
+#players:1 #genre:racing:action #addon:peripheral>megacd #based #search:feature>batman #lang:en,187
+#players:1 #genre:racing:sports>formula1 #addon:peripheral>megacd:backup>backupramcart #save:backup #based #search:keyword>official #search:feature>sonic #lang:en,188
+#players:1 #genre:racing:sports>formula1 #addon:peripheral>megacd:backup>backupramcart #save:backup #based #search:keyword>official #search:feature>sonic #lang:ja,189
+#players:1 #genre:racing:sports>formula1 #addon:peripheral>megacd:backup>backupramcart #save:backup #based #search:keyword>official #search:feature>sonic #lang:ja #unfinished:sample,190
+#players:1 #genre:racing>combat #addon:peripheral>megacd #port:pc #lang:en,191
+#players:1 #genre:racing>combat #addon:peripheral>megacd #save:backup #lang:en,192
+#players:1 #genre:rhythm>karaoke:action>platformer:puzzle #addon:peripheral>megacd #port:sega>megadrive #multigame:compilation>paddlefighter>flicky>pyramidmagic>quizscramblespecial #lang:ja,193
+#players:1 #genre:rpg #addon:peripheral>megacd:backup>backupramcart #save:backup #port:commodore>amiga #lang:en,194
+#players:1 #genre:rpg #addon:peripheral>megacd:backup>backupramcart #save:backup #port:commodore>amiga #lang:ja,195
+#players:1 #genre:rpg #addon:peripheral>megacd:backup>backupramcart:mouse>md #save:backup #port:pc #lang:ja,196
+#players:1 #genre:rpg>a:action>platformer>hackandslash #addon:peripheral>megacd:backup>backupramcart #save:backup #port:nec>pc88 #lang:en,197
+#players:1 #genre:rpg>a:action>platformer>hackandslash #addon:peripheral>megacd:backup>backupramcart #save:backup #port:nec>pc88 #lang:ja,198
+#players:1 #genre:rpg>a:action>platformer>hackandslash #addon:peripheral>megacd:backup>backupramcart #save:backup #port:nec>pc88 #lang:ja #unfinished:sample,199
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:ja,200
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>megacd:backup>backupramcart #save:backup #port:nec>pc88 #multigame:compilation>arcus>arcus2silentsymphony>arcus3 #lang:ja,201
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>megacd:backup>backupramcart #save:backup #port:nec>pc98 #lang:ja,202
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>megacd:backup>backupramcart:mouse>md #save:backup #port:pc #based:dnd #lang:en,203
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>megacd:backup>backupramcart:mouse>md #save:backup #port:pc #based:dnd #lang:ja,204
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>megacd:backup>backupramcart:mouse>md #save:backup #port:pc #lang:en,205
+#players:1 #genre:rpg>j #addon:peripheral>megacd #save:backup #lang:ja,206
+#players:1 #genre:rpg>j #addon:peripheral>megacd #save:backup #port:nec>cdromrom #lang:ja,207
+#players:1 #genre:rpg>j #addon:peripheral>megacd:backup>backupramcart #save:backup #based:manganime #lang:ja,208
+#players:1 #genre:rpg>j #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:en,209
+#players:1 #genre:rpg>j #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:en #rev:1,210
+#players:1 #genre:rpg>j #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:ja,211
+#players:1 #genre:rpg>j #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:ja #rev:1,212
+#players:1 #genre:rpg>j #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:ja #unfinished:sample,213
+#players:1 #genre:rpg>j #addon:peripheral>megacd:backup>backupramcart #save:backup #port:msx #lang:ja,214
+#players:1 #genre:rpg>j #addon:peripheral>megacd:backup>backupramcart #save:backup #port:nec>cdromrom #lang:ja,215
+#players:1 #genre:rpg>j #addon:peripheral>megacd:backup>backupramcart #save:backup #port:nec>pc98 #lang:ja,216
+#players:1 #genre:rpg>j>dungeoncrawler #addon:peripheral>megacd:backup>backupramcart:controller>6button:mouse>md #save:backup #port:nintendo>superfamicom #lang:ja,217
+#players:1 #genre:rpg>s #addon:peripheral>megacd:backup>backupramcart #save:backup #based:manganime #lang:ja,218
+#players:1 #genre:rpg>s #addon:peripheral>megacd:backup>backupramcart #save:backup #based:manganime #reboxed #lang:ja,219
+#players:1 #genre:rpg>s #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:en,220
+#players:1 #genre:rpg>s #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:ja,221
+#players:1 #genre:rpg>s #addon:peripheral>megacd:backup>backupramcart #save:backup #port:sega>gamegear #multigame:compilation>shiningforcegaiden>shiningforcegaiden2 #lang:en,222
+#players:1 #genre:rpg>s #addon:peripheral>megacd:backup>backupramcart #save:backup #port:sega>gamegear #multigame:compilation>shiningforcegaiden>shiningforcegaiden2 #lang:en #alt,223
+#players:1 #genre:rpg>s #addon:peripheral>megacd:backup>backupramcart #save:backup #port:sega>gamegear #multigame:compilation>shiningforcegaiden>shiningforcegaiden2 #lang:ja,224
+#players:1 #genre:rpg>s #addon:peripheral>megacd:backup>backupramcart:mouse>md #save:backup #based #lang:ja,225
+#players:1 #genre:shmup #addon:peripheral>megacd #multigame:compilation>desertstrike>junglestrike>urbanstrike #port:sega>megadrive #lang:en #unfinished:proto,226
+#players:1 #genre:shmup>h #addon:peripheral>megacd #disc:1>2 #port:sharp>x68000 #multigame:compilation>solfeace #lang:en,227
+#players:1 #genre:shmup>h #addon:peripheral>megacd #disc:1>2 #port:sharp>x68000 #multigame:compilation>solfeace #lang:en #alt,228
+#players:1 #genre:shmup>h #addon:peripheral>megacd #lang:en,229
+#players:1 #genre:shmup>h #addon:peripheral>megacd #lang:en #unfinished:demo,230
+#players:1 #genre:shmup>h #addon:peripheral>megacd #lang:ja,231
+#players:1 #genre:shmup>h #addon:peripheral>megacd #port:nec>cdromrom #lang:en,232
+#players:1 #genre:shmup>h #addon:peripheral>megacd #port:sharp>x68000 #lang:en,233
+#players:1 #genre:shmup>h #addon:peripheral>megacd #port:sharp>x68000 #lang:en #rev:1,234
+#players:1 #genre:shmup>h #addon:peripheral>megacd #port:sharp>x68000 #lang:ja,235
+#players:1 #genre:shmup>h #addon:peripheral>megacd #reboxed #search:keyword>promo #lang:ja,236
+#players:1 #genre:shmup>v #addon:peripheral>megacd #lang:en,237
+#players:1 #genre:shmup>v #addon:peripheral>megacd #lang:ja,238
+#players:1 #genre:shmup>v #addon:peripheral>megacd #port:nec>pc88 #lang:en,239
+#players:1 #genre:shmup>v #addon:peripheral>megacd #port:nec>pc88 #lang:ja,240
+#players:1 #genre:shmup>v #addon:peripheral>megacd #port:nec>pc88 #lang:ja #unfinished:sample,241
+#players:1 #genre:shooting>fps #addon:peripheral>megacd #based #lang:en #unlicensed,242
+#players:1 #genre:shooting>fps #addon:peripheral>megacd #lang:en,243
+#players:1 #genre:shooting>fps #addon:peripheral>megacd #lang:en #unfinished:demo,244
+#players:1 #genre:shooting>fps #addon:peripheral>megacd #lang:en:fr:de:es,245
+#players:1 #genre:shooting>fps #addon:peripheral>megacd #lang:ja,246
+#players:1 #genre:shooting>fps #addon:peripheral>megacd #save:backup #lang:en,247
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #disc:1>2 #lang:en,248
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #disc:2>2 #lang:en,249
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #disc:2>2 #lang:en #alt,250
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #disc:2>2 #multigame:compilation>thunderstorm #port:arcade #lang:en,251
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #lang:de,252
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #lang:en,253
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #lang:en #alt,254
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #lang:en #rev:1,255
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #lang:en #unlicensed,256
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #lang:es,257
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #lang:fr,258
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #lang:ja,259
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #port:arcade #lang:en,260
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #port:arcade #lang:ja,261
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #reboxed #lang:en,262
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #reboxed #lang:en #alt:1,263
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #reboxed #lang:en #alt:2,264
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #save:backup #lang:en,265
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #save:backup #lang:en #alt,266
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #save:backup #lang:ja,267
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #save:password #disc:2>2 #port:pc #multigame:compilation>microcosm #reboxed #lang:en,268
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #save:password #port:pc #lang:en,269
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #save:password #port:pc #lang:ja,270
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #save:password #port:pc #lang:ja #unfinished:demo,271
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd #save:password #port:pc #reboxed #lang:en,272
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd:backup>backupramcart:controller>xe1ap:mouse>md #save:backup #port:arcade #lang:en,273
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd:controller>6button #save:backup #lang:en,274
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd:lightgun>menacer>gamegun #lang:en,275
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd>super32x #save:backup #lang:en,276
+#players:1 #genre:shooting>gallery #addon:peripheral>megacd>super32x:lightgun>menacer>gamegun #lang:en,277
+#players:1 #genre:shooting>rail #addon:peripheral>megacd #lang:en,278
+#players:1 #genre:shooting>rail #addon:peripheral>megacd #lang:ja,279
+#players:1 #genre:shooting>rail #addon:peripheral>megacd #save:backup #lang:en,280
+#players:1 #genre:shooting>rail #addon:peripheral>megacd #save:backup #lang:en #unfinished:demo,281
+#players:1 #genre:shooting>rail #addon:peripheral>megacd:controller>6button>xe1ap #port:fmtowns #lang:en,282
+#players:1 #genre:shooting>rail #addon:peripheral>megacd:controller>xe1ap #port:arcade #lang:en,283
+#players:1 #genre:shooting>rail:shooting>gallery #addon:peripheral>megacd #save:password #port:pc #based:starwars #lang:en,284
+#players:1 #genre:shooting>rail>gallery #addon:peripheral>megacd #save:password #port:pc #based:starwars #lang:en,285
+#players:1 #genre:shooting>rail>gallery #addon:peripheral>megacd #save:password #port:pc #based:starwars #lang:en #reboxed:limitedrun,286
+#players:1 #genre:shooting>rail>gallery #addon:peripheral>megacd #save:password #port:pc #based:starwars #lang:en #unfinished:demo>1,287
+#players:1 #genre:shooting>rail>gallery #addon:peripheral>megacd #save:password #port:pc #based:starwars #lang:en #unfinished:demo>2,288
+#players:1 #genre:shooting>rail>gallery #addon:peripheral>megacd #save:password #port:pc #based:starwars #lang:ja,289
+#players:1 #genre:sim>building #addon:peripheral>megacd #port:pc #lang:en:fr:de:es,290
+#players:1 #genre:sim>derby #addon:peripheral>megacd:backup>backupramcart #save:backup #port:nec>pc98 #lang:ja,291
+#players:1 #genre:sim>flight:shooting>fps #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:en,292
+#players:1 #genre:sim>flight:shooting>fps #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:en:fr:de:es,293
+#players:1 #genre:sim>flight:shooting>fps #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:en:fr:de:es #unfinished:demo>1,294
+#players:1 #genre:sim>flight:shooting>fps #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:en:fr:de:es #unfinished:demo>2,295
+#players:1 #genre:sim>flight:shooting>fps #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:ja,296
+#players:1 #genre:sim>flight:shooting>fps #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:ja #unfinished:demo,297
+#players:1 #genre:sim>life>god #addon:peripheral>megacd:backup>backupramcart #save:backup #port:apple>mac #lang:ja,298
+#players:1 #genre:sim>strategy #addon:peripheral>megacd #port:commodore>amiga:sega>megadrive #save:backup #lang:en,299
+#players:1 #genre:sim>strategy #addon:peripheral>megacd #port:nec>pc98 #lang:ja,300
+#players:1 #genre:sim>strategy #addon:peripheral>megacd #save:backup #lang:ja,301
+#players:1 #genre:sim>strategy #addon:peripheral>megacd #save:password #port:pc:sega>megadrive #lang:en:fr:de,302
+#players:1 #genre:sim>strategy #addon:peripheral>megacd:backup>backupramcart #save:backup #based:manganime #lang:ja,303
+#players:1 #genre:sim>strategy #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:en,304
+#players:1 #genre:sim>strategy #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:ja,305
+#players:1 #genre:sim>strategy #addon:peripheral>megacd:backup>backupramcart #save:backup #port:msx #lang:ja,306
+#players:2:alt #genre:action>platformer #addon:peripheral>megacd #port:nintendo>gameboy #lang:en,307
+#players:2:alt #genre:action>platformer>hackandslash #addon:peripheral>megacd #disc:1>2 #port:sega>megadrive #based:movie #multigame:compilation>3ninjaskickback #lang:en,308
+#players:2:coop #genre:action>hackandslash #addon:peripheral>megacd #port:arcade #lang:ja,309
+#players:2:coop #genre:brawler #addon:peripheral>megacd #port:arcade #lang:en,310
+#players:2:coop #genre:brawler #addon:peripheral>megacd #port:arcade #lang:en #alt:1,311
+#players:2:coop #genre:brawler #addon:peripheral>megacd #port:arcade #lang:en #alt:2,312
+#players:2:coop #genre:brawler #addon:peripheral>megacd #port:arcade #lang:ja,313
+#players:2:coop #genre:brawler #addon:peripheral>megacd #port:arcade #lang:ja #rev:1,314
+#players:2:coop #genre:notagame>media #addon:peripheral>megacd #lang:en #unlicensed,315
+#players:2:coop #genre:notagame>media #addon:peripheral>megacd #lang:en #unlicensed #alt,316
+#players:2:coop #genre:shooting>gallery #addon:peripheral>megacd:lightgun>justifier #port:arcade #lang:en,317
+#players:2:coop #genre:shooting>gallery #addon:peripheral>megacd:lightgun>justifier #port:arcade #lang:en #alt,318
+#players:2:coop #genre:shooting>gallery #addon:peripheral>megacd:lightgun>justifier #port:arcade #lang:en #unfinished:beta,319
+#players:2:coop #genre:shooting>gallery #addon:peripheral>megacd:lightgun>justifier #port:arcade #lang:en #unfinished:demo,320
+#players:2:coop #genre:shooting>gallery #addon:peripheral>megacd:lightgun>justifier #port:arcade #reboxed #lang:en,321
+#players:2:coop #genre:shooting>gallery #addon:peripheral>megacd:lightgun>justifier #port:arcade #search:keyword>promo #lang:en,322
+#players:2:coop #genre:shooting>gallery #addon:peripheral>megacd:lightgun>menacer>justifier:mouse>md #port:arcade #lang:en,323
+#players:2:coop #genre:shooting>gallery #addon:peripheral>megacd:lightgun>menacer>justifier>gamegun:mouse>md #port:arcade #lang:en,324
+#players:2:coop #genre:shooting>rail>fps>tps #addon:peripheral>megacd:controller>6button #multigame:compilation>soulstar>battlecorps #lang:en #unfinished:demo,325
+#players:2:coop #genre:shooting>rail>gallery #addon:peripheral>megacd #based #save:backup #lang:en,326
+#players:2:coop #genre:shooting>rail>tps #addon:peripheral>megacd:controller>6button #lang:en,327
+#players:2:coop #genre:shooting>rail>tps #addon:peripheral>megacd:controller>6button #lang:en #unfinished:demo,328
+#players:2:coop #genre:shooting>rail>tps #addon:peripheral>megacd:controller>6button #lang:en:fr:de,329
+#players:2:coop:vs #genre:brawler:action:puzzle>drop #addon:peripheral>megacd #disc:1>2 #port:sega>megadrive #multigame:compilation>goldenaxe>bareknuckle>thesupershinobi>columns #lang:en,330
+#players:2:coop:vs #genre:brawler:action:puzzle>drop #addon:peripheral>megacd #port:sega>megadrive #multigame:compilation>goldenaxe>bareknuckle>thesupershinobi>columns #lang:en,331
+#players:2:coop:vs #genre:brawler:racing:sports>formula1:action:puzzle>drop #addon:peripheral>megacd #disc:1>2 #port:sega>megadrive #multigame:compilation>goldenaxe>bareknuckle>thesupershinobi>columns #lang:en #alt,332
+#players:2:coop:vs #genre:brawler:racing:sports>formula1:action:puzzle>drop #addon:peripheral>megacd #disc:1>2 #port:sega>megadrive #multigame:compilation>goldenaxe>bareknuckle>thesupershinobi>columns>supermonacogp #lang:en,333
+#players:2:coop:vs #genre:brawler:racing:sports>formula1:action:puzzle>drop #addon:peripheral>megacd #port:sega>megadrive #multigame:compilation>goldenaxe>bareknuckle>thesupershinobi>columns>supermonacogp #lang:en,334
+#players:2:coop:vs #genre:brawler:racing:sports>formula1:action:puzzle>drop #addon:peripheral>megacd #port:sega>megadrive #multigame:compilation>goldenaxe>bareknuckle>thesupershinobi>columns>supermonacogp #lang:en #alt,335
+#players:2:vs #genre:action:fighting #addon:peripheral>megacd #lang:en,336
+#players:2:vs #genre:action:fighting #addon:peripheral>megacd #port:sharp>x68000 #lang:ja,337
+#players:2:vs #genre:action>platformer:puzzle:adventure #addon:peripheral>megacd #port:sega>megadrive #multigame:compilation>16t>aworgherointhesky>shinomeikyuu>ikasuzekoinodokidokipenguinlandmd>medalcity>phantasystar2annesadventure>phantasystar2kindssadventure>phantasystar2neisadventure>phantasystar2rudgersadventure>puttergolf>robotbattler>teddyboyblues #lang:ja,338
+#players:2:vs #genre:action>platformer:puzzle:adventure #addon:peripheral>megacd #port:sega>megadrive #multigame:compilation>flicky>hypermarbles>paddlefighter>phantasystar>phantasystar2amiasadventure>phantasystar2hueysadventure>phantasystar2shilkasadventure>phantasystar2yushissadventure>pyramidmagic>pyramidmagic2>pyramidmagic3 #lang:ja,339
+#players:2:vs #genre:board>chess #addon:peripheral>megacd #save:backup #based:movie:starwars #lang:en,340
+#players:2:vs #genre:board>chess #addon:peripheral>megacd #save:backup #based:movie:starwars #lang:en #alt,341
+#players:2:vs #genre:fighting #addon:peripheral>megacd #lang:en,342
+#players:2:vs #genre:fighting #addon:peripheral>megacd #lang:ja,343
+#players:2:vs #genre:fighting #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:en,344
+#players:2:vs #genre:fighting #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:en #alt,345
+#players:2:vs #genre:fighting #addon:peripheral>megacd:backup>backupramcart #save:backup #lang:ja,346
+#players:2:vs #genre:fighting #addon:peripheral>megacd:controller>6button #lang:en #unlicensed,347
+#players:2:vs #genre:fighting #addon:peripheral>megacd:controller>6button #port:arcade #lang:en,348
+#players:2:vs #genre:fighting #addon:peripheral>megacd:controller>6button #port:arcade #lang:en #unfinished:beta,349
+#players:2:vs #genre:fighting #addon:peripheral>megacd:controller>6button #port:arcade #lang:en #unfinished:demo,350
+#players:2:vs #genre:fighting #addon:peripheral>megacd:controller>6button #port:arcade #lang:ja,351
+#players:2:vs #genre:fighting #addon:peripheral>megacd:controller>6button #reboxed #save:password #lang:en:fr:de,352
+#players:2:vs #genre:fighting #addon:peripheral>megacd:controller>6button #save:password #lang:en,353
+#players:2:vs #genre:fighting #addon:peripheral>megacd:controller>6button #save:password #lang:en:fr:de,354
+#players:2:vs #genre:fighting #addon:peripheral>megacd:controller>6button>activator #save:backup #port:sega>megadrive #lang:en,355
+#players:2:vs #genre:fighting #addon:peripheral>megacd:controller>6button>activator #save:backup #port:sega>megadrive #lang:en #rev:1,356
+#players:2:vs #genre:fighting #addon:peripheral>megacd:controller>6button>activator #save:backup #port:sega>megadrive #lang:en #unfinished:beta,357
+#players:2:vs #genre:fighting:sports>wrestling #addon:peripheral>megacd:controller>6button #search:keyword>official #lang:en,358
+#players:2:vs #genre:quiz #addon:peripheral>megacd #port:arcade #lang:ja,359
+#players:2:vs #genre:quiz:board:sports>football #addon:peripheral>megacd #search:keyword>official #lang:en,360
+#players:2:vs #genre:quiz:notagame>educational #addon:peripheral>megacd #lang:ja,361
+#players:2:vs #genre:racing #addon:peripheral>megacd:backup>backupramcart #save:backup #port:commodore>amiga #search:keyword>brand #lang:en,362
+#players:2:vs #genre:racing #addon:peripheral>megacd:backup>backupramcart #save:backup #port:commodore>amiga #search:keyword>brand #lang:en:ja,363
+#players:2:vs #genre:racing:sports>formula1 #addon:peripheral>megacd:backup>backupramcart #save:backup:password #based #search:keyword>official #lang:ja,364
+#players:2:vs #genre:racing>combat #addon:peripheral>megacd #port:3do #lang:en,365
+#players:2:vs #genre:racing>combat #addon:peripheral>megacd:controller>6button #lang:en,366
+#players:2:vs #genre:racing>combat #addon:peripheral>megacd:controller>6button #lang:en #unfinished:demo>1,367
+#players:2:vs #genre:racing>combat #addon:peripheral>megacd:controller>6button #lang:en #unfinished:demo>2,368
+#players:2:vs #genre:racing>combat #addon:peripheral>megacd:controller>6button #lang:en:fr:de,369
+#players:2:vs #genre:shooting>fps #addon:peripheral>megacd #lang:en:fr:de:es,370
+#players:2:vs #genre:shooting>fps #addon:peripheral>megacd #port:sega>megadrive #lang:en #unlicensed,371
+#players:2:vs #genre:shooting>fps #addon:peripheral>megacd #reboxed #lang:en:fr:de:es,372
+#players:2:vs #genre:sim:sports>football #addon:peripheral>megacd #search:keyword>official #lang:en,373
+#players:2:vs #genre:sim:sports>soccer #addon:peripheral>megacd #based:manganime #lang:ja,374
+#players:2:vs #genre:sim>strategy #addon:peripheral>megacd:backup>backupramcart #save:backup #port:nec>pc88 #lang:ja,375
+#players:2:vs #genre:sports>baseball #addon:peripheral>megacd #port:sega>megadrive #based #search:keyword>endorsed>official #lang:en,376
+#players:2:vs #genre:sports>baseball #addon:peripheral>megacd #port:sega>megadrive #based #search:keyword>official #lang:en,377
+#players:2:vs #genre:sports>baseball #addon:peripheral>megacd:backup>backupramcart #save:backup #search:keyword>official #lang:ja,378
+#players:2:vs #genre:sports>football #addon:peripheral>megacd #port:sega>megadrive #based #search:keyword>official #lang:en,379
+#players:2:vs #genre:sports>football #addon:peripheral>megacd #search:keyword>endorsed>official #lang:en,380
+#players:2:vs #genre:sports>soccer #addon:peripheral>megacd #port:commodore>amiga #lang:en #unfinished:demo,381
+#players:2:vs #genre:sports>soccer #addon:peripheral>megacd #port:commodore>amiga #lang:en:fr:de:it,382
+#players:3:vs #genre:board #addon:peripheral>megacd:multitap>segatap #based #lang:en,383
+#players:3:vs #genre:quiz:board #addon:peripheral>megacd:multitap>segatap #based #lang:en,384
+#players:4:coop #genre:rpg>a:action>runandgun #save:backup #addon:peripheral>megacd:multitap>segatap #lang:en,385
+#players:4:coop:vs #genre:sports>basketball #addon:peripheral>megacd:multitap>segatap #save:backup #port:arcade:sega>megadrive #search:keyword>official #lang:en,386
+#players:4:coop:vs #genre:sports>basketball #addon:peripheral>megacd:multitap>segatap #search:keyword>official #lang:en,387
+#players:4:coop:vs #genre:sports>football #addon:peripheral>megacd:multitap>4wayplay #port:sega>megadrive #search:keyword>endorsed #lang:en,388
+#players:4:coop:vs #genre:sports>hockey #addon:peripheral>megacd:multitap>4wayplay #port:sega>megadrive #search:keyword>official #lang:en,389
+#players:4:coop:vs #genre:sports>hockey #addon:peripheral>megacd:multitap>segatap #save:backup #port:sega>megadrive #based #search:keyword>official #lang:en,390
+#players:4:coop:vs #genre:sports>soccer #addon:peripheral>megacd:multitap>segatap #port:sega>megadrive #search:keyword>brand>official>dolby #lang:en #unfinished:demo,391
+#players:4:coop:vs #genre:sports>soccer #addon:peripheral>megacd:multitap>segatap #port:sega>megadrive #search:keyword>brand>official>dolby #lang:en #unfinished:demo #alt,392
+#players:4:coop:vs #genre:sports>soccer #addon:peripheral>megacd:multitap>segatap #port:sega>megadrive #search:keyword>brand>official>dolby #lang:en:fr:de:es,393
+#players:4:coop:vs #genre:sports>soccer #addon:peripheral>megacd:multitap>segatap #port:sega>megadrive #search:keyword>official #lang:en:fr:de:it:es:pt:sv:nl,394
+#players:4:vs #genre:puzzle #addon:peripheral>megacd:multitap>segatap>4wayplay #save:backup #port:sega>dreamcast:nintendo>gba #lang:en #unlicensed:clone,395
+#players:4:vs #genre:sports>golf #addon:peripheral>megacd:backup>backupramcart:multitap>segatap #save:backup #port:arcade #lang:ja,396
+#players:6:vs #genre:board:quiz #addon:peripheral>megacd #based #lang:en,397
+#players:6:vs #genre:sports>golf #addon:peripheral>megacd:controller>teevgolf:mouse>md #save:backup #port:pc #lang:en,398
+#players:6:vs #genre:sports>golf #addon:peripheral>megacd:controller>teevgolf:mouse>md #save:backup #port:pc #lang:en #rev:1,399
+#players:8:coop:vs #genre:sports>baseball #addon:peripheral>megacd:backup>backupramcart:multitap>segatap #save:backup #search:keyword>official>endorsed #lang:ja,400
+#players:8:vs #genre:sim>strategy #addon:peripheral>megacd:backup>backupramcart #save:backup #port:nec>pc98 #lang:ja,401
+#players:8:vs #genre:sim>strategy #addon:peripheral>megacd:backup>backupramcart:mouse>md #save:backup #port:nec>pc88:sega>megadrive #lang:ja,402

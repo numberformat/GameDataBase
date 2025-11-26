@@ -1,0 +1,69 @@
+name: Build and Publish Normalized Data
+
+on:
+  push:
+    branches: [ develop ]
+  schedule:
+    - cron: "0 2 * * 0"   # Weekly: Sunday 2am UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Add upstream
+        run: |
+          git remote add upstream https://github.com/PigSaint/GameDataBase.git || true
+          git fetch upstream
+
+      - name: Check for upstream changes
+        id: changes
+        run: |
+          git diff --quiet HEAD upstream/main || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Merge upstream
+        if: steps.changes.outputs.changed == 'true'
+        run: git merge upstream/main
+
+      - name: Build Docker image
+        if: steps.changes.outputs.changed == 'true'
+        run: docker build -t gamedb-normalizer .
+
+      - name: Run normalization
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          docker run --rm \
+            -v ${{ github.workspace }}/data:/app/data \
+            gamedb-normalizer
+
+      - name: Run quality checks
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          docker run --rm \
+            -v ${{ github.workspace }}/data:/app/data \
+            gamedb-normalizer python scripts/quality_check.py
+
+      - name: Commit outputs
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/3nf
+          git commit -m "Automated regeneration" || echo "No changes"
+
+      - name: Push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: git push origin HEAD
+
+      - name: Create release
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          TAG="release-$(date +'%Y.%m.%d')"
+          git tag $TAG
+          git push origin $TAG

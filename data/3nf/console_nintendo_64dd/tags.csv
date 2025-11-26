@@ -1,0 +1,16 @@
+tag_name,tag_id
+#players:1 #genre:action:puzzle #addon:peripheral>64dd:expansion>expansionpak:vibration>rumblepak:online>randnetmodem #lang:ja,1
+#players:1 #genre:action>platformer #addon:peripheral>64dd:expansion>expansionpak #save:backup #search:feature>mario #lang:ja #unfinished:proto,2
+#players:1 #genre:notagame>application #addon:peripheral>64dd:expansion>expansionpak:lockon>transferpak:pocketcamera:mic>n64:capturecassette:mouse>n64 #save:backup #search:feature>mario #lang:ja,3
+#players:1 #genre:notagame>application #addon:peripheral>64dd:expansion>expansionpak:mouse>n64 #save:backup #search:feature>mario #lang:ja,4
+#players:1 #genre:notagame>application #addon:peripheral>64dd:expansion>expansionpak:online>randnetmodem:capturecassette:mouse>n64 #save:backup #search:feature>mario #lang:ja,5
+#players:1 #genre:notagame>application #addon:peripheral>64dd:expansion>expansionpak:online>randnetmodem:keyboard>n64 #lang:ja,6
+#players:1 #genre:notagame>application #addon:peripheral>64dd:expansion>expansionpak:online>randnetmodem:keyboard>n64 #lang:ja #rev:1,7
+#players:1 #genre:notagame>application #addon:peripheral>64dd:expansion>expansionpak:vibration>rumblepak #lang:ja #unfinished:proto,8
+#players:1 #genre:sim>building #addon:peripheral>64dd:expansion>expansionpak:online>randnetmodem #lang:ja,9
+#players:1 #genre:sim>god #addon:peripheral>64dd:expansion>expansionpak:vibration>rumblepak:online>randnetmodem #lang:ja,10
+#players:1 #genre:sim>god #addon:peripheral>64dd:expansion>expansionpak:vibration>rumblepak:online>randnetmodem #lang:ja #unfinished:demo>kiosk,11
+#players:4:vs #genre:notagame>drawing #addon:peripheral>64dd:expansion>expansionpak:lockon>transferpak:pocketcamera:capturecassette:mouse>n64 #save:backup #search:feature>mario #lang:ja,12
+#players:4:vs #genre:notagame>drawing #addon:peripheral>64dd:expansion>expansionpak:lockon>transferpak:pocketcamera:capturecassette:mouse>n64 #save:backup #search:feature>mario #lang:ja #unfinished:beta,13
+#players:4:vs #genre:racing #addon:peripheral>64dd:expansion>expansionpak:vibration>rumblepak:online>randnetmodem #lang:ja,14
+#players:4:vs #genre:sports>golf #addon:peripheral>64dd:expansion>expansionpak:online>randnetmodem #save:backup #search:keyword>official #lang:ja,15

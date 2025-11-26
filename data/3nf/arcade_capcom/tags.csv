@@ -1,0 +1,216 @@
+tag_name,tag_id
+#input:buttons>4 #players:2:vs #genre:quiz #arcadeboard:capcom #lang:ja #mameparent,1
+#input:buttons>4 #players:2:vs #genre:quiz #arcadeboard:capcom>cps,2
+#input:buttons>4 #players:2:vs #genre:quiz #arcadeboard:capcom>cps #mameparent,3
+#input:buttons>4 #players:2:vs #genre:quiz #arcadeboard:capcom>cpschanger,4
+#input:buttons>4 #players:2:vs #genre:quiz:sim>date #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,5
+#input:buttons>6 #players:2:vs #genre:parlor>mogurataiji #arcadeboard:capcom>cps #mameparent,6
+#input:joystick>2h:buttons>1 #players:2:coop #search:tate>ccw #genre:action>blockbreaker #arcadeboard:capcom,7
+#input:joystick>2h:buttons>1 #players:2:coop #search:tate>ccw #genre:action>blockbreaker #arcadeboard:capcom #mameparent,8
+#input:joystick>2h:buttons>2 #players:1 #genre:notagame>redemption #arcadeboard:capcom>cps #mameparent,9
+#input:joystick>4:buttons>1 #players:2:alt #genre:action>maze #arcadeboard:capcom #mameparent,10
+#input:joystick>4:buttons>1 #players:2:coop #genre:action #arcadeboard:capcom>cps,11
+#input:joystick>4:buttons>1 #players:2:coop #genre:action #arcadeboard:capcom>cps #mameparent,12
+#input:joystick>4:buttons>2 #players:1 #genre:action>platformer #arcadeboard:capcom>cps,13
+#input:joystick>4:buttons>2 #players:1 #genre:action>platformer #arcadeboard:capcom>cps #mameparent,14
+#input:joystick>4:buttons>2 #players:2:coop #genre:action #arcadeboard:capcom,15
+#input:joystick>4:buttons>2 #players:2:coop #genre:action #arcadeboard:capcom #mameparent,16
+#input:joystick>4:buttons>2 #players:2:coop #genre:action #arcadeboard:capcom #set:1 #unlicensed:bootleg,17
+#input:joystick>4:buttons>2 #players:2:coop #genre:action #arcadeboard:capcom #set:2 #unlicensed:bootleg,18
+#input:joystick>4:buttons>2 #players:2:coop #genre:action #arcadeboard:capcom #set:3 #unlicensed:bootleg,19
+#input:joystick>4:buttons>2 #players:2:coop #genre:action #arcadeboard:capcom #set:4 #unlicensed:bootleg,20
+#input:joystick>4:buttons>2 #players:2:coop #genre:action #arcadeboard:capcom #set:5 #unlicensed:bootleg,21
+#input:joystick>4:buttons>2 #players:2:coop #genre:action #arcadeboard:capcom #set:6 #unlicensed:bootleg,22
+#input:joystick>4:buttons>2 #players:2:coop #genre:action #arcadeboard:capcom #set:7 #unlicensed:bootleg,23
+#input:joystick>8:buttons>1 #players:2:coop #genre:action #search:keyword>qsound #arcadeboard:capcom>cps2,24
+#input:joystick>8:buttons>1 #players:2:coop #genre:action #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,25
+#input:joystick>8:buttons>1 #players:2:coop #genre:action>platformer:shmup #arcadeboard:capcom,26
+#input:joystick>8:buttons>1 #players:2:coop #genre:action>platformer:shmup #arcadeboard:capcom #mameparent,27
+#input:joystick>8:buttons>1 #players:2:coop #genre:shmup>v #search:keyword>qsound #arcadeboard:capcom>cps2,28
+#input:joystick>8:buttons>1 #players:2:coop #genre:shmup>v #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,29
+#input:joystick>8:buttons>1 #players:2:coop #genre:shmup>v #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,30
+#input:joystick>8:buttons>2 #players:1 #genre:action>platformer #arcadeboard:capcom>cps,31
+#input:joystick>8:buttons>2 #players:1 #genre:action>platformer #arcadeboard:capcom>cps #mameparent,32
+#input:joystick>8:buttons>2 #players:1 #genre:action>platformer #based:movie #arcadeboard:capcom>cps,33
+#input:joystick>8:buttons>2 #players:1 #genre:action>platformer #based:movie #arcadeboard:capcom>cps #mameparent,34
+#input:joystick>8:buttons>2 #players:1 #genre:board>mahjong #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,35
+#input:joystick>8:buttons>2 #players:1 #genre:parlor>kiddieride #based:manganime #arcadeboard:capcom>cps #mameparent,36
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>hackandslash #arcadeboard:capcom,37
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>hackandslash #arcadeboard:capcom #mameparent,38
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>hackandslash>platformer #arcadeboard:capcom,39
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>hackandslash>platformer #arcadeboard:capcom #mameparent,40
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:capcom,41
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:capcom #mameparent,42
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:capcom #rev:b,43
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:capcom #rev:c,44
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:capcom #rev:g,45
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:capcom #set:1,46
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:capcom #set:1 #mameparent,47
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:capcom #set:2,48
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:capcom #set:3,49
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:capcom #unfinished:proto,50
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:capcom #unlicensed:bootleg,51
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:capcom #unlicensed:bootleg #set:1,52
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:capcom #unlicensed:bootleg #set:2,53
+#input:joystick>8:buttons>2 #players:2:alt #genre:racing:sports>formula1 #arcadeboard:capcom #mameparent,54
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:capcom #set:1 #mameparent,55
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:capcom #set:2,56
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:racing:action>runandgun #arcadeboard:capcom #set:1,57
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>cw #genre:action>runandgun #arcadeboard:capcom,58
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>cw #genre:action>runandgun #arcadeboard:capcom #mameparent,59
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>cw #genre:action>runandgun #arcadeboard:capcom #set:1,60
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>cw #genre:action>runandgun #arcadeboard:capcom #set:2,61
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>cw #genre:action>runandgun #arcadeboard:capcom #unlicensed:bootleg #set:1,62
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>cw #genre:action>runandgun #arcadeboard:capcom #unlicensed:bootleg #set:2,63
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>cw #genre:action>runandgun #arcadeboard:capcom #unlicensed:bootleg #set:3,64
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>cw #genre:racing:action>runandgun #arcadeboard:capcom #set:1 #mameparent,65
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>cw #genre:racing:action>runandgun #arcadeboard:capcom #set:2,66
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>cw #genre:racing:action>runandgun #arcadeboard:capcom #set:3,67
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>cw #genre:shmup>v #arcadeboard:capcom,68
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>cw #genre:shmup>v #arcadeboard:capcom #set:1 #mameparent,69
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>cw #genre:shmup>v #arcadeboard:capcom #set:2,70
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>cw #genre:shmup>v #arcadeboard:capcom #unlicensed:bootleg,71
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>hackandslash #arcadeboard:capcom>cps,72
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>hackandslash #arcadeboard:capcom>cps #mameparent,73
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer>maze:shmup>h #multigame #arcadeboard:capcom>cps,74
+#input:joystick>8:buttons>2 #players:2:coop #genre:brawler #arcadeboard:capcom>cps,75
+#input:joystick>8:buttons>2 #players:2:coop #genre:brawler #arcadeboard:capcom>cps #mameparent,76
+#input:joystick>8:buttons>2 #players:2:coop #genre:brawler #arcadeboard:capcom>cpschanger,77
+#input:joystick>8:buttons>2 #players:2:coop #genre:brawler #based:marvel #search:keyword>qsound #arcadeboard:capcom>cpsdash,78
+#input:joystick>8:buttons>2 #players:2:coop #genre:brawler #based:marvel #search:keyword>qsound #arcadeboard:capcom>cpsdash #mameparent,79
+#input:joystick>8:buttons>2 #players:2:coop #genre:brawler #unlicensed:bootleg #arcadeboard:capcom>cps,80
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:capcom>cps,81
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:capcom>cps #mameparent,82
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #based:manganime #arcadeboard:capcom>cps,83
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #search:keyword>qsound #arcadeboard:capcom>cps2,84
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,85
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,86
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:keyword>qsound #arcadeboard:capcom>cps2,87
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,88
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,89
+#input:joystick>8:buttons>2 #players:2:coop #multigame #genre:action>platformer>maze:shmup>h #multigame #arcadeboard:capcom>cps,90
+#input:joystick>8:buttons>2 #players:2:coop #multigame #genre:action>platformer>maze:shmup>h #multigame #arcadeboard:capcom>cps #mameparent,91
+#input:joystick>8:buttons>2 #players:2:coop #multigame #genre:action>platformer>maze:shmup>h #multigame #unlicensed:bootleg #arcadeboard:capcom>cps,92
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>ccw #genre:shmup>v #arcadeboard:capcom,93
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>ccw #genre:shmup>v #arcadeboard:capcom #unlicensed:hack,94
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:capcom,95
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:capcom #mameparent,96
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:capcom #mameparent #rev:b,97
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:capcom #rev:a,98
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:capcom #set:2,99
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:capcom #unlicensed:bootleg,100
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:capcom>cps,101
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:capcom>cps #mameparent,102
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>cw #genre:shmup>v #search:keyword>qsound #arcadeboard:capcom>cps2,103
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>cw #genre:shmup>v #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,104
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>cw #genre:shmup>v #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,105
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:capcom>cps #mameparent,106
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:capcom>cps #unfinished:proto #mameparent,107
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #search:keyword>qsound #arcadeboard:capcom>cps2,108
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,109
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,110
+#input:joystick>8:buttons>2 #players:2:vs #genre:sim>cardgame:sports>baseball #arcadeboard:capcom #based:manganime #mameparent,111
+#input:joystick>8:buttons>2 #players:3:coop #genre:action>runandgun #search:tate>ccw #arcadeboard:capcom>cps,112
+#input:joystick>8:buttons>2 #players:3:coop #genre:action>runandgun #search:tate>cw #arcadeboard:capcom>cps,113
+#input:joystick>8:buttons>2 #players:3:coop #genre:action>runandgun #search:tate>cw #arcadeboard:capcom>cps #mameparent,114
+#input:joystick>8:buttons>2 #players:3:coop #genre:brawler #arcadeboard:capcom>cps,115
+#input:joystick>8:buttons>2 #players:3:coop #genre:brawler #arcadeboard:capcom>cps #mameparent,116
+#input:joystick>8:buttons>2 #players:3:coop #genre:brawler #arcadeboard:capcom>cpschanger,117
+#input:joystick>8:buttons>2 #players:3:coop #genre:brawler #based #arcadeboard:capcom>cps,118
+#input:joystick>8:buttons>2 #players:3:coop #genre:brawler #based #arcadeboard:capcom>cps #mameparent,119
+#input:joystick>8:buttons>2 #players:3:coop #genre:brawler #based #arcadeboard:capcom>cpschanger,120
+#input:joystick>8:buttons>2 #players:3:coop #genre:brawler #based #search:keyword>qsound #arcadeboard:capcom>cpsdash,121
+#input:joystick>8:buttons>2 #players:3:coop #genre:brawler #based #search:keyword>qsound #arcadeboard:capcom>cpsdash #mameparent,122
+#input:joystick>8:buttons>2 #players:3:coop #genre:brawler #based:manganime #arcadeboard:capcom>cpschanger,123
+#input:joystick>8:buttons>2 #players:3:coop #genre:brawler #based:manganime #search:keyword>qsound #arcadeboard:capcom>cpsdash,124
+#input:joystick>8:buttons>2 #players:3:coop #genre:brawler #search:keyword>qsound #arcadeboard:capcom>cpsdash,125
+#input:joystick>8:buttons>2 #players:3:coop #genre:brawler #search:keyword>qsound #arcadeboard:capcom>cpsdash #mameparent,126
+#input:joystick>8:buttons>2 #players:4:coop #genre:brawler #search:keyword>qsound #arcadeboard:capcom>cps2,127
+#input:joystick>8:buttons>2 #players:4:coop #genre:brawler #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,128
+#input:joystick>8:buttons>2 #players:4:coop #genre:brawler #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,129
+#input:joystick>8:buttons>2 #search:tate>ccw #players:2:coop #genre:shmup>v #arcadeboard:capcom>cps,130
+#input:joystick>8:buttons>2 #search:tate>ccw #players:2:coop #genre:shmup>v #arcadeboard:capcom>cps #mameparent,131
+#input:joystick>8:buttons>2>pneumatic #players:2:vs #genre:fighting #arcadeboard:capcom,132
+#input:joystick>8:buttons>3 #players:1 #genre:puzzle #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,133
+#input:joystick>8:buttons>3 #players:2:alt #search:tate>cw #genre:action>runandgun #arcadeboard:capcom,134
+#input:joystick>8:buttons>3 #players:2:alt #search:tate>cw #genre:action>runandgun #arcadeboard:capcom #mameparent,135
+#input:joystick>8:buttons>3 #players:2:alt #search:tate>cw #genre:action>runandgun #arcadeboard:capcom #set:1,136
+#input:joystick>8:buttons>3 #players:2:alt #search:tate>cw #genre:action>runandgun #arcadeboard:capcom #set:2,137
+#input:joystick>8:buttons>3 #players:2:alt #search:tate>cw #genre:action>runandgun #arcadeboard:capcom #unlicensed:bootleg,138
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>platformer #arcadeboard:capcom>cps,139
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>platformer #arcadeboard:capcom>cps #mameparent,140
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:capcom>cps,141
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:capcom>cps #mameparent,142
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #based:manganime #arcadeboard:capcom>cps,143
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>h #arcadeboard:capcom,144
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>h #arcadeboard:capcom #mameparent,145
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>v>danmaku #search:keyword>qsound #arcadeboard:capcom>cps2,146
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>v>danmaku #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,147
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>v>danmaku #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,148
+#input:joystick>8:buttons>3 #players:2:coop #search:tate>ccw #genre:shmup>v #arcadeboard:capcom #mameparent,149
+#input:joystick>8:buttons>3 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:capcom,150
+#input:joystick>8:buttons>3 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:capcom #mameparent,151
+#input:joystick>8:buttons>3 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:capcom #rev:b,152
+#input:joystick>8:buttons>3 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:capcom #rev:c,153
+#input:joystick>8:buttons>3 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:capcom #unlicensed:bootleg,154
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #arcadeboard:capcom>cps,155
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #arcadeboard:capcom>cps #mameparent,156
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #search:keyword>qsound #arcadeboard:capcom>cps2,157
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,158
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #search:keyword>qsound #unfinished:sample #arcadeboard:capcom>cps2,159
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,160
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>tennis>soccer>basketball #multigame #search:keyword>qsound #arcadeboard:capcom>cps2,161
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>tennis>soccer>basketball #multigame #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,162
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>tennis>soccer>basketball #multigame #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,163
+#input:joystick>8:buttons>3 #players:3:coop #genre:brawler #based #search:feature>alien #search:keyword>qsound #arcadeboard:capcom>cps2,164
+#input:joystick>8:buttons>3 #players:3:coop #genre:brawler #based #search:feature>alien #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,165
+#input:joystick>8:buttons>3 #players:3:coop #genre:brawler #based #search:feature>alien #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,166
+#input:joystick>8:buttons>3 #players:3:coop #genre:brawler #search:keyword>qsound #arcadeboard:capcom>cps2,167
+#input:joystick>8:buttons>3 #players:3:coop #genre:brawler #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,168
+#input:joystick>8:buttons>3 #players:3:coop #genre:brawler #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,169
+#input:joystick>8:buttons>3 #players:4:vs #genre:fighting:sports>wrestling #arcadeboard:capcom>cpschanger,170
+#input:joystick>8:buttons>3 #players:4:vs #genre:fighting:sports>wrestling #search:keyword>qsound #arcadeboard:capcom>cpsdash,171
+#input:joystick>8:buttons>3 #players:4:vs #genre:fighting:sports>wrestling #search:keyword>qsound #arcadeboard:capcom>cpsdash #mameparent,172
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #search:keyword>qsound #arcadeboard:capcom>cps2,173
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,174
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,175
+#input:joystick>8:buttons>4 #players:4:coop #genre:brawler #based:dnd #search:keyword>qsound #arcadeboard:capcom>cps2,176
+#input:joystick>8:buttons>4 #players:4:coop #genre:brawler #based:dnd #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,177
+#input:joystick>8:buttons>4 #players:4:coop #genre:brawler #based:dnd #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,178
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:capcom,179
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:capcom #set:1 #mameparent,180
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:capcom #set:2,181
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:capcom #unfinished:proto,182
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:capcom #unlicensed:bootleg,183
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:capcom>cps,184
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:capcom>cps #mameparent,185
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:capcom>cps3,186
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:capcom>cps3 #mameparent,187
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:capcom>cpschanger,188
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #based:manganime #arcadeboard:capcom>cps3,189
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #based:manganime #arcadeboard:capcom>cps3 #mameparent,190
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #based:marvel #search:feature>spiderman:keyword>qsound #arcadeboard:capcom>cps2,191
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #based:marvel #search:feature>spiderman:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,192
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #based:marvel #search:feature>spiderman:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,193
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #based:marvel #search:feature>xmen:keyword>qsound #arcadeboard:capcom>cps2,194
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #based:marvel #search:feature>xmen:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,195
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #based:marvel #search:feature>xmen:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,196
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #search:keyword>qsound #arcadeboard:capcom>cps2,197
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,198
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #search:keyword>qsound #unfinished:sample #arcadeboard:capcom>cps2,199
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,200
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting:sports>wrestling #search:keyword>qsound #arcadeboard:capcom>cps2,201
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting:sports>wrestling #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,202
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting:sports>wrestling #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,203
+#input:joystick>8:dial:buttons>1 #players:2:vs #genre:puzzle>drop #search:keyword>qsound #arcadeboard:capcom>cps2,204
+#input:joystick>8:dial:buttons>1 #players:2:vs #genre:puzzle>drop #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,205
+#input:joystick>8:dial:buttons>1 #players:2:vs #genre:puzzle>drop #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,206
+#input:joystick>8:spinner:buttons>1 #players:2:coop #genre:shmup>h #search:keyword>qsound #arcadeboard:capcom>cps2,207
+#input:joystick>8:spinner:buttons>1 #players:2:coop #genre:shmup>h #search:keyword>qsound #arcadeboard:capcom>cps2 #mameparent,208
+#input:joystick>8:spinner:buttons>1 #players:2:coop #genre:shmup>h #search:keyword>qsound #unlicensed:bootleg #arcadeboard:capcom>cps2,209
+#input:joystick>8:spinner:buttons>1 #players:2:coop #genre:shmup>h qsound #arcadeboard:capcom>cps2,210
+#input:joystick>8:spinner:buttons>1 #players:2:coop #genre:shmup>v #arcadeboard:capcom>cps,211
+#input:joystick>8:spinner:buttons>1 #players:2:coop #genre:shmup>v #arcadeboard:capcom>cps #mameparent,212
+#input:joystick>8:spinner:buttons>1 #players:2:coop #genre:shmup>v #arcadeboard:capcom>cps #unfinished:proto,213
+#input:paddle:buttons>1 #players:2:coop #search:tate>ccw #genre:action>blockbreaker #arcadeboard:capcom,214
+#input:wheel:buttons>3 #players:1 #genre:parlor>kiddieride #based #arcadeboard:capcom>cps #mameparent,215
