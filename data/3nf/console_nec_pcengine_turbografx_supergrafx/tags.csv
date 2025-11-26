@@ -1,0 +1,317 @@
+tag_name,tag_id
+#players:1 #genre:action #addon:backup>tennokoe #save:backup #lang:ja,1
+#players:1 #genre:action #based:manganime #lang:ja,2
+#players:1 #genre:action #based:manganime:movie #port:arcade #lang:ja,3
+#players:1 #genre:action #compatibility:pcengine>supergrafx #port:arcade #lang:en,4
+#players:1 #genre:action #lang:en,5
+#players:1 #genre:action #lang:ja,6
+#players:1 #genre:action:puzzle #addon:backup>tennokoe #save:backup:password #lang:en,7
+#players:1 #genre:action:puzzle #addon:backup>tennokoe #save:backup:password #port:nec>pc88 #lang:en,8
+#players:1 #genre:action:puzzle #port:arcade #lang:en,9
+#players:1 #genre:action:puzzle #save:password #lang:en,10
+#players:1 #genre:action:puzzle #save:password #lang:ja,11
+#players:1 #genre:action:sim>strategy #save:password #lang:ja,12
+#players:1 #genre:action>blockbreaker #lang:en,13
+#players:1 #genre:action>blockbreaker #lang:en #unfinished:proto,14
+#players:1 #genre:action>blockbreaker:puzzle #save:password #lang:en,15
+#players:1 #genre:action>hackandslash #addon:backup>tennokoe #save:backup #port:arcade #lang:en,16
+#players:1 #genre:action>hackandslash #addon:backup>tennokoe #save:backup #port:arcade #lang:ja,17
+#players:1 #genre:action>hackandslash #lang:ja,18
+#players:1 #genre:action>hackandslash #port:arcade #lang:en,19
+#players:1 #genre:action>hackandslash #port:arcade #lang:ja,20
+#players:1 #genre:action>hackandslash #search:keyword>endorsed #lang:en,21
+#players:1 #genre:action>hackandslash:shmup>h #lang:en,22
+#players:1 #genre:action>maze #addon:backup>tennokoe #save:backup:password #based:manganime #lang:ja,23
+#players:1 #genre:action>maze #addon:backup>tennokoe #save:backup:password #lang:en,24
+#players:1 #genre:action>maze #save:password #based:movie #search:feature>batman #lang:en,25
+#players:1 #genre:action>maze #save:password #port:arcade #lang:ja,26
+#players:1 #genre:action>platformer #addon:backup>tennokoe #save:backup:password #lang:ja,27
+#players:1 #genre:action>platformer #based #lang:en,28
+#players:1 #genre:action>platformer #based #lang:ja,29
+#players:1 #genre:action>platformer #based #search:keyword>endorsed #lang:ja,30
+#players:1 #genre:action>platformer #based:disney #lang:en,31
+#players:1 #genre:action>platformer #based:manganime #lang:ja,32
+#players:1 #genre:action>platformer #based:manganime #port:arcade #lang:ja,33
+#players:1 #genre:action>platformer #based:movie:manganime #lang:ja,34
+#players:1 #genre:action>platformer #lang:en,35
+#players:1 #genre:action>platformer #lang:en #rerelease:virtualconsole>wiiu,36
+#players:1 #genre:action>platformer #lang:en #rev:1,37
+#players:1 #genre:action>platformer #lang:en #rev:2,38
+#players:1 #genre:action>platformer #lang:ja,39
+#players:1 #genre:action>platformer #lang:ja #rerelease:virtualconsole>wii,40
+#players:1 #genre:action>platformer #lang:ja #rerelease:virtualconsole>wiiu,41
+#players:1 #genre:action>platformer #port:arcade #lang:en,42
+#players:1 #genre:action>platformer #port:arcade #lang:ja,43
+#players:1 #genre:action>platformer #port:arcade #search:feature>pacman #lang:en,44
+#players:1 #genre:action>platformer #port:nintendo>famicom #lang:ja:en:ch,45
+#players:1 #genre:action>platformer #save:password #lang:en,46
+#players:1 #genre:action>platformer:adventure #save:password #port:sega>mark3 #lang:en,47
+#players:1 #genre:action>platformer:adventure #save:password #port:sega>mark3 #lang:ja,48
+#players:1 #genre:action>platformer:shmup #lang:en,49
+#players:1 #genre:action>platformer:shmup #lang:ja,50
+#players:1 #genre:action>platformer:shmup>h #based:disney #lang:en,51
+#players:1 #genre:action>platformer:shmup>v #port:arcade #lang:en,52
+#players:1 #genre:action>platformer:shmup>v #port:arcade #lang:ja,53
+#players:1 #genre:action>platformer>metroidvania #port:nec>pc88 #lang:ja,54
+#players:1 #genre:action>runandgun #based:manganime #lang:ja,55
+#players:1 #genre:action>runandgun #based:movie #lang:en,56
+#players:1 #genre:action>runandgun #lang:en,57
+#players:1 #genre:action>runandgun #port:arcade #lang:en,58
+#players:1 #genre:action>runandgun #port:arcade #lang:ja,59
+#players:1 #genre:action>runandgun #port:nec>pc88 #lang:en,60
+#players:1 #genre:action>runandgun #port:nec>pc88 #lang:ja,61
+#players:1 #genre:action>runandgun:rpg>a #save:password #port:arcade #lang:ja,62
+#players:1 #genre:action>runandgun:shmup>h #save:password #lang:en,63
+#players:1 #genre:action>runandgun:shooting>gallery #addon:controller>avenuepad3 #port:arcade #lang:ja,64
+#players:1 #genre:action>runandgun>platformer #addon:controller>avenuepad3 #port:commodore>c64 #lang:en,65
+#players:1 #genre:action>runandgun>platformer #port:arcade #lang:ja,66
+#players:1 #genre:adventure #addon:backup>tennokoe #save:backup #based:manganime #lang:ja,67
+#players:1 #genre:adventure #addon:backup>tennokoe #save:backup #lang:ja,68
+#players:1 #genre:adventure #addon:backup>tennokoe #save:backup:password #lang:ja,69
+#players:1 #genre:adventure #based:manganime #lang:ja,70
+#players:1 #genre:adventure #save:password #lang:ja,71
+#players:1 #genre:board>cards #lang:ja #unlicensed,72
+#players:1 #genre:board>hanafuda #search:keyword>strip #lang:ja #unlicensed,73
+#players:1 #genre:board>mahjong #addon:backup>tennokoe #save:backup:password #lang:ja,74
+#players:1 #genre:board>mahjong #lang:ja,75
+#players:1 #genre:board>mahjong #save:password #search:keyword>strip #lang:ja #unlicensed,76
+#players:1 #genre:board>mahjong #search:keyword>strip #lang:ja,77
+#players:1 #genre:board>mahjong #search:keyword>strip #lang:ja #unlicensed,78
+#players:1 #genre:board>shougi #addon:backup>tennokoe #save:backup #lang:ja,79
+#players:1 #genre:board>shougi #lang:ja,80
+#players:1 #genre:brawler #lang:en,81
+#players:1 #genre:brawler #lang:ja,82
+#players:1 #genre:brawler #lang:ja #rerelease:virtualconsole>wii,83
+#players:1 #genre:brawler #port:arcade #lang:en,84
+#players:1 #genre:fighting:sports>boxing #lang:en,85
+#players:1 #genre:fighting:sports>wrestling #addon:backup>tennokoe #save:backup:password #lang:ja,86
+#players:1 #genre:notagame>application #addon:backup>tennokoe #save:backup #lang:ja,87
+#players:1 #genre:notagame>drawing #addon:drawing>illustbooster:printer>printbooster:photoreader #lang:ja,88
+#players:1 #genre:parlor>jackpot #save:password #search:keyword>strip #lang:ja #unlicensed,89
+#players:1 #genre:parlor>pinball #lang:en,90
+#players:1 #genre:puzzle #addon:backup>tennokoe #save:backup #lang:ja,91
+#players:1 #genre:puzzle #addon:backup>tennokoe #save:backup:password #lang:en,92
+#players:1 #genre:puzzle #port:apple>mac #lang:ja,93
+#players:1 #genre:puzzle #save:password #lang:en,94
+#players:1 #genre:puzzle #save:password #lang:ja,95
+#players:1 #genre:puzzle #save:password #port:arcade #lang:ja,96
+#players:1 #genre:puzzle>drop #lang:ja,97
+#players:1 #genre:puzzle>drop #port:arcade #lang:en,98
+#players:1 #genre:puzzle>drop #port:arcade #lang:ja,99
+#players:1 #genre:quiz #search:keyword>strip #lang:ja #unlicensed,100
+#players:1 #genre:quiz:action #based:manganime #lang:ja,101
+#players:1 #genre:racing #addon:controller>xe1ap #port:arcade #lang:en,102
+#players:1 #genre:racing #lang:en,103
+#players:1 #genre:racing #lang:en #rerelease:virtualconsole>wiiu,104
+#players:1 #genre:racing #port:arcade #lang:en,105
+#players:1 #genre:racing #save:password #lang:ja,106
+#players:1 #genre:racing:action #addon:controller>avenuepad3 #port:arcade #lang:ja,107
+#players:1 #genre:racing:action #port:arcade #lang:en,108
+#players:1 #genre:racing:sports>formula1 #addon:backup>tennokoe #save:backup:password #lang:ja,109
+#players:1 #genre:racing:sports>formula1 #addon:backup>tennokoe #save:backup:password #search:keyword>official #lang:ja,110
+#players:1 #genre:racing:sports>formula1 #lang:ja,111
+#players:1 #genre:racing:sports>formula1 #save:password #port:arcade #lang:ja,112
+#players:1 #genre:racing:sports>motogp #save:password #based:manganime #lang:en,113
+#players:1 #genre:racing>combat #addon:backup>tennokoe #save:backup #based #lang:ja,114
+#players:1 #genre:rpg:parlor>pachinko #addon:controller>pachinko #save:password #lang:ja,115
+#players:1 #genre:rpg>a #addon:backup>tennokoe #save:backup:password #lang:en,116
+#players:1 #genre:rpg>a #addon:backup>tennokoe #save:backup:password #lang:en #rerelease:virtualconsole>wiiu,117
+#players:1 #genre:rpg>a #addon:backup>tennokoe #save:backup:password #lang:ja,118
+#players:1 #genre:rpg>a #addon:backup>tennokoe #save:backup:password #lang:ja #rerelease:virtualconsole>wiiu,119
+#players:1 #genre:rpg>a #save:password #lang:ja,120
+#players:1 #genre:rpg>dungeoncrawler #save:password #based:dnd #lang:en,121
+#players:1 #genre:rpg>dungeoncrawler #save:password #lang:ja,122
+#players:1 #genre:rpg>dungeoncrawler #search:keyword>strip #lang:ja #unlicensed,123
+#players:1 #genre:rpg>j #addon:backup>tennokoe #save:backup #lang:ja,124
+#players:1 #genre:rpg>j #addon:backup>tennokoe #save:backup:password #lang:ja,125
+#players:1 #genre:rpg>j #addon:backup>tennokoe #save:backup:password #port:nintendo>gameboy #lang:ja,126
+#players:1 #genre:rpg>j #save:password #based:manganime #lang:ja,127
+#players:1 #genre:rpg>j #save:password #lang:ja,128
+#players:1 #genre:rpg>j #save:password #lang:ja #rerelease:virtualconsole>wii,129
+#players:1 #genre:rpg>j #save:password #lang:ja #rerelease:virtualconsole>wiiu,130
+#players:1 #genre:rpg>j #save:password #lang:ja #unlicensed,131
+#players:1 #genre:shmup #lang:ja,132
+#players:1 #genre:shmup #port:arcade #lang:en,133
+#players:1 #genre:shmup #port:arcade #lang:ja,134
+#players:1 #genre:shmup>h #addon:backup>tennokoe #save:backup #lang:ja,135
+#players:1 #genre:shmup>h #addon:controller>avenuepad3 #lang:ja,136
+#players:1 #genre:shmup>h #addon:controller>avenuepad3 #save:password #lang:ja,137
+#players:1 #genre:shmup>h #compatibility:pcengine>supergrafx #lang:en,138
+#players:1 #genre:shmup>h #compatibility:pcengine>supergrafx #port:arcade #lang:en,139
+#players:1 #genre:shmup>h #compatibility:pcengine>supergrafx #port:arcade #lang:en #unfinished:demo,140
+#players:1 #genre:shmup>h #compatibility:pcengine>supergrafx #port:arcade #lang:en #unfinished:demo #rerelease,141
+#players:1 #genre:shmup>h #lang:en,142
+#players:1 #genre:shmup>h #lang:en #rerelease:virtualconsole>wiiu,143
+#players:1 #genre:shmup>h #lang:en #unlicensed:aftermarket,144
+#players:1 #genre:shmup>h #lang:ja,145
+#players:1 #genre:shmup>h #lang:ja #rerelease:virtualconsole>wiiu,146
+#players:1 #genre:shmup>h #lang:ja #unfinished:beta,147
+#players:1 #genre:shmup>h #port:arcade #lang:en,148
+#players:1 #genre:shmup>h #port:arcade #lang:en #rev:1,149
+#players:1 #genre:shmup>h #port:arcade #lang:ja,150
+#players:1 #genre:shmup>h #save:password #lang:ja,151
+#players:1 #genre:shmup>v #addon:controller>avenuepad3 #based:movie #lang:en,152
+#players:1 #genre:shmup>v #addon:controller>avenuepad3 #lang:en,153
+#players:1 #genre:shmup>v #addon:controller>avenuepad3 #lang:en #rerelease:virtualconsole>wiiu,154
+#players:1 #genre:shmup>v #addon:controller>avenuepad3 #lang:ja,155
+#players:1 #genre:shmup>v #addon:controller>avenuepad3 #lang:ja #rerelease:virtualconsole>wiiu,156
+#players:1 #genre:shmup>v #addon:controller>avenuepad3 #save:password #lang:en,157
+#players:1 #genre:shmup>v #based:movie #lang:en #unfinished:demo,158
+#players:1 #genre:shmup>v #lang:en,159
+#players:1 #genre:shmup>v #lang:en #rerelease:virtualconsole>wiiu,160
+#players:1 #genre:shmup>v #lang:en #unfinished:demo,161
+#players:1 #genre:shmup>v #lang:ja,162
+#players:1 #genre:shmup>v #port:arcade #lang:en,163
+#players:1 #genre:shmup>v #port:arcade #lang:en #unfinished:beta,164
+#players:1 #genre:shmup>v #port:arcade #lang:ja,165
+#players:1 #genre:shooting>fps #lang:en,166
+#players:1 #genre:shooting>fps:rpg>dungeoncrawler #addon:controller>avenuepad3 #lang:en,167
+#players:1 #genre:shooting>fps:rpg>dungeoncrawler #addon:controller>avenuepad3 #lang:ja,168
+#players:1 #genre:shooting>rail #addon:backup>tennokoe #save:backup:password #lang:ja,169
+#players:1 #genre:shooting>rail #addon:controller>xe1ap #port:arcade #lang:en,170
+#players:1 #genre:shooting>rail #port:arcade #lang:en,171
+#players:1 #genre:shooting>rail #save:password #lang:ja,172
+#players:1 #genre:shooting>rail:shmup>v #port:arcade #lang:en,173
+#players:1 #genre:sim>farm:action #addon:backup>tennokoe #save:backup:password #lang:ja,174
+#players:1 #genre:sim>flight #compatibility:pcengine>supergrafx #lang:en,175
+#players:1 #genre:sim>life:racing #addon:backup>tennokoe #save:backup #lang:ja,176
+#players:1 #genre:sim>life:racing #addon:backup>tennokoe #save:backup #lang:ja #rerelease:virtualconsole>wiiu,177
+#players:1 #genre:sim>strategy #addon:backup>tennokoe #save:backup #port:nec>pc88 #lang:ja,178
+#players:1 #genre:sim>strategy #addon:backup>tennokoe #save:backup #port:nec>pc88 #lang:ja #rerelease:virtualconsole>wiiu,179
+#players:1 #genre:sim>strategy #addon:backup>tennokoe #save:backup:password #lang:ja,180
+#players:1 #genre:sim>strategy:notagame>educational #lang:ja,181
+#players:1 #genre:sim>strategy>god #addon:backup>tennokoe #save:backup #port:commodore>amiga #lang:en,182
+#players:2:alt #genre:action #addon:multitap>pce:backup>tennokoe #save:backup #based #lang:en,183
+#players:2:alt #genre:action:puzzle #save:password #lang:en,184
+#players:2:alt #genre:action>hackandslash #addon:multitap>pce #compatibility:pcengine>supergrafx #based:manganime #lang:ja,185
+#players:2:alt #genre:action>runandgun #addon:multitap>pce #port:arcade #lang:ja #rerelease:virtualconsole>wiiu,186
+#players:2:alt #genre:action>runandgun #addon:multitap>pce:controller>avenuepad3 #port:arcade #lang:en,187
+#players:2:alt #genre:action>runandgun #addon:multitap>pce:controller>avenuepad3 #port:arcade #lang:en #rerelease:virtualconsole>wiiu,188
+#players:2:alt #genre:action>runandgun #addon:multitap>pce:controller>avenuepad3 #port:arcade #lang:ja,189
+#players:2:alt #genre:action>runandgun #port:arcade #lang:en,190
+#players:2:alt #genre:parlor>pinball #addon:backup>tennokoe #save:backup:password #lang:en #rerelease:virtualconsole>wiiu,191
+#players:2:alt #genre:parlor>pinball #addon:multitap>pce:backup>tennokoe #save:backup:password #lang:en,192
+#players:2:alt #genre:parlor>pinball #addon:multitap>pce:backup>tennokoe #save:backup:password #lang:en #rerelease:virtualconsole>wiiu,193
+#players:2:alt #genre:shmup>h #addon:multitap>pce #port:arcade #lang:ja,194
+#players:2:alt #genre:shmup>h #port:arcade #lang:en,195
+#players:2:alt #genre:shmup>h #port:arcade #lang:en #rerelease:pcemini,196
+#players:2:alt #genre:shmup>h #port:arcade #lang:en #rerelease:virtualconsole>wiiu,197
+#players:2:alt #genre:shmup>v #lang:en,198
+#players:2:coop #genre:action #addon:multitap>pce #lang:ja,199
+#players:2:coop #genre:action #addon:multitap>pce #port:arcade #lang:en,200
+#players:2:coop #genre:action #addon:multitap>pce #port:arcade #lang:ja,201
+#players:2:coop #genre:action>hackandslash #port:arcade #lang:ja,202
+#players:2:coop #genre:action>platformer #addon:multitap>pce #lang:en,203
+#players:2:coop #genre:action>platformer #addon:multitap>pce #lang:en #rerelease:virtualconsole>wiiu,204
+#players:2:coop #genre:action>platformer #addon:multitap>pce #lang:ja,205
+#players:2:coop #genre:action>platformer #addon:multitap>pce #lang:ja #rerelease:virtualconsole>wiiu,206
+#players:2:coop #genre:action>platformer #addon:multitap>pce #lang:ja #unfinished:sample,207
+#players:2:coop #genre:action>platformer #addon:multitap>pce #port:arcade #lang:ja,208
+#players:2:coop #genre:action>platformer #addon:multitap>pce:backup>tennokoe #save:backup #lang:en,209
+#players:2:coop #genre:puzzle:action>maze #addon:multitap>pce:backup>tennokoe #save:backup:password #lang:en,210
+#players:2:coop #genre:puzzle:action>maze #addon:multitap>pce:backup>tennokoe #save:backup:password #lang:ja,211
+#players:2:coop #genre:shmup #addon:multitap>pce #lang:ja,212
+#players:2:coop #genre:shmup>h #addon:multitap>pce #port:arcade #lang:en,213
+#players:2:coop #genre:shmup>h #addon:multitap>pce #port:arcade #lang:en #rerelease:pcemini,214
+#players:2:coop #genre:shmup>h #addon:multitap>pce #port:arcade #lang:en #rerelease:virtualconsole>wiiu,215
+#players:2:coop #genre:shmup>h #addon:multitap>pce #port:arcade #lang:ja,216
+#players:2:coop #genre:shmup>v #addon:multitap>pce #compatibility:pcengine>supergrafx #port:arcade #lang:ja,217
+#players:2:coop #genre:shmup>v #addon:multitap>pce #lang:ja,218
+#players:2:coop #genre:shmup>v #addon:multitap>pce #port:arcade #lang:en,219
+#players:2:coop #genre:shmup>v #addon:multitap>pce #port:arcade #lang:ja,220
+#players:2:coop #genre:shooting>gallery #addon:multitap>pce:controller>xe1ap #port:arcade #lang:ja,221
+#players:2:coop:vs #genre:sports>tennis #addon:multitap>pce:controller>avenuepad3 #lang:ja,222
+#players:2:vs #genre:fighting #addon:multitap>pce:controller>avenuepad6 #port:arcade #lang:ja,223
+#players:2:vs #genre:fighting #addon:multitap>pce:controller>avenuepad6 #search:keyword>strip #lang:ja #unlicensed,224
+#players:2:vs #genre:fighting:sports>boxing #addon:multitap>pce #lang:en,225
+#players:2:vs #genre:fighting:sports>boxing #addon:multitap>pce #save:password #lang:ja,226
+#players:2:vs #genre:fighting:sports>kickboxing #addon:multitap>pce #search:keyword>endorsed #port:commodore>amiga #lang:en,227
+#players:2:vs #genre:fighting:sports>sumo #addon:multitap>pce:backup>tennokoe #save:backup:password #port:nintendo>famicom #lang:ja,228
+#players:2:vs #genre:puzzle #addon:multitap>pce:link>comcable #save:password #port:nintendo>gameboy #lang:ja,229
+#players:2:vs #genre:puzzle>drop #addon:link>comcable #port:arcade #lang:ja,230
+#players:2:vs #genre:puzzle>drop #addon:multitap>pce #lang:en,231
+#players:2:vs #genre:puzzle>drop #addon:multitap>pce:link>comcable #lang:en,232
+#players:2:vs #genre:racing #addon:multitap>pce:backup>tennokoe #save:backup:password #lang:ja,233
+#players:2:vs #genre:racing #addon:multitap>pce:backup>tennokoe #save:backup:password #lang:ja #rev:1,234
+#players:2:vs #genre:racing:sports>formula1 #addon:multitap>pce #save:password #lang:en,235
+#players:2:vs #genre:racing:sports>formula1 #addon:multitap>pce #save:password #lang:ja,236
+#players:2:vs #genre:racing:sports>motogp #addon:multitap>pce:backup>tennokoe #save:backup #lang:ja,237
+#players:2:vs #genre:racing>combat #addon:multitap>pce #lang:ja,238
+#players:2:vs #genre:rpg>dungeoncrawler #addon:multitap>pce #save:password #lang:en,239
+#players:2:vs #genre:rpg>dungeoncrawler #addon:multitap>pce #save:password #lang:en #rerelease:virtualconsole>wiiu,240
+#players:2:vs #genre:rpg>dungeoncrawler #addon:multitap>pce #save:password #lang:ja,241
+#players:2:vs #genre:rpg>dungeoncrawler #save:password #lang:ja #rerelease:virtualconsole>wiiu,242
+#players:2:vs #genre:sim>flight #addon:link>comcable:backup>tennokoe #save:backup:password #lang:en,243
+#players:2:vs #genre:sim>strategy #addon:multitap>pce #save:password #lang:en,244
+#players:2:vs #genre:sim>strategy #addon:multitap>pce #save:password #lang:ja,245
+#players:2:vs #genre:sim>strategy #based #lang:ja,246
+#players:2:vs #genre:sim>strategy #save:password #port:nec>pc88 #lang:ja,247
+#players:2:vs #genre:sports #addon:multitap>pce #lang:ja,248
+#players:2:vs #genre:sports #addon:multitap>pce #port:commodore>amiga #lang:en,249
+#players:2:vs #genre:sports #addon:multitap>pce:backup>tennokoe #save:backup:password #lang:ja,250
+#players:2:vs #genre:sports>baseball #addon:multitap>pce #lang:en,251
+#players:2:vs #genre:sports>baseball #addon:multitap>pce #lang:en #rerelease:virtualconsole>wii,252
+#players:2:vs #genre:sports>baseball #addon:multitap>pce #lang:ja,253
+#players:2:vs #genre:sports>baseball #addon:multitap>pce #lang:ja #unfinished:demo,254
+#players:2:vs #genre:sports>baseball #addon:multitap>pce:backup>tennokoe #save:backup:password #lang:ja,255
+#players:2:vs #genre:sports>baseball #addon:multitap>pce:backup>tennokoe #save:backup:password #search:keyword>official #lang:ja,256
+#players:2:vs #genre:sports>basketball #addon:multitap>pce #lang:en,257
+#players:2:vs #genre:sports>basketball #addon:multitap>pce #lang:ja,258
+#players:2:vs #genre:sports>dodgeball #addon:multitap>pce #lang:en,259
+#players:2:vs #genre:sports>dodgeball #addon:multitap>pce #port:arcade #search:feature>kuniokun #lang:ja,260
+#players:2:vs #genre:sports>dodgeball #addon:multitap>pce:backup>tennokoe #save:backup:password #based:manganime #lang:ja,261
+#players:2:vs #genre:sports>soccer #addon:multitap>pce:backup>tennokoe #save:backup:password #lang:ja,262
+#players:2:vs #genre:sports>volleyball #addon:multitap>pce:backup>tennokoe #save:backup #lang:en,263
+#players:2:vs #genre:sports>volleyball #addon:multitap>pce:backup>tennokoe #save:backup #lang:ja,264
+#players:3:vs #genre:racing:sports>formula1 #addon:multitap>pce:backup>tennokoe #save:backup #lang:en,265
+#players:3:vs #genre:sports>golf #addon:multitap>pce #lang:en,266
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:multitap>pce #lang:ja,267
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:multitap>pce #port:arcade #lang:ja,268
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:multitap>pce:backup>tennokoe #save:backup:password #lang:ja,269
+#players:4:coop:vs #genre:sports>baseball #addon:multitap>pce #save:password #lang:en #unfinished:proto,270
+#players:4:coop:vs #genre:sports>baseball #addon:multitap>pce:backup>tennokoe #save:backup:password #lang:ja,271
+#players:4:coop:vs #genre:sports>hockey #addon:multitap>pce #port:arcade #lang:en,272
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>pce #port:nintendo>famicom #search:feature>kuniokun #lang:ja,273
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>pce #save:password #lang:ja,274
+#players:4:coop:vs #genre:sports>soccer #addon:multitap>pce:backup>tennokoe #save:backup #search:keyword>official #lang:ja,275
+#players:4:coop:vs #genre:sports>tennis #addon:multitap>pce #save:password #port:arcade #lang:en,276
+#players:4:coop:vs #genre:sports>tennis #addon:multitap>pce #save:password #port:arcade #lang:ja,277
+#players:4:coop:vs #genre:sports>tennis #addon:multitap>pce:backup>tennokoe #save:backup #lang:ja,278
+#players:4:coop:vs #genre:sports>tennis #addon:multitap>pce:backup>tennokoe #save:backup #search:keyword>official #lang:en,279
+#players:4:coop:vs #genre:sports>volleyball #addon:multitap>pce #save:password #lang:en,280
+#players:4:vs #genre:board #based:manganime #lang:ja,281
+#players:4:vs #genre:board>party #addon:multitap>pce:backup>tennokoe #save:backup #lang:ja,282
+#players:4:vs #genre:board>party #addon:multitap>pce:backup>tennokoe #save:backup #lang:ja #rev:1,283
+#players:4:vs #genre:parlor>billiards #lang:ja,284
+#players:4:vs #genre:sim>derby:racing #addon:multitap>pce #lang:ja,285
+#players:4:vs #genre:sports>baseball #addon:multitap>pce #save:password #lang:ja,286
+#players:4:vs #genre:sports>golf #addon:backup>tennokoe #save:backup #search:keyword>endorsed #port:commodore>c64 #lang:en,287
+#players:4:vs #genre:sports>golf #addon:multitap>pce #lang:ja,288
+#players:4:vs #genre:sports>golf #addon:multitap>pce #save:password #lang:ja,289
+#players:4:vs #genre:sports>golf #lang:ja,290
+#players:5:coop #genre:rpg>a:action>runandgun #addon:multitap>pce #lang:en,291
+#players:5:coop #genre:rpg>a:action>runandgun #addon:multitap>pce #lang:ja,292
+#players:5:coop:vs #genre:sports>basketball #addon:multitap>pce #save:password #lang:en,293
+#players:5:coop:vs #genre:sports>basketball #addon:multitap>pce #save:password #lang:ja,294
+#players:5:coop:vs #genre:sports>football #addon:multitap>pce #save:password #lang:en,295
+#players:5:coop:vs #genre:sports>football #addon:multitap>pce #save:password #lang:ja,296
+#players:5:coop:vs #genre:sports>hockey #addon:multitap>pce #save:password #lang:en,297
+#players:5:coop:vs #genre:sports>hockey #addon:multitap>pce #save:password #lang:ja,298
+#players:5:vs #genre:action>maze #addon:multitap>pce #lang:ja #unfinished:demo,299
+#players:5:vs #genre:action>maze #addon:multitap>pce #unfinished:demo #lang:ja,300
+#players:5:vs #genre:action>maze #addon:multitap>pce:link>comcable #save:backup:password #lang:en #rerelease,301
+#players:5:vs #genre:action>maze #addon:multitap>pce:link>comcable #save:password #lang:ja #rerelease:virtualconsole>wiiu,302
+#players:5:vs #genre:action>maze #addon:multitap>pce:link>comcable:backup>tennokoe #save:backup:password #lang:en,303
+#players:5:vs #genre:action>maze #addon:multitap>pce:link>comcable:backup>tennokoe #save:backup:password #lang:en #rerelease:virtualconsole>wiiu,304
+#players:5:vs #genre:action>maze #addon:multitap>pce:link>comcable:backup>tennokoe #save:backup:password #lang:ja,305
+#players:5:vs #genre:action>maze #addon:multitap>pce:link>comcable:backup>tennokoe #save:backup:password #lang:ja #rerelease:virtualconsole>wiiu,306
+#players:5:vs #genre:board #addon:multitap>pce #lang:ja,307
+#players:5:vs #genre:board>cards #addon:multitap>pce #save:password #lang:en,308
+#players:5:vs #genre:board>cards #addon:multitap>pce #save:password #lang:ja,309
+#players:5:vs #genre:board>party #addon:multitap>pce:backup>tennokoe #save:backup #lang:ja,310
+#players:5:vs #genre:fighting:sports>wrestling #addon:multitap>pce #lang:en,311
+#players:5:vs #genre:puzzle #addon:multitap>pce #lang:ja,312
+#players:5:vs #genre:racing #addon:multitap>pce #lang:en,313
+#players:5:vs #genre:sports>decathlon>rowing>swimming #addon:multitap>pce:backup>tennokoe #save:backup:password #lang:en,314
+#players:5:vs #genre:sports>decathlon>rowing>swimming #addon:multitap>pce:backup>tennokoe #save:backup:password #lang:en #rerelease:virtualconsole>wiiu,315
+#players:5:vs #genre:sports>decathlon>rowing>swimming #addon:multitap>pce:backup>tennokoe #save:backup:password #lang:ja #rerelease:virtualconsole>wiiu,316

@@ -1,0 +1,142 @@
+tag_name,tag_id
+#players:1 #genre:action:adventure #addon:link>ngplink>setsuzoku #save:backup #compatibility:neogeopocket>color #based:manganime #lang:ja,1
+#players:1 #genre:action:adventure #addon:link>setsuzoku #compatibility:neogeopocket>color #lang:ja,2
+#players:1 #genre:action>maze #compatibility:neogeopocket>mono>color #search:feature>pacman #port:arcade #lang:en,3
+#players:1 #genre:action>maze #compatibility:neogeopocket>mono>color #search:feature>pacman #port:arcade #lang:ja,4
+#players:1 #genre:action>runandgun #compatibility:neogeopocket>color #lang:en,5
+#players:1 #genre:action>runandgun #compatibility:neogeopocket>color #lang:en:ja #unfinished:demo,6
+#players:1 #genre:action>runandgun #compatibility:neogeopocket>color #lang:ja,7
+#players:1 #genre:action>runandgun #compatibility:neogeopocket>color #lang:ja #reboxed:snkbestcollection,8
+#players:1 #genre:action>runandgun #save:backup #compatibility:neogeopocket>mono>color #lang:en,9
+#players:1 #genre:action>runandgun #save:backup #compatibility:neogeopocket>mono>color #lang:ja,10
+#players:1 #genre:action>runandgun #save:backup #compatibility:neogeopocket>mono>color #reboxed:snkbestcollection #lang:ja,11
+#players:1 #genre:adventure>visualnovel #save:backup #compatibility:neogeopocket>color #lang:ja,12
+#players:1 #genre:adventure>visualnovel #save:backup #compatibility:neogeopocket>mono>color #lang:ja,13
+#players:1 #genre:board>mahjong:adventure>visualnovel #compatibility:neogeopocket>color #search:keyword>strip #lang:ja,14
+#players:1 #genre:minigames #save:backup #compatibility:neogeopocket>color #lang:ja,15
+#players:1 #genre:notagame>test #compatibility:neogeopocket>color #lang:ja #unfinished:proto,16
+#players:1 #genre:parlor>pachinko #compatibility:neogeopocket>mono>color #lang:ja #unfinished:beta,17
+#players:1 #genre:parlor>pachinko #save:backup #compatibility:neogeopocket>mono>color #lang:ja,18
+#players:1 #genre:parlor>pinball #addon:link>ngplink #compatibility:neogeopocket>color #lang:ja,19
+#players:1 #genre:parlor>pinball #compatibility:neogeopocket>color #lang:ja,20
+#players:1 #genre:parlor>pinball #compatibility:neogeopocket>color #lang:ja #rev:1,21
+#players:1 #genre:parlor>pinball #compatibility:neogeopocket>mono>color #lang:en,22
+#players:1 #genre:parlor>pinball #compatibility:neogeopocket>mono>color #lang:en:ja #unfinished:demo,23
+#players:1 #genre:parlor>pinball #compatibility:neogeopocket>mono>color #lang:ja,24
+#players:1 #genre:parlor>pinball #compatibility:neogeopocket>mono>color #lang:ja #rev:1,25
+#players:1 #genre:parlor>pinball #compatibility:neogeopocket>mono>color #lang:ja #rev:2,26
+#players:1 #genre:parlor>pinball #save:backup #compatibility:neogeopocket>mono #lang:en:ja,27
+#players:1 #genre:parlor>pinball #save:backup #compatibility:neogeopocket>mono>color #lang:en,28
+#players:1 #genre:parlor>pinball #save:backup #compatibility:neogeopocket>mono>color #lang:ja,29
+#players:1 #genre:puzzle #addon:link>ngplink #save:backup #compatibility:neogeopocket>color #lang:en:ja,30
+#players:1 #genre:puzzle #addon:link>ngplink #save:backup #compatibility:neogeopocket>color #lang:en:ja #unfinished:demo,31
+#players:1 #genre:rpg #addon:link>ngplink>radiounitwireless #compatibility:neogeopocket>mono>color #lang:ja #unfinished:beta,32
+#players:1 #genre:rpg #addon:link>ngplink>radiounitwireless #save:backup #compatibility:neogeopocket>mono>color #lang:en,33
+#players:1 #genre:rpg #addon:link>ngplink>radiounitwireless #save:backup #compatibility:neogeopocket>mono>color #lang:ja,34
+#players:1 #genre:rpg>a #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:en,35
+#players:1 #genre:rpg>a #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:ja,36
+#players:1 #genre:rpg>j #addon:link>ngplink #compatibility:neogeopocket>mono>color #lang:ja #unfinished:demo,37
+#players:1 #genre:rpg>j #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color,38
+#players:1 #genre:rpg>j #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:en,39
+#players:1 #genre:rpg>j #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:ja,40
+#players:1 #genre:rpg>j #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #rev:1,41
+#players:1 #genre:rpg>j #compatibility:neogeopocket>color #lang:ja,42
+#players:1 #genre:rpg>s #addon:link>ngplink #save:backup #compatibility:neogeopocket>color #lang:ja,43
+#players:1 #genre:shmup>h #compatibility:neogeopocket>mono>color,44
+#players:1 #genre:shmup>h #compatibility:neogeopocket>mono>color #port:arcade,45
+#players:1 #genre:sim>cardgame #addon:link>ngplink>radiounitwireless #compatibility:neogeopocket>mono>color #lang:ja #unfinished:beta,46
+#players:1 #genre:sim>cardgame #addon:link>ngplink>radiounitwireless #save:backup #compatibility:neogeopocket>mono>color #lang:ja,47
+#players:1 #genre:sim>derby #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:ja,48
+#players:1 #genre:sim>life #save:backup #compatibility:neogeopocket>mono #lang:ja,49
+#players:1 #genre:sim>strategy #addon:link>ngplink #compatibility:neogeopocket>color #based:manganime #lang:ja,50
+#players:1 #genre:sim>train #compatibility:neogeopocket>mono>color #lang:ja #unfinished:demo,51
+#players:1 #genre:sim>train #save:backup #compatibility:neogeopocket>mono>color #lang:ja,52
+#players:1 #genre:sports>snowboarding #save:backup #compatibility:neogeopocket>color #lang:en,53
+#players:1 #genre:sports>snowboarding #save:backup #compatibility:neogeopocket>color #lang:ja,54
+#players:2:coop:vs #genre:fighting #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color,55
+#players:2:coop:vs #genre:fighting #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #unfinished:demo,56
+#players:2:vs #genre:action>maze #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #port:arcade #lang:en,57
+#players:2:vs #genre:action>maze #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #port:arcade #lang:ja,58
+#players:2:vs #genre:action>platformer #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #search:feature>sonic #lang:en,59
+#players:2:vs #genre:action>platformer #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #search:feature>sonic #lang:en:ja #unfinished:beta,60
+#players:2:vs #genre:action>platformer #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #search:feature>sonic #lang:en:ja #unfinished:demo,61
+#players:2:vs #genre:action>platformer #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #search:feature>sonic #lang:ja,62
+#players:2:vs #genre:board:minigames #addon:link>ngplink>setsuzoku #save:backup #compatibility:neogeopocket>color #lang:ja,63
+#players:2:vs #genre:board>cards #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color,64
+#players:2:vs #genre:board>cards #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:en,65
+#players:2:vs #genre:board>cards #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:en:ja #rev:1,66
+#players:2:vs #genre:board>cards #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:ja,67
+#players:2:vs #genre:board>cards #addon:link>ngplink>radiounitwireless #compatibility:neogeopocket>mono>color #lang:en #unfinished:beta,68
+#players:2:vs #genre:board>cards #addon:link>ngplink>radiounitwireless #save:backup #compatibility:neogeopocket>mono>color #lang:en,69
+#players:2:vs #genre:board>cards #addon:link>ngplink>radiounitwireless #save:backup #compatibility:neogeopocket>mono>color #lang:en #rev:1,70
+#players:2:vs #genre:board>hanafuda #addon:link>ngplink #compatibility:neogeopocket>color #lang:ja,71
+#players:2:vs #genre:board>mahjong #addon:link>ngplink #compatibility:neogeopocket>color,72
+#players:2:vs #genre:board>mahjong #addon:link>ngplink #compatibility:neogeopocket>color #rev:1,73
+#players:2:vs #genre:board>mahjong #addon:link>ngplink #compatibility:neogeopocket>mono>color #lang:ja,74
+#players:2:vs #genre:board>reversi #addon:link>ngplink #save:backup #compatibility:neogeopocket>color,75
+#players:2:vs #genre:board>reversi #addon:link>ngplink #save:backup #compatibility:neogeopocket>color #rev:1,76
+#players:2:vs #genre:board>shougi #addon:link>ngplink #compatibility:neogeopocket>mono #lang:ja,77
+#players:2:vs #genre:board>shougi #addon:link>ngplink #compatibility:neogeopocket>mono>color #lang:ja,78
+#players:2:vs #genre:fighting #addon:link>ngplink #compatibility:neogeopocket>mono #lang:ja,79
+#players:2:vs #genre:fighting #addon:link>ngplink #compatibility:neogeopocket>mono>color #lang:en,80
+#players:2:vs #genre:fighting #addon:link>ngplink #compatibility:neogeopocket>mono>color #lang:ja,81
+#players:2:vs #genre:fighting #addon:link>ngplink #compatibility:neogeopocket>mono>color #reboxed:snkbestcollection #lang:ja,82
+#players:2:vs #genre:fighting #addon:link>ngplink #save:backup #compatibility:neogeopocket>color,83
+#players:2:vs #genre:fighting #addon:link>ngplink #save:backup #compatibility:neogeopocket>color #reboxed:snkbestcollection,84
+#players:2:vs #genre:fighting #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono #lang:en,85
+#players:2:vs #genre:fighting #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono #lang:ja,86
+#players:2:vs #genre:fighting #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:en,87
+#players:2:vs #genre:fighting #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:ja,88
+#players:2:vs #genre:fighting #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #reboxed:snkbestcollection #lang:ja,89
+#players:2:vs #genre:fighting #addon:link>ngplink>setsuzoku #compatibility:neogeopocket>color #lang:en,90
+#players:2:vs #genre:fighting #addon:link>ngplink>setsuzoku #compatibility:neogeopocket>color #lang:ja,91
+#players:2:vs #genre:fighting #addon:link>ngplink>setsuzoku #compatibility:neogeopocket>color #lang:ja #reboxed:snkbestcollection,92
+#players:2:vs #genre:fighting #addon:link>ngplink>setsuzoku #compatibility:neogeopocket>color #lang:ja #unfinished:demo,93
+#players:2:vs #genre:fighting #addon:link>ngplink>setsuzoku #compatibility:neogeopocket>mono>color #lang:en:ja #unfinished:demo>1,94
+#players:2:vs #genre:fighting #addon:link>ngplink>setsuzoku #compatibility:neogeopocket>mono>color #lang:en:ja #unfinished:demo>2,95
+#players:2:vs #genre:fighting #addon:link>ngplink>setsuzoku #save:backup #compatibility:neogeopocket>mono>color #lang:en,96
+#players:2:vs #genre:fighting #addon:link>ngplink>setsuzoku #save:backup #compatibility:neogeopocket>mono>color #lang:ja,97
+#players:2:vs #genre:fighting:sim>life #addon:link>ngplink #compatibility:neogeopocket>mono #lang:ja #unfinished:demo,98
+#players:2:vs #genre:fighting:sports>wrestling #compatibility:neogeopocket>color #lang:en #unfinished:beta,99
+#players:2:vs #genre:fighting:sports>wrestling #compatibility:neogeopocket>color #lang:en:ja,100
+#players:2:vs #genre:puzzle #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:en,101
+#players:2:vs #genre:puzzle #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:ja,102
+#players:2:vs #genre:puzzle #addon:link>ngplink #save:password #compatibility:neogeopocket>mono>color #lang:en,103
+#players:2:vs #genre:puzzle #addon:link>ngplink #save:password #compatibility:neogeopocket>mono>color #lang:en:ja #unfinished:beta>1,104
+#players:2:vs #genre:puzzle #addon:link>ngplink #save:password #compatibility:neogeopocket>mono>color #lang:en:ja #unfinished:beta>2,105
+#players:2:vs #genre:puzzle #addon:link>ngplink #save:password #compatibility:neogeopocket>mono>color #lang:ja,106
+#players:2:vs #genre:puzzle>drop #addon:link>ngplink #compatibility:neogeopocket>mono>color,107
+#players:2:vs #genre:puzzle>drop #addon:link>ngplink #compatibility:neogeopocket>mono>color #lang:ja #unfinished:demo,108
+#players:2:vs #genre:puzzle>drop #addon:link>ngplink #compatibility:neogeopocket>mono>color #unfinished:beta,109
+#players:2:vs #genre:puzzle>drop #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono,110
+#players:2:vs #genre:puzzle>drop #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color,111
+#players:2:vs #genre:puzzle>drop #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:en,112
+#players:2:vs #genre:puzzle>drop #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #port:arcade #lang:en:ja #rev:1,113
+#players:2:vs #genre:puzzle>drop #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #port:arcade #lang:ja,114
+#players:2:vs #genre:puzzle>drop #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #port:sega>megadrive #lang:en,115
+#players:2:vs #genre:quiz:notagame>educational #addon:link>ngplink #compatibility:neogeopocket>color #lang:ja,116
+#players:2:vs #genre:rhythm #addon:link>ngplink #compatibility:neogeopocket>color #unfinished:proto,117
+#players:2:vs #genre:rhythm #addon:link>ngplink>setsuzoku #compatibility:neogeopocket>color #lang:ja,118
+#players:2:vs #genre:rpg #addon:link>ngplink>radiounitwireless #save:backup #compatibility:neogeopocket>mono>color #lang:en,119
+#players:2:vs #genre:rpg #addon:link>ngplink>radiounitwireless #save:backup #compatibility:neogeopocket>mono>color #lang:ja,120
+#players:2:vs #genre:rpg>j #addon:link>ngplink #compatibility:neogeopocket>color #lang:ja,121
+#players:2:vs #genre:rpg>s #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color,122
+#players:2:vs #genre:sim>cardgame #addon:link>ngplink>radiounitwireless #compatibility:neogeopocket>mono>color,123
+#players:2:vs #genre:sim>cardgame #addon:link>ngplink>radiounitwireless #compatibility:neogeopocket>mono>color #reboxed:snkbestcollection,124
+#players:2:vs #genre:sim>cardgame #addon:link>ngplink>radiounitwireless #compatibility:neogeopocket>mono>color #unfinished:demo,125
+#players:2:vs #genre:sim>cardgame #addon:link>ngplink>setsuzoku #compatibility:neogeopocket>color,126
+#players:2:vs #genre:sports>baseball #addon:link>ngplink #compatibility:neogeopocket>color #lang:en,127
+#players:2:vs #genre:sports>baseball #addon:link>ngplink #compatibility:neogeopocket>color #lang:ja,128
+#players:2:vs #genre:sports>baseball #addon:link>ngplink #compatibility:neogeopocket>color #lang:ja #rev:1,129
+#players:2:vs #genre:sports>baseball #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono #lang:en,130
+#players:2:vs #genre:sports>baseball #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono #lang:ja,131
+#players:2:vs #genre:sports>baseball #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:en,132
+#players:2:vs #genre:sports>baseball #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:ja,133
+#players:2:vs #genre:sports>golf #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:en,134
+#players:2:vs #genre:sports>golf #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:ja,135
+#players:2:vs #genre:sports>soccer #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono #lang:ja,136
+#players:2:vs #genre:sports>soccer #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:en:ja,137
+#players:2:vs #genre:sports>soccer #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:ja,138
+#players:2:vs #genre:sports>tennis #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono #lang:ja,139
+#players:2:vs #genre:sports>tennis #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:en,140
+#players:2:vs #genre:sports>tennis #addon:link>ngplink #save:backup #compatibility:neogeopocket>mono>color #lang:ja,141

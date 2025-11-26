@@ -1,0 +1,507 @@
+tag_name,tag_id
+#input:buttons>23 #players:1 #genre:board>mahjong #arcadeboard:taito>f2system #search:keyword>strip #lang:ja,1
+#input:buttons>23 #players:1 #genre:board>mahjong #arcadeboard:taito>f2system #search:keyword>strip #lang:ja #mameparent,2
+#input:buttons>3 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #lang:en,3
+#input:buttons>3 #players:2:vs #genre:minigames:sports #arcadeboard:taito #lang:en #mameparent,4
+#input:buttons>3 #players:2:vs #genre:minigames:sports #arcadeboard:taito #lang:ja,5
+#input:buttons>3 #players:2:vs #genre:shmup #arcadeboard:taito>bsystem #lang:en,6
+#input:buttons>3 #players:2:vs #genre:shmup #arcadeboard:taito>bsystem #lang:en #mameparent,7
+#input:buttons>3 #players:2:vs #genre:shmup #arcadeboard:taito>f3system #lang:en,8
+#input:buttons>3 #players:2:vs #genre:sports>decathlon>swimming #arcadeboard:taito>hsystem #lang:en #mameparent,9
+#input:buttons>3 #players:2:vs #genre:sports>decathlon>swimming #arcadeboard:taito>hsystem #lang:ja,10
+#input:buttons>4 #players:2:alt #genre:action>maze #search:tate>ccw #arcadeboard:taito #set:1 #lang:en #mameparent,11
+#input:buttons>4 #players:2:alt #genre:action>maze #search:tate>ccw #arcadeboard:taito #set:2 #lang:en,12
+#input:buttons>4 #players:2:alt #genre:parlor>pinball #search:tate>ccw #arcadeboard:taito #lang:en,13
+#input:buttons>4 #players:2:alt #genre:parlor>pinball #search:tate>ccw #arcadeboard:taito #lang:en #mameparent,14
+#input:buttons>4 #players:2:coop:vs #genre:quiz #arcadeboard:taito>f2system #lang:ja #mameparent,15
+#input:buttons>4 #players:2:vs #genre:quiz #arcadeboard:taito>f2system #based:manganime #lang:ja #mameparent,16
+#input:buttons>4 #players:2:vs #genre:quiz #arcadeboard:taito>f2system #lang:ja #mameparent,17
+#input:buttons>4 #players:2:vs #genre:quiz #arcadeboard:taito>f3system #search:keyword>endorsed #lang:ja #mameparent,18
+#input:buttons>4 #players:2:vs #genre:quiz:minigames #arcadeboard:taito>f3system #lang:ja #mameparent,19
+#input:buttons>4 #players:2:vs #genre:quiz:rpg>j #arcadeboard:taito>f2system #lang:ja #mameparent,20
+#input:buttons>4 #players:4:vs #genre:quiz #arcadeboard:taito>bsystem #based #lang:ja #mameparent,21
+#input:buttons>8 #players:1 #genre:board>cards #arcadeboard:taito>osystem #lang:ja #mameparent,22
+#input:dial:buttons>1 #players:2:alt #genre:action>blockbreaker #search:tate>cw #arcadeboard:taito #lang:en,23
+#input:dial:buttons>1 #players:2:alt #genre:action>blockbreaker #search:tate>cw #arcadeboard:taito #lang:en #mameparent,24
+#input:dial:buttons>1 #players:2:alt #genre:action>blockbreaker #search:tate>cw #arcadeboard:taito #lang:en #unlicensed:bootleg,25
+#input:dial:buttons>1 #players:2:alt #genre:action>blockbreaker #search:tate>cw #arcadeboard:taito #set:1 #lang:en #unlicensed:bootleg,26
+#input:dial:buttons>1 #players:2:alt #genre:action>blockbreaker #search:tate>cw #arcadeboard:taito #set:2 #lang:en #unlicensed:bootleg,27
+#input:dial:buttons>1 #players:2:alt #genre:action>blockbreaker #search:tate>cw #arcadeboard:taito #set:3 #lang:en #unlicensed:bootleg,28
+#input:dial:buttons>1 #players:2:coop #genre:action>blockbreaker #arcadeboard:taito #lang:en #mameparent,29
+#input:dial:buttons>1 #players:2:coop #genre:action>blockbreaker #arcadeboard:taito>f3system #lang:en,30
+#input:dial:buttons>1 #players:2:coop #genre:action>blockbreaker #arcadeboard:taito>f3system #lang:en #mameparent,31
+#input:dial:buttons>2 #players:2:alt #genre:action>blockbreaker #search:tate>ccw #arcadeboard:taito #lang:en,32
+#input:dial:buttons>2 #players:2:alt #genre:action>blockbreaker #search:tate>ccw #arcadeboard:taito #lang:en #mameparent,33
+#input:dial:buttons>2 #players:2:alt #genre:action>blockbreaker #search:tate>ccw #arcadeboard:taito #lang:en #unlicensed:bootleg,34
+#input:joystick>2h:buttons>1 #players:1 #genre:shmup #arcadeboard:taito #lang:en #mameparent,35
+#input:joystick>2h:buttons>1 #players:2:alt #genre:action>platformer #search:tate>cw #arcadeboard:taito #lang:en #mameparent,36
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #lang:en,37
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #lang:en #mameparent,38
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #lang:en #unlicensed:bootleg,39
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #lang:es #unlicensed:bootleg,40
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #lang:it #unlicensed:bootleg,41
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #lang:ja #unlicensed:bootleg,42
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #lang:pt,43
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #rev:1 #lang:en,44
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #rev:2 #lang:en,45
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #rev:3 #lang:en,46
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #rev:4 #lang:en,47
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #set:1 #lang:en,48
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #set:1 #lang:en #unlicensed:bootleg,49
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #set:1 #lang:it #unlicensed:bootleg,50
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #set:2 #lang:en,51
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #set:2 #lang:en #unlicensed:bootleg,52
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #set:2 #lang:it #unlicensed:bootleg,53
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #set:3 #lang:en #unlicensed:bootleg,54
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>ccw #based:starwars #arcadeboard:taito #lang:en #unlicensed:bootleg,55
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>cw #arcadeboard:taito #lang:en #mameparent,56
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>cw #arcadeboard:taito #lang:en #unlicensed:bootleg,57
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>cw #arcadeboard:taito #set:1 #lang:en #unlicensed:bootleg,58
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>cw #arcadeboard:taito #set:2 #lang:en #unlicensed:bootleg,59
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup #search:tate>cw #arcadeboard:taito #set:3 #lang:en #unlicensed:bootleg,60
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup:action>maze #search:tate>ccw #arcadeboard:taito #lang:en #mameparent,61
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup:action>maze #search:tate>ccw #arcadeboard:taito #lang:en #unlicensed:bootleg,62
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup:action>maze #search:tate>ccw #arcadeboard:taito #lang:es #unlicensed:bootleg,63
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup:action>maze #search:tate>ccw #arcadeboard:taito #set:1 #lang:en #unlicensed:bootleg,64
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup:action>maze #search:tate>ccw #arcadeboard:taito #set:2 #lang:en #unlicensed:bootleg,65
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup:notagame>test #search:tate>ccw #arcadeboard:taito #lang:en,66
+#input:joystick>2h:buttons>1 #players:2:alt #genre:shmup:puzzle #search:tate>ccw #arcadeboard:taito #multigame:compilation>spaceinvaders>qix #lang:en #mameparent,67
+#input:joystick>2h:buttons>1 #players:2:alt #genre:sports>skiing #search:tate>ccw #arcadeboard:taito #set:1 #lang:en #mameparent,68
+#input:joystick>2h:buttons>1 #players:2:alt #genre:sports>skiing #search:tate>ccw #arcadeboard:taito #set:2 #lang:en,69
+#input:joystick>2h:buttons>1 #players:2:coop #genre:shmup #search:tate>ccw #arcadeboard:taito>f3system #lang:en,70
+#input:joystick>2h:buttons>1 #players:2:coop #genre:shmup #search:tate>ccw #arcadeboard:taito>f3system #lang:en #mameparent,71
+#input:joystick>2h:buttons>1 #players:2:coop #genre:shmup #search:tate>ccw #arcadeboard:taito>f3system #lang:ja,72
+#input:joystick>2h:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>bsystem #lang:en,73
+#input:joystick>2h:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>bsystem #lang:ja #mameparent,74
+#input:joystick>2h:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>f3system #lang:en,75
+#input:joystick>2h:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>f3system #lang:en #mameparent,76
+#input:joystick>2h:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>f3system #lang:ja,77
+#input:joystick>2h:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>f3system #lang:ja #mameparent,78
+#input:joystick>2h:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>f3system #lang:ja #unfinished:proto,79
+#input:joystick>2h:buttons>2 #players:2:alt #genre:action:puzzle #arcadeboard:taito #lang:en #mameparent,80
+#input:joystick>2h:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en,81
+#input:joystick>2h:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en #mameparent,82
+#input:joystick>2h:buttons>2 #players:2:alt #genre:shmup #search:tate>cw #arcadeboard:taito #lang:en #mameparent,83
+#input:joystick>2h:buttons>2 #players:2:alt #genre:sports>skiing #search:tate>ccw #arcadeboard:taito #lang:en #mameparent,84
+#input:joystick>2h:buttons>2 #players:2:alt #search:tate>ccw #genre:shmup #arcadeboard:taito #unlicensed:bootleg,85
+#input:joystick>2h:buttons>2 #players:2:alt #search:tate>cw #genre:shmup #arcadeboard:taito,86
+#input:joystick>2h:buttons>2 #players:2:alt #search:tate>cw #genre:shmup #arcadeboard:taito #unlicensed:bootleg,87
+#input:joystick>2h:buttons>2 #players:2:alt #search:tate>cw #genre:shmup #set:1 #arcadeboard:taito,88
+#input:joystick>2h:buttons>2 #players:2:alt #search:tate>cw #genre:shmup #set:1 #arcadeboard:taito #mameparent,89
+#input:joystick>2h:buttons>2 #players:2:alt #search:tate>cw #genre:shmup #set:2 #arcadeboard:taito,90
+#input:joystick>2h:buttons>2 #players:2:alt #search:tate>cw #genre:shmup #set:3 #arcadeboard:taito,91
+#input:joystick>2h:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #lang:en,92
+#input:joystick>2h:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #lang:en #mameparent,93
+#input:joystick>2h:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #lang:en #unfinished:proto,94
+#input:joystick>2h:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #lang:en #unlicensed:bootleg,95
+#input:joystick>2h:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #set:1 #lang:en,96
+#input:joystick>2h:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #set:1 #lang:en #unlicensed:bootleg,97
+#input:joystick>2h:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #set:2 #lang:en,98
+#input:joystick>2h:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #set:2 #lang:en #unlicensed:bootleg,99
+#input:joystick>2h:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #set:3 #lang:en #unlicensed:bootleg,100
+#input:joystick>2h:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #set:4 #lang:en #unlicensed:bootleg,101
+#input:joystick>2h:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #set:5 #lang:en #unlicensed:bootleg,102
+#input:joystick>2h:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #set:6 #lang:en #unlicensed:bootleg,103
+#input:joystick>2h:buttons>2 #players:2:coop #genre:shmup #search:tate>ccw #arcadeboard:taito>f2system #lang:en,104
+#input:joystick>2h:buttons>2 #players:2:coop #genre:shmup #search:tate>ccw #arcadeboard:taito>f2system #rev:1 #lang:en #mameparent,105
+#input:joystick>2h:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>f3system #lang:en,106
+#input:joystick>2h:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>f3system #lang:en #mameparent,107
+#input:joystick>2h:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>f3system #lang:ja,108
+#input:joystick>2h:buttons>3 #players:2:alt #genre:fighting #arcadeboard:taito #lang:en,109
+#input:joystick>2h:buttons>3 #players:2:alt #genre:fighting #arcadeboard:taito #lang:en #mameparent,110
+#input:joystick>2v:buttons>1 #players:2:alt #genre:action>maze #arcadeboard:taito #lang:en #mameparent,111
+#input:joystick>4 #players:2:alt #genre:action>maze #search:tate>ccw #arcadeboard:taito #lang:en:fr:es:de #rev:1 #mameparent,112
+#input:joystick>4 #players:2:alt #genre:action>maze #search:tate>ccw #arcadeboard:taito #set:2 #lang:en:fr:es:de,113
+#input:joystick>4:buttons>1 #players:1 #genre:action #arcadeboard:taito>lgsystem #based:manganime #lang:ja:en,114
+#input:joystick>4:buttons>1 #players:1 #genre:action #arcadeboard:taito>lgsystem #lang:ja,115
+#input:joystick>4:buttons>1 #players:2:alt #genre:action:puzzle #search:tate>ccw #arcadeboard:taito #lang:en,116
+#input:joystick>4:buttons>1 #players:2:alt #genre:action:puzzle #search:tate>ccw #arcadeboard:taito #lang:en #rev:1,117
+#input:joystick>4:buttons>1 #players:2:alt #genre:action:puzzle #search:tate>ccw #arcadeboard:taito #lang:en #rev:1 #mameparent,118
+#input:joystick>4:buttons>1 #players:2:alt #genre:action:puzzle #search:tate>cw #arcadeboard:taito #lang:en,119
+#input:joystick>4:buttons>1 #players:2:alt #genre:action:puzzle #search:tate>cw #arcadeboard:taito #lang:en #unlicensed:bootleg,120
+#input:joystick>4:buttons>1 #players:2:alt #genre:action:puzzle #search:tate>cw #arcadeboard:taito #set:1 #lang:en #mameparent,121
+#input:joystick>4:buttons>1 #players:2:alt #genre:action:puzzle #search:tate>cw #arcadeboard:taito #set:2 #lang:en,122
+#input:joystick>4:buttons>1 #players:2:alt #genre:action:puzzle #search:tate>cw #arcadeboard:taito #set:3 #lang:en,123
+#input:joystick>4:buttons>1 #players:2:alt #genre:action>maze #search:tate>ccw #arcadeboard:taito #lang:en #unlicensed:bootleg,124
+#input:joystick>4:buttons>1 #players:2:alt #genre:action>maze #search:tate>ccw #arcadeboard:taito #set:1 #based:manganime #lang:en #mameparent,125
+#input:joystick>4:buttons>1 #players:2:alt #genre:action>maze #search:tate>ccw #arcadeboard:taito #set:1 #lang:en,126
+#input:joystick>4:buttons>1 #players:2:alt #genre:action>maze #search:tate>ccw #arcadeboard:taito #set:1 #lang:en #mameparent,127
+#input:joystick>4:buttons>1 #players:2:alt #genre:action>maze #search:tate>ccw #arcadeboard:taito #set:2 #based:manganime #lang:en,128
+#input:joystick>4:buttons>1 #players:2:alt #genre:action>maze #search:tate>ccw #arcadeboard:taito #set:2 #lang:en,129
+#input:joystick>4:buttons>1 #players:2:alt #genre:action>maze #search:tate>ccw #arcadeboard:taito #set:3 #lang:en,130
+#input:joystick>4:buttons>1 #players:2:alt #genre:action>maze #search:tate>ccw #arcadeboard:taito #set:4 #lang:en,131
+#input:joystick>4:buttons>1 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en #unlicensed:bootleg,132
+#input:joystick>4:buttons>1 #players:2:alt #genre:action>platformer #arcadeboard:taito #set:1 #lang:en #mameparent,133
+#input:joystick>4:buttons>1 #players:2:alt #genre:action>platformer #arcadeboard:taito #set:2 #lang:en,134
+#input:joystick>4:buttons>1 #players:2:alt #genre:action>platformer #arcadeboard:taito #set:3 #lang:en,135
+#input:joystick>4:buttons>1 #players:2:alt #genre:action>platformer>maze #arcadeboard:taito #lang:ja #mameparent,136
+#input:joystick>4:buttons>1 #players:2:alt #genre:racing:sports>formula1 #search:tate>cw #arcadeboard:taito #lang:en,137
+#input:joystick>4:buttons>1 #players:2:alt #genre:racing:sports>formula1 #search:tate>cw #arcadeboard:taito #lang:en #rev:1 #mameparent,138
+#input:joystick>4:buttons>1 #players:2:vs #genre:action:puzzle #arcadeboard:taito>f3system #lang:en #unfinished:proto #mameparent,139
+#input:joystick>4:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>f3system #lang:en #unlicensed:bootleg,140
+#input:joystick>4:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>f3system #lang:ja #mameparent,141
+#input:joystick>4:buttons>2 #players:1 #genre:action #arcadeboard:taito>lgsystem #lang:en,142
+#input:joystick>4:buttons>2 #players:1 #genre:action #arcadeboard:taito>lgsystem #lang:ja,143
+#input:joystick>4:buttons>2 #players:2:alt #genre:action:puzzle #search:tate>ccw #arcadeboard:taito #lang:en,144
+#input:joystick>4:buttons>2 #players:2:alt #genre:action:puzzle #search:tate>ccw #arcadeboard:taito #lang:en #rev:2 #mameparent,145
+#input:joystick>4:buttons>2 #players:2:alt #genre:action:puzzle #search:tate>ccw #arcadeboard:taito #set:2 #lang:en,146
+#input:joystick>4:buttons>2 #players:2:alt #genre:action:puzzle #search:tate>ccw #arcadeboard:taito #set:3 #lang:en,147
+#input:joystick>4:buttons>2 #players:2:alt #genre:action>maze #arcadeboard:taito #lang:en,148
+#input:joystick>4:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en,149
+#input:joystick>4:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en #mameparent,150
+#input:joystick>4:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en #unlicensed:bootleg,151
+#input:joystick>4:buttons>2 #players:2:alt #genre:shmup>v #search:tate>ccw #arcadeboard:taito #lang:en,152
+#input:joystick>4:buttons>2 #players:2:alt #genre:sports>volleyball #search:tate>ccw #arcadeboard:taito #lang:en #mameparent,153
+#input:joystick>4:buttons>2 #players:2:vs #genre:fighting:sports>boxing #arcadeboard:taito #based:manganime #lang:en #mameparent,154
+#input:joystick>4:buttons>2 #players:2:vs #genre:fighting:sports>boxing #arcadeboard:taito #based:manganime #lang:ja,155
+#input:joystick>4:buttons>2 #players:2:vs #genre:fighting:sports>boxing #search:tate>cw #arcadeboard:taito #lang:en,156
+#input:joystick>4:buttons>2 #players:2:vs #genre:fighting:sports>boxing #search:tate>cw #arcadeboard:taito #lang:en #mameparent,157
+#input:joystick>4:buttons>2 #players:2:vs #genre:fighting:sports>boxing #search:tate>cw #arcadeboard:taito #lang:en #rev:1,158
+#input:joystick>4:buttons>3 #players:2:alt #genre:sports>tennis #arcadeboard:taito #lang:en,159
+#input:joystick>4:buttons>3 #players:2:alt #genre:sports>tennis #arcadeboard:taito #lang:en #mameparent,160
+#input:joystick>4:buttons>4 #players:4:vs #genre:fighting:sim>strategy #arcadeboard:taito>f3system #lang:ja #unfinished:proto #mameparent,161
+#input:joystick>4:positional>3:buttons>1 #players:1 #genre:action #arcadeboard:taito #set:1 #lang:en #mameparent,162
+#input:joystick>4:positional>3:buttons>1 #players:1 #genre:action #arcadeboard:taito #set:2 #lang:en,163
+#input:joystick>8:buttons>1 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en,164
+#input:joystick>8:buttons>1 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en #alt,165
+#input:joystick>8:buttons>1 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en #mameparent,166
+#input:joystick>8:buttons>1 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en #unlicensed:bootleg,167
+#input:joystick>8:buttons>1 #players:2:alt #genre:action>platformer #arcadeboard:taito #unfinished:proto #mameparent,168
+#input:joystick>8:buttons>1 #players:2:alt #genre:shmup>v #search:tate>ccw #arcadeboard:taito #based:movie #lang:en #mameparent,169
+#input:joystick>8:buttons>1 #players:2:vs #genre:action>blockbreaker #arcadeboard:taito>lsystem #lang:ja #mameparent,170
+#input:joystick>8:buttons>1 #players:2:vs #genre:minigames #arcadeboard:taito>f2system #based:manganime #lang:ja #mameparent,171
+#input:joystick>8:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>xsystem #lang:en #mameparent,172
+#input:joystick>8:buttons>2 #players:1 #genre:racing:sports>motogp #arcadeboard:taito #lang:ja,173
+#input:joystick>8:buttons>2 #players:1 #genre:shooting>gallery #arcadeboard:taito>zsystem #lang:en #mameparent,174
+#input:joystick>8:buttons>2 #players:1 #genre:shooting>gallery #arcadeboard:taito>zsystem #lang:ja,175
+#input:joystick>8:buttons>2 #players:2:alt #genre:action:shmup #search:tate>ccw #arcadeboard:taito #lang:ja #rev:1 #mameparent,176
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>hackandslash #arcadeboard:taito>lsystem #lang:en,177
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>hackandslash #arcadeboard:taito>lsystem #lang:en #mameparent,178
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>hackandslash #arcadeboard:taito>lsystem #lang:en #unfinished:proto,179
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>hackandslash #arcadeboard:taito>lsystem #lang:ja,180
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>maze #arcadeboard:taito #set:1 #lang:en #mameparent,181
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>maze #arcadeboard:taito #set:2 #lang:en,182
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>maze #arcadeboard:taito #set:3 #lang:en,183
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>maze #search:tate>ccw #arcadeboard:taito #lang:ja #mameparent,184
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en,185
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en #mameparent,186
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en #rev:1 #mameparent,187
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en #unfinished:proto,188
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en #unfinished:proto>1,189
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en #unfinished:proto>2,190
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:en #unlicensed:bootleg,191
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #lang:ja,192
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #rev:1 #lang:en,193
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #rev:1 #lang:en #mameparent,194
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #rev:1 #lang:ja,195
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #set:1 #lang:en #unlicensed:bootleg,196
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #set:2 #lang:en #unlicensed:bootleg,197
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito #set:3 #lang:en #unlicensed:bootleg,198
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito>f2system #lang:en,199
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito>f2system #lang:en #mameparent,200
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>platformer #arcadeboard:taito>f2system #lang:ja,201
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>runandgun #arcadeboard:taito #lang:en,202
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>runandgun #arcadeboard:taito #lang:en #rev:2 #mameparent,203
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>runandgun #arcadeboard:taito #set:1 #lang:en #unlicensed:bootleg,204
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>runandgun #arcadeboard:taito #set:2 #lang:en #unlicensed:bootleg,205
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>runandgun #arcadeboard:taito #set:3 #lang:en #unlicensed:bootleg,206
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>runandgun #arcadeboard:taito #set:4 #lang:en #unlicensed:bootleg,207
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>runandgun #search:tate>ccw #arcadeboard:taito #lang:en #mameparent,208
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>runandgun #search:tate>ccw #arcadeboard:taito #set:1 #lang:en #mameparent,209
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>runandgun #search:tate>ccw #arcadeboard:taito #set:2 #lang:en,210
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>runandgun #search:tate>ccw #arcadeboard:taito #set:3 #lang:en,211
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>runandgun #search:tate>cw #arcadeboard:taito #lang:en #mameparent,212
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>runandgun #search:tate>cw #arcadeboard:taito #set:1 #lang:en #unlicensed:bootleg,213
+#input:joystick>8:buttons>2 #players:2:alt #genre:action>runandgun #search:tate>cw #arcadeboard:taito #set:2 #lang:en #unlicensed:bootleg,214
+#input:joystick>8:buttons>2 #players:2:alt #genre:brawler #arcadeboard:taito #lang:en,215
+#input:joystick>8:buttons>2 #players:2:alt #genre:brawler #arcadeboard:taito #lang:en #mameparent,216
+#input:joystick>8:buttons>2 #players:2:alt #genre:racing #search:tate>ccw #arcadeboard:taito #lang:en #mameparent,217
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:taito #lang:en,218
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:taito #lang:en #mameparent,219
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:taito #lang:en #unlicensed:bootleg,220
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:taito #lang:ja,221
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:taito>xsystem #lang:en,222
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>h #arcadeboard:taito>xsystem #lang:en #mameparent,223
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>v #search:tate>ccw #arcadeboard:taito>bsystem #lang:en,224
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>v #search:tate>ccw #arcadeboard:taito>bsystem #lang:en #mameparent,225
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>v #search:tate>ccw #arcadeboard:taito>bsystem #lang:en #unfinished:proto,226
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>v #search:tate>cw #arcadeboard:taito #lang:en,227
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>v #search:tate>cw #arcadeboard:taito #lang:en #mameparent,228
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>v #search:tate>cw #arcadeboard:taito #lang:en #rev:1,229
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>v #search:tate>cw #arcadeboard:taito #lang:en #unfinished:proto,230
+#input:joystick>8:buttons>2 #players:2:alt #genre:shooting>gallery #arcadeboard:taito #lang:en #mameparent,231
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>hackandslash #arcadeboard:taito #lang:en,232
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>hackandslash #arcadeboard:taito #lang:en #mameparent,233
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>hackandslash #arcadeboard:taito>bsystem #lang:en,234
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>hackandslash #arcadeboard:taito>bsystem #lang:en #mameparent,235
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>hackandslash:shmup>h #arcadeboard:taito>xsystem #based #lang:en,236
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>hackandslash:shmup>h #arcadeboard:taito>xsystem #based #lang:en #mameparent,237
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #lang:de,238
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #lang:en #mameparent,239
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #lang:fr,240
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #lang:it,241
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #lang:ja,242
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #rev:1 #lang:de,243
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #rev:1 #lang:en,244
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #rev:1 #lang:es,245
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #rev:1 #lang:ja,246
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #rev:2 #lang:en,247
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito #rev:2 #lang:ja,248
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito>f1system #lang:en,249
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito>f1system #lang:en #mameparent,250
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito>f3system #lang:en,251
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito>f3system #lang:en #mameparent,252
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito>f3system #lang:en #unlicensed:bootleg,253
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito>f3system #lang:ja,254
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:taito>f3system #lang:ja #unfinished:proto,255
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>runandgun #arcadeboard:taito>bsystem #lang:en,256
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>runandgun #arcadeboard:taito>bsystem #lang:en #mameparent,257
+#input:joystick>8:buttons>2 #players:2:coop #genre:brawler #arcadeboard:taito>f1system #lang:en,258
+#input:joystick>8:buttons>2 #players:2:coop #genre:brawler #arcadeboard:taito>f1system #lang:en #mameparent,259
+#input:joystick>8:buttons>2 #players:2:coop #genre:brawler #arcadeboard:taito>f1system #lang:ja,260
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup #arcadeboard:taito>f1system #lang:en #mameparent,261
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup #arcadeboard:taito>f1system #lang:ja,262
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:taito #lang:en,263
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:taito #lang:en #rev:1,264
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:taito #lang:en #rev:2,265
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:taito #lang:en #rev:2 #mameparent,266
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:taito>f2system #lang:en,267
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:taito>f2system #lang:en #mameparent,268
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:taito>f3system #lang:en,269
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:taito>f3system #lang:en #mameparent,270
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito #lang:en,271
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito #lang:en #mameparent,272
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito #lang:en #unfinished:proto,273
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito #rev:1 #lang:en,274
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito #set:1 #lang:en #mameparent,275
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito #set:2 #lang:en,276
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito #set:3 #lang:en,277
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito>bsystem #lang:en,278
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito>bsystem #lang:en #mameparent,279
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito>bsystem #lang:ja,280
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito>f2system #lang:en #mameparent,281
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito>f2system #lang:ja,282
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito>f3system #lang:en,283
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito>f3system #lang:en #mameparent,284
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito>lsystem #lang:en,285
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito>lsystem #lang:en #mameparent,286
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito>xsystem #lang:en,287
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>ccw #arcadeboard:taito>xsystem #lang:en #mameparent,288
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>cw #arcadeboard:taito #lang:en,289
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>cw #arcadeboard:taito #lang:ja:en,290
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>cw #arcadeboard:taito #lang:ja:en #mameparent,291
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>cw #arcadeboard:taito #lang:ja:en #unlicensed:bootleg,292
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>cw #arcadeboard:taito>f3system #lang:en,293
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>cw #arcadeboard:taito>f3system #lang:en #mameparent,294
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #search:tate>cw #arcadeboard:taito>f3system #lang:ja,295
+#input:joystick>8:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:taito>bsystem #based:movie #lang:en,296
+#input:joystick>8:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:taito>bsystem #based:movie #lang:en #mameparent,297
+#input:joystick>8:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:taito>bsystem #based:movie #lang:en #unfinished:proto,298
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>ccw #genre:action>runandgun #arcadeboard:taito #lang:en,299
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>ccw #genre:action>runandgun #arcadeboard:taito #lang:en #mameparent,300
+#input:joystick>8:buttons>2 #players:2:coop:vs #genre:sports>soccer #arcadeboard:taito #set:1 #lang:en #unlicensed:bootleg,301
+#input:joystick>8:buttons>2 #players:2:coop:vs #genre:sports>soccer #arcadeboard:taito #set:2 #lang:en #unlicensed:bootleg,302
+#input:joystick>8:buttons>2 #players:2:vs #genre:action>blockbreaker #arcadeboard:taito>lsystem #search:keyword>strip #lang:es #mameparent,303
+#input:joystick>8:buttons>2 #players:2:vs #genre:action>blockbreaker #search:tate>ccw #arcadeboard:taito>lsystem #search:keyword>strip #lang:es #unlicensed:bootleg,304
+#input:joystick>8:buttons>2 #players:2:vs #genre:action>maze:shmup #arcadeboard:taito>hsystem #lang:en #rev:1 #mameparent,305
+#input:joystick>8:buttons>2 #players:2:vs #genre:action>maze:shmup #arcadeboard:taito>hsystem #lang:ja,306
+#input:joystick>8:buttons>2 #players:2:vs #genre:action>maze:shmup #arcadeboard:taito>hsystem #lang:ja #rev:1,307
+#input:joystick>8:buttons>2 #players:2:vs #genre:fighting #search:tate>cw #arcadeboard:taito #lang:en,308
+#input:joystick>8:buttons>2 #players:2:vs #genre:fighting #search:tate>cw #arcadeboard:taito #lang:en #mameparent,309
+#input:joystick>8:buttons>2 #players:2:vs #genre:fighting #search:tate>cw #arcadeboard:taito #lang:en #unlicensed:hack,310
+#input:joystick>8:buttons>2 #players:2:vs #genre:fighting #search:tate>cw #arcadeboard:taito #lang:ja,311
+#input:joystick>8:buttons>2 #players:2:vs #genre:fighting:sports>wrestling #arcadeboard:taito>lsystem #lang:en,312
+#input:joystick>8:buttons>2 #players:2:vs #genre:fighting:sports>wrestling #arcadeboard:taito>lsystem #lang:en #mameparent,313
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle #arcadeboard:taito>lsystem #lang:en,314
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle #arcadeboard:taito>lsystem #lang:en #mameparent,315
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle #arcadeboard:taito>lsystem #lang:en #unlicensed:bootleg,316
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle #arcadeboard:taito>lsystem #search:keyword>strip #lang:en,317
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle #arcadeboard:taito>lsystem #set:1 #lang:en #unlicensed:bootleg,318
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle #arcadeboard:taito>lsystem #set:2 #lang:en #unlicensed:bootleg,319
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:taito #lang:ja #mameparent,320
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:taito #lang:ja #unfinished:proto,321
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>bsystem #lang:ja,322
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>hsystem #lang:ja,323
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>lsystem #lang:en,324
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>lsystem #lang:en #mameparent,325
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>lsystem #lang:en #unlicensed:bootleg,326
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>lsystem #lang:ja,327
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>lsystem #lang:ja #mameparent,328
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>lsystem #set:1 #lang:en #mameparent,329
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>lsystem #set:2 #lang:en,330
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:taito>lsystem #set:3 #lang:en,331
+#input:joystick>8:buttons>2 #players:2:vs #genre:shmup #search:tate>ccw #arcadeboard:taito>lsystem #search:keyword>strip #lang:en #mameparent,332
+#input:joystick>8:buttons>2 #players:2:vs #genre:shmup #search:tate>ccw #arcadeboard:taito>lsystem #search:keyword>strip #lang:en #unlicensed:bootleg,333
+#input:joystick>8:buttons>2 #players:2:vs #genre:sports>baseball #arcadeboard:taito #lang:ja #mameparent,334
+#input:joystick>8:buttons>2 #players:4:coop #genre:brawler #arcadeboard:taito>f2system #lang:en,335
+#input:joystick>8:buttons>2 #players:4:coop #genre:brawler #arcadeboard:taito>f2system #lang:en #unfinished:proto,336
+#input:joystick>8:buttons>2 #players:4:coop #genre:brawler #arcadeboard:taito>f2system #lang:ja,337
+#input:joystick>8:buttons>2 #players:4:coop #genre:brawler #arcadeboard:taito>f2system #rev:1 #lang:en #mameparent,338
+#input:joystick>8:buttons>2 #players:4:coop #genre:brawler #arcadeboard:taito>f3system #lang:en,339
+#input:joystick>8:buttons>2 #players:4:coop #genre:brawler #arcadeboard:taito>f3system #lang:en #mameparent,340
+#input:joystick>8:buttons>2 #players:4:coop #genre:brawler #arcadeboard:taito>f3system #lang:ja,341
+#input:joystick>8:buttons>2 #players:4:coop:vs #genre:sports>soccer #arcadeboard:taito #lang:en,342
+#input:joystick>8:buttons>2 #players:4:coop:vs #genre:sports>soccer #arcadeboard:taito #lang:en #mameparent,343
+#input:joystick>8:buttons>2 #players:4:coop:vs #genre:sports>soccer #arcadeboard:taito>f1system #lang:en,344
+#input:joystick>8:buttons>2 #players:4:coop:vs #genre:sports>soccer #arcadeboard:taito>f1system #lang:en #mameparent,345
+#input:joystick>8:buttons>2 #players:4:coop:vs #genre:sports>soccer #arcadeboard:taito>f1system #lang:en #unlicensed:bootleg,346
+#input:joystick>8:buttons>2 #players:4:coop:vs #genre:sports>soccer #arcadeboard:taito>f1system #lang:ja,347
+#input:joystick>8:buttons>2 #players:4:coop>vs #genre:sports>hockey #arcadeboard:taito>bsystem #lang:en,348
+#input:joystick>8:buttons>2 #players:4:coop>vs #genre:sports>hockey #arcadeboard:taito>bsystem #lang:en #mameparent,349
+#input:joystick>8:buttons>3 #players:1 #genre:shooting>gallery #search:tate>ccw #arcadeboard:taito #set:1 #lang:en #mameparent,350
+#input:joystick>8:buttons>3 #players:1 #genre:shooting>gallery #search:tate>ccw #arcadeboard:taito #set:2 #lang:en,351
+#input:joystick>8:buttons>3 #players:2:alt #genre:action>platformer #arcadeboard:taito>f3system #lang:ja #unfinished:proto #mameparent,352
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>maze #arcadeboard:taito>bsystem #lang:ja #mameparent,353
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>runandgun:shmup>h:action>hackandslash #arcadeboard:taito>f1system #lang:en,354
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>runandgun:shmup>h:action>hackandslash #arcadeboard:taito>f1system #lang:en #mameparent,355
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:taito #lang:en #mameparent,356
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:taito>f3system #lang:en,357
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:taito>f3system #lang:en #mameparent,358
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:taito>f3system #lang:ja,359
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>h #arcadeboard:taito #lang:en,360
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>h #arcadeboard:taito #lang:en #rev:1,361
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>h #arcadeboard:taito #lang:en #rev:1 #mameparent,362
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>h #arcadeboard:taito #lang:en #rev:2,363
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>h #arcadeboard:taito>f1system #lang:en,364
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>h #arcadeboard:taito>f1system #lang:en #mameparent,365
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>v #search:tate>ccw #search:3d>stereo #arcadeboard:taito #lang:en,366
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>v #search:tate>ccw #search:3d>stereo #arcadeboard:taito #lang:en #rev:1 #mameparent,367
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #arcadeboard:taito>bsystem #lang:en,368
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #arcadeboard:taito>bsystem #lang:en #mameparent,369
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #arcadeboard:taito>f2system #lang:en,370
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #arcadeboard:taito>f2system #lang:en #mameparent,371
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #arcadeboard:taito>f2system #lang:ja,372
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting:sports>boxing #arcadeboard:taito>f2system #lang:en,373
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting:sports>boxing #arcadeboard:taito>f2system #lang:en #mameparent,374
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting:sports>boxing #arcadeboard:taito>f2system #rev:1 #lang:en,375
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting:sports>boxing #arcadeboard:taito>f3system #lang:en,376
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting:sports>boxing #arcadeboard:taito>f3system #lang:en #rev:1 #mameparent,377
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting:sports>boxing #arcadeboard:taito>f3system #lang:ja,378
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting:sports>boxing #arcadeboard:taito>f3system #rev:1 #lang:en,379
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting:sports>boxing #arcadeboard:taito>f3system #rev:1 #lang:ja,380
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>baseball #arcadeboard:taito>f2system #lang:ja #mameparent,381
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>baseball #arcadeboard:taito>hsystem #lang:en #mameparent,382
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>baseball #arcadeboard:taito>hsystem #lang:ja,383
+#input:joystick>8:buttons>3 #players:4:coop #genre:brawler #arcadeboard:taito>bsystem #lang:en,384
+#input:joystick>8:buttons>3 #players:4:coop #genre:brawler #arcadeboard:taito>bsystem #lang:en #mameparent,385
+#input:joystick>8:buttons>3 #players:4:coop #genre:brawler:shmup>h #arcadeboard:taito>f3system #lang:en,386
+#input:joystick>8:buttons>3 #players:4:coop #genre:brawler:shmup>h #arcadeboard:taito>f3system #lang:en #mameparent,387
+#input:joystick>8:buttons>3 #players:4:coop #genre:brawler:shmup>h #arcadeboard:taito>f3system #lang:ja,388
+#input:joystick>8:buttons>3 #players:4:coop:vs #genre:sports>soccer #arcadeboard:taito>f3system #lang:en,389
+#input:joystick>8:buttons>3 #players:4:coop:vs #genre:sports>soccer #arcadeboard:taito>f3system #lang:en #mameparent,390
+#input:joystick>8:buttons>3 #players:4:coop:vs #genre:sports>soccer #arcadeboard:taito>f3system #lang:ja,391
+#input:joystick>8:buttons>3 #players:4:vs #genre:fighting:sports>wrestling #arcadeboard:taito>f3system #lang:en,392
+#input:joystick>8:buttons>3 #players:4:vs #genre:fighting:sports>wrestling #arcadeboard:taito>f3system #lang:en #mameparent,393
+#input:joystick>8:buttons>4 #players:2:vs #genre:quiz:minigames #arcadeboard:taito>f3system #lang:ja #mameparent,394
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:taito>f3system #lang:en,395
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:taito>f3system #lang:en #mameparent,396
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:taito>f3system #lang:ja,397
+#input:joystick>8:buttons>6 #players:2:vs #genre:fighting #arcadeboard:taito>f3system #lang:ja #unfinished:proto #mameparent,398
+#input:joystick>8:dial:buttons>2 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #set:1 #lang:en #mameparent,399
+#input:joystick>8:dial:buttons>2 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #set:2 #lang:en,400
+#input:joystick>double>8 #players:2:alt #genre:action #arcadeboard:taito #lang:en #mameparent,401
+#input:joystick>double>8 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #lang:en,402
+#input:joystick>double>8 #players:2:alt #genre:shmup #search:tate>ccw #arcadeboard:taito #lang:en #mameparent,403
+#input:joystick>double>8:buttons>1 #players:2:alt #genre:action>platformer #search:tate>ccw #arcadeboard:taito #lang:en #mameparent,404
+#input:lightgun:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:taito #lang:en,405
+#input:lightgun:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:taito #lang:en #mameparent,406
+#input:lightgun:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:taito #lang:ja,407
+#input:motion:buttons>4 #players:1 #genre:parlor>mechanical:sports>football #arcadeboard:taito #lang:en,408
+#input:motion:buttons>4 #players:1 #genre:parlor>mechanical:sports>football #arcadeboard:taito #lang:en #mameparent,409
+#input:paddle #players:2:alt #genre:action>blockbreaker #search:tate>ccw #arcadeboard:taito #lang:en #mameparent,410
+#input:paddle #players:2:alt #genre:action>blockbreaker #search:tate>cw #arcadeboard:taito #set:1 #lang:en #mameparent,411
+#input:paddle #players:2:alt #genre:action>blockbreaker #search:tate>cw #arcadeboard:taito #set:2 #lang:en,412
+#input:paddle:buttons>1 #players:2:alt #genre:action>maze:puzzle #arcadeboard:taito>f1system #lang:en,413
+#input:paddle:buttons>1 #players:2:alt #genre:action>maze:puzzle #arcadeboard:taito>f1system #lang:en #mameparent,414
+#input:paddle:buttons>1 #players:2:alt #genre:action>maze:puzzle #arcadeboard:taito>f1system #lang:ja,415
+#input:paddle:buttons>2 #players:2:vs #genre:action>blockbreaker:puzzle #arcadeboard:taito>f3system #lang:en,416
+#input:paddle:buttons>2 #players:2:vs #genre:action>blockbreaker:puzzle #arcadeboard:taito>f3system #lang:en #mameparent,417
+#input:paddle:buttons>2 #players:2:vs #genre:action>blockbreaker:puzzle #arcadeboard:taito>f3system #lang:ja,418
+#input:paddle:buttons>2 #players:2:vs #genre:racing:sports>rally #search:tate>ccw #arcadeboard:taito>f1system #lang:en,419
+#input:paddle:buttons>2 #players:2:vs #genre:racing:sports>rally #search:tate>ccw #arcadeboard:taito>f1system #lang:en #mameparent,420
+#input:paddle:buttons>2 #players:2:vs #genre:racing:sports>rally #search:tate>ccw #arcadeboard:taito>f1system #lang:en #unlicensed:bootleg,421
+#input:paddle:buttons>2 #players:2:vs #genre:racing:sports>rally #search:tate>ccw #arcadeboard:taito>f1system #lang:ja,422
+#input:paddle:pedals>1 #players:2:vs #genre:racing:sports>motogp #arcadeboard:taito #lang:en,423
+#input:paddle:pedals>1 #players:2:vs #genre:racing:sports>motogp #arcadeboard:taito #lang:en #mameparent,424
+#input:paddle:pedals>1 #players:2:vs #genre:racing:sports>motogp #arcadeboard:taito #lang:ja,425
+#input:puncher:buttons>2 #players:2:alt #genre:parlor>mechanical:fighting #arcadeboard:taito>bsystem #lang:en #mameparent,426
+#input:puncher:buttons>2 #players:2:alt #genre:parlor>mechanical:fighting #arcadeboard:taito>bsystem #lang:ja,427
+#input:stick:buttons>1 #players:1 #genre:shooting>gallery #arcadeboard:taito #lang:en,428
+#input:stick:buttons>1 #players:1 #genre:shooting>gallery #arcadeboard:taito #lang:en #rev:2,429
+#input:stick:buttons>1 #players:1 #genre:shooting>gallery #arcadeboard:taito #lang:en #unfinished:proto,430
+#input:stick:buttons>1 #players:1 #genre:shooting>gallery #arcadeboard:taito #lang:en #unlicensed:bootleg,431
+#input:stick:buttons>1 #players:1 #genre:shooting>gallery #arcadeboard:taito #set:1 #lang:en #rev:2 #mameparent,432
+#input:stick:buttons>1 #players:1 #genre:shooting>gallery #arcadeboard:taito #set:2 #lang:en #rev:2,433
+#input:stick:buttons>2 #players:1 #genre:shooting>rail #arcadeboard:taito>zsystem #lang:en,434
+#input:stick:buttons>2 #players:1 #genre:shooting>rail #arcadeboard:taito>zsystem #lang:en #mameparent,435
+#input:stick:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:taito #lang:en,436
+#input:stick:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:taito #lang:en #rev:1,437
+#input:stick:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:taito #lang:en #rev:1 #mameparent,438
+#input:stick:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:taito #lang:ja,439
+#input:stick:buttons>3:pedals>1 #players:1 #genre:shooting>rail #arcadeboard:taito>zsystem #lang:en,440
+#input:stick:buttons>3:pedals>1 #players:1 #genre:shooting>rail #arcadeboard:taito>zsystem #lang:en #mameparent,441
+#input:stick:buttons>6 #players:2:vs #genre:sim>flight:shooting>gallery #arcadeboard:taito #lang:en,442
+#input:stick:buttons>6 #players:2:vs #genre:sim>flight:shooting>gallery #arcadeboard:taito #lang:en #mameparent,443
+#input:stick:buttons>6 #players:2:vs #genre:sim>flight:shooting>gallery #arcadeboard:taito #lang:ja,444
+#input:stick:joystick>8:buttons>2 #players:4:coop:vs #genre:shooting>fps #arcadeboard:taito #lang:en,445
+#input:stick:joystick>8:buttons>2 #players:4:coop:vs #genre:shooting>fps #arcadeboard:taito #lang:en #mameparent,446
+#input:stick:pedals>1:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:taito>zsystem #lang:en,447
+#input:stick:pedals>1:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:taito>zsystem #lang:en #mameparent,448
+#input:stick:pedals>1:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:taito>zsystem #lang:ja,449
+#input:stick:positional>2 #players:1 #genre:sim>flight #arcadeboard:taito #lang:de #mameparent,450
+#input:stick:positional>2 #players:1 #genre:sim>flight #arcadeboard:taito #lang:en #rev:3,451
+#input:stick:positional>2:buttons>2 #players:1 #genre:shooting>gallery #arcadeboard:taito>zsystem #lang:ja,452
+#input:stick>twin:buttons>2 #players:1 #genre:shooting>gallery #arcadeboard:taito>zsystem #lang:en,453
+#input:stick>twin:buttons>2 #players:1 #genre:shooting>gallery #arcadeboard:taito>zsystem #lang:en #mameparent,454
+#input:stick>twin:buttons>2 #players:1 #genre:shooting>gallery #arcadeboard:taito>zsystem #lang:ja,455
+#input:trackball #players:2:vs #genre:sports>golf #search:tate>ccw #arcadeboard:taito #lang:en #mameparent,456
+#input:trackball #players:2:vs #genre:sports>golf #search:tate>cw #arcadeboard:taito #lang:en #mameparent,457
+#input:trackball:buttons>1 #players:2:alt #genre:action #search:tate>ccw #arcadeboard:taito #lang:en #mameparent,458
+#input:trackball:buttons>1 #players:2:coop #genre:action>runandgun #arcadeboard:taito>hsystem #lang:en #rerelease,459
+#input:trackball:buttons>1 #players:2:coop #genre:action>runandgun #arcadeboard:taito>hsystem #lang:en #unfinished:proto,460
+#input:trackball:buttons>1 #players:2:coop #genre:action>runandgun #arcadeboard:taito>hsystem #lang:ja #mameparent,461
+#input:trackball:buttons>1 #players:2:vs #genre:sports>golf #search:tate>ccw #arcadeboard:taito #lang:en #mameparent,462
+#input:trackball:buttons>1 #players:2:vs #genre:sports>golf #search:tate>ccw #arcadeboard:taito #lang:ja,463
+#input:trackball:buttons>2 #players:4:vs #genre:sports #arcadeboard:taito>lsystem #lang:en #mameparent,464
+#input:wheel:pedals>1 #players:1 #genre:racing #search:tate>cw #arcadeboard:taito #lang:ja #mameparent,465
+#input:wheel:positional>2:buttons>1 #players:2:vs #genre:sim>flight #arcadeboard:taito #lang:en #mameparent,466
+#input:wheel:positional>2:buttons>1 #players:2:vs #genre:sim>flight #arcadeboard:taito #lang:ja,467
+#input:wheel:positional>2:buttons>1:pedals>2 #players:2:vs #genre:racing #arcadeboard:taito>lgsystem #lang:en,468
+#input:wheel:positional>2:buttons>2:pedals>1 #players:1 #genre:racing:action #arcadeboard:taito>zsystem #lang:en,469
+#input:wheel:positional>2:buttons>2:pedals>1 #players:1 #genre:racing:action #arcadeboard:taito>zsystem #lang:en #unlicensed:bootleg,470
+#input:wheel:positional>2:buttons>2:pedals>1 #players:1 #genre:racing:action #arcadeboard:taito>zsystem #lang:ja,471
+#input:wheel:positional>2:buttons>2:pedals>1 #players:1 #genre:racing:action #arcadeboard:taito>zsystem #set:1 #lang:en #mameparent,472
+#input:wheel:positional>2:buttons>2:pedals>1 #players:1 #genre:racing:action #arcadeboard:taito>zsystem #set:2 #lang:en,473
+#input:wheel:positional>2:pedals>1 #players:1 #genre:racing:sports>formula1 #search:tate>ccw #arcadeboard:taito #set:1 #lang:en #mameparent,474
+#input:wheel:positional>2:pedals>1 #players:1 #genre:racing:sports>formula1 #search:tate>ccw #arcadeboard:taito #set:2 #lang:en,475
+#input:wheel:positional>2:pedals>1 #players:1 #genre:racing:sports>formula1 #search:tate>ccw #arcadeboard:taito #set:3 #lang:en,476
+#input:wheel:positional>2:pedals>1 #players:2:alt #genre:racing #arcadeboard:taito #lang:en #mameparent,477
+#input:wheel:positional>2:pedals>1 #players:2:alt #genre:racing #search:tate>ccw #arcadeboard:taito #lang:en,478
+#input:wheel:positional>2:pedals>1 #players:2:alt #genre:racing #search:tate>ccw #arcadeboard:taito #lang:en #mameparent,479
+#input:wheel:positional>2:pedals>1:buttons>1 #players:1 #genre:racing:action #arcadeboard:taito #lang:en,480
+#input:wheel:positional>2:pedals>1:buttons>1 #players:1 #genre:racing:action #arcadeboard:taito #lang:en #mameparent,481
+#input:wheel:positional>2:pedals>1:buttons>1 #players:1 #genre:racing:action #arcadeboard:taito #lang:en #unfinished:proto>1,482
+#input:wheel:positional>2:pedals>1:buttons>1 #players:1 #genre:racing:action #arcadeboard:taito #lang:en #unfinished:proto>2,483
+#input:wheel:positional>2:pedals>1:buttons>1 #players:1 #genre:racing:action #arcadeboard:taito #lang:ja,484
+#input:wheel:positional>2:pedals>1:buttons>1 #players:1 #genre:racing:action #arcadeboard:taito>zsystem #lang:en,485
+#input:wheel:positional>2:pedals>1:buttons>1 #players:1 #genre:racing:action #arcadeboard:taito>zsystem #lang:en #mameparent,486
+#input:wheel:positional>2:pedals>1:buttons>1 #players:1 #genre:racing:action #arcadeboard:taito>zsystem #lang:ja,487
+#input:wheel:positional>2:pedals>1:buttons>2 #players:1 #genre:racing #arcadeboard:taito #lang:en,488
+#input:wheel:positional>2:pedals>1:buttons>2 #players:1 #genre:racing #arcadeboard:taito #lang:en #mameparent,489
+#input:wheel:positional>2:pedals>2 #players:1 #genre:racing:sports>formula1 #search:3d>stereo #arcadeboard:taito>zsystem #lang:en,490
+#input:wheel:positional>2:pedals>2 #players:1 #genre:racing:sports>formula1 #search:3d>stereo #arcadeboard:taito>zsystem #lang:en #mameparent,491
+#input:wheel:positional>2:pedals>2 #players:1 #genre:racing:sports>formula1 #search:3d>stereo #arcadeboard:taito>zsystem #set:1 #lang:en,492
+#input:wheel:positional>2:pedals>2 #players:1 #genre:racing:sports>formula1 #search:3d>stereo #arcadeboard:taito>zsystem #set:2 #lang:en,493
+#input:wheel:positional>2:pedals>2 #players:2:vs #genre:racing:sports>formula1 #arcadeboard:taito>lgsystem #lang:en #alt,494
+#input:wheel:positional>2:pedals>2 #players:2:vs #genre:racing:sports>formula1 #arcadeboard:taito>lgsystem #lang:en #mameparent,495
+#input:wheel:positional>2:pedals>2 #players:2:vs #genre:racing>combat #arcadeboard:taito #lang:en #mameparent,496
+#input:wheel:positional>2:pedals>2 #players:2:vs #genre:racing>combat #arcadeboard:taito #lang:ja,497
+#input:wheel:positional>2:pedals>2 #players:2:vs #genre:racing>combat #arcadeboard:taito #lang:ja #unfinished:proto,498
+#input:wheel:positional>2:pedals>2 #players:4:vs #genre:racing:sports>formula1 #arcadeboard:taito #search:keyword>official #based #lang:ja #mameparent,499
+#input:wheel:positional>2:pedals>2:buttons>1 #players:1 #genre:racing:sports>formula1 #arcadeboard:taito>zsystem #lang:en #mameparent,500
+#input:wheel:positional>2:pedals>2:buttons>1 #players:4:vs #genre:racing:sports>formula1 #arcadeboard:taito>zsystem #lang:en,501
+#input:wheel:positional>3:pedals>1:buttons>1 #players:1 #genre:racing #arcadeboard:taito>zsystem #lang:en,502
+#input:wheel:positional>3:pedals>1:buttons>1 #players:1 #genre:racing #arcadeboard:taito>zsystem #lang:en #rev:1 #mameparent,503
+#input:wheel:positional>3:pedals>1:buttons>1 #players:1 #genre:racing #arcadeboard:taito>zsystem #lang:en #rev:2,504
+#input:wheel:positional>3:pedals>1:buttons>1 #players:2:vs #genre:racing #arcadeboard:taito>zsystem #lang:en #rev:1,505
+#input:wheel:stick>twin:buttons>2 #players:1 #genre:shooting>rail #arcadeboard:taito #lang:en #mameparent,506

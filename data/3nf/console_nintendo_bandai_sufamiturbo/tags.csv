@@ -1,0 +1,8 @@
+tag_name,tag_id
+#players:1 #genre:action>hackandslash #addon:peripheral>sufami #based #lang:ja,1
+#players:2:vs #genre:action #addon:peripheral>sufami #save:password #based:manganime #lang:ja,2
+#players:2:vs #genre:fighting #addon:peripheral>sufami #based #lang:ja,3
+#players:2:vs #genre:puzzle>drop #addon:peripheral>sufami #save:password #based:manganime #lang:ja,4
+#players:2:vs #genre:sim>strategy #addon:peripheral>sufami #based:manganime #search:feature>gundam #lang:ja,5
+#players:4:vs #genre:action>maze #addon:peripheral>sufami:multitap>super #lang:ja,6
+#players:4:vs #genre:board>party>mahjong:action:puzzle #addon:peripheral>sufami:multitap>super #based:manganime #lang:ja,7

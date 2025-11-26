@@ -1,0 +1,43 @@
+tag_name,tag_id
+#players:1 #genre:action #embedded:backup>battery #save:backup #search:3d>stereo #lang:en #unlicensed:aftermarket,1
+#players:1 #genre:action:puzzle #search:3d>stereo #unfinished:proto #lang:en,2
+#players:1 #genre:action>maze #save:password #search:3d>stereo #lang:en,3
+#players:1 #genre:action>maze #save:password #search:3d>stereo #lang:ja,4
+#players:1 #genre:action>platformer #embedded:backup>battery #save:backup #search:3d>stereo #lang:en,5
+#players:1 #genre:action>platformer #lang:es #search:3d>stereo #unlicensed:aftermarket,6
+#players:1 #genre:action>platformer #search:3d>stereo #lang:en #unlicensed:aftermarket,7
+#players:1 #genre:action>platformer #search:3d>stereo:feature>mario #lang:en,8
+#players:1 #genre:adventure #search:3d>stereo #lang:en #unlicensed:aftermarket,9
+#players:1 #genre:board #search:3d>stereo #lang:en #unlicensed:aftermarket,10
+#players:1 #genre:fighting #embedded:backup>battery #save:backup #search:3d>stereo #lang:en,11
+#players:1 #genre:fighting #search:3d>stereo #lang:en #unlicensed:aftermarket,12
+#players:1 #genre:parlor>bowling #search:3d>stereo #lang:en,13
+#players:1 #genre:parlor>pinball #embedded:backup>battery #save:backup #search:3d>stereo #lang:en,14
+#players:1 #genre:parlor>pinball #search:3d>stereo #unfinished:proto #lang:en,15
+#players:1 #genre:puzzle #embedded:backup>battery #save:backup #search:3d>stereo #lang:en:fr:de:es:it:sv:fi:cs:sl #unlicensed:aftermarket,16
+#players:1 #genre:puzzle #search:3d>stereo #lang:en #unlicensed:aftermarket #rev:1,17
+#players:1 #genre:puzzle>drop #embedded:backup>battery #save:backup #search:3d>stereo #lang:en,18
+#players:1 #genre:puzzle>drop #search:3d>stereo #lang:en,19
+#players:1 #genre:puzzle>drop #search:3d>stereo #lang:ja,20
+#players:1 #genre:racing>combat #search:3d>stereo #lang:en #unlicensed:aftermarket,21
+#players:1 #genre:rpg>s #embedded:backup>battery #save:backup #search:3d>stereo #based:manganime #search:feature>gundam #lang:ja,22
+#players:1 #genre:shmup #search:3d>stereo #multigame:compilation>spaceinvaders>spaceinvaderspart2 #port:arcade #lang:ja,23
+#players:1 #genre:shmup>h #search:3d>stereo #lang:en #unlicensed:aftermarket,24
+#players:1 #genre:shmup>v #rev:2 #search:3d>stereo #lang:en #unlicensed:aftermarket,25
+#players:1 #genre:shmup>v #search:3d>stereo #lang:en,26
+#players:1 #genre:shooting>fps #save:password #search:3d>stereo #lang:en,27
+#players:1 #genre:shooting>fps #search:3d>stereo #lang:en #unfinished:proto,28
+#players:1 #genre:shooting>gallery #search:3d>stereo #lang:en #unlicensed:aftermarket,29
+#players:1 #genre:shooting>rail #search:3d>stereo #lang:en,30
+#players:1 #genre:shooting>tps #search:3d>stereo #based:movie #lang:en,31
+#players:1 #genre:sim>fishing #embedded:backup>battery #save:backup #search:3d>stereo #lang:ja,32
+#players:1 #genre:sports>baseball #search:3d>stereo #lang:en,33
+#players:1 #genre:sports>baseball #search:3d>stereo #lang:ja,34
+#players:1 #genre:sports>golf #search:3d>stereo #lang:en,35
+#players:1 #genre:sports>golf #search:3d>stereo #lang:ja,36
+#players:1 #genre:sports>squash #search:3d>stereo #lang:ja,37
+#players:1 #genre:sports>tennis #search:3d>stereo:feature>mario #lang:en,38
+#players:2:vs #genre:action:puzzle #search:3d>stereo #lang:en #unlicensed:aftermarket,39
+#players:2:vs #genre:fighting #embedded:backup>battery #save:backup #search:3d>stereo #lang:en #unlicensed:aftermarket,40
+#players:2:vs #genre:parlor>bowling #search:3d>stereo #lang:en,41
+#players:2:vs #genre:racing #embedded:backup>battery #save:backup #search:3d>stereo #lang:en #unlicensed:aftermarket,42

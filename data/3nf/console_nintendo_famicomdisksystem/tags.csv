@@ -1,0 +1,287 @@
+tag_name,tag_id
+#players:1 #genre:action #addon:peripheral>disksystem #based #lang:ja,1
+#players:1 #genre:action #addon:peripheral>disksystem #lang:en,2
+#players:1 #genre:action #addon:peripheral>disksystem #lang:ja,3
+#players:1 #genre:action #addon:peripheral>disksystem #lang:ja #unlicensed,4
+#players:1 #genre:action #addon:peripheral>disksystem #save:backup #lang:en,5
+#players:1 #genre:action #addon:peripheral>disksystem #save:backup #lang:ja,6
+#players:1 #genre:action #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,7
+#players:1 #genre:action #addon:peripheral>disksystem:glasses>3dsystem #search:3d>stereo #lang:en,8
+#players:1 #genre:action:adventure #addon:peripheral>disksystem #based #lang:ja,9
+#players:1 #genre:action:puzzle #addon:peripheral>disksystem #save:backup #lang:ja,10
+#players:1 #genre:action:shmup>h #addon:peripheral>disksystem #save:backup #based #compatibility:disksystem>dw #lang:en #rev:1,11
+#players:1 #genre:action:shmup>h #addon:peripheral>disksystem #save:backup #based #lang:en,12
+#players:1 #genre:action>blockbreaker #addon:peripheral>disksystem #save:backup #lang:ja,13
+#players:1 #genre:action>blockbreaker #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,14
+#players:1 #genre:action>hackandslash #addon:peripheral>disksystem #save:backup #lang:ja,15
+#players:1 #genre:action>hackandslash #addon:peripheral>disksystem #save:backup #lang:ja #rerelease:virtualconsole>3ds,16
+#players:1 #genre:action>hackandslash #addon:peripheral>disksystem #save:backup #lang:ja #rerelease:virtualconsole>wii>wiiu,17
+#players:1 #genre:action>hackandslash:fighting #addon:peripheral>disksystem #based:manganime #compatibility:disksystem>dw #lang:ja #rev:1,18
+#players:1 #genre:action>hackandslash:fighting #addon:peripheral>disksystem #based:manganime #lang:ja,19
+#players:1 #genre:action>maze #addon:peripheral>disksystem #save:password #based:movie:looneytunes #lang:ja,20
+#players:1 #genre:action>maze #addon:peripheral>disksystem #save:password #compatibility:disksystem>dw #lang:en,21
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #based #lang:ja,22
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #based #search:feature>mario:keyword>endorsed>promo #lang:en,23
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #based:movie #compatibility:disksystem>dw #lang:en,24
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #based:movie #search:feature>alien #lang:en #unfinished:proto,25
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #compatibility:disksystem>dw #search:franchise>castlevania:feature>dracula #lang:ja #rev:2,26
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #lang:en,27
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #lang:en #rerelease:virtualconsole>3ds,28
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #lang:en #rerelease:virtualconsole>wii>wiiu,29
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #lang:en #unfinished:sample,30
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #lang:ja,31
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #save:backup #based #lang:ja,32
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #save:backup #based #lang:ja #rev:1,33
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #save:backup #lang:ja,34
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #save:backup #lang:ja #rerelease:virtualconsole>wii>wiiu,35
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #save:backup #lang:ja #rev:1,36
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #save:backup #lang:ja #unlicensed:hack,37
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #save:backup #port:atari>atari400 #lang:ja,38
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #save:backup #search:franchise>castlevania:feature>dracula #lang:ja,39
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #save:backup #search:franchise>castlevania:feature>dracula #lang:ja #rerelease:virtualconsole>wii,40
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #search:feature>mario #lang:en,41
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #search:feature>mario #lang:en #rerelease,42
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #search:feature>mario #lang:en #rerelease:animalcrossing:virtualconsole>wii>wiiu,43
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #search:feature>mario #lang:en #rev:1,44
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #search:franchise>castlevania:feature>dracula #lang:ja,45
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #search:franchise>castlevania:feature>dracula #lang:ja #rerelease:virtualconsole>wii>wiiu,46
+#players:1 #genre:action>platformer #addon:peripheral>disksystem #search:franchise>castlevania:feature>dracula #lang:ja #rev:1,47
+#players:1 #genre:action>platformer:adventure #addon:peripheral>disksystem #save:backup #lang:ja,48
+#players:1 #genre:action>platformer:notagame>educational #addon:peripheral>disksystem #save:backup #based #lang:ja,49
+#players:1 #genre:action>platformer:notagame>educational #addon:peripheral>disksystem #save:backup #based #lang:ja #unfinished:sample,50
+#players:1 #genre:action>platformer:shooting>gallery #addon:peripheral>disksystem #based:manganime #compatibility:disksystem>dw #lang:ja,51
+#players:1 #genre:action>platformer>metroidvania #addon:peripheral>disksystem #save:backup #lang:ja,52
+#players:1 #genre:action>platformer>metroidvania #addon:peripheral>disksystem #save:backup #lang:ja #rerelease:virtualconsole>wii>wiiu,53
+#players:1 #genre:action>platformer>metroidvania #addon:peripheral>disksystem #save:backup #lang:ja #rev:1,54
+#players:1 #genre:action>platformer>metroidvania #addon:peripheral>disksystem #save:backup #lang:ja #rev:2,55
+#players:1 #genre:action>runandgun #addon:peripheral>disksystem #compatibility:disksystem>dw #lang:ja #rev:1,56
+#players:1 #genre:action>runandgun #addon:peripheral>disksystem #lang:ja,57
+#players:1 #genre:action>runandgun #addon:peripheral>disksystem #port:arcade #lang:ja,58
+#players:1 #genre:adventure #addon:peripheral>disksystem #disc:1>2 #search:keyword>strip #lang:ja #unlicensed,59
+#players:1 #genre:adventure #addon:peripheral>disksystem #disc:2>2 #search:keyword>strip #lang:ja #unlicensed,60
+#players:1 #genre:adventure #addon:peripheral>disksystem #lang:ja,61
+#players:1 #genre:adventure #addon:peripheral>disksystem #save:backup #based #lang:ja,62
+#players:1 #genre:adventure #addon:peripheral>disksystem #save:backup #based #search:keyword>endorsed #lang:ja,63
+#players:1 #genre:adventure #addon:peripheral>disksystem #save:backup #based:manganime #lang:ja,64
+#players:1 #genre:adventure #addon:peripheral>disksystem #save:backup #compatibility:disksystem>dw #lang:ja,65
+#players:1 #genre:adventure #addon:peripheral>disksystem #save:backup #disc:1>2 #lang:ja,66
+#players:1 #genre:adventure #addon:peripheral>disksystem #save:backup #disc:2>2 #lang:ja,67
+#players:1 #genre:adventure #addon:peripheral>disksystem #save:backup #lang:ja,68
+#players:1 #genre:adventure #addon:peripheral>disksystem #save:backup #lang:ja #unfinished:beta,69
+#players:1 #genre:adventure #addon:peripheral>disksystem #save:password #disc:1>2 #search:keyword>strip #lang:ja #unlicensed,70
+#players:1 #genre:adventure #addon:peripheral>disksystem #save:password #disc:2>2 #search:keyword>strip #lang:ja #unlicensed,71
+#players:1 #genre:adventure #addon:peripheral>disksystem #search:keyword>endorsed #lang:ja,72
+#players:1 #genre:adventure #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,73
+#players:1 #genre:adventure #addon:peripheral>disksystem #search:keyword>strip>endorsed #lang:ja #unlicensed,74
+#players:1 #genre:adventure:action>platformer #addon:peripheral>disksystem #lang:ja,75
+#players:1 #genre:adventure>visualnovel #addon:peripheral>disksystem #save:backup #disc:1>2 #compatibility:disksystem>dw #lang:ja #rev:1,76
+#players:1 #genre:adventure>visualnovel #addon:peripheral>disksystem #save:backup #disc:1>2 #lang:ja,77
+#players:1 #genre:adventure>visualnovel #addon:peripheral>disksystem #save:backup #disc:1>2 #lang:ja #rerelease:virtualconsole>3ds,78
+#players:1 #genre:adventure>visualnovel #addon:peripheral>disksystem #save:backup #disc:1>2 #lang:ja #rerelease:virtualconsole>wii,79
+#players:1 #genre:adventure>visualnovel #addon:peripheral>disksystem #save:backup #disc:1>2 #lang:ja #rerelease:virtualconsole>wii>wiiu,80
+#players:1 #genre:adventure>visualnovel #addon:peripheral>disksystem #save:backup #disc:1>2 #lang:ja #unfinished:beta,81
+#players:1 #genre:adventure>visualnovel #addon:peripheral>disksystem #save:backup #disc:2>2 #lang:ja,82
+#players:1 #genre:adventure>visualnovel #addon:peripheral>disksystem #save:backup #disc:2>2 #lang:ja #rerelease:virtualconsole>3ds,83
+#players:1 #genre:adventure>visualnovel #addon:peripheral>disksystem #save:backup #disc:2>2 #lang:ja #rerelease:virtualconsole>wii,84
+#players:1 #genre:adventure>visualnovel #addon:peripheral>disksystem #save:backup #disc:2>2 #lang:ja #rerelease:virtualconsole>wii>wiiu,85
+#players:1 #genre:adventure>visualnovel #save:backup #addon:peripheral>disksystem #compatibility:disksystem>dw #lang:ja #rev:1,86
+#players:1 #genre:adventure>visualnovel #save:backup #addon:peripheral>disksystem #lang:ja,87
+#players:1 #genre:adventure>visualnovel #save:backup #addon:peripheral>disksystem #lang:ja #rerelease:virtualconsole>wii,88
+#players:1 #genre:board #addon:peripheral>disksystem #compatibility:disksystem>dw #port:sega>sg1000 #lang:en,89
+#players:1 #genre:board #addon:peripheral>disksystem #port:sega>sg1000 #lang:en,90
+#players:1 #genre:board #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,91
+#players:1 #genre:board>cards #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,92
+#players:1 #genre:board>go #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,93
+#players:1 #genre:board>hanafuda #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,94
+#players:1 #genre:board>jankenpon #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,95
+#players:1 #genre:board>mahjong #addon:peripheral>disksystem #disc:1>2 #search:keyword>strip #lang:ja #unlicensed,96
+#players:1 #genre:board>mahjong #addon:peripheral>disksystem #lang:ja,97
+#players:1 #genre:board>mahjong #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,98
+#players:1 #genre:board>shougi #addon:peripheral>disksystem #compatibility:disksystem>dw #lang:ja,99
+#players:1 #genre:board>shougi #addon:peripheral>disksystem #search:keyword>endorsed #lang:ja,100
+#players:1 #genre:board>shougi #addon:peripheral>disksystem #search:keyword>endorsed #lang:ja #unfinished:beta,101
+#players:1 #genre:fighting #addon:peripheral>disksystem #lang:ja,102
+#players:1 #genre:fighting:adventure>visualnovel #addon:peripheral>disksystem:glasses>3dsystem #search:3d>stereo #lang:ja,103
+#players:1 #genre:minigames #addon:peripheral>disksystem #disc:2>2 #search:keyword>strip #lang:ja #unlicensed,104
+#players:1 #genre:minigames #addon:peripheral>disksystem #lang:ja,105
+#players:1 #genre:minigames:parlor>jackpot:board>cards #addon:peripheral>disksystem #lang:ja,106
+#players:1 #genre:notagame #addon:peripheral>disksystem #lang:ja,107
+#players:1 #genre:notagame>application #addon:peripheral>disksystem #lang:en #unlicensed,108
+#players:1 #genre:notagame>application #addon:peripheral>disksystem #lang:ja,109
+#players:1 #genre:notagame>application #addon:peripheral>disksystem #lang:ja #unlicensed,110
+#players:1 #genre:notagame>application #addon:peripheral>disksystem #save:backup #compatibility:disksystem>dw #lang:en #rev:1,111
+#players:1 #genre:notagame>application #addon:peripheral>disksystem #save:backup #lang:en,112
+#players:1 #genre:notagame>application #addon:peripheral>disksystem #save:backup #lang:ja #unlicensed:clone,113
+#players:1 #genre:notagame>application #addon:peripheral>disksystem:midi>pianokeyboard #save:backup #lang:en,114
+#players:1 #genre:notagame>application #addon:peripheral>disksystem:online>networksystem #lang:ja #unfinished:proto>1,115
+#players:1 #genre:notagame>application #addon:peripheral>disksystem:online>networksystem #lang:ja #unfinished:proto>2,116
+#players:1 #genre:notagame>application #addon:peripheral>disksystem:online>networksystem #lang:ja #unfinished:proto>3,117
+#players:1 #genre:notagame>application>educational #addon:peripheral>disksystem #save:backup #lang:ja,118
+#players:1 #genre:notagame>application>educational #addon:peripheral>disksystem #save:backup #search:feature>mario #lang:ja,119
+#players:1 #genre:notagame>application>sdk #addon:peripheral>disksystem #lang:ja,120
+#players:1 #genre:parlor>billiards #addon:peripheral>disksystem #lang:ja,121
+#players:1 #genre:parlor>jackpot #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,122
+#players:1 #genre:parlor>pachinko #addon:peripheral>disksystem #compatibility:disksystem>dw #port:msx #lang:en,123
+#players:1 #genre:parlor>pachinko #addon:peripheral>disksystem #save:backup #lang:ja,124
+#players:1 #genre:parlor>pinball #addon:peripheral>disksystem #compatibility:disksystem>dw #lang:en,125
+#players:1 #genre:parlor>pinball #addon:peripheral>disksystem #search:keyword>strip #lang:en #unlicensed,126
+#players:1 #genre:parlor>pinball #addon:peripheral>disksystem #search:keyword>strip #lang:en #unlicensed #unfinished:beta,127
+#players:1 #genre:puzzle #addon:peripheral>disksystem #compatibility:disksystem>dw #lang:en,128
+#players:1 #genre:puzzle #addon:peripheral>disksystem #compatibility:disksystem>dw #lang:ja,129
+#players:1 #genre:puzzle #addon:peripheral>disksystem #lang:en,130
+#players:1 #genre:puzzle #addon:peripheral>disksystem #lang:en #unfinished:beta,131
+#players:1 #genre:puzzle #addon:peripheral>disksystem #save:backup #compatibility:disksystem>dw #lang:en,132
+#players:1 #genre:puzzle #addon:peripheral>disksystem #save:backup #compatibility:disksystem>dw #lang:ja,133
+#players:1 #genre:puzzle #addon:peripheral>disksystem #save:backup #lang:en,134
+#players:1 #genre:puzzle #addon:peripheral>disksystem #save:backup #lang:en #rev:1 #unfinished:proto,135
+#players:1 #genre:puzzle #addon:peripheral>disksystem #save:backup #lang:en #unfinished:proto,136
+#players:1 #genre:puzzle #addon:peripheral>disksystem #save:backup #lang:ja,137
+#players:1 #genre:puzzle #addon:peripheral>disksystem #save:backup #lang:ja #rev:1 #unfinished:proto,138
+#players:1 #genre:puzzle #addon:peripheral>disksystem #save:backup #port:arcade #lang:en #unfinished:proto,139
+#players:1 #genre:puzzle #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,140
+#players:1 #genre:puzzle:action>platformer #addon:peripheral>disksystem #compatibility:disksystem>dw #port:arcade #lang:en,141
+#players:1 #genre:puzzle:action>platformer #addon:peripheral>disksystem #save:backup #lang:en,142
+#players:1 #genre:quiz #addon:peripheral>disksystem #lang:ja,143
+#players:1 #genre:quiz #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,144
+#players:1 #genre:racing:sports>formula1 #addon:peripheral>disksystem #save:backup #search:feature>mario #compatibility:disksystem>dw #lang:ja #rev:1,145
+#players:1 #genre:racing:sports>formula1 #addon:peripheral>disksystem #save:backup #search:feature>mario #lang:ja,146
+#players:1 #genre:racing:sports>rally #addon:peripheral>disksystem:glasses>3dsystem #save:backup #search:3d>stereo #search:feature>mario #compatibility:disksystem>dw #lang:ja #rev:2,147
+#players:1 #genre:racing:sports>rally #addon:peripheral>disksystem:glasses>3dsystem #save:backup #search:3d>stereo #search:feature>mario #lang:ja,148
+#players:1 #genre:racing:sports>rally #addon:peripheral>disksystem:glasses>3dsystem #save:backup #search:3d>stereo #search:feature>mario #lang:ja #rev:1,149
+#players:1 #genre:rpg:puzzle #addon:peripheral>disksystem #save:backup #compatibility:disksystem>dw #lang:ja,150
+#players:1 #genre:rpg>a #addon:peripheral>disksystem #save:backup #compatibility:disksystem>dw #lang:ja,151
+#players:1 #genre:rpg>a #addon:peripheral>disksystem #save:backup #compatibility:disksystem>dw #lang:ja #rev:1,152
+#players:1 #genre:rpg>a #addon:peripheral>disksystem #save:backup #disc:1>2 #search:keyword>strip #lang:ja #unlicensed,153
+#players:1 #genre:rpg>a #addon:peripheral>disksystem #save:backup #disc:2>2 #search:keyword>strip #lang:ja #unlicensed,154
+#players:1 #genre:rpg>a #addon:peripheral>disksystem #save:backup #lang:en,155
+#players:1 #genre:rpg>a #addon:peripheral>disksystem #save:backup #lang:en #unfinished:beta,156
+#players:1 #genre:rpg>a #addon:peripheral>disksystem #save:backup #lang:ja,157
+#players:1 #genre:rpg>a #addon:peripheral>disksystem #save:backup #lang:ja #rerelease,158
+#players:1 #genre:rpg>a #addon:peripheral>disksystem #save:backup #lang:ja #rerelease:animalcrossing,159
+#players:1 #genre:rpg>a #addon:peripheral>disksystem #save:backup #lang:ja #rerelease:virtualconsole>3ds,160
+#players:1 #genre:rpg>a #addon:peripheral>disksystem #save:backup #lang:ja #rerelease:virtualconsole>wii,161
+#players:1 #genre:rpg>a #addon:peripheral>disksystem #save:backup #lang:ja #rerelease:virtualconsole>wii>wiiu,162
+#players:1 #genre:rpg>a #addon:peripheral>disksystem #save:backup #lang:ja #rev:1,163
+#players:1 #genre:rpg>a #addon:peripheral>disksystem #save:backup #lang:ja #unfinished:beta,164
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>disksystem #save:backup #compatibility:disksystem>dw #lang:ja #rev:1,165
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>disksystem #save:backup #lang:ja,166
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>disksystem #save:backup #lang:ja #rev:1,167
+#players:1 #genre:rpg>dungeoncrawler:board>jankenpon #addon:peripheral>disksystem #lang:ja #unlicensed,168
+#players:1 #genre:rpg>dungeoncrawler:board>jankenpon #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,169
+#players:1 #genre:rpg>j>dungeoncrawler #addon:peripheral>disksystem #save:backup #lang:ja,170
+#players:1 #genre:rpg>s #addon:peripheral>disksystem #save:backup #lang:ja,171
+#players:1 #genre:shmup #addon:peripheral>disksystem #save:backup #lang:en,172
+#players:1 #genre:shmup #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,173
+#players:1 #genre:shmup:action>maze #addon:peripheral>disksystem #save:backup #based #lang:ja,174
+#players:1 #genre:shmup>h #addon:peripheral>disksystem #save:backup #based #lang:ja,175
+#players:1 #genre:shmup>h #addon:peripheral>disksystem #save:backup #lang:en,176
+#players:1 #genre:shmup>h #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,177
+#players:1 #genre:shmup>h:action #save:backup #addon:peripheral>disksystem #lang:en #unfinished:proto,178
+#players:1 #genre:shmup>h:action>runandgun #addon:peripheral>disksystem #based:manganime:movie #compatibility:disksystem>dw #lang:ja #rev:1,179
+#players:1 #genre:shmup>h:action>runandgun #addon:peripheral>disksystem #based:manganime:movie #lang:ja,180
+#players:1 #genre:shmup>h:rhythm #addon:peripheral>disksystem #save:backup #lang:ja,181
+#players:1 #genre:shmup>h:rhythm #addon:peripheral>disksystem #save:backup #lang:ja #unfinished:beta,182
+#players:1 #genre:shmup>v #addon:peripheral>disksystem #based:manganime:movie #lang:ja,183
+#players:1 #genre:shmup>v #addon:peripheral>disksystem #lang:en,184
+#players:1 #genre:shmup>v #addon:peripheral>disksystem #port:msx #lang:en,185
+#players:1 #genre:shmup>v #addon:peripheral>disksystem #save:backup #lang:ja,186
+#players:1 #genre:shmup>v #addon:peripheral>disksystem #save:backup #lang:ja #rerelease,187
+#players:1 #genre:shmup>v #addon:peripheral>disksystem #search:keyword>strip #lang:en #unlicensed,188
+#players:1 #genre:shmup>v:action>runandgun #addon:peripheral>disksystem #save:backup #compatibility:disksystem>dw #lang:en,189
+#players:1 #genre:shmup>v:action>runandgun #addon:peripheral>disksystem #save:backup #lang:en #unfinished:beta,190
+#players:1 #genre:shmup>v:rpg>a #addon:peripheral>disksystem #save:backup #lang:ja,191
+#players:1 #genre:shmup>v:rpg>a #addon:peripheral>disksystem #save:backup #lang:ja #rev:1 #unfinished:proto,192
+#players:1 #genre:shooting>rail #addon:peripheral>disksystem #port:arcade #lang:en,193
+#players:1 #genre:shooting>rail #addon:peripheral>disksystem #port:arcade #lang:ja #unfinished:beta,194
+#players:1 #genre:shooting>rail #addon:peripheral>disksystem:glasses>3dsystem #search:3d>stereo #lang:en,195
+#players:1 #genre:sim>date #addon:peripheral>disksystem #search:keyword>endorsed #compatibility:disksystem>dw #lang:ja #rev:3,196
+#players:1 #genre:sim>date #addon:peripheral>disksystem #search:keyword>endorsed #compatibility:disksystem>dw #lang:ja #rev:4,197
+#players:1 #genre:sim>date #addon:peripheral>disksystem #search:keyword>endorsed #lang:ja,198
+#players:1 #genre:sim>date #addon:peripheral>disksystem #search:keyword>endorsed #lang:ja #rev:1,199
+#players:1 #genre:sim>date #addon:peripheral>disksystem #search:keyword>endorsed #lang:ja #rev:2,200
+#players:1 #genre:sim>derby #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,201
+#players:1 #genre:sim>life #addon:peripheral>disksystem #lang:ja,202
+#players:1 #genre:sim>life #addon:peripheral>disksystem #save:backup #lang:ja #unfinished:proto,203
+#players:1 #genre:sim>strategy #addon:peripheral>disksystem #lang:ja,204
+#players:1 #genre:sim>strategy #addon:peripheral>disksystem #save:backup #based #lang:ja,205
+#players:1 #genre:sim>strategy #addon:peripheral>disksystem #save:backup #compatibility:disksystem>dw #based #lang:ja #rev:1,206
+#players:1 #genre:sim>strategy #addon:peripheral>disksystem #save:backup #lang:ja,207
+#players:1 #genre:sports>golf #addon:peripheral>disksystem #search:feature>mario #lang:ja,208
+#players:1 #genre:sports>golf #addon:peripheral>disksystem #search:feature>mario #lang:ja #rev:1,209
+#players:1 #genre:sports>golf #addon:peripheral>disksystem #search:feature>mario #search:keyword>promo #lang:ja,210
+#players:1 #genre:sports>golf #addon:peripheral>disksystem #search:keyword>strip #lang:ja #unlicensed,211
+#players:1 #genre:sports>golf #addon:peripheral>disksystem:controller>horitrack #lang:ja,212
+#players:1 #genre:sports>soccer #addon:peripheral>disksystem #lang:ja,213
+#players:1 #genre:sports>tennis #addon:peripheral>disksystem #search:keyword>strip>endorsed #lang:ja #unlicensed,214
+#players:2:alt #genre:action #addon:peripheral>disksystem #compatibility:disksystem>dw #port:arcade #search:feature>mario #lang:en,215
+#players:2:alt #genre:action #addon:peripheral>disksystem #lang:ja,216
+#players:2:alt #genre:action:puzzle #addon:peripheral>disksystem #compatibility:disksystem>dw #port:arcade #lang:en,217
+#players:2:alt #genre:action>maze #addon:peripheral>disksystem #compatibility:disksystem>dw #port:arcade #lang:en,218
+#players:2:alt #genre:action>maze #addon:peripheral>disksystem #compatibility:disksystem>dw #search:feature>pacman #port:arcade #lang:en,219
+#players:2:alt #genre:action>maze:puzzle #addon:peripheral>disksystem #compatibility:disksystem>dw #port:arcade #lang:en,220
+#players:2:alt #genre:action>platformer #addon:peripheral>disksystem #compatibility:disksystem>dw #search:feature>mario #lang:en,221
+#players:2:alt #genre:action>platformer #addon:peripheral>disksystem #compatibility:disksystem>dw #search:feature>mario #port:arcade #lang:en,222
+#players:2:alt #genre:action>platformer #addon:peripheral>disksystem #search:feature>mario #lang:en,223
+#players:2:alt #genre:parlor>pinball #addon:peripheral>disksystem #compatibility:disksystem>dw #lang:en,224
+#players:2:alt #genre:shmup #addon:peripheral>disksystem #compatibility:disksystem>dw #port:arcade #lang:en,225
+#players:2:alt #genre:shmup>v #addon:peripheral>disksystem #compatibility:disksystem>dw #port:arcade #lang:en,226
+#players:2:coop #genre:action #addon:peripheral>disksystem #port:arcade #lang:en,227
+#players:2:coop #genre:action:puzzle #addon:peripheral>disksystem #compatibility:disksystem>dw #lang:en,228
+#players:2:coop #genre:action:puzzle #addon:peripheral>disksystem #lang:en,229
+#players:2:coop #genre:action>platformer #addon:peripheral>disksystem #compatibility:disksystem>dw #lang:en,230
+#players:2:coop #genre:action>platformer #addon:peripheral>disksystem #compatibility:disksystem>dw #search:feature>mario:keyword>brand>promo #lang:ja,231
+#players:2:coop #genre:action>platformer #addon:peripheral>disksystem #save:backup #port:arcade #lang:en,232
+#players:2:coop #genre:action>platformer #addon:peripheral>disksystem #save:backup #port:arcade #lang:en #rerelease:virtualconsole>3ds,233
+#players:2:coop #genre:action>platformer #addon:peripheral>disksystem #save:backup #port:arcade #lang:en #rerelease:virtualconsole>wii>wiiu,234
+#players:2:coop #genre:action>runandgun #addon:peripheral>disksystem #lang:en,235
+#players:2:coop #genre:shmup>v #addon:peripheral>disksystem #compatibility:disksystem>dw #lang:en,236
+#players:2:coop #genre:shmup>v:quiz #addon:peripheral>disksystem #lang:ja #unfinished:demo,237
+#players:2:coop #genre:sports>tennis #addon:peripheral>disksystem #search:feature>mario #lang:en,238
+#players:2:coop:vs #genre:sports>soccer #addon:peripheral>disksystem #lang:en,239
+#players:2:vs #genre:action>maze #addon:peripheral>disksystem #save:backup #lang:en,240
+#players:2:vs #genre:action>maze:puzzle #addon:peripheral>disksystem #compatibility:disksystem>dw #lang:en,241
+#players:2:vs #genre:action>maze:puzzle #addon:peripheral>disksystem #lang:en #rerelease:virtualconsole>wii,242
+#players:2:vs #genre:action>platformer #addon:peripheral>disksystem #port:arcade #lang:en #unfinished:proto,243
+#players:2:vs #genre:board #addon:peripheral>disksystem #lang:en,244
+#players:2:vs #genre:board>go #addon:peripheral>disksystem #lang:ja #unfinished:proto,245
+#players:2:vs #genre:board>go:notagame>educational #addon:peripheral>disksystem #lang:ja,246
+#players:2:vs #genre:fighting:sports>judo #addon:peripheral>disksystem #save:backup #lang:ja,247
+#players:2:vs #genre:fighting:sports>karate #addon:peripheral>disksystem #lang:en,248
+#players:2:vs #genre:fighting:sports>wrestling #addon:peripheral>disksystem #lang:en,249
+#players:2:vs #genre:puzzle #addon:peripheral>disksystem #save:backup #compatibility:disksystem>dw #lang:en #rev:1,250
+#players:2:vs #genre:puzzle #addon:peripheral>disksystem #save:backup #compatibility:disksystem>dw #lang:ja,251
+#players:2:vs #genre:puzzle #addon:peripheral>disksystem #save:backup #lang:en,252
+#players:2:vs #genre:puzzle>drop #addon:peripheral>disksystem #compatibility:disksystem>dw #port:msx>2 #lang:ja,253
+#players:2:vs #genre:puzzle>drop #addon:peripheral>disksystem #save:backup #compatibility:disksystem>dw #lang:en,254
+#players:2:vs #genre:racing:sports>motocross #addon:peripheral>disksystem #save:backup #lang:en,255
+#players:2:vs #genre:racing:sports>motocross #addon:peripheral>disksystem #save:backup #lang:en #rerelease:virtualconsole>wiiu>3ds,256
+#players:2:vs #genre:sim>strategy #addon:peripheral>disksystem #save:backup #based:manganime #search:feature>gundam #compatibility:disksystem>dw #lang:ja,257
+#players:2:vs #genre:sim>strategy #addon:peripheral>disksystem #save:backup #based:manganime #search:feature>gundam #lang:ja,258
+#players:2:vs #genre:sim>strategy #addon:peripheral>disksystem #save:backup #based:manganime #search:feature>gundam #lang:ja #rerelease:virtualconsole>3ds,259
+#players:2:vs #genre:sim>strategy #addon:peripheral>disksystem #save:backup #based:manganime #search:feature>gundam #lang:ja #rerelease:virtualconsole>wii,260
+#players:2:vs #genre:sim>strategy #addon:peripheral>disksystem #save:backup #based:manganime #search:feature>gundam #lang:ja #rev:1,261
+#players:2:vs #genre:sim>strategy:sports>baseball #addon:peripheral>disksystem #based:manganime #lang:ja,262
+#players:2:vs #genre:sports>baseball #addon:peripheral>disksystem #lang:en,263
+#players:2:vs #genre:sports>baseball #addon:peripheral>disksystem #save:backup #lang:ja,264
+#players:2:vs #genre:sports>basketball #addon:peripheral>disksystem #port:arcade #lang:en,265
+#players:2:vs #genre:sports>golf #addon:peripheral>disksystem #save:backup #based:manganime #lang:ja,266
+#players:2:vs #genre:sports>golf #addon:peripheral>disksystem #search:feature>mario #lang:en,267
+#players:2:vs #genre:sports>golf #addon:peripheral>disksystem #search:feature>mario #lang:en #rev:1,268
+#players:2:vs #genre:sports>golf #addon:peripheral>disksystem #search:feature>mario #lang:en #rev:2 #unfinished:proto,269
+#players:2:vs #genre:sports>hockey #addon:peripheral>disksystem #lang:en,270
+#players:2:vs #genre:sports>hockey #addon:peripheral>disksystem #port:arcade #lang:en,271
+#players:2:vs #genre:sports>pingpong #addon:peripheral>disksystem #lang:ja,272
+#players:2:vs #genre:sports>skiing #addon:peripheral>disksystem #port:commodore>c64 #lang:ja,273
+#players:2:vs #genre:sports>soccer #addon:peripheral>disksystem #lang:en,274
+#players:2:vs #genre:sports>tennis #addon:peripheral>disksystem #lang:ja,275
+#players:2:vs #genre:sports>tennis #addon:peripheral>disksystem #lang:ja #unfinished:beta,276
+#players:2:vs #genre:sports>volleyball #addon:peripheral>disksystem #lang:en,277
+#players:3:coop #genre:shmup>h>v #addon:peripheral>disksystem #lang:ja,278
+#players:3:coop #genre:shmup>h>v #addon:peripheral>disksystem #lang:ja #rev:1,279
+#players:4:vs #genre:parlor>bowling #addon:peripheral>disksystem #save:backup #lang:ja,280
+#players:4:vs #genre:shmup #addon:peripheral>disksystem:multitap>4playersadaptor #lang:en,281
+#players:4:vs #genre:sports>golf #addon:peripheral>disksystem #search:feature>mario #compatibility:disksystem>dw #lang:en #rev:2,282
+#players:4:vs #genre:sports>golf #addon:peripheral>disksystem #search:feature>mario #lang:en,283
+#players:4:vs #genre:sports>golf #addon:peripheral>disksystem #search:feature>mario #lang:en #rev:1,284
+#players:4:vs #genre:sports>golf #addon:peripheral>disksystem #search:keyword>promo #lang:en,285
+#players:5:vs #genre:minigames:board>cards:parlor>jackpot #addon:peripheral>disksystem #lang:ja,286

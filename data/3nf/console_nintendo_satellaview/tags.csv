@@ -1,0 +1,57 @@
+tag_name,tag_id
+#players:1 #genre:action #addon:online>satellaview #lang:ja,1
+#players:1 #genre:action>blockbreaker #addon:online>satellaview #lang:en,2
+#players:1 #genre:action>platformer #addon:online>satellaview #compatibility:superfamicom>soundlink #search:feature>mario #port:nintendo>famicom #lang:ja,3
+#players:1 #genre:action>platformer #addon:online>satellaview #lang:ja #unfinished:demo,4
+#players:1 #genre:action>platformer #addon:online>satellaview #search:feature>mario #port:nintendo>famicom #lang:ja,5
+#players:1 #genre:action>platformer:sim>building>god #addon:online>satellaview #save:backup #lang:ja,6
+#players:1 #genre:action>runandgun #addon:online>satellaview #lang:ja,7
+#players:1 #genre:adventure #addon:online>satellaview #compatibility:superfamicom>soundlink #lang:ja,8
+#players:1 #genre:adventure #addon:online>satellaview #save:backup #lang:ja,9
+#players:1 #genre:adventure>visualnovel #addon:online>satellaview #compatibility:superfamicom>soundlink #port:nintendo>famicom #lang:ja,10
+#players:1 #genre:board #addon:online>satellaview #compatibility:superfamicom>soundlink #lang:ja,11
+#players:1 #genre:board>mahjong #addon:online>satellaview #compatibility:superfamicom>soundlink #lang:ja,12
+#players:1 #genre:board>mahjong:rpg>j #addon:online>satellaview #based:manganime #lang:ja,13
+#players:1 #genre:notagame>application #addon:online>satellaview #lang:ja,14
+#players:1 #genre:notagame>media #addon:online>satellaview #compatibility:superfamicom>soundlink #lang:ja,15
+#players:1 #genre:notagame>media #addon:online>satellaview #lang:ja,16
+#players:1 #genre:parlor>pachinko #addon:online>satellaview #lang:en,17
+#players:1 #genre:parlor>pachinko:puzzle #addon:online>satellaview #lang:en,18
+#players:1 #genre:parlor>pachinko>jackpot #addon:online>satellaview #compatibility:superfamicom>soundlink #lang:ja,19
+#players:1 #genre:parlor>pinball #addon:online>satellaview #lang:en,20
+#players:1 #genre:puzzle #addon:online>satellaview #lang:en,21
+#players:1 #genre:puzzle #addon:online>satellaview #lang:ja,22
+#players:1 #genre:puzzle:parlor>pachinko #addon:online>satellaview #lang:en,23
+#players:1 #genre:puzzle>drop #addon:online>satellaview #compatibility:superfamicom>soundlink #lang:en,24
+#players:1 #genre:racing #addon:online>satellaview #compatibility:superfamicom>soundlink #lang:ja,25
+#players:1 #genre:racing #addon:online>satellaview #lang:en,26
+#players:1 #genre:racing #addon:online>satellaview #lang:ja,27
+#players:1 #genre:racing #addon:online>satellaview #lang:ja #unfinished:demo,28
+#players:1 #genre:racing:sports>motocross #addon:online>satellaview #compatibility:superfamicom>soundlink #search:feature>mario #lang:ja,29
+#players:1 #genre:rpg>a #addon:online>satellaview #compatibility:superfamicom>soundlink #lang:ja,30
+#players:1 #genre:rpg>a #addon:online>satellaview #compatibility:superfamicom>soundlink #port:nintendo>famicom #lang:ja,31
+#players:1 #genre:rpg>j #addon:online>satellaview #save:backup #compatibility:superfamicom>soundlink #port:nintendo>famicom #lang:ja,32
+#players:1 #genre:rpg>j #addon:online>satellaview #save:backup #port:nec>pc88 #search:franchise>dragonslayer #lang:ja,33
+#players:1 #genre:rpg>j #addon:online>satellaview:backup>turbofile #save:backup #lang:ja,34
+#players:1 #genre:rpg>s #addon:online>satellaview #compatibility:superfamicom>soundlink #lang:ja,35
+#players:1 #genre:rpg>s #addon:online>satellaview #save:backup #lang:ja,36
+#players:1 #genre:shmup>h #addon:online>satellaview #lang:en,37
+#players:1 #genre:shmup>h #addon:online>satellaview #save:password #compatibility:superfamicom>soundlink #lang:ja,38
+#players:1 #genre:shmup>h #save:password #addon:online>satellaview #compatibility:superfamicom>soundlink #lang:ja,39
+#players:1 #genre:shmup>v #addon:online>satellaview #lang:en,40
+#players:1 #genre:sim>building #addon:online>satellaview #compatibility:superfamicom>soundlink #lang:ja,41
+#players:1 #genre:sim>farm #addon:online>satellaview #save:backup #lang:ja #unfinished:demo,42
+#players:1 #genre:sim>farm #addon:online>satellaview:mouse>sfc #compatibility:superfamicom>soundlink #lang:ja,43
+#players:1 #genre:sim>life:minigames #addon:online>satellaview #compatibility:superfamicom>soundlink #lang:ja,44
+#players:2:coop #genre:action>platformer #addon:online>satellaview #lang:ja,45
+#players:2:coop #genre:action>runandgun #addon:online>satellaview #lang:ja,46
+#players:2:coop:vs:alt #genre:action>blockbreaker #addon:online>satellaview:mouse>sfc #save:password #lang:ja,47
+#players:2:vs #genre:action #addon:online>satellaview #lang:en,48
+#players:2:vs #genre:fighting #addon:online>satellaview #lang:ja,49
+#players:2:vs #genre:parlor>pinball:sports>baseball #addon:online>satellaview #lang:en,50
+#players:2:vs #genre:puzzle>drop #addon:online>satellaview #search:feature>mario #port:nintendo>famicom #lang:en,51
+#players:2:vs #genre:sim>strategy #addon:online>satellaview #lang:ja,52
+#players:2:vs #genre:sports>golf #addon:online>satellaview #lang:ja,53
+#players:4:vs #genre:board #addon:online>satellaview:multitap>super #lang:ja,54
+#players:4:vs #genre:board #addon:online>satellaview:multitap>super #save:password #lang:ja,55
+#players:6:vs #genre:board #addon:online>satellaview:multitap>super #lang:ja,56

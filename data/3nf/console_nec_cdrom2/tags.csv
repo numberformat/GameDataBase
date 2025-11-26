@@ -1,0 +1,409 @@
+tag_name,tag_id
+#players:1 #genre:action #addon:peripheral>cdromrom #based:movie #lang:en,1
+#players:1 #genre:action #addon:peripheral>cdromrom #lang:ja,2
+#players:1 #genre:action #addon:peripheral>cdromrom:expansion>supersystemcard #lang:en #unlicensed:aftermarket,3
+#players:1 #genre:action #addon:peripheral>cdromrom:expansion>supersystemcard #lang:ja,4
+#players:1 #genre:action #addon:peripheral>cdromrom:expansion>supersystemcard #port:commodore>amiga #lang:en,5
+#players:1 #genre:action #addon:peripheral>cdromrom:expansion>supersystemcard #port:commodore>amiga #lang:ja,6
+#players:1 #genre:action #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:apple>apple2 #lang:en,7
+#players:1 #genre:action #addon:peripheral>cdromrom:expansion>supersystemcard #save:password #port:commodore>amiga #lang:en,8
+#players:1 #genre:action:adventure #addon:peripheral>cdromrom #port:commodore>amiga #lang:en,9
+#players:1 #genre:action:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,10
+#players:1 #genre:action:puzzle #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,11
+#players:1 #genre:action:puzzle #addon:peripheral>cdromrom:expansion>supersystemcard #save:password #lang:en,12
+#players:1 #genre:action:rpg #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,13
+#players:1 #genre:action>hackandslash #addon:peripheral>cdromrom #port:arcade #lang:ja,14
+#players:1 #genre:action>hackandslash #addon:peripheral>cdromrom #port:arcade #lang:ja #rev:1,15
+#players:1 #genre:action>hackandslash #addon:peripheral>cdromrom:expansion>supersystemcard #lang:ja,16
+#players:1 #genre:action>maze #addon:peripheral>cdromrom:expansion>supersystemcard #lang:en #unlicensed:aftermarket,17
+#players:1 #genre:action>maze:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #multigame:compilation>virgindream>frisbeekenjohn>marumaru #lang:ja #unfinished:demo,18
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom #lang:ja,19
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom #port:nec>pc88 #lang:en,20
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom #port:nec>pc88 #lang:ja,21
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom #port:nec>pc88 #lang:ja #alt:1,22
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom #port:nec>pc88 #lang:ja #alt:2,23
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom:controller>avenuepad3 #lang:en,24
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom:controller>avenuepad3 #lang:ja,25
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom:controller>avenuepad3 #lang:ja #alt,26
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom:expansion>arcadecard #port:arcade #lang:ja,27
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom:expansion>supersystemcard #based #lang:ja,28
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom:expansion>supersystemcard #based:movie:manganime #lang:ja,29
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom:expansion>supersystemcard #lang:ja,30
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom:expansion>supersystemcard #port:atari>lynx #lang:ja,31
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom:expansion>supersystemcard #port:sega>megadrive #lang:en,32
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom:expansion>supersystemcard #port:sega>megadrive #lang:ja,33
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #based:manganime #lang:ja,34
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom:expansion>supersystemcard #save:password #lang:en,35
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom:expansion>supersystemcard #search:keyword>brand #lang:en,36
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom:expansion>supersystemcard:controller>avenuepad3 #save:backup #search:franchise>castlevania:feature>dracula #lang:ja,37
+#players:1 #genre:action>platformer #addon:peripheral>cdromrom:multitap>pce #port:arcade #search:keyword>dolby #lang:ja,38
+#players:1 #genre:action>platformer:shmup>h #addon:peripheral>cdromrom:expansion>supersystemcard #lang:en #unfinished:demo #unlicensed:aftermarket,39
+#players:1 #genre:action>platformer:shmup>h #addon:peripheral>cdromrom:expansion>supersystemcard #lang:en #unlicensed:aftermarket,40
+#players:1 #genre:action>platformer:sim>strategy:rpg>dungeoncrawler:notagame>application #addon:peripheral>cdromrom:expansion>supersystemcard #multigame:compilation>pcgenjin4digital4komashuu>mightandmagic3islesofterra>neonectaris>bloodgear>sotsugyougraduation>ruinkaminoisan>kidoukeisatsupatlaborgriffonhen #lang:ja #unfinished:demo,41
+#players:1 #genre:action>platformer>metroidvania #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard #save:backup #lang:en #unlicensed:aftermarket,42
+#players:1 #genre:action>runandgun #addon:peripheral>cdromrom #lang:en,43
+#players:1 #genre:action>runandgun #addon:peripheral>cdromrom #lang:ja,44
+#players:1 #genre:action>runandgun #addon:peripheral>cdromrom:expansion>supersystemcard #lang:ja,45
+#players:1 #genre:action>runandgun #addon:peripheral>cdromrom:expansion>supersystemcard #port:arcade #lang:ja,46
+#players:1 #genre:action>runandgun #addon:peripheral>cdromrom:expansion>supersystemcard #port:nec>pc88 #lang:ja,47
+#players:1 #genre:action>runandgun:shmup #addon:peripheral>cdromrom #lang:en,48
+#players:1 #genre:action>runandgun:shmup #addon:peripheral>cdromrom #lang:ja,49
+#players:1 #genre:adventure #addon:peripheral>cdromrom #based:manganime #save:backup #lang:ja,50
+#players:1 #genre:adventure #addon:peripheral>cdromrom #lang:ja #unlicensed,51
+#players:1 #genre:adventure #addon:peripheral>cdromrom #port:apple>mac #lang:ja,52
+#players:1 #genre:adventure #addon:peripheral>cdromrom #save:backup #based:manganime #lang:ja,53
+#players:1 #genre:adventure #addon:peripheral>cdromrom #save:backup #lang:en,54
+#players:1 #genre:adventure #addon:peripheral>cdromrom #save:backup #lang:ja,55
+#players:1 #genre:adventure #addon:peripheral>cdromrom #save:backup #port:nec>pc88 #lang:ja,56
+#players:1 #genre:adventure #addon:peripheral>cdromrom #save:backup #port:nec>pc88 #lang:ja:en,57
+#players:1 #genre:adventure #addon:peripheral>cdromrom #save:backup #search:feature>sherlock #lang:ja,58
+#players:1 #genre:adventure #addon:peripheral>cdromrom #save:backup #search:keyword>endorsed #lang:ja,59
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #based:manganime #lang:ja,60
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #lang:en,61
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #lang:ja,62
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #port:nec>pc98 #lang:ja,63
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #based:manganime #lang:ja,64
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #based:manganime #port:nec>pc98 #lang:ja,65
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,66
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja #unfinished:demo,67
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:fmtowns #lang:ja,68
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:fmtowns #lang:ja #unfinished:demo,69
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:msx #lang:ja,70
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:msx #lang:ja #alt,71
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc88 #lang:ja,72
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc98 #lang:ja,73
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc98 #lang:ja #rev:1,74
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc98 #multigame:compilation>deadofthebrainshiryounosakebi>deadofthebrain2 #lang:ja,75
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:pc #lang:en,76
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:pc #lang:ja,77
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #search:feature>sherlock #lang:en,78
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #search:feature>sherlock #lang:ja,79
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #search:keyword>endorsed #lang:ja,80
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #search:keyword>strip #lang:ja #unlicensed,81
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard:mouse>pce #save:backup #based:manganime #lang:ja,82
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard:mouse>pce #save:backup #lang:ja,83
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard:rss #save:backup #port:nec>pc88 #lang:ja,84
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard:rss #save:backup #port:nec>pc88 #lang:ja #unfinished:demo,85
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard #port:nec>pc98 #based:manganime #lang:ja,86
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard #port:nec>pc98 #based:manganime #lang:ja #rev:1,87
+#players:1 #genre:adventure #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard #save:backup #lang:ja,88
+#players:1 #genre:adventure:notagame>educational #addon:peripheral>cdromrom #port:apple>apple2 #lang:ja:en,89
+#players:1 #genre:adventure:quiz #addon:peripheral>cdromrom:expansion>supersystemcard #based #search:keyword>endorsed #lang:ja,90
+#players:1 #genre:adventure:quiz #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #based:manganime #lang:ja,91
+#players:1 #genre:adventure:rpg>dungeoncrawler>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc88 #lang:ja,92
+#players:1 #genre:adventure:sim #addon:peripheral>cdromrom:expansion>supersystemcard #search:keyword>strip #lang:ja #unlicensed,93
+#players:1 #genre:adventure:sim>date #addon:peripheral>cdromrom:expansion>supersystemcard #port:nec>pc98 #lang:ja,94
+#players:1 #genre:adventure:sim>date #addon:peripheral>cdromrom:expansion>supersystemcard #port:nec>pc98 #lang:ja #alt:1,95
+#players:1 #genre:adventure:sim>date #addon:peripheral>cdromrom:expansion>supersystemcard #port:nec>pc98 #lang:ja #alt:2,96
+#players:1 #genre:adventure:sim>date #addon:peripheral>cdromrom:expansion>supersystemcard #port:nec>pc98 #lang:ja #rev:1,97
+#players:1 #genre:adventure:sim>date:board>jankenpon #addon:peripheral>cdromrom #search:keyword>endorsed #lang:ja,98
+#players:1 #genre:adventure:sim>life #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,99
+#players:1 #genre:adventure>visualnovel #addon:peripheral>cdromrom:expansion>supersystemcard #based:manganime #lang:ja,100
+#players:1 #genre:adventure>visualnovel #addon:peripheral>cdromrom:expansion>supersystemcard #lang:ja,101
+#players:1 #genre:board>hanafuda #addon:peripheral>cdromrom:expansion>gamesexpresscard #search:keyword>strip #lang:ja #unlicensed,102
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom #port:nec>pc98 #lang:ja,103
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom #port:nec>pc98 #lang:ja #alt,104
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom #save:backup #based:manganime #lang:ja,105
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom #save:backup #based:manganime #lang:ja #alt,106
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom #save:backup #lang:ja,107
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom:expansion>gamesexpresscard #save:backup #search:keyword>strip #lang:ja #unlicensed,108
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom:expansion>gamesexpresscard #search:keyword>strip #lang:ja #unlicensed,109
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom:expansion>supersystemcard #lang:ja,110
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom:expansion>supersystemcard #port:arcade #search:keyword>strip #lang:ja,111
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom:expansion>supersystemcard #port:nintendo>superfamicom #lang:ja,112
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #based #search:keyword>strip #lang:ja,113
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,114
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc98 #search:keyword>strip #lang:ja,115
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #search:keyword>strip #lang:ja,116
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom:expansion>supersystemcard #search:keyword>strip #lang:ja,117
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard #port:arcade #search:keyword>strip #lang:ja,118
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard #save:backup #based #search:keyword>strip #lang:ja,119
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard:controller>avenuepad6 #save:backup #search:keyword>strip #lang:ja,120
+#players:1 #genre:board>mahjong #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard:controller>avenuepad6 #search:keyword>strip #multigame:compilation>superrealmahjongp2>superrealmahjongp3 #port:arcade #lang:ja,121
+#players:1 #genre:board>mahjong:adventure #addon:peripheral>cdromrom #save:backup #lang:ja,122
+#players:1 #genre:board>mahjong>jankenpon #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #based #search:keyword>strip #lang:ja,123
+#players:1 #genre:brawler #addon:peripheral>cdromrom:controller>avenuepad3 #port:arcade #lang:ja,124
+#players:1 #genre:brawler #addon:peripheral>cdromrom:controller>avenuepad3 #port:arcade #lang:ja #alt,125
+#players:1 #genre:brawler #addon:peripheral>cdromrom:expansion>supersystemcard #based:manganime #port:arcade #lang:ja,126
+#players:1 #genre:brawler #addon:peripheral>cdromrom:expansion>supersystemcard #port:arcade #lang:en,127
+#players:1 #genre:brawler #addon:peripheral>cdromrom:expansion>supersystemcard #port:arcade #lang:ja,128
+#players:1 #genre:fighting #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #based:manganime #lang:ja,129
+#players:1 #genre:fighting #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:sega>megacd #lang:ja,130
+#players:1 #genre:fighting:shmup>h:rpg>a>j:sim>date>strategy:shooting>fps:action>maze:adventure>visualnovel:notagame>application #addon:peripheral>cdromrom:expansion>supersystemcard #multigame:compilation>ys4>godzillabakutouretsuden>darius>solmoonarge>tokimekimemorial>neonectaris>midimaze>flashhiders>bomberman94>yawara2 #based:manganime port:arcade #lang:ja #unfinished:demo,131
+#players:1 #genre:minigames #addon:peripheral>cdromrom #lang:ja,132
+#players:1 #genre:minigames #addon:peripheral>cdromrom:expansion>supersystemcard #based:manganime #lang:ja,133
+#players:1 #genre:minigames #addon:peripheral>cdromrom:expansion>supersystemcard #based:manganime #lang:ja #unfinished:demo,134
+#players:1 #genre:notagame #addon:peripheral>cdromrom #lang:ja #unfinished:demo,135
+#players:1 #genre:notagame>application #addon:peripheral>cdromrom #based:manganime #lang:ja,136
+#players:1 #genre:notagame>application>educational #addon:peripheral>cdromrom:expansion>supersystemcard #lang:ja,137
+#players:1 #genre:notagame>application>educational #addon:peripheral>cdromrom:expansion>supersystemcard:develobox #lang:ja,138
+#players:1 #genre:notagame>educational #addon:peripheral>cdromrom #lang:en,139
+#players:1 #genre:notagame>educational #addon:peripheral>cdromrom #lang:ja,140
+#players:1 #genre:notagame>slideshow #addon:peripheral>cdromrom #lang:en #unlicensed,141
+#players:1 #genre:notagame>slideshow #addon:peripheral>cdromrom #lang:ja,142
+#players:1 #genre:notagame>slideshow #addon:peripheral>cdromrom:expansion>supersystemcard #based:manganime #lang:ja,143
+#players:1 #genre:notagame>slideshow #addon:peripheral>cdromrom:expansion>supersystemcard #lang:ja,144
+#players:1 #genre:notagame>slideshow:adventure>visualnovel:minigames #addon:peripheral>cdromrom:expansion>supersystemcard #lang:ja,145
+#players:1 #genre:parlor>jackpot #addon:peripheral>cdromrom:expansion>gamesexpresscard #search:keyword>strip #lang:ja #unlicensed,146
+#players:1 #genre:parlor>jackpot:puzzle #addon:peripheral>cdromrom:expansion>supersystemcard #based #search:keyword>strip #lang:ja,147
+#players:1 #genre:parlor>pachinko>jackpot #addon:peripheral>cdromrom:expansion>gamesexpresscard #search:keyword>strip #lang:ja #unlicensed,148
+#players:1 #genre:puzzle #addon:peripheral>cdromrom #port:arcade #lang:ja,149
+#players:1 #genre:puzzle #addon:peripheral>cdromrom #port:nec>pc88 #based:manganime #lang:ja,150
+#players:1 #genre:puzzle #addon:peripheral>cdromrom #save:password #port:pc #lang:en,151
+#players:1 #genre:puzzle #addon:peripheral>cdromrom:expansion>supersystemcard #lang:en #unlicensed:aftermarket,152
+#players:1 #genre:puzzle #addon:peripheral>cdromrom:expansion>supersystemcard:controller>10key #based #lang:ja,153
+#players:1 #genre:puzzle:action #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,154
+#players:1 #genre:puzzle>drop #addon:peripheral>cdromrom #port:sharp>x68000 #lang:ja,155
+#players:1 #genre:quiz #addon:peripheral>cdromrom:expansion>supersystemcard #multigame:compilation>capcomworld>capcomquiz2hatenanodaibouken #port:arcade #lang:ja,156
+#players:1 #genre:quiz #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,157
+#players:1 #genre:racing #addon:peripheral>cdromrom #lang:ja,158
+#players:1 #genre:racing:sports>formula1 #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,159
+#players:1 #genre:racing:sports>rally #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,160
+#players:1 #genre:rhythm>karaoke #addon:peripheral>cdromrom #lang:ja,161
+#players:1 #genre:rhythm>karaoke #addon:peripheral>cdromrom #lang:ja #alt,162
+#players:1 #genre:rpg #addon:peripheral>cdromrom #save:backup #port:nec>pc88 #lang:ja,163
+#players:1 #genre:rpg #addon:peripheral>cdromrom #save:backup #port:nec>pc88 #lang:ja #rev:1,164
+#players:1 #genre:rpg:parlor>pachinko #addon:peripheral>cdromrom:controller>pachinko #save:backup #lang:ja,165
+#players:1 #genre:rpg:parlor>pachinko #addon:peripheral>cdromrom:controller>pachinko #save:backup #lang:ja #rev:1,166
+#players:1 #genre:rpg:parlor>pachinko #addon:peripheral>cdromrom:expansion>supersystemcard:controller>pachinko #save:backup #lang:ja,167
+#players:1 #genre:rpg:parlor>pachinko>jackpot #addon:peripheral>cdromrom:expansion>supersystemcard:controller>pachinko #save:backup #lang:ja,168
+#players:1 #genre:rpg:sim>fishing #addon:peripheral>cdromrom #save:backup #lang:ja,169
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom #save:backup #lang:en,170
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom #save:backup #lang:ja,171
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom #save:backup #port:nec>pc88 #lang:en,172
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom #save:backup #port:nec>pc88 #lang:en #alt,173
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom #save:backup #port:nec>pc88 #lang:ja,174
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom #save:backup #port:nec>pc88 #lang:ja #alt,175
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:en,176
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,177
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc88 #lang:ja,178
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc88 #search:franchise>dragonslayer #lang:ja,179
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc98 #lang:ja,180
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #search:feature>sherlock #lang:en,181
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #search:franchise>dragonslayer #lang:ja,182
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #search:franchise>dragonslayer #lang:ja #unfinished:demo,183
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom:expansion>supersystemcard:controller>avenuepad6:rss #save:backup #lang:ja,184
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom:expansion>supersystemcard:controller>avenuepad6:rss #save:backup #lang:ja #rev:1,185
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard:mouse>pce #save:backup #port:nec>pc98 #lang:ja,186
+#players:1 #genre:rpg>a #addon:peripheral>cdromrom:multitap>pce #save:backup #lang:ja,187
+#players:1 #genre:rpg>a:action #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard #save:backup #port:nec>pc88 #lang:ja #unfinished:demo,188
+#players:1 #genre:rpg>a:action>platformer>hackandslash #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard #save:backup #port:nec>pc88 #lang:ja,189
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>cdromrom #save:backup #port:apple>apple2 #lang:ja,190
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>cdromrom:expansion>arcadecard #save:backup #lang:ja,191
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:en,192
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,193
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:apple>apple2 #lang:ja,194
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:apple>apple2 #multigame:compilation>wizardry3legacyofllylgamyn>wizardry4thereturnofwerdna #lang:ja,195
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:pc #lang:en,196
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:pc #lang:ja,197
+#players:1 #genre:rpg>dungeoncrawler #addon:peripheral>cdromrom:expansion>supersystemcard #save:password #port:apple>apple2 #multigame:compilation>wizardryprovinggroundsofthemadoverlord>wizardry2knightofdiamonds #lang:ja,198
+#players:1 #genre:rpg>dungeoncrawler:adventure>survivalhorror #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc88 #lang:ja,199
+#players:1 #genre:rpg>dungeoncrawler:adventure>survivalhorror #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc88 #lang:ja #unfinished:demo,200
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom #save:backup #based:manganime #lang:ja,201
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom #save:backup #lang:en,202
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom #save:backup #lang:ja,203
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom #save:backup #lang:ja #alt:1,204
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom #save:backup #lang:ja #alt:2,205
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom #save:backup #lang:ja #rev:1,206
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom #save:backup #port:nec>pc88 #lang:ja,207
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>gamesexpresscard #save:backup #search:keyword>strip #lang:ja #unlicensed,208
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #based #lang:ja,209
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #based #lang:ja #alt,210
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #based:manganime #lang:ja,211
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #based:manganime #lang:ja #unfinished:demo,212
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,213
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja #rev:1,214
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja #unfinished:demo,215
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc88 #lang:ja,216
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc88 #lang:ja #rev:1,217
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc88 #lang:ja #unfinished:demo,218
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc88 #search:franchise>dragonslayer #lang:en,219
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc88 #search:franchise>dragonslayer #lang:ja,220
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc98 #lang:ja,221
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nintendo>famicom #lang:ja,222
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:pc #lang:en:fr:es #rev:1 #unlicensed:aftermarket,223
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:pc #lang:en:fr:es #unlicensed:aftermarket,224
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard #search:franchise>dragonslayer #lang:ja #unfinished:demo,225
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard:controller>avenuepad6 #save:backup #lang:ja,226
+#players:1 #genre:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard:controller>avenuepad6 #save:backup #lang:ja #rev:1,227
+#players:1 #genre:rpg>j:board>mahjong #addon:peripheral>cdromrom:expansion>arcadecard #save:backup #port:arcade #lang:ja,228
+#players:1 #genre:rpg>j>dungeoncrawler #addon:peripheral>cdromrom:expansion>supersystemcard:backup>memorybase128 #save:backup #port:nintendo>superfamicom #lang:ja,229
+#players:1 #genre:rpg>s #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #based:manganime #lang:ja,230
+#players:1 #genre:rpg>s #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,231
+#players:1 #genre:rpg>s #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja #unfinished:demo,232
+#players:1 #genre:rpg>s #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:sega>megadrive #lang:ja,233
+#players:1 #genre:shmup #addon:peripheral>cdromrom:expansion>supersystemcard #lang:en #rev:1 #unlicensed:aftermarket,234
+#players:1 #genre:shmup #addon:peripheral>cdromrom:expansion>supersystemcard #lang:en #unlicensed:aftermarket,235
+#players:1 #genre:shmup>h #addon:peripheral>cdromrom #lang:en,236
+#players:1 #genre:shmup>h #addon:peripheral>cdromrom #lang:ja,237
+#players:1 #genre:shmup>h #addon:peripheral>cdromrom #port:arcade #lang:ja,238
+#players:1 #genre:shmup>h #addon:peripheral>cdromrom #port:arcade #lang:ja #alt,239
+#players:1 #genre:shmup>h #addon:peripheral>cdromrom #port:arcade #search:keyword>dolby #lang:en,240
+#players:1 #genre:shmup>h #addon:peripheral>cdromrom #port:arcade #search:keyword>dolby #lang:en #alt,241
+#players:1 #genre:shmup>h #addon:peripheral>cdromrom:expansion>supersystemcard #based:manganime #lang:ja,242
+#players:1 #genre:shmup>h #addon:peripheral>cdromrom:expansion>supersystemcard #lang:en,243
+#players:1 #genre:shmup>h #addon:peripheral>cdromrom:expansion>supersystemcard #lang:ja,244
+#players:1 #genre:shmup>h #addon:peripheral>cdromrom:expansion>supersystemcard #port:arcade #lang:en,245
+#players:1 #genre:shmup>h #addon:peripheral>cdromrom:expansion>supersystemcard #port:arcade #lang:ja,246
+#players:1 #genre:shmup>h #addon:peripheral>cdromrom:expansion>supersystemcard #port:arcade #lang:ja:en:ko,247
+#players:1 #genre:shmup>h #addon:peripheral>cdromrom:expansion>supersystemcard:controller>avenuepad3 #lang:ja,248
+#players:1 #genre:shmup>h #addon:peripheral>cdromrom:expansion>supersystemcard:controller>avenuepad3 #port:arcade #lang:en,249
+#players:1 #genre:shmup>h:action>platformer:rpg>a:notagame>application #addon:peripheral>cdromrom:expansion>supersystemcard #multigame:compilation>dragonslayerthelegendofheroes2>burai2yamikouteinogyakushuu>fushiginouminonadiatsobw>windsofthunder>ookamitekimonshoucrestofwolf #based:manganime #search:franchise>dragonslayer #lang:ja #unfinished:demo,250
+#players:1 #genre:shmup>h:action>platformer:rpg>a:quiz:adventure:notagame>application #addon:peripheral>cdromrom:expansion>supersystemcard #multigame:compilation>pcgenjin3pithecanthropuscomputerurus>monstermakeryaminoryuukishi>choueiyuudensetsudynastichero>topwoneraegunbustervol2>windsofthunder>quizcaravancultq>sherlockholmesconsultingdetectivevol2 #based:manganime #search:feature>sherlock #lang:ja #unfinished:demo,251
+#players:1 #genre:shmup>v #addon:peripheral>cdromrom #lang:ja,252
+#players:1 #genre:shmup>v #addon:peripheral>cdromrom #port:arcade #lang:ja,253
+#players:1 #genre:shmup>v #addon:peripheral>cdromrom:expansion>supersystemcard #lang:en,254
+#players:1 #genre:shmup>v #addon:peripheral>cdromrom:expansion>supersystemcard #lang:ja,255
+#players:1 #genre:shmup>v #addon:peripheral>cdromrom:expansion>supersystemcard #port:arcade #lang:en,256
+#players:1 #genre:shmup>v #addon:peripheral>cdromrom:expansion>supersystemcard #port:nec>pc98 #lang:ja,257
+#players:1 #genre:shmup>v #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:en,258
+#players:1 #genre:shmup>v:rpg>a #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,259
+#players:1 #genre:shooting>gallery #addon:peripheral>cdromrom:expansion>supersystemcard #based:manganime #lang:ja,260
+#players:1 #genre:sim #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc98 #lang:ja,261
+#players:1 #genre:sim #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc98 #lang:ja #rev:1,262
+#players:1 #genre:sim:sports>formula1 #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,263
+#players:1 #genre:sim>date #addon:peripheral>cdromrom:expansion>supersystemcard:mouse>pce #save:backup #lang:ja,264
+#players:1 #genre:sim>date #addon:peripheral>cdromrom:expansion>supersystemcard:mouse>pce #save:backup #lang:ja #rev:1,265
+#players:1 #genre:sim>date #addon:peripheral>cdromrom:expansion>supersystemcard:mouse>pce #save:backup #lang:ja #rev:2,266
+#players:1 #genre:sim>date #addon:peripheral>cdromrom:expansion>supersystemcard:mouse>pce #save:backup #lang:ja #rev:3,267
+#players:1 #genre:sim>date>strategy #addon:peripheral>cdromrom:expansion>gamesexpresscard #search:keyword>strip #lang:ja #unlicensed,268
+#players:1 #genre:sim>date>strategy #addon:peripheral>cdromrom:expansion>gamesexpresscard #search:keyword>strip #lang:ja #unlicensed #alt:1,269
+#players:1 #genre:sim>date>strategy #addon:peripheral>cdromrom:expansion>gamesexpresscard #search:keyword>strip #lang:ja #unlicensed #alt:2,270
+#players:1 #genre:sim>life #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard #save:backup #port:nec>pc98 #lang:ja,271
+#players:1 #genre:sim>life:sports>baseball #addon:peripheral>cdromrom:expansion>supersystemcard:mouse>pce:backup>memorybase128 #save:backup #lang:ja,272
+#players:1 #genre:sim>life:sports>basketball:rpg>a:action>platformer>hackandslash:adventure #addon:peripheral>cdromrom:expansion>supersystemcard #disc:2>2 #multigame:compilation>eikanwakiminikyzt>popfulmail>gsmikami>alnamnoibajjsd #based:manganime #lang:ja #unfinished:demo,273
+#players:1 #genre:sim>life>god #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:apple>mac #lang:en,274
+#players:1 #genre:sim>life>god #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:apple>mac #lang:ja,275
+#players:1 #genre:sim>life>strategy #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc98 #lang:ja,276
+#players:1 #genre:sim>life>strategy #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard:controller>avenuepad6 #save:backup #port:nec>pc98 #lang:ja,277
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom #lang:ja,278
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom #save:backup #based:manganime #lang:ja,279
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom #save:backup #lang:ja,280
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom #save:backup #port:commodore>amiga #lang:en,281
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom #save:backup #port:commodore>amiga #lang:ja,282
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom #save:backup #port:nec>pc88 #lang:ja,283
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom #save:backup #port:nec>pc98 #lang:ja,284
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom:expansion>arcadecard #save:backup #based:manganime #port:nec>pc98 #lang:ja,285
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #based #lang:ja,286
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #based:manganime #lang:ja,287
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #lang:ja,288
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:msx #lang:ja,289
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc88 #lang:ja,290
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc98 #lang:ja,291
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom:expansion>supersystemcard:mouse>pce #lang:ja,292
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom:expansion>supersystemcard:mouse>pce:backup>memorybase128 #save:backup #lang:ja,293
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #save:backup #port:nec>pc88 #lang:ja,294
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard #save:backup #lang:ja,295
+#players:1 #genre:sim>strategy #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard:mouse>pce:backup>memorybase128 #save:backup #port:nec>pc98 #lang:ja,296
+#players:1 #genre:sim>strategy:action:rpg:notagame>application #addon:peripheral>cdromrom:expansion>supersystemcard #disc:1>2 #multigame:compilation>neonectaris>hyperwars>bloodgear #lang:ja #unfinished:demo,297
+#players:1 #genre:sim>strategy:rpg>j:shmup>v:notagame>slideshow>application #addon:peripheral>cdromrom:expansion>supersystemcard #multigame:compilation>theatlas>neonectaris>princessminerva>frayinmagicaladventurecd #based:manganime #lang:ja #unfinished:demo,298
+#players:1 #genre:sim>strategy>god #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:pc #lang:ja,299
+#players:2:coop #genre:action #addon:peripheral>cdromrom:multitap>pce #lang:ja,300
+#players:2:coop #genre:action #addon:peripheral>cdromrom:multitap>pce #port:arcade #lang:en,301
+#players:2:coop #genre:action>platformer #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #lang:en,302
+#players:2:coop #genre:action>platformer #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #lang:ja,303
+#players:2:coop #genre:action>platformer #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #port:arcade #lang:ja,304
+#players:2:coop #genre:action>platformer:shmup>h #addon:peripheral>cdromrom:multitap>pce #based:manganime #lang:ja,305
+#players:2:coop #genre:action>platformer:shmup>h #addon:peripheral>cdromrom:multitap>pce #port:arcade #lang:en,306
+#players:2:coop #genre:action>platformer:shmup>h #addon:peripheral>cdromrom:multitap>pce #port:arcade #lang:en #rev:1,307
+#players:2:coop #genre:action>runandgun #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #lang:ja,308
+#players:2:coop #genre:action>runandgun #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #save:backup #port:arcade #lang:ja,309
+#players:2:coop #genre:brawler #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #port:arcade #lang:ja,310
+#players:2:coop #genre:brawler #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #port:nintendo>famicom #search:feature>kuniokun #lang:ja,311
+#players:2:coop #genre:brawler #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #save:backup #lang:ja,312
+#players:2:coop #genre:puzzle:action #addon:peripheral>cdromrom:multitap>pce #save:backup #lang:en,313
+#players:2:coop #genre:rpg>a #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce:backup>memorybase128 #save:backup #lang:ja,314
+#players:2:coop #genre:shmup>h #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #lang:ja,315
+#players:2:coop #genre:shmup>h #addon:peripheral>cdromrom:multitap>pce #lang:ja,316
+#players:2:coop #genre:shmup>h #addon:peripheral>cdromrom:multitap>pce #lang:ja #rev:1,317
+#players:2:coop #genre:shmup>h #addon:peripheral>cdromrom:multitap>pce #port:arcade #lang:ja,318
+#players:2:coop #genre:shmup>v #addon:peripheral>cdromrom:expansion>arcadecard:multitap>pce #lang:ja,319
+#players:2:coop #genre:shmup>v #addon:peripheral>cdromrom:expansion>arcadecard:multitap>pce #reboxed #lang:ja #unlicensed,320
+#players:2:coop #genre:shmup>v #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #lang:ja,321
+#players:2:coop #genre:shmup>v #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce:controller>avenuepad3>xe1ap #port:arcade #lang:en:ja,322
+#players:2:coop #genre:shmup>v #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce:controller>avenuepad3>xe1ap #port:arcade #lang:ja,323
+#players:2:coop:vs #genre:action:brawler #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #lang:ja,324
+#players:2:vs #genre:action #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #save:backup #lang:ja,325
+#players:2:vs #genre:action>hackandslash #addon:peripheral>cdromrom:expansion>arcadecard:multitap>pce #lang:ja,326
+#players:2:vs #genre:action>hackandslash #addon:peripheral>cdromrom:expansion>arcadecard:multitap>pce #lang:ja #unfinished:demo,327
+#players:2:vs #genre:action>hackandslash:fighting #addon:peripheral>cdromrom #based:manganime #lang:ja,328
+#players:2:vs #genre:board>cards #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #save:password #search:keyword>strip #lang:ja,329
+#players:2:vs #genre:board>shougi #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #save:backup #lang:ja,330
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:expansion>arcadecard:multitap>pce:controller>avenuepad3>avenuepad6 #port:arcade #lang:ja,331
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:expansion>arcadecard:multitap>pce:controller>avenuepad3>avenuepad6 #port:arcade #lang:ja #unfinished:demo,332
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:expansion>arcadecard:multitap>pce:controller>avenuepad6 #lang:ja,333
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:expansion>arcadecard:multitap>pce:controller>avenuepad6 #port:arcade #lang:ja,334
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:expansion>arcadecard:multitap>pce:controller>avenuepad6 #port:arcade #lang:ja #unfinished:demo,335
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:expansion>arcadecard:multitap>pce:controller>avenuepad6 #port:arcade #lang:ja:en:es,336
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:expansion>arcadecard:multitap>pce:controller>avenuepad6 #port:arcade #lang:ja:en:es #unfinished:demo,337
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:expansion>arcadecard:multitap>pce:controller>avenuepad6:rss #port:arcade #lang:ja,338
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:expansion>arcadecard:multitap>pce:controller>avenuepad6:rss #port:arcade #lang:ja #unfinished:demo,339
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:expansion>supersystemcard #based:manganime #lang:ja,340
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #based #lang:en,341
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #based #lang:ja,342
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce:controller>avenuepad6 #lang:ja,343
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce:controller>avenuepad6 #port:arcade #lang:ja,344
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce:controller>avenuepad6 #save:backup #lang:ja,345
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard:multitap>pce #lang:ja,346
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:multitap>pce #port:arcade #lang:en,347
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:multitap>pce #port:arcade #lang:ja,348
+#players:2:vs #genre:fighting #addon:peripheral>cdromrom:multitap>pce #port:arcade #lang:ja #rev:1,349
+#players:2:vs #genre:fighting:sports>kickboxing #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #port:commodore>amiga #lang:en,350
+#players:2:vs #genre:puzzle #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce:mouse>pce #save:password #port:commodore>amiga #lang:ja,351
+#players:2:vs #genre:puzzle>drop #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #port:msx>2:arcade #lang:ja,352
+#players:2:vs #genre:quiz #addon:peripheral>cdromrom:multitap>pce #port:arcade #lang:ja,353
+#players:2:vs #genre:shmup #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #port:arcade #lang:ja,354
+#players:2:vs #genre:shooting>fps #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #port:atari>atarist #lang:ja,355
+#players:2:vs #genre:shooting>fps #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #port:atari>atarist #lang:ja #unfinished:demo,356
+#players:2:vs #genre:sim>strategy #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #lang:ja,357
+#players:2:vs #genre:sim>strategy #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #save:backup:password #lang:ja,358
+#players:2:vs #genre:sim>strategy #addon:peripheral>cdromrom:multitap>pce #save:backup #lang:en,359
+#players:2:vs #genre:sim>strategy #addon:peripheral>cdromrom:multitap>pce #save:backup #lang:ja,360
+#players:2:vs #genre:sports>baseball #addon:peripheral>cdromrom:multitap>pce #save:backup #lang:ja,361
+#players:2:vs #genre:sports>baseball:sim #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #search:keyword>official #lang:ja,362
+#players:2:vs #genre:sports>baseball:sim #addon:peripheral>cdromrom:multitap>pce #search:keyword>official #lang:ja,363
+#players:2:vs #genre:sports>football #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce:controller>avenuepad3 #search:keyword>endorsed #lang:en,364
+#players:2:vs #genre:sports>soccer #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #port:arcade #lang:ja,365
+#players:2:vs #genre:sports>wrestling:sim>cardgame #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard:multitap>pce #lang:ja,366
+#players:3:coop #genre:shmup>h #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #lang:ja,367
+#players:3:vs #genre:adventure:sports>golf #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #save:backup #lang:ja,368
+#players:3:vs #genre:sim>strategy #addon:peripheral>cdromrom:multitap>pce #save:backup #lang:ja,369
+#players:4:coop:vs #genre:action #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #save:backup #lang:ja,370
+#players:4:coop:vs #genre:action:brawler #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #port:nintendo>famicom #search:feature>kuniokun #lang:ja,371
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:peripheral>cdromrom:expansion>arcadecard:multitap>pce #search:keyword>official #lang:ja,372
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:peripheral>cdromrom:expansion>arcadecard:multitap>pce:controller>avenuepad6 #search:keyword>official #port:nintendo>superfamicom #lang:ja,373
+#players:4:coop:vs #genre:sports>golf>tennis>soccer #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #multigame:compilation>fineshotgolf>formationsoccerhumancup90>finalmatchtennis #port:nec>pcengine #lang:ja,374
+#players:4:coop:vs #genre:sports>soccer #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #save:password #port:nintendo>famicom #search:feature>kuniokun #lang:ja,375
+#players:4:coop:vs #genre:sports>soccer #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard:multitap>pce #save:backup #search:keyword>official #lang:ja,376
+#players:4:coop:vs #genre:sports>soccer #addon:peripheral>cdromrom:expansion>supersystemcard>arcadecard:multitap>pce #search:keyword>official #lang:ja,377
+#players:4:coop:vs #genre:sports>tennis #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #save:backup #search:keyword>official #lang:ja,378
+#players:4:vs #genre:action>maze #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #lang:ja,379
+#players:4:vs #genre:action>maze #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #lang:ja #unfinished:demo,380
+#players:4:vs #genre:board #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #based:manganime #port:nec>pc98 #lang:ja,381
+#players:4:vs #genre:board #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #save:backup #lang:ja,382
+#players:4:vs #genre:board #addon:peripheral>cdromrom:multitap>pce #save:backup #lang:ja,383
+#players:4:vs #genre:puzzle #addon:peripheral>cdromrom:multitap>pce #save:backup #lang:ja,384
+#players:4:vs #genre:rpg>j:board #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce:backup>memorybase128 #save:backup #lang:ja,385
+#players:4:vs #genre:sim:racing #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #lang:ja,386
+#players:4:vs #genre:sim>strategy #addon:peripheral>cdromrom:expansion>supersystemcard #save:backup #port:nec>pc88 #lang:ja,387
+#players:4:vs #genre:sports>golf #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce:mouse>pce #search:keyword>official #lang:ja,388
+#players:4:vs #genre:sports>golf #addon:peripheral>cdromrom:multitap>pce #lang:ja,389
+#players:4:vs #genre:sports>golf #addon:peripheral>cdromrom:multitap>pce #search:keyword>endorsed #lang:en,390
+#players:4:vs #genre:sports>golf #addon:peripheral>cdromrom:multitap>pce #search:keyword>endorsed #lang:ja,391
+#players:5:coop #genre:rpg>a:action>runandgun #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #save:backup #lang:en,392
+#players:5:coop #genre:rpg>a:action>runandgun #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #save:backup #lang:ja,393
+#players:5:coop #genre:shmup>h #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #lang:en #unlicensed:aftermarket,394
+#players:5:vs #genre:action>maze #addon:peripheral>cdromrom:multitap>pce #lang:ja #unfinished:demo,395
+#players:5:vs #genre:action>maze:shmup>h #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #save:password #lang:en:fr #unlicensed:aftermarket,396
+#players:5:vs #genre:puzzle #addon:peripheral>cdromrom:multitap>pce #port:pc:arcade #lang:en,397
+#players:5:vs #genre:puzzle>drop #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #lang:ja,398
+#players:5:vs #genre:quiz #addon:peripheral>cdromrom:multitap>pce #based #lang:ja,399
+#players:5:vs #genre:quiz #addon:peripheral>cdromrom:multitap>pce #based #lang:ja #rev:1,400
+#players:5:vs #genre:quiz #addon:peripheral>cdromrom:multitap>pce #lang:ja,401
+#players:5:vs #genre:quiz #addon:peripheral>cdromrom:multitap>pce #save:backup #lang:ja,402
+#players:5:vs #genre:quiz:adventure #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #lang:ja,403
+#players:5:vs #genre:quiz:rpg>j #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #save:backup #lang:ja,404
+#players:5:vs #genre:racing>combat #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #lang:ja,405
+#players:5:vs #genre:racing>combat #addon:peripheral>cdromrom:multitap>pce #lang:ja,406
+#players:5:vs #genre:rpg>j:quiz #addon:peripheral>cdromrom:multitap>pce #lang:ja,407
+#players:5:vs #genre:shmup>h:action>platformer>maze #addon:peripheral>cdromrom:expansion>supersystemcard:multitap>pce #multigame:compilation>gateofthunder>pcgenjinpithecanthropuscomputerurus>pcgenjin2pithecanthropuscomputerurus #port:nec>pcengine #lang:en,408

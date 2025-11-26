@@ -1,0 +1,25 @@
+region_name,region_id
+Australia,1
+Brazil,2
+Brazil/Mexico,3
+Canada,4
+China,5
+Europe,6
+France,7
+France/Netherlands,8
+France/Spain,9
+Germany,10
+Hong Kong,11
+Italy,12
+Japan,13
+Japan/USA,14
+Mexico,15
+Netherlands,16
+Scandinavia,17
+South Korea,18
+Spain,19
+Sweden,20
+USA,21
+USA/Europe,22
+Unknown,23
+World,24

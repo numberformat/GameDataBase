@@ -1,0 +1,230 @@
+tag_name,tag_id
+#input:buttons>19 #players:2:vs #genre:board>mahjong #arcadeboard:snk>mvs #search:keyword>strip #lang:ja #unlicensed:aftermarket:bootleg #mameparent,1
+#input:buttons>3 #players:4:vs #genre:sports>decathlon #arcadeboard:snk #lang:en #mameparent,2
+#input:buttons>4 #players:2:vs #genre:quiz #based:manganime #arcadeboard:snk>mvs #lang:ja #mameparent,3
+#input:dial:buttons>2 #players:2:alt #genre:action>blockbreaker #search:tate>cw #lang:en #mameparent,4
+#input:joystick>2h:buttons>1 #players:2:alt #search:tate>ccw #genre:shmup #arcadeboard:snk #lang:en #set:1 #mameparent,5
+#input:joystick>2h:buttons>1 #players:2:alt #search:tate>ccw #genre:shmup #arcadeboard:snk #lang:en #set:2,6
+#input:joystick>2h:buttons>1 #players:2:alt #search:tate>ccw #genre:shmup #arcadeboard:snk #lang:en #unlicensed:bootleg,7
+#input:joystick>2h:buttons>1 #players:2:alt #search:tate>cw #genre:action>maze:racing #arcadeboard:snk #lang:en,8
+#input:joystick>2h:buttons>1 #players:2:alt #search:tate>cw #genre:action>maze:racing #arcadeboard:snk #lang:en #mameparent,9
+#input:joystick>2h:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:snk>mvs #lang:en #unlicensed:aftermarket #mameparent,10
+#input:joystick>2h:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:snk>mvs #lang:ja:en #mameparent,11
+#input:joystick>2h:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:snk>mvs #port:arcade #lang:ja:en #mameparent,12
+#input:joystick>2h:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:snk>mvs #port:arcade #lang:ja:en #unlicensed:bootleg,13
+#input:joystick>2h:buttons>2 #players:1 #genre:racing #arcadeboard:snk>mvs #lang:en #mameparent,14
+#input:joystick>2h:buttons>2 #players:1 #genre:racing #arcadeboard:snk>mvs #lang:ja:en #mameparent,15
+#input:joystick>2h:buttons>2 #players:2:alt #search:tate>cw #genre:shmup #arcadeboard:snk #lang:en,16
+#input:joystick>2h:buttons>2 #players:2:alt #search:tate>cw #genre:shmup #arcadeboard:snk #lang:en #set:1 #mameparent,17
+#input:joystick>2h:buttons>2 #players:2:alt #search:tate>cw #genre:shmup #arcadeboard:snk #lang:en #set:2,18
+#input:joystick>2h:buttons>2 #players:2:alt #search:tate>cw #genre:shmup #arcadeboard:snk #lang:en #unlicensed:bootleg,19
+#input:joystick>2h:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:snk>mvs #lang:ja:en #mameparent,20
+#input:joystick>2h:buttons>2 #players:2:vs #genre:racing #arcadeboard:snk>mvs #lang:en #mameparent,21
+#input:joystick>2h:buttons>3 #players:2:coop #genre:action>platformer #arcadeboard:snk>mvs #lang:ja:en #mameparent,22
+#input:joystick>2h:buttons>3 #players:2:coop #genre:action>platformer #arcadeboard:snk>mvs #lang:ja:en #unlicensed:bootleg,23
+#input:joystick>2h:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:snk>mvs #lang:ja:en #mameparent,24
+#input:joystick>2h:buttons>3 #players:2:vs #genre:racing:sports>motogp #arcadeboard:snk>mvs #lang:ja:en #mameparent,25
+#input:joystick>4:buttons>1 #players:2:alt #search:tate>ccw #genre:action>maze #arcadeboard:snk #lang:en #mameparent,26
+#input:joystick>4:buttons>1 #players:2:coop #genre:action>maze #arcadeboard:snk>mvs #lang:en #mameparent,27
+#input:joystick>4:buttons>1 #players:2:coop:vs #genre:action>maze #arcadeboard:snk>mvs #lang:ja:en #mameparent,28
+#input:joystick>4:buttons>1 #players:2:vs #genre:puzzle>drop #arcadeboard:snk>mvs #lang:ja:en #mameparent,29
+#input:joystick>4:buttons>1 #players:4:vs #genre:parlor>bowling #arcadeboard:snk>mvs #lang:ja:en #mameparent,30
+#input:joystick>4:buttons>2 #players:1 #genre:action>maze:puzzle #arcadeboard:snk>mvs #lang:en #unfinished:proto #mameparent,31
+#input:joystick>4:buttons>2 #players:1 #genre:board>mahjong #arcadeboard:snk>mvs #lang:ja #mameparent,32
+#input:joystick>4:buttons>2 #players:1 #genre:board>shougi #arcadeboard:snk>mvs #lang:ja #mameparent,33
+#input:joystick>4:buttons>2 #players:1 #genre:rpg>j:board>mahjong #arcadeboard:snk>mvs #lang:ja #mameparent,34
+#input:joystick>4:buttons>2 #players:2:alt #search:tate>cw #genre:action #arcadeboard:snk #lang:en #mameparent,35
+#input:joystick>4:buttons>2 #players:2:coop #genre:action>hackandslash:shooting>gallery #arcadeboard:snk>mvs #lang:ja:en #mameparent,36
+#input:joystick>4:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:snk>mvs #lang:ja:en #mameparent,37
+#input:joystick>4:buttons>3 #players:1 #genre:action:shooting>gallery #arcadeboard:snk>mvs #lang:ja:en #mameparent,38
+#input:joystick>4:buttons>3 #players:2:coop #genre:action>platformer #arcadeboard:snk>mvs #lang:ja:en #mameparent,39
+#input:joystick>4:buttons>3 #players:2:coop #genre:action>runandgun #arcadeboard:snk>mvs #lang:ja:en #mameparent,40
+#input:joystick>4:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:snk>mvs #lang:ja:en,41
+#input:joystick>4:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:snk>mvs #lang:ja:en #mameparent,42
+#input:joystick>4:buttons>4 #players:1 #genre:board>mahjong #arcadeboard:snk>mvs #lang:ja #mameparent,43
+#input:joystick>4:buttons>4 #players:2:vs #genre:quiz #arcadeboard:snk>mvs #lang:ja #mameparent,44
+#input:joystick>4:buttons>4 #players:2:vs #genre:quiz #arcadeboard:snk>mvs #lang:ko,45
+#input:joystick>8 #players:2:alt #search:tate>cw #genre:action>maze #arcadeboard:snk #lang:en #mameparent,46
+#input:joystick>8 #players:2:alt #search:tate>cw #genre:action>maze #arcadeboard:snk #lang:en #set:1,47
+#input:joystick>8 #players:2:alt #search:tate>cw #genre:action>maze #arcadeboard:snk #lang:en #set:2,48
+#input:joystick>8 #players:2:alt #search:tate>cw #genre:action>maze #arcadeboard:snk #lang:ja,49
+#input:joystick>8:buttons>1 #players:1 #genre:sim>derby #arcadeboard:snk>mvs #lang:en #set:1 #mameparent,50
+#input:joystick>8:buttons>1 #players:1 #genre:sim>derby #arcadeboard:snk>mvs #lang:en #set:2,51
+#input:joystick>8:buttons>1 #players:2:alt #genre:action>maze:puzzle #arcadeboard:snk #search:keyword>strip #lang:en #mameparent,52
+#input:joystick>8:buttons>1 #players:2:alt #search:tate>cw #genre:shmup>h #arcadeboard:snk #lang:en,53
+#input:joystick>8:buttons>1 #players:2:alt #search:tate>cw #genre:shmup>h #arcadeboard:snk #lang:en #mameparent,54
+#input:joystick>8:buttons>1 #players:2:coop #genre:brawler:action>hackandslash #arcadeboard:snk>mvs #lang:ja:en #mameparent,55
+#input:joystick>8:buttons>1 #players:2:vs #genre:action>blockbreaker #arcadeboard:snk>mvs #lang:ja:en #mameparent,56
+#input:joystick>8:buttons>19 #players:1 #genre:board>mahjong #arcadeboard:snk>mvs #search:keyword>strip #lang:ja #mameparent,57
+#input:joystick>8:buttons>2 #players:1 #genre:action>runandgun>platformer #arcadeboard:snk>mvs #lang:ja:en #mameparent,58
+#input:joystick>8:buttons>2 #players:1 #genre:brawler:fighting:sports>boxing #based:manganime #arcadeboard:snk>mvs #lang:ja:en #mameparent,59
+#input:joystick>8:buttons>2 #players:2:alt #genre:racing>combat #arcadeboard:snk #lang:en #mameparent,60
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>i #arcadeboard:snk #lang:en,61
+#input:joystick>8:buttons>2 #players:2:alt #genre:shmup>i #arcadeboard:snk #lang:en #mameparent,62
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:action:sports>motocross #arcadeboard:snk #lang:en #set:1 #mameparent,63
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:action:sports>motocross #arcadeboard:snk #lang:en #set:2,64
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:shmup #arcadeboard:snk #lang:en #mameparent,65
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:shmup>v #arcadeboard:snk #lang:en,66
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:shmup>v #arcadeboard:snk #lang:en #set:1,67
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:shmup>v #arcadeboard:snk #lang:en #set:2 #mameparent,68
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>ccw #genre:shmup>v #arcadeboard:snk #lang:ja,69
+#input:joystick>8:buttons>2 #players:2:alt #search:tate>cw #genre:shmup #arcadeboard:snk #lang:ja #mameparent,70
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:snk #lang:en #mameparent,71
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:snk #lang:en #unlicensed:bootleg,72
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:snk #lang:ja,73
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:snk>mvs #lang:ja:en #mameparent,74
+#input:joystick>8:buttons>2 #players:2:coop #genre:action>platformer #arcadeboard:snk>mvs #lang:ja:en #unfinished:proto #mameparent,75
+#input:joystick>8:buttons>2 #players:2:coop #genre:brawler #arcadeboard:snk>mvs #lang:ja:en #mameparent,76
+#input:joystick>8:buttons>2 #players:2:coop #genre:puzzle>drop #arcadeboard:snk>mvs #lang:ja:en #unfinished:proto #mameparent,77
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:snk #lang:en,78
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:snk #lang:en #mameparent,79
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:snk #lang:en #unlicensed:bootleg,80
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:snk #lang:ja,81
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:snk #lang:ko,82
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:snk>mvs #lang:en #mameparent,83
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:snk>mvs #lang:ja:en #mameparent,84
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>h #arcadeboard:snk>mvs #lang:ja:en #unfinished:proto,85
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>i #arcadeboard:snk>mvs #lang:ja:en #mameparent,86
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>i #arcadeboard:snk>mvs #lang:ja:en #unfinished:proto,87
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #arcadeboard:snk>mvs #lang:en #mameparent,88
+#input:joystick>8:buttons>2 #players:2:coop #genre:shmup>v #arcadeboard:snk>mvs #lang:en #unfinished:proto,89
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>ccw #genre:action>runandgun #arcadeboard:snk #lang:en #based:movie #unlicensed:bootleg,90
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>ccw #genre:action>runandgun #arcadeboard:snk #lang:en #unlicensed:bootleg,91
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>ccw #genre:action>runandgun #arcadeboard:snk #unlicensed:bootleg #lang:en,92
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>ccw #genre:shmup>v #arcadeboard:snk #lang:en,93
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>ccw #genre:shmup>v #arcadeboard:snk #lang:en #mameparent,94
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:snk #lang:en,95
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:snk #lang:en #mameparent,96
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:snk #lang:en #set:1 #mameparent,97
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:snk #lang:en #set:2,98
+#input:joystick>8:buttons>2 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:snk #lang:en #unlicensed:bootleg,99
+#input:joystick>8:buttons>2 #players:2:vs #genre:board>shougi #arcadeboard:snk #lang:ja #set:1 #mameparent,100
+#input:joystick>8:buttons>2 #players:2:vs #genre:board>shougi #arcadeboard:snk #lang:ja #set:2,101
+#input:joystick>8:buttons>2 #players:2:vs #genre:puzzle>drop #arcadeboard:snk>mvs #lang:ja:en #mameparent,102
+#input:joystick>8:buttons>2 #players:2:vs #genre:racing:sim>derby #arcadeboard:snk>mvs #lang:ja:en #mameparent,103
+#input:joystick>8:buttons>2 #players:2:vs #genre:racing:sim>derby #arcadeboard:snk>mvs #lang:ja:en #unfinished:beta,104
+#input:joystick>8:buttons>2 #players:2:vs #genre:shmup>v #arcadeboard:snk>mvs #lang:ja:en #mameparent,105
+#input:joystick>8:buttons>2 #players:2:vs #genre:sports>basketball #arcadeboard:snk>mvs #lang:ja:en #mameparent,106
+#input:joystick>8:buttons>2 #players:2:vs #genre:sports>flyingdisc #arcadeboard:snk>mvs #lang:ja:en #mameparent,107
+#input:joystick>8:buttons>2 #players:2:vs #genre:sports>golf #arcadeboard:snk #lang:en #mameparent,108
+#input:joystick>8:buttons>2 #players:2:vs #genre:sports>golf #arcadeboard:snk #search:keyword>endorsed #lang:en #mameparent,109
+#input:joystick>8:buttons>2 #players:2:vs #genre:sports>golf #arcadeboard:snk #search:keyword>endorsed #set:1 #lang:en,110
+#input:joystick>8:buttons>2 #players:2:vs #genre:sports>golf #arcadeboard:snk #search:keyword>endorsed #set:2 #lang:en,111
+#input:joystick>8:buttons>2 #players:2:vs #genre:sports>golf #arcadeboard:snk>mvs #lang:ja:en #mameparent,112
+#input:joystick>8:buttons>2 #players:2:vs #genre:sports>soccer #arcadeboard:snk>mvs #lang:en #mameparent,113
+#input:joystick>8:buttons>2 #players:2:vs #genre:sports>soccer #arcadeboard:snk>mvs #lang:ja:en #mameparent,114
+#input:joystick>8:buttons>2 #players:2:vs #genre:sports>volleyball #arcadeboard:snk>mvs #lang:ja:en #mameparent,115
+#input:joystick>8:buttons>2 #players:4:coop:vs #genre:sports>soccer #arcadeboard:snk #lang:en #unlicensed:bootleg,116
+#input:joystick>8:buttons>2 #players:4:coop:vs #search:tate>cw #genre:sports>paddle #arcadeboard:snk #lang:en #mameparent,117
+#input:joystick>8:buttons>3 #players:1 #genre:shmup>h #arcadeboard:snk>mvs #lang:en #unlicensed:aftermarket:bootleg #mameparent,118
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>hackandslash:action>runandgun #based:manganime #arcadeboard:snk>mvs #lang:ja:en #mameparent,119
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>hackandslash>platformer #arcadeboard:snk>mvs #lang:ja:en #mameparent,120
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>platformer #arcadeboard:snk>mvs #lang:ja:en #mameparent,121
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>runandgun #arcadeboard:snk #lang:en #mameparent,122
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>runandgun #arcadeboard:snk #lang:ja,123
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>runandgun #arcadeboard:snk>mvs #lang:en #unlicensed:bootleg,124
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>runandgun #arcadeboard:snk>mvs #lang:ja:en,125
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>runandgun #arcadeboard:snk>mvs #lang:ja:en #mameparent,126
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>runandgun #arcadeboard:snk>mvs #lang:ja:en #unlicensed:bootleg,127
+#input:joystick>8:buttons>3 #players:2:coop #genre:action>runandgun #arcadeboard:snk>mvs #lang:ja:en #unlicensed:hack,128
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:snk #lang:en,129
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:snk #lang:en #mameparent,130
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:snk #lang:en #unlicensed:bootleg,131
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:snk #lang:ja,132
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:snk>mvs #lang:ja:en,133
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #arcadeboard:snk>mvs #lang:ja:en #mameparent,134
+#input:joystick>8:buttons>3 #players:2:coop #genre:brawler #lang:en #arcadeboard:snk,135
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>h #arcadeboard:snk>mvs #lang:ja:en #unfinished:proto #mameparent,136
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>h #arcadeboard:snk>mvs #lang:ja:en #unfinished:proto #unlicensed:bootleg,137
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>v #arcadeboard:snk>mvs #lang:en #mameparent,138
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>v #arcadeboard:snk>mvs #lang:ja:en #mameparent,139
+#input:joystick>8:buttons>3 #players:2:coop #genre:shmup>v #arcadeboard:snk>mvs #lang:ja:en #unfinished:proto,140
+#input:joystick>8:buttons>3 #players:2:coop #genre:shooting>gallery #arcadeboard:snk>mvs #lang:ja:en #mameparent,141
+#input:joystick>8:buttons>3 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:snk #lang:en,142
+#input:joystick>8:buttons>3 #players:2:coop #search:tate>cw #genre:shmup>v #arcadeboard:snk #lang:en #mameparent,143
+#input:joystick>8:buttons>3 #players:2:coop:vs #genre:fighting:brawler:sports>wrestling #arcadeboard:snk>mvs #lang:ja:en,144
+#input:joystick>8:buttons>3 #players:2:coop:vs #genre:fighting:brawler:sports>wrestling #arcadeboard:snk>mvs #lang:ja:en #mameparent,145
+#input:joystick>8:buttons>3 #players:2:coop:vs #genre:fighting:brawler:sports>wrestling #arcadeboard:snk>mvs #lang:ja:en #unfinished:proto,146
+#input:joystick>8:buttons>3 #players:2:coop:vs #genre:fighting:sports>wrestling #arcadeboard:snk>mvs #lang:ja:en #mameparent,147
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #arcadeboard:snk #lang:en,148
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #arcadeboard:snk #lang:en #set:1,149
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #arcadeboard:snk #lang:en #set:2 #mameparent,150
+#input:joystick>8:buttons>3 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:ja:en #mameparent,151
+#input:joystick>8:buttons>3 #players:2:vs #genre:puzzle>drop #arcadeboard:snk>mvs #lang:ja:en #unlicensed:bootleg #mameparent,152
+#input:joystick>8:buttons>3 #players:2:vs #genre:racing:sim>derby #arcadeboard:snk>mvs #lang:ja:en #mameparent,153
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports #arcadeboard:snk>mvs #lang:ja:en #mameparent,154
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>baseball #arcadeboard:snk #lang:en,155
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>baseball #arcadeboard:snk #lang:en #mameparent,156
+#input:joystick>8:buttons>3 #players:2:vs #genre:sports>soccer #arcadeboard:snk>mvs #lang:ja:en #mameparent,157
+#input:joystick>8:buttons>4 #players:1 #genre:fighting #arcadeboard:snk>mvs #lang:en,158
+#input:joystick>8:buttons>4 #players:1 #genre:fighting #arcadeboard:snk>mvs #lang:en #set:2 #unlicensed:bootleg,159
+#input:joystick>8:buttons>4 #players:2:alt #genre:shmup>h>v #arcadeboard:snk #lang:en,160
+#input:joystick>8:buttons>4 #players:2:alt #genre:shmup>h>v #arcadeboard:snk #lang:en #mameparent,161
+#input:joystick>8:buttons>4 #players:2:coop #genre:action>runandgun #arcadeboard:snk>mvs #lang:ja:en #mameparent,162
+#input:joystick>8:buttons>4 #players:2:coop #genre:action>runandgun #arcadeboard:snk>mvs #lang:ja:en #set:1 #mameparent,163
+#input:joystick>8:buttons>4 #players:2:coop #genre:action>runandgun #arcadeboard:snk>mvs #lang:ja:en #set:2,164
+#input:joystick>8:buttons>4 #players:2:coop #genre:action>runandgun #arcadeboard:snk>mvs #lang:ja:en #unlicensed:bootleg,165
+#input:joystick>8:buttons>4 #players:2:coop #genre:brawler #arcadeboard:snk>mvs #lang:ja:en #mameparent,166
+#input:joystick>8:buttons>4 #players:2:vs #genre:brawler #arcadeboard:snk>mvs #lang:ja:en #mameparent,167
+#input:joystick>8:buttons>4 #players:2:vs #genre:brawler #arcadeboard:snk>mvs #lang:ja:en #unfinished:proto,168
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:en,169
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:en #set:1,170
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:en #set:1 #unlicensed:bootleg,171
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:en #set:2,172
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:en #unlicensed:bootleg,173
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:en #unlicensed:hack,174
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:en:es:pt,175
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:ja:en,176
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:ja:en #mameparent,177
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:ja:en #rev:a,178
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:ja:en #set:1 #mameparent,179
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:ja:en #set:1 #unlicensed:bootleg,180
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:ja:en #set:2,181
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:ja:en #set:2 #unlicensed:bootleg,182
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:ja:en #unfinished:proto,183
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:ja:en #unfinished:proto #mameparent,184
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:ja:en #unlicensed:bootleg,185
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:ja:en:es:pt #mameparent,186
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:ko,187
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:ko #rev:a,188
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:ko:en #set:1 #mameparent,189
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #lang:ko:en #set:2,190
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #arcadeboard:snk>mvs #set:2 #lang:ja:en,191
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting #based:manganime #arcadeboard:snk>mvs #lang:ja:en #mameparent,192
+#input:joystick>8:buttons>4 #players:2:vs #genre:fighting:sports>wrestling #arcadeboard:snk>mvs #lang:ja:en #mameparent,193
+#input:joystick>8:buttons>4 #players:2:vs #genre:sports>baseball #arcadeboard:snk>mvs #lang:ja:en #mameparent,194
+#input:joystick>8:buttons>4 #players:2:vs #genre:sports>baseball #arcadeboard:snk>mvs #lang:ja:en #set:1 #mameparent,195
+#input:joystick>8:buttons>4 #players:2:vs #genre:sports>baseball #arcadeboard:snk>mvs #lang:ja:en #set:2,196
+#input:joystick>8:buttons>4 #players:2:vs #genre:sports>dodgeball #search:feature>kuniokun #arcadeboard:snk>mvs #lang:ja:en #mameparent,197
+#input:joystick>8:buttons>4 #players:2:vs #genre:sports>football #arcadeboard:snk>mvs #lang:ja:en #mameparent,198
+#input:joystick>8:buttons>4 #players:2:vs #genre:sports>soccer #arcadeboard:snk>mvs #lang:ja:en #mameparent,199
+#input:joystick>8:buttons>4 #players:4:vs #genre:fighting #arcadeboard:snk>mvs #lang:ja:en #mameparent,200
+#input:joystick>8:buttons>6 #players:1 #genre:parlor>pinball #arcadeboard:snk>mvs #lang:en #unfinished:proto,201
+#input:joystick>8:buttons>6 #players:1 #genre:parlor>pinball #arcadeboard:snk>mvs #lang:en #unfinished:proto #mameparent,202
+#input:joystick>double>8:buttons>4 #players:2:vs #genre:fighting:sports>boxing #arcadeboard:snk #lang:en #mameparent,203
+#input:joystick>double>8>2h #players:2:alt #search:tate>ccw #genre:action #arcadeboard:snk #lang:en,204
+#input:joystick>double>8>2h #players:2:alt #search:tate>ccw #genre:action #arcadeboard:snk #lang:en #mameparent,205
+#input:joystick>rotary>8:buttons>2 #players:2:coop #search:tate>ccw #genre:action>runandgun #arcadeboard:snk #lang:en,206
+#input:joystick>rotary>8:buttons>2 #players:2:coop #search:tate>ccw #genre:action>runandgun #arcadeboard:snk #lang:en #mameparent,207
+#input:joystick>rotary>8:buttons>2 #players:2:coop #search:tate>ccw #genre:action>runandgun #arcadeboard:snk #lang:en #set:1,208
+#input:joystick>rotary>8:buttons>2 #players:2:coop #search:tate>ccw #genre:action>runandgun #arcadeboard:snk #lang:en #set:2,209
+#input:joystick>rotary>8:buttons>2 #players:2:coop #search:tate>ccw #genre:action>runandgun #arcadeboard:snk #lang:ja,210
+#input:joystick>rotary>8:buttons>2 #players:2:coop #search:tate>cw #genre:action>runandgun #arcadeboard:snk #lang:en,211
+#input:joystick>rotary>8:buttons>2 #players:2:coop #search:tate>cw #genre:action>runandgun #arcadeboard:snk #lang:en #mameparent,212
+#input:joystick>rotary>8:buttons>2 #players:2:coop #search:tate>cw #genre:action>runandgun #arcadeboard:snk #lang:en #rev:1,213
+#input:joystick>rotary>8:buttons>2 #players:2:coop #search:tate>cw #genre:action>runandgun #arcadeboard:snk #lang:en #rev:3 #mameparent,214
+#input:joystick>rotary>8:buttons>2 #players:2:coop #search:tate>cw #genre:action>runandgun #arcadeboard:snk #lang:ja,215
+#input:joystick>rotary>8:buttons>2 #players:2:coop #search:tate>cw #genre:action>runandgun #arcadeboard:snk #lang:ja #unlicensed:bootleg,216
+#input:joystick>rotary>8:buttons>2 #players:4:coop:vs #genre:sports>soccer #arcadeboard:snk #lang:en,217
+#input:joystick>rotary>8:buttons>2 #players:4:coop:vs #genre:sports>soccer #arcadeboard:snk #lang:en #mameparent,218
+#input:joystick>rotary>8:buttons>2 #players:4:coop:vs #search:tate>cw #genre:sports>football #arcadeboard:snk #lang:en,219
+#input:joystick>rotary>8:buttons>2 #players:4:coop:vs #search:tate>cw #genre:sports>football #arcadeboard:snk #lang:en #mameparent,220
+#input:joystick>rotary>8:buttons>2 #players:4:coop:vs #search:tate>cw #genre:sports>football #arcadeboard:snk #lang:en #unlicensed:bootleg,221
+#input:joystick>rotary>8:buttons>3 #players:2:coop #genre:action>runandgun #arcadeboard:snk #lang:en,222
+#input:joystick>rotary>8:buttons>3 #players:2:coop #genre:action>runandgun #arcadeboard:snk #lang:ja,223
+#input:stick:buttons>2 #players:1 #genre:shooting>gallery #arcadeboard:snk #lang:en,224
+#input:stick:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:snk #lang:en,225
+#input:stick:buttons>2 #players:2:coop #genre:shooting>gallery #arcadeboard:snk #lang:en #mameparent,226
+#input:stick:buttons>2 #players:3:coop #genre:shooting>gallery #arcadeboard:snk #lang:en,227
+#input:stick:buttons>2 #players:3:coop #genre:shooting>gallery #arcadeboard:snk #lang:en #mameparent,228
+#input:trackball:buttons>1 #players:1 #genre:action>maze:puzzle #based #arcadeboard:snk>mvs #lang:ja:en #mameparent,229

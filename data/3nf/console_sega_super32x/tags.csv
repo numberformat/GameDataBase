@@ -1,0 +1,70 @@
+tag_name,tag_id
+#players:1 #genre:action #addon:peripheral>super32x #based:marvel #lang:en #unfinished:proto,1
+#players:1 #genre:action #addon:peripheral>super32x:controller>6button #save:password #port:nintendo>superfamicom #lang:en,2
+#players:1 #genre:action>platformer #addon:peripheral>super32x #lang:en,3
+#players:1 #genre:action>platformer #addon:peripheral>super32x #lang:en #unfinished:beta,4
+#players:1 #genre:action>platformer #addon:peripheral>super32x #lang:en #unfinished:beta #alt,5
+#players:1 #genre:action>platformer #addon:peripheral>super32x #save:password #search:keyword>brand #lang:en #unfinished:proto,6
+#players:1 #genre:action>platformer #addon:peripheral>super32x:controller>6button #based:marvel #search:feature>spiderman #lang:en,7
+#players:1 #genre:action>platformer #addon:peripheral>super32x:controller>6button #based:movie:disney #port:nintendo>superfamicom #lang:en #unfinished:proto,8
+#players:1 #genre:action>platformer #addon:peripheral>super32x:controller>6button #lang:en,9
+#players:1 #genre:notagame>application>sdk #addon:peripheral>super32x #lang:en,10
+#players:1 #genre:notagame>media #addon:peripheral>super32x #lang:en #unfinished:demo,11
+#players:1 #genre:notagame>sdk #addon:peripheral>super32x #lang:en #unfinished:sample,12
+#players:1 #genre:notagame>sdk #addon:peripheral>super32x #search:feature>sonic #lang:en #unfinished:sample,13
+#players:1 #genre:notagame>sdk>test #addon:peripheral>super32x #lang:ja,14
+#players:1 #genre:shooting>fps #addon:peripheral>super32x:controller>6button #lang:en:ja,15
+#players:1 #genre:shooting>fps #addon:peripheral>super32x:controller>6button #lang:en:ja #unfinished:beta,16
+#players:1 #genre:shooting>fps #addon:peripheral>super32x:controller>6button #lang:en:ja #unfinished:beta #alt,17
+#players:1 #genre:shooting>fps #addon:peripheral>super32x:controller>6button #port:pc #lang:en,18
+#players:1 #genre:shooting>fps #addon:peripheral>super32x:controller>6button #port:pc #lang:en #rev:1 #unfinished:beta,19
+#players:1 #genre:shooting>fps #addon:peripheral>super32x:controller>6button #port:pc #lang:en #unfinished:beta,20
+#players:1 #genre:shooting>fps:shmup #addon:peripheral>super32x:controller>6button #lang:en:fr:de:es,21
+#players:1 #genre:shooting>rail #addon:peripheral>super32x #lang:en #unfinished:proto,22
+#players:1 #genre:shooting>rail #addon:peripheral>super32x #port:arcade #lang:en,23
+#players:1 #genre:shooting>rail #addon:peripheral>super32x:controller>6button>xe1ap #port:arcade #lang:en,24
+#players:1 #genre:shooting>rail #port:arcade #addon:peripheral>super32x #lang:en #unfinished:beta,25
+#players:1 #genre:sim>flight:shooting>gallery #addon:peripheral>super32x:controller>6button #based:starwars #port:arcade #lang:en,26
+#players:1 #genre:sim>flight:shooting>gallery #addon:peripheral>super32x:controller>6button #based:starwars #port:arcade #lang:en #unfinished:beta,27
+#players:1 #genre:sim>flight:shooting>gallery #addon:peripheral>super32x:controller>6button #based:starwars #port:arcade #lang:ja,28
+#players:1 #genre:sim>flight:shooting>gallery #addon:peripheral>super32x:controller>6button #based:starwars #port:arcade #lang:ja #unfinished:beta,29
+#players:2:coop #genre:action>platformer #addon:peripheral>super32x #embedded:backup>battery #save:backup #lang:en,30
+#players:2:coop #genre:action>platformer #addon:peripheral>super32x #embedded:backup>battery #save:backup #lang:en #unfinished:beta,31
+#players:2:coop #genre:action>platformer #addon:peripheral>super32x #embedded:backup>battery #save:backup #lang:en #unfinished:beta #alt,32
+#players:2:coop #genre:shmup>h #addon:peripheral>super32x #save:password #lang:en,33
+#players:2:vs #genre:fighting #addon:peripheral>super32x #lang:en #unfinished:proto,34
+#players:2:vs #genre:fighting #addon:peripheral>super32x:controller>6button #lang:en,35
+#players:2:vs #genre:fighting #addon:peripheral>super32x:controller>6button #lang:en #unfinished:beta,36
+#players:2:vs #genre:fighting #addon:peripheral>super32x:controller>6button #port:arcade #lang:en,37
+#players:2:vs #genre:fighting #addon:peripheral>super32x:controller>6button #port:arcade #lang:en #unfinished:beta,38
+#players:2:vs #genre:fighting #addon:peripheral>super32x:controller>6button #save:password #lang:en,39
+#players:2:vs #genre:fighting:sports>boxing #addon:peripheral>super32x #save:password #port:sega>megadrive #lang:en,40
+#players:2:vs #genre:fighting:sports>wrestling #addon:peripheral>super32x:controller>6button #search:keyword>official #port:arcade #lang:en,41
+#players:2:vs #genre:racing:sports>formula1 #addon:peripheral>super32x:controller>6button #embedded:backup>battery #save:backup #lang:en,42
+#players:2:vs #genre:racing:sports>formula1 #addon:peripheral>super32x:controller>6button #embedded:backup>battery #save:backup #lang:en #unfinished:beta,43
+#players:2:vs #genre:racing:sports>formula1 #addon:peripheral>super32x:controller>6button #embedded:backup>battery #save:backup #lang:ja,44
+#players:2:vs #genre:racing:sports>motocross #addon:peripheral>super32x #save:password #lang:en,45
+#players:2:vs #genre:racing:sports>motocross #addon:peripheral>super32x #save:password #lang:en #unfinished:beta,46
+#players:2:vs #genre:racing:sports>motocross #addon:peripheral>super32x #save:password #lang:en #unfinished:beta #alt,47
+#players:2:vs #genre:racing>combat #addon:peripheral>super32x:controller>6button #port:sega>megacd #lang:en,48
+#players:2:vs #genre:racing>combat #addon:peripheral>super32x:controller>6button #save:password #lang:en #unfinished:proto,49
+#players:2:vs #genre:shmup #addon:peripheral>super32x #lang:en,50
+#players:2:vs #genre:shmup #addon:peripheral>super32x #lang:en #unfinished:sample,51
+#players:2:vs #genre:shmup>i #addon:peripheral>super32x #lang:en,52
+#players:2:vs #genre:shmup>i #addon:peripheral>super32x #lang:en #unfinished:beta,53
+#players:2:vs #genre:shooting>fps #addon:peripheral>super32x:controller>6button #port:arcade #lang:en,54
+#players:2:vs #genre:shooting>fps:sim>flight #addon:peripheral>super32x:controller>6button #lang:en,55
+#players:2:vs #genre:shooting>fps:sim>flight #addon:peripheral>super32x:controller>6button #lang:en #unfinished:beta,56
+#players:2:vs #genre:shooting>fps:sim>flight #addon:peripheral>super32x:controller>6button #lang:en #unfinished:beta #alt,57
+#players:2:vs #genre:sim>flight:adventure:parlor>billiards #addon:peripheral>super32x:controller>6button #save:password #based #lang:en,58
+#players:2:vs #genre:sports>baseball #addon:peripheral>super32x #search:keyword>official #lang:en,59
+#players:2:vs #genre:sports>baseball #addon:peripheral>super32x #search:keyword>official>endorsed #lang:en,60
+#players:4:coop:vs #genre:fighting:sports>wrestling #addon:peripheral>super32x:multitap>segatap #search:keyword>official #lang:en,61
+#players:4:coop:vs #genre:sports>basketball #addon:peripheral>super32x:multitap>segatap #embedded:backup>eeprom #save:backup #search:keyword>official #port:arcade #lang:en,62
+#players:4:coop:vs #genre:sports>soccer #addon:peripheral>super32x:multitap>segatap #search:keyword>official #lang:en:fr:de:es:it:sv,63
+#players:5:coop:vs #genre:sports>football #addon:peripheral>super32x:multitap>segatap #embedded:backup>eeprom #save:backup #search:keyword>official #lang:en,64
+#players:8:vs #genre:sim>strategy #addon:peripheral>super32x:controller>6button #embedded:backup>battery #save:backup #port:nec>pc98 #lang:ja,65
+#players:8:vs #genre:sports>golf #addon:peripheral>super32x #embedded:backup>battery #save:backup #search:keyword>endorsed #lang:en,66
+#players:8:vs #genre:sports>golf #addon:peripheral>super32x #search:keyword>endorsed #lang:en,67
+#players:8:vs #genre:sports>golf #addon:peripheral>super32x #search:keyword>endorsed #lang:en #unfinished:beta,68
+#players:8:vs #genre:sports>golf #addon:peripheral>super32x #search:keyword>endorsed #lang:en #unfinished:beta #alt,69

@@ -1,0 +1,53 @@
+tag_name,tag_id
+#players:1 #genre:action #addon:expansion>megald #port:arcade #search:keyword>dolby #lang:ja:en,1
+#players:1 #genre:adventure:notagame>media #addon:expansion>ldromrom #save:backup #based #lang:ja,2
+#players:1 #genre:adventure:notagame>media #addon:expansion>megald #save:backup #based #lang:ja,3
+#players:1 #genre:adventure>pointandclick:notagame>media #addon:expansion>megald:glasses>3dgoggle #search:3d>stereo #lang:ja,4
+#players:1 #genre:adventure>pointandclick:notagame>media #addon:expansion>megald:glasses>3dgoggle #search:3d>stereo #lang:ja #unfinished:sample,5
+#players:1 #genre:adventure>visualnovel #addon:expansion>ldromrom #save:backup #port:nec>pc88 #lang:ja:en,6
+#players:1 #genre:adventure>visualnovel #addon:expansion>megald #save:backup #lang:ja:en,7
+#players:1 #genre:adventure>visualnovel #addon:expansion>megald #save:backup #lang:ja:en #unfinished:sample,8
+#players:1 #genre:board>cards #addon:expansion>ldromrom #search:keyword>strip>endorsed #lang:ja,9
+#players:1 #genre:board>mahjong #addon:expansion>ldromrom #save:backup #search:keyword>strip>endorsed #lang:ja,10
+#players:1 #genre:notagame #lang:ja,11
+#players:1 #genre:notagame>educational:puzzle #addon:expansion>ldromrom:glasses>3dgoggle:rss #search:3d>stereo #save:backup #lang:ja,12
+#players:1 #genre:notagame>educational:puzzle #addon:expansion>megald:glasses>3dgoggle:rss #search:3d>stereo #save:backup #lang:en,13
+#players:1 #genre:notagame>educational:puzzle #addon:expansion>megald:glasses>3dgoggle:rss #search:3d>stereo #save:backup #lang:ja,14
+#players:1 #genre:notagame>educational:puzzle #addon:expansion>megald:glasses>3dgoggle:rss #search:3d>stereo #save:backup #lang:ja #unfinished:sample,15
+#players:1 #genre:notagame>educational>media #addon:expansion>ldromrom:glasses>3dgoggle:rss #search:3d>stereo #lang:ja:en,16
+#players:1 #genre:notagame>educational>media #addon:expansion>megald #lang:ja:en,17
+#players:1 #genre:notagame>educational>media #addon:expansion>megald:glasses>3dgoggle #search:3d>stereo #lang:ja,18
+#players:1 #genre:notagame>educational>media #addon:expansion>megald:glasses>3dgoggle:rss #search:3d>stereo #lang:ja:en,19
+#players:1 #genre:notagame>educational>media #addon:expansion>megald:glasses>3dgoggle:rss #search:3d>stereo #lang:ja:en #unfinished:sample,20
+#players:1 #genre:notagame>educational>media:adventure>pointandclick #addon:expansion>megald #save:backup #lang:ja:en,21
+#players:1 #genre:notagame>media>slideshow #addon:expansion>ldromrom:glasses>3dgoggle:rss #search:3d>stereo #lang:en,22
+#players:1 #genre:notagame>media>slideshow #addon:expansion>megald:glasses>3dgoggle:rss #search:3d>stereo #lang:en,23
+#players:1 #genre:notagame>slideshow #addon:expansion>ldromrom #save:backup #search:keyword>endorsed #lang:ja,24
+#players:1 #genre:notagame>slideshow #addon:expansion>ldromrom #search:keyword>endorsed #save:backup #lang:ja,25
+#players:1 #genre:notagame>slideshow #addon:expansion>megald #save:backup #search:keyword>endorsed #lang:ja,26
+#players:1 #genre:notagame>slideshow #addon:expansion>megald #search:keyword>endorsed #save:backup #lang:ja,27
+#players:1 #genre:notagame>slideshow>media #addon:expansion>megald:backup>backupramcart #save:backup #search:keyword>endorsed #lang:ja,28
+#players:1 #genre:notagame>slideshow>media #addon:expansion>megald:backup>backupramcart:glasses>3dgoggle #search:3d>stereo #save:backup #search:keyword>endorsed #lang:ja,29
+#players:1 #genre:quiz #addon:expansion>ldromrom #search:keyword>endorsed #lang:ja,30
+#players:1 #genre:quiz #addon:expansion>megald #lang:ja,31
+#players:1 #genre:quiz #addon:expansion>megald #lang:ja #unfinished:sample,32
+#players:1 #genre:quiz:notagame>educational #addon:expansion>ldromrom #save:backup #search:keyword>endorsed #lang:ja:en,33
+#players:1 #genre:racing #addon:expansion>megald:rss #port:arcade #lang:en,34
+#players:1 #genre:racing #addon:expansion>megald:rss #port:arcade #lang:en #unfinished:demo,35
+#players:1 #genre:rpg>dungeoncrawler #addon:expansion>megald #save:backup #based #lang:en,36
+#players:1 #genre:rpg>dungeoncrawler #addon:expansion>megald #save:backup #based #lang:ja,37
+#players:1 #genre:rpg>dungeoncrawler #addon:expansion>megald #save:backup #based #lang:ja #unfinished:sample,38
+#players:1 #genre:shooting>gallery #addon:expansion>ldromrom #lang:en,39
+#players:1 #genre:shooting>gallery #addon:expansion>ldromrom:glasses>3dgoggle:rss #search:3d>stereo #lang:en,40
+#players:1 #genre:shooting>gallery #addon:expansion>megald #lang:ja:en,41
+#players:1 #genre:shooting>gallery #addon:expansion>megald #save:backup #lang:ja:en,42
+#players:1 #genre:shooting>gallery #addon:expansion>megald #save:backup #lang:ja:en #unfinished:sample,43
+#players:1 #genre:shooting>gallery #addon:expansion>megald:rss #lang:ja:en,44
+#players:1 #genre:shooting>gallery #addon:expansion>megald:rss #port:arcade #lang:en,45
+#players:1 #genre:shooting>gallery #addon:expansion>megald:rss #port:arcade #lang:en #unfinished:demo,46
+#players:2:alt #genre:action #addon:expansion>megald #port:arcade #lang:ja,47
+#players:2:coop #genre:action:shooting>gallery:racing #addon:expansion>megald #port:arcade #lang:en,48
+#players:2:coop #genre:action:shooting>gallery:racing #addon:expansion>megald #port:arcade #lang:en #unfinished:beta,49
+#players:2:coop #genre:action:shooting>gallery:racing #addon:expansion>megald #port:arcade #lang:en #unfinished:sample,50
+#players:2:coop #genre:shooting>gallery #addon:expansion>megald:rss #lang:en,51
+#players:2:coop #genre:shooting>gallery #addon:expansion>megald:rss #lang:en #unfinished:sample,52
