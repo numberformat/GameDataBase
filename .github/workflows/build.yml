@@ -1,0 +1,71 @@
+## (c) 2025 Neeraj Verma — MIT License. https://noami.us
+
+name: Build and Publish Normalized Data
+
+on:
+  push:
+    branches: [develop]
+  schedule:
+    - cron: "0 2 * * 0"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Add upstream
+        run: |
+          git remote add upstream https://github.com/PigSaint/GameDataBase.git || true
+          git fetch upstream
+
+      - name: Check for upstream changes
+        id: changes
+        run: |
+          git diff --quiet HEAD upstream/main || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Merge upstream
+        if: steps.changes.outputs.changed == 'true'
+        run: git merge upstream/main
+
+      - name: Build Docker image
+        if: steps.changes.outputs.changed == 'true'
+        run: docker build -t gamedb-normalizer .
+
+      - name: Run normalization
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          docker run --rm \
+            -v ${{ github.workspace }}/data:/app/data \
+            gamedb-normalizer
+
+      - name: Run quality checks
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          docker run --rm \
+            -v ${{ github.workspace }}/data:/app/data \
+            gamedb-normalizer python scripts/quality_check.py
+
+      - name: Package game_database_3nf
+        if: steps.changes.outputs.changed == 'true'
+        run: zip -r game_database_3nf.zip data/3nf
+
+      - name: Set release version
+        if: steps.changes.outputs.changed == 'true'
+        id: version
+        run: echo "version=$(date +'%Y.%m.%d')" >> $GITHUB_OUTPUT
+
+      - name: Create GitHub Release
+        if: steps.changes.outputs.changed == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ steps.version.outputs.version }}
+          name: ${{ steps.version.outputs.version }}
+          files: game_database_3nf.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

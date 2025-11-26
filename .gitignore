@@ -3,6 +3,7 @@ tag_guardian_report.md
 tag_guardian_errors.md
 tag_guardian_warnings.md
 reports/
+data/
 
 # Python
 __pycache__/
