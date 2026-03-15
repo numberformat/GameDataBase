@@ -45,6 +45,7 @@ input:
         "6": "6 buttons"
         "7": "7 buttons"
         "8": "8 buttons"
+        "9": "9 buttons"
         "11": "11 buttons"
         "12": "12 buttons"
         "19": "19 keys"
@@ -323,6 +324,7 @@ addon:
         grip: "ASCII Grip / アスキーグリップ / GripX / グリップX / GripV / グリップV"
         tsurikon64: "ASCII Tsurikon 64 / つりコン64"
         partytap: "PR21 Party Tap"
+        fullchanger: "Media Factory Full Changer / フルチェンジャー"
         climberstick: "Nichibutsu Climber Stick / クライマー・スティック"
         juujikeycover: "NAMCO Jūji Key Cover / 十字キーカバー"
     lightgun:
@@ -502,7 +504,10 @@ addon:
       description: "Tokuma Shoten Develo Box / でべろ Box"
     teststation:
       description: "Nintendo NES Test Station"
-    spectrumcommunicator: "Creatures Spectrum Communicator / スペクトラムコミュニケーター"
+    pocketsakura:
+      description: "Media Factory Pocket Sakura / ポケット・サクラ"
+    spectrumcommunicator:
+      description: "Creatures Spectrum Communicator / スペクトラムコミュニケーター"
 
 embedded:
   description: "Embedded extra hardware in cartridge"
@@ -568,8 +573,6 @@ embedded:
       description: "Hudson GB Kiss"
     pocketsonar:
       description: "Bandai Pocket Sonar"
-    pocketsakura:
-      description: "Media Factory Pocket Sakura / ポケット・サクラ"
 
 save:
   description: "The way you can save your progress"
@@ -656,6 +659,18 @@ arcadeboard:
       description: "Jaleco board"
       children:
         megasystem1: "Jaleco Mega System 1"
+    nintendo:
+      description: "Nintendo board"
+      children:
+        vssystem: "Nintendo VS. System"
+        pc10: "Nintendo PlayChoice-10"
+        nss: "Nintendo Super System"
+    nichibutsu:
+      description: "Nichibutsu board"
+    tecfri:
+      description: "Tecfri board"
+      children:
+        ambush: "Tecfri Ambush"
 
 compatibility:
   description: "System compatibility"
@@ -809,11 +824,8 @@ search:
         endorsed: "Endorsed by public figure"
         brand: "Endorsed by company or brand"
 
-multigame:
-  description: "Various games in one title"
-  subtag:
-    compilation:
-      description: "Compilation of previously released games"
+compilation:
+    description: "Compilation of previously released games : ID"
 
 reboxed:
   description: "Reboxed"
@@ -915,6 +927,7 @@ port:
       children:
         atari400: "Atari 400"
         atarist: "Atari ST"
+        falcon: "Atari Falcon030"
         atari2600: "Atari 2600"
         lynx: "Lynx"
         jaguar: "Jaguar"
@@ -953,6 +966,7 @@ port:
       description: "Nintendo / 任天堂"
       children:
         famicom: "Famicom / Family Computer / ファミリーコンピュータ / Nintendo Entertainment System / NES"
+        disksystem: "Famicom Disk System / Family Computer Disk System / ファミリーコンピュータ ディスクシステム"
         superfamicom: "Super Famicom / スーパーファミコン / Super Nintendo Entertainment System / SNES"
         n64: "Nintendo 64"
         gameboy: "GameBoy / ゲームボーイ"
@@ -1104,6 +1118,8 @@ rerelease:
       description: "Seiken Densetsu Collection / 聖剣伝説 Collection / Collection of Mana"
     ninjajajamaru:
       description: "Ninja JaJaMaru Retro Collection / 忍者じゃじゃ丸 Collection"
+    zeldacollection:
+      description: "The Legend of Zelda Collection / ゼルダコレクション / The Legend of Zelda: Collector's Edition"
     disneyclassic:
       description: "Disney Classic Games Collection"
     bubsytwofur:
@@ -1181,6 +1197,8 @@ rev:
       description: "Revision D"
     e:
       description: "Revision E"
+    f:
+      description: "Revision F"
     g:
       description: "Revision G"
 
@@ -1203,6 +1221,10 @@ set:
       description: "Set 7"
     "8":
       description: "Set 8"
+    f1:
+      description: "Set F-1"
+    f2:
+      description: "Set F-2"
 
 alt:
   description: "Alternative rip"
@@ -1231,6 +1253,9 @@ unlicensed:
 
 mameparent:
   description: "MAME parent file"
+
+mamerom:
+  description: "Merged MAME ROM ZIP file > MAME ROM ZIP subfile"
 
 tag_structure:
   symbols:
