@@ -21,7 +21,7 @@ input:
     spinner:
       description: "Spinner"
     wheel:
-      description: "Wheel"
+      description: "Steering wheel"
     dial:
       description: "Dial"
     lightgun:
@@ -58,6 +58,7 @@ input:
       children:
         "1": "One pedal"
         "2": "Two pedals"
+        "3": "Three pedals"
     touchscreen:
       description: "Touch screen"
       children:
@@ -65,8 +66,17 @@ input:
         capacitive: "Capacitive screen"
     puncher:
       description: "Puncher"
+      children:
+        "6": "Six punchers"
+        "7": "Seven punchers"
     motion:
       description: "Motion detection device"
+    hrm:
+      description: "Heart Rate Monitor"
+    ddrpad:
+      description: "Konami Dance Dance Revolution pad"
+    accelerometer:
+      description: "Motion sensor"
 
 players:
   description: "Players"
@@ -260,6 +270,7 @@ genre:
         rowing: "Rowing"
         kayak: "Kayak"
         surf: "Surf"
+        roller: "Roller skating"
     notagame:
       description: "Not a game"
       children:
@@ -381,6 +392,9 @@ addon:
         gamelinkcable: "Nintendo Tsūshin Cable / 通信ケーブル / Game Link Cable"
         fourplayeradapter: "Nintendo Four Player Adapter"
         mobileadaptergb: "Nintendo Mobile Adapter GB / モバイルアダプタGB"
+        gbalinkcable: "Nintendo GameBoy Advance Tsūshin Cable / 通信ケーブル / Link Cable"
+        gbacable: "Nintendo GameCube GBA Cable / ニンテンドー　ゲームキューブ GBAケーブル / GameCube – GameBoy Advance Link Cable"
+        wirelessadapter: "Nintendo/Motorola GameBoy Advance Sen'yō Wireless Adapter / ゲームボーイアドバンス専用ワイヤレスアダプタ"
         comcable: "NEC COM Cable / TurboExpress"
         linkup: "Technopop Link-up Cable"
         ngplink: "SNK NeoGeo Pocket Link Cable"
@@ -679,6 +693,19 @@ arcadeboard:
         gx361: "Konami GX361"
         gx400: "Konami GX400"
         twin16: "Konami Twin 16"
+        polygonet: "Konami Polygonet"
+        gx: "Konami GX"
+        gv: "Konami GV"
+        ultra: "Konami Ultra Sports"
+        zr107: "Konami ZR-107"
+        m2: "Konami M2"
+        djmain: "Konami Bemani DJ-Main"
+        cobra: "Konami Cobra System"
+        "573": "Konami System 573"
+        573a: "Konami System 573 Analog"
+        hornet: "Konami Hornet"
+        viper: "Konami Viper"
+        nwktr: "Konami NWK-TR"
     namco:
       description: "NAMCO board"
     toaplan:
@@ -698,6 +725,8 @@ arcadeboard:
         nss: "Nintendo Super System"
     nichibutsu:
       description: "Nichibutsu board"
+    midway:
+      description: "Midway board"
     stern:
       description: "Stern Electronics board"
     vectorbeam:
@@ -1016,6 +1045,7 @@ port:
         disksystem: "Famicom Disk System / Family Computer Disk System / ファミリーコンピュータ ディスクシステム"
         superfamicom: "Super Famicom / スーパーファミコン / Super Nintendo Entertainment System / SNES"
         n64: "Nintendo 64"
+        gamecube: "GameCube / ゲームキューブ"
         gameboy: "GameBoy / ゲームボーイ"
         gbc: "GameBoy Color / ゲームボーイカラー"
         gba: "GameBoy Advance / ゲームボーイアドバンス / GBA"
@@ -1024,6 +1054,7 @@ port:
       description: "Sony / ソニー"
       children:
         playstation: "PlayStation / プレイステーション"
+        playstation2: "PlayStation 2 / プレイステーション2"
     3do:
       description: "Panasonic 3DO / スリーディーオー"
     wonderswan:

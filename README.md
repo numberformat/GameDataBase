@@ -1,5 +1,10 @@
 # GameDataBase
 
+[![Patrons](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dgamedatabase%26type%3Dpatrons%26suffix%3D%2520Patrons&color=FF5441&logo=patreon&logoColor=FF5441&style=for-the-badge)](https://patreon.com/GameDataBase)
+[![Monthly](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dgamedatabase%26type%3Dpledges%26suffix%3D%2520USD%2520%252F%2520MO&color=FF5481&label=Patreon&logo=Patreon&logoColor=FF5441&style=for-the-badge)](https://patreon.com/gamedatabase)
+[![Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldcn.dev%2Fbadge%2FStatus-Active-22c55e%2Fshields.json&style=for-the-badge)](https://patreon.com/GameDataBase)
+[![Creation Count](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldcn.dev%2Fbadge%2Fdynamic%2Fjson%2Fshields.json%3Furl%3Dhttps%253A%252F%252Fwww.patreon.com%252Fapi%252Fcampaigns%252F11667791%26query%3D%2524.data.attributes.creation_count%26suffix%3D%2520Entries%26label%3DPublications%26color%3D3b82f6&color=3b82f6&style=for-the-badge)](https://patreon.com/GameDataBase)
+
 GameDataBase provides a structured, public dataset of video game metadata sourced from community-maintained CSV files and transformed into normalized, analytics-ready formats.
 
 **This fork focuses on:**
@@ -121,14 +126,16 @@ GameDataBase project aims to provide the most detailed information about every v
 
 | **Field** | Description |
 |-----------|-------------|
-| **Screen title @ Exact** | Original title exactly as displayed in-game, particularly useful for preserving Japanese titles in their original characters |
-| **Cover Title @ Exact** | Title exactly as shown on physical media cover/packaging |
+| **Title** | Game title |
+| **Title (exact)** | Game title exactly as displayed in box covers, flyers, or broadcasts, particularly useful for preserving Japanese original characters |
+| **Title screen** | In-game title |
+| **Title screen (exact)** | Title exactly as shown on screen, particularly useful for preserving Japanese original characters |
 | **ID** | Unique identifier for different versions/releases of the same game |
+| **Region** | Release region |
 | **Date** | Release date in YYYY-MM-DD format (partial dates like YYYY or YYYY-MM are acceptable) |
 | **Developer** | Company/team that developed the game |
 | **Publisher** | Company that published/distributed the game |
 | **Tags** | Game classification tags using the defined taxonomy |
-| **MAME filename** | ROM filename as used in MAME, only for Arcade games |
 | **MD5 hash** | MD5 checksum of the game file |
 | **SHA1 hash** | SHA1 checksum of the game file |
 | **SHA256 hash** | SHA256 checksum of the game file |
@@ -148,7 +155,13 @@ GameDataBase uses a hierarchical tag system with up to three levels of depth:
 | 2     | `:`    | Subtag            | `#genre:sports`         |
 | 3     | `>`    | Children value    | `#genre:sports>wrestling` |
 
-Multiple tags and attributes can be combined. For example:
+Quick rules:
+
+- A game usually combines multiple tags, separated by spaces.
+- The most common base pattern in this dataset is `#genre + #players + #lang`.
+- The `>` level only applies to its immediate `:` subtag.
+
+Basic example:
 
 ```ts
 #genre:sports>wrestling #players:2:vs
@@ -159,18 +172,52 @@ This means: Wrestling sports game, 2 players, versus mode.
 Tag combinations examples:
 
 ```ts
-#genre:action>runandgun               // Action game with run and gun theme
-#genre:sports>soccer #players:2       // Soccer game for 2 players
-#genre:board>chess #input:joystick>4  // Chess game with 4-way joystick control
-#genre:shmup>v #search:tate>cw        // Vertical shoot'em up in clockwise TATE mode
-#genre:puzzle>drop #players:2:vs      // Drop puzzle game with 2 players in versus mode
-#genre:adventure>survivalhorror       // Adventure game with survival horror elements
-#input:joystick>4:buttons>2           // 4-way joystick and 2 buttons
-#players:2:coop                       // 2 players cooperative
-#based:movie #lang:en                 // English game based on a movie
+#genre:action>platformer #players:1 #lang:en                            // Action platform game, single player, English language
+#genre:fighting #players:2:vs #lang:ja #input:joystick>8:buttons>2      // Fighting game, 2-player versus, Japanese, 8-way joystick and 2 buttons
+#genre:action>platformer #players:2:coop #lang:en #save:backup          // Action platform game, 2-player co-op, English, save backup support
+#genre:puzzle>drop #players:2:alt #lang:en #save:password               // Drop puzzle game, 2-player alternating, English, password save system
+#compatibility:gameboy>mono #addon:link>gamelinkcable #players:2:vs     // Original monochrome Game Boy mode, link cable accessory, 2-player versus
+#arcadeboard:sega>naomi #mameparent #mamerom:virtuatennis>epr-12345     // Sega NAOMI arcade board with MAME parent and dynamic ROM/subfile reference
+#genre:shmup>v #search:tate>cw #players:1 #lang:ja                      // Vertical shoot'em up, clockwise TATE orientation, single player, Japanese
 ```
 
-The `>` level only applies to its immediate `:` subtag.
+## Skip Configuration
+
+Tag Guardian supports `skip:` as an opt-out flag for these two cases:
+
+<details>
+<summary><strong>1) Skip Subtags (main tag)</strong></summary>
+
+```yaml
+mamerom:
+  description: "Merged MAME ROM ZIP file > MAME ROM ZIP subfile"
+  skip:
+
+compilation:
+  description: "Compilation of previously released games : ID"
+  skip:
+```
+
+</details>
+
+<details>
+<summary><strong>2) Skip Subtag Childrens</strong></summary>
+
+```yaml
+input:
+  description: "Input system"
+  subtag:
+    joystick:
+      description: "Joystick"
+      skip:
+```
+
+</details>
+
+Behavior summary:
+
+- `skip` at main tag level skips subtag and children validation for that main tag.
+- `skip` at subtag level skips children validation for that specific subtag.
 
 
 ---
@@ -187,17 +234,20 @@ The `>` level only applies to its immediate `:` subtag.
 | `:trackball` | Trackball |  |  |
 | `:paddle` | Paddle |  |  |
 | `:spinner` | Spinner |  |  |
-| `:wheel` | Wheel |  |  |
+| `:wheel` | Steering wheel |  |  |
 | `:dial` | Dial |  |  |
 | `:lightgun` | Lightgun |  |  |
 | `:optical` | Optical device |  |  |
 | `:positional` | Positional crank | `>2`<br>`>3`<br>`>4` | Two positions<br>Three positions<br>Four positions |
 | `:buttons` | In-game buttons | `>1`<br>`>2`<br>`>3`<br>`>4`<br>`>5`<br>`>6`<br>`>7`<br>`>8`<br>`>9`<br>`>11`<br>`>12`<br>`>pneumatic` | 1 button<br>2 buttons<br>3 buttons<br>4 buttons<br>5 buttons<br>6 buttons<br>7 buttons<br>8 buttons<br>9 buttons<br>11 buttons<br>12 buttons<br>Pneumatic button |
 | `:keyboard` | Keyboard | `>mahjong` | Mahjong keyboard |
-| `:pedals` | Foot pedals | `>1`<br>`>2` | One pedal<br>Two pedals |
+| `:pedals` | Foot pedals | `>1`<br>`>2`<br>`>3` | One pedal<br>Two pedals<br>Three pedals |
 | `:touchscreen` | Touch screen | `>resistive`<br>`>capacitive` | Resistive screen<br>Capacitive screen |
-| `:puncher` | Puncher |  |  |
+| `:puncher` | Puncher | `>6`<br>`>7` | Six punchers<br>Seven punchers |
 | `:motion` | Motion detection device |  |  |
+| `:hrm` | Heart Rate Monitor |  |  |
+| `:ddrpad` | Konami Dance Dance Revolution pad |  |  |
+| `:accelerometer` | Motion sensor |  |  |
 
 </details>
 
@@ -245,7 +295,7 @@ The `>` level only applies to its immediate `:` subtag.
 | `:shooting` | Aim-based shooting games | `>gallery`<br>`>rail`<br>`>fps`<br>`>tps` | Shooting gallery<br>Rail shooter<br>FPS / First person Shooter<br>TPS / Third person shooter |
 | `:puzzle` | Puzzle | `>drop`<br>`>mind` | Drop pieces puzzle<br>Mind game |
 | `:sim` | Simulation | `>strategy`<br>`>cardgame`<br>`>flight`<br>`>train`<br>`>date`<br>`>otome`<br>`>life`<br>`>farm`<br>`>pet`<br>`>fishing`<br>`>driving`<br>`>god`<br>`>derby`<br>`>building`<br>`>cooking` | Strategy<br>Card game<br>Flight simulator<br>Train simulator<br>Date simulator<br>Otome game / 乙女ゲーム<br>Life simulator<br>Farm simulator<br>Pet simulator<br>Fishing<br>Non-competition driving<br>God simulator<br>Derby horse ride<br>Building<br>Cooking |
-| `:sports` | Sports | `>soccer`<br>`>basketball`<br>`>baseball`<br>`>volleyball`<br>`>rugby`<br>`>football`<br>`>dodgeball`<br>`>hockey`<br>`>skiing`<br>`>skateboarding`<br>`>snowboarding`<br>`>tennis`<br>`>pingpong`<br>`>paddle`<br>`>squash`<br>`>badminton`<br>`>flyingdisc`<br>`>cycling`<br>`>formula1`<br>`>rally`<br>`>nascar`<br>`>motogp`<br>`>motocross`<br>`>karting`<br>`>jetski`<br>`>golf`<br>`>cricket`<br>`>boxing`<br>`>kickboxing`<br>`>wrestling`<br>`>sumo`<br>`>karate`<br>`>judo`<br>`>kendo`<br>`>taekwondo`<br>`>mma`<br>`>decathlon`<br>`>running`<br>`>archery`<br>`>swimming`<br>`>rowing`<br>`>kayak`<br>`>surf` | Soccer / Football<br>Basketball<br>Baseball<br>Volleyball<br>Rugby<br>American football<br>Dodgeball<br>Ice hockey<br>Skiing<br>Skateboarding<br>Snowboarding<br>Tennis<br>Table tennis<br>Paddle<br>Squash<br>Badminton<br>Flying disc / Frisbee<br>Cycling<br>Formula 1<br>Rally<br>NASCAR<br>Moto GP<br>Motocross<br>Karting<br>Jet ski / PWC<br>Golf<br>Cricket<br>Boxing<br>Kickboxing<br>Wrestling<br>Sumo<br>Karate<br>Judo<br>Kendo<br>Taekwondo<br>Mixed Martial Arts / MMA<br>Decathlon<br>Running<br>Archery<br>Swimming<br>Rowing<br>Kayak<br>Surf |
+| `:sports` | Sports | `>soccer`<br>`>basketball`<br>`>baseball`<br>`>volleyball`<br>`>rugby`<br>`>football`<br>`>dodgeball`<br>`>hockey`<br>`>skiing`<br>`>skateboarding`<br>`>snowboarding`<br>`>tennis`<br>`>pingpong`<br>`>paddle`<br>`>squash`<br>`>badminton`<br>`>flyingdisc`<br>`>cycling`<br>`>formula1`<br>`>rally`<br>`>nascar`<br>`>motogp`<br>`>motocross`<br>`>karting`<br>`>jetski`<br>`>golf`<br>`>cricket`<br>`>boxing`<br>`>kickboxing`<br>`>wrestling`<br>`>sumo`<br>`>karate`<br>`>judo`<br>`>kendo`<br>`>taekwondo`<br>`>mma`<br>`>decathlon`<br>`>running`<br>`>archery`<br>`>swimming`<br>`>rowing`<br>`>kayak`<br>`>surf`<br>`>roller` | Soccer / Football<br>Basketball<br>Baseball<br>Volleyball<br>Rugby<br>American football<br>Dodgeball<br>Ice hockey<br>Skiing<br>Skateboarding<br>Snowboarding<br>Tennis<br>Table tennis<br>Paddle<br>Squash<br>Badminton<br>Flying disc / Frisbee<br>Cycling<br>Formula 1<br>Rally<br>NASCAR<br>Moto GP<br>Motocross<br>Karting<br>Jet ski / PWC<br>Golf<br>Cricket<br>Boxing<br>Kickboxing<br>Wrestling<br>Sumo<br>Karate<br>Judo<br>Kendo<br>Taekwondo<br>Mixed Martial Arts / MMA<br>Decathlon<br>Running<br>Archery<br>Swimming<br>Rowing<br>Kayak<br>Surf<br>Roller skating |
 | `:notagame` | Not a game | `>educational`<br>`>drawing`<br>`>popcorn`<br>`>purikura`<br>`>redemption`<br>`>media`<br>`>magazine`<br>`>application`<br>`>test`<br>`>sdk`<br>`>slideshow`<br>`>sound` | Educational<br>Drawing<br>Popcorn<br>Photo stickers<br>Redemption<br>Media<br>Magazine<br>Application<br>Test<br>Software Development Kit<br>Picture slideshow<br>Only sound |
 
 </details>
@@ -261,7 +311,7 @@ The `>` level only applies to its immediate `:` subtag.
 | `:mouse` | Mouse | `>md`<br>`>saturn`<br>`>sfc`<br>`>pce`<br>`>pcfx`<br>`>n64` | SEGA Mouse<br>SEGA Saturn Shuttle Mouse / セガサターン シャトルマウス<br>Nintendo Super Famicom Mouse / スーパーファミコンマウス / Super NES Mouse<br>NEC PC Engine Mouse<br>NEC PC-FX Mouse<br>Nintendo 64 Mouse |
 | `:keyboard` | Typing keyboard | `>saturn`<br>`>fc`<br>`>n64`<br>`>workboy` | SEGA Saturn Keyboard<br>Famicom Keyboard<br>Nintendo 64 Keyboard<br>Fabtek WorkBoy |
 | `:multitap` | Multitap for adding more controllers to the same system | `>segatap`<br>`>6player`<br>`>4playersadaptor`<br>`>super`<br>`>pce`<br>`>4wayplay` | SEGA Tap / Multiplayer / Team Player / セガタップ<br>SEGA Saturn 6 Player Adaptor Multi Terminal 6 / セガサターン6プレイヤーアダプタ マルチターミナル6 / 6Player / 6-Player Adaptor / Hudson SBom Multitap / エスボン マルチタップ<br>Hori 4 Player Adaptor / Nintendo Four Score<br>Hudson Super Multitap<br>Hudson Multitap / NEC TurboTap<br>Electronic Arts 4 Way Play |
-| `:link` | Hardware for interconnecting systems | `>taisencable`<br>`>taisensaturn`<br>`>gamelinkcable`<br>`>fourplayeradapter`<br>`>mobileadaptergb`<br>`>comcable`<br>`>linkup`<br>`>ngplink`<br>`>radiounitwireless`<br>`>setsuzoku`<br>`>senyoucord`<br>`>bb2interface`<br>`>voicerkun`<br>`>midiinterface` | SEGA Game Gear Taisen Cable / Gear-to-Gear Cable<br>SEGA Saturn Taisen Cable / セガサターン 対戦ケーブル<br>Nintendo Tsūshin Cable / 通信ケーブル / Game Link Cable<br>Nintendo Four Player Adapter<br>Nintendo Mobile Adapter GB / モバイルアダプタGB<br>NEC COM Cable / TurboExpress<br>Technopop Link-up Cable<br>SNK NeoGeo Pocket Link Cable<br>SNK Musen Unit / Radio Unit Wireless Adaptor<br>SNK NeoGeo Pocket-Dreamcast Setsuzoku Cable / ネオジオポケット／ドリームキャスト接続ケーブル<br>Epoch Sen'yō Setsuzoku Cord / 専用接続コード<br>Epoch Barcode Battler II Interface / BBII Interface / バーコードバトラーIIインターフェース<br>Koei Voicer-kun / ボイサーくん<br>Yamaha MIDI Interface |
+| `:link` | Hardware for interconnecting systems | `>taisencable`<br>`>taisensaturn`<br>`>gamelinkcable`<br>`>fourplayeradapter`<br>`>mobileadaptergb`<br>`>gbalinkcable`<br>`>gbacable`<br>`>wirelessadapter`<br>`>comcable`<br>`>linkup`<br>`>ngplink`<br>`>radiounitwireless`<br>`>setsuzoku`<br>`>senyoucord`<br>`>bb2interface`<br>`>voicerkun`<br>`>midiinterface` | SEGA Game Gear Taisen Cable / Gear-to-Gear Cable<br>SEGA Saturn Taisen Cable / セガサターン 対戦ケーブル<br>Nintendo Tsūshin Cable / 通信ケーブル / Game Link Cable<br>Nintendo Four Player Adapter<br>Nintendo Mobile Adapter GB / モバイルアダプタGB<br>Nintendo GameBoy Advance Tsūshin Cable / 通信ケーブル / Link Cable<br>Nintendo GameCube GBA Cable / ニンテンドー　ゲームキューブ GBAケーブル / GameCube – GameBoy Advance Link Cable<br>Nintendo/Motorola GameBoy Advance Sen'yō Wireless Adapter / ゲームボーイアドバンス専用ワイヤレスアダプタ<br>NEC COM Cable / TurboExpress<br>Technopop Link-up Cable<br>SNK NeoGeo Pocket Link Cable<br>SNK Musen Unit / Radio Unit Wireless Adaptor<br>SNK NeoGeo Pocket-Dreamcast Setsuzoku Cable / ネオジオポケット／ドリームキャスト接続ケーブル<br>Epoch Sen'yō Setsuzoku Cord / 専用接続コード<br>Epoch Barcode Battler II Interface / BBII Interface / バーコードバトラーIIインターフェース<br>Koei Voicer-kun / ボイサーくん<br>Yamaha MIDI Interface |
 | `:expansion` | Additional hardware for expansing system capabilities | `>fmsoundunit`<br>`>romcartridge`<br>`>ramcartridge1m`<br>`>ramcartridge4m`<br>`>moviecard`<br>`>memorypak`<br>`>samegame`<br>`>expansionpak`<br>`>megald`<br>`>ldromrom`<br>`>supersystemcard`<br>`>arcadecard`<br>`>gamesexpresscard` | SEGA FM Sound Unit / FMサウンドユニット<br>SEGA Twin Advanced ROM System / S.T.A.R.S / Sen'yō ROM Cartridge / 専用ROMカートリッジ<br>SEGA Kakuchō RAM Cartridge / 拡張ラムカートリッジ<br>SEGA Kakuchō RAM Cartridge 4MB / 拡張ラムカートリッジ4MB<br>SEGA Movie Card / ムービーカード / Video CD Card<br>Nintendo Satellaview 8M Memory Pak / サテラビュー 8Mメモルーパック<br>Hudson SameGame Cassette / 鮫亀カセット<br>Nintendo Memory Kakuchō Pak / メモリー拡張パック / Expansion Pak<br>Pioneer LaserActive PAC-S / SEGA Mega-LD<br>Pioneer LaserActive PAC-N / NEC LD-ROM²<br>NEC PC Engine Super System Card CD-ROM²<br>NEC PC Engine Arcade Card Pro CD-ROM² / NEC PC Engine Arcade Card Duo CD-ROM²<br>Games Express CD Card |
 | `:lockon` | Lock-on cartridge | `>supergameboy`<br>`>transferpak`<br>`>datach`<br>`>deckenhancer`<br>`>oyagame`<br>`>qtai`<br>`>karaokestudio`<br>`>sxt2`<br>`>tristar` | Nintendo Super GameBoy / Super GameBoy 2 / スーパーゲームボーイ<br>Nintendo 64GB Pak / 64GBパック / Transfer Pak<br>Bandai Datach Joint ROM System / データック<br>Camerica Aladdin Deck Enhancer<br>Sunsoft Oyagame / 親ガメ<br>Konami QTai / Q太<br>Bandai Karaoke Studio / カラオケスタジオ<br>Super X-Terminator 2 Sasuke / サスケ<br>Tri-Star |
 | `:backup` | Back-up based accessory for saving progress | `>backupramcart`<br>`>powermemory`<br>`>fddsaturn`<br>`>controllerpak`<br>`>smartmediacard`<br>`>datarecorder`<br>`>battlebox`<br>`>tennokoe`<br>`>memorybase128`<br>`>turbofile` | SEGA Mega-CD Back Up RAM Cartridge / バックアップRAMカートリッジ<br>SEGA Saturn Gaibu Back-Up RAM Power Memory / セガサターン科外部バックアップRAM パワーメモリー / BackUp RAM Cartridge / BackUp Memory<br>SEGA Saturn Floppy Disc Drive / SegaSaturn FDD / セガサターン フロッピーディスクドライブ<br>Nintendo Controller Pak / コントローラパック<br>Hagiwara Syscom SmartMedia Card<br>Panasonic Famicom Data Recorder / データレコーダ<br>IGS Battle Box / バトルボックス<br>Hudson Ten no Koe 2 / Ten no Koe Bank / 天の声 / NEC Backup Booster I / Backup Booster II / バックアップブースター / NEC TurboBooster-Plus<br>NEC Memory Base 128 / メモリーベース128<br>ASCII Turbo File / Turbo File II / Turbo File GB / ターボファイル / Turbo File Adapter / ターボファイルアダプター / Turbo File Twin / ターボファイルツイン |
@@ -323,12 +373,13 @@ The `>` level only applies to its immediate `:` subtag.
 | `:irem` | Irem board | `>m10`<br>`>m15`<br>`>m27`<br>`>m52`<br>`>m57`<br>`>m58`<br>`>m62`<br>`>m63`<br>`>m72`<br>`>m75`<br>`>m77`<br>`>m81`<br>`>m82`<br>`>m84`<br>`>m85`<br>`>m90`<br>`>m92`<br>`>m97`<br>`>m107` | Irem M10<br>Irem M15<br>Irem M27<br>Irem M52<br>Irem M57<br>Irem M58<br>Irem M62<br>Irem M63<br>Irem M72<br>Irem M75<br>Irem M77<br>Irem M81<br>Irem M82<br>Irem M84<br>Irem M85<br>Irem M90<br>Irem M92<br>Irem M97<br>Irem M107 |
 | `:snk` | SNK board | `>mvs` | SNK Multi Video System / MVS |
 | `:taito` | Taito board | `>xsystem`<br>`>bsystem`<br>`>hsystem`<br>`>lsystem`<br>`>zsystem`<br>`>osystem`<br>`>f1system`<br>`>f2system`<br>`>f3system`<br>`>lgsystem` | Taito X System<br>Taito B System<br>Taito H System<br>Taito L System<br>Taito Z System<br>Taito O System<br>Taito F1 System / F2 System Extended<br>Taito F2 System<br>Taito F3 System<br>Taito LG System |
-| `:konami` | Konami board | `>bubble`<br>`>gx330`<br>`>gx361`<br>`>gx400`<br>`>twin16` | Konami Bubble System<br>Konami GX330<br>Konami GX361<br>Konami GX400<br>Konami Twin 16 |
+| `:konami` | Konami board | `>bubble`<br>`>gx330`<br>`>gx361`<br>`>gx400`<br>`>twin16`<br>`>polygonet`<br>`>gx`<br>`>gv`<br>`>ultra`<br>`>zr107`<br>`>m2`<br>`>djmain`<br>`>cobra`<br>`>573`<br>`>573a`<br>`>hornet`<br>`>viper`<br>`>nwktr` | Konami Bubble System<br>Konami GX330<br>Konami GX361<br>Konami GX400<br>Konami Twin 16<br>Konami Polygonet<br>Konami GX<br>Konami GV<br>Konami Ultra Sports<br>Konami ZR-107<br>Konami M2<br>Konami Bemani DJ-Main<br>Konami Cobra System<br>Konami System 573<br>Konami System 573 Analog<br>Konami Hornet<br>Konami Viper<br>Konami NWK-TR |
 | `:namco` | NAMCO board |  |  |
 | `:toaplan` | Toaplan board | `>version1`<br>`>version2` | Toaplan Version 1<br>Toaplan Version 2 |
 | `:jaleco` | Jaleco board | `>megasystem1` | Jaleco Mega System 1 |
 | `:nintendo` | Nintendo board | `>vssystem`<br>`>pc10`<br>`>nss` | Nintendo VS. System<br>Nintendo PlayChoice-10<br>Nintendo Super System |
 | `:nichibutsu` | Nichibutsu board |  |  |
+| `:midway` | Midway board |  |  |
 | `:stern` | Stern Electronics board |  |  |
 | `:vectorbeam` | Vectorbeam board |  |  |
 | `:taiyo` | Taiyo System Board |  |  |
@@ -465,8 +516,8 @@ The `>` level only applies to its immediate `:` subtag.
 | `:sharp` | Sharp | `>x1`<br>`>mz700`<br>`>x68000` | Sharp X1<br>Sharp MZ<br>X68000 |
 | `:pc` | PC DOS |  |  |
 | `:sega` | SEGA / セガ | `>sg1000`<br>`>mark3`<br>`>gamegear`<br>`>megadrive`<br>`>megacd`<br>`>32x`<br>`>saturn`<br>`>dreamcast` | SG-1000<br>Mark III / マークIII / Master System / マスターシステム<br>Game Gear / ゲームギア<br>MegaDrive / メガドライブ / Genesis<br>SEGA Mega-CD / メガシーディー / SEGA-CD<br>SEGA Super 32X / スーパー32X / Genesis 32X / MegaDrive 32X<br>SEGA Saturn / セガサターン<br>Dreamcast / ドリームキャスト |
-| `:nintendo` | Nintendo / 任天堂 | `>famicom`<br>`>disksystem`<br>`>superfamicom`<br>`>n64`<br>`>gameboy`<br>`>gbc`<br>`>gba`<br>`>gameandwatch` | Famicom / Family Computer / ファミリーコンピュータ / Nintendo Entertainment System / NES<br>Famicom Disk System / Family Computer Disk System / ファミリーコンピュータ ディスクシステム<br>Super Famicom / スーパーファミコン / Super Nintendo Entertainment System / SNES<br>Nintendo 64<br>GameBoy / ゲームボーイ<br>GameBoy Color / ゲームボーイカラー<br>GameBoy Advance / ゲームボーイアドバンス / GBA<br>Game & Watch / ゲーム&ウオッチ |
-| `:sony` | Sony / ソニー | `>playstation` | PlayStation / プレイステーション |
+| `:nintendo` | Nintendo / 任天堂 | `>famicom`<br>`>disksystem`<br>`>superfamicom`<br>`>n64`<br>`>gamecube`<br>`>gameboy`<br>`>gbc`<br>`>gba`<br>`>gameandwatch` | Famicom / Family Computer / ファミリーコンピュータ / Nintendo Entertainment System / NES<br>Famicom Disk System / Family Computer Disk System / ファミリーコンピュータ ディスクシステム<br>Super Famicom / スーパーファミコン / Super Nintendo Entertainment System / SNES<br>Nintendo 64<br>GameCube / ゲームキューブ<br>GameBoy / ゲームボーイ<br>GameBoy Color / ゲームボーイカラー<br>GameBoy Advance / ゲームボーイアドバンス / GBA<br>Game & Watch / ゲーム&ウオッチ |
+| `:sony` | Sony / ソニー | `>playstation`<br>`>playstation2` | PlayStation / プレイステーション<br>PlayStation 2 / プレイステーション2 |
 | `:3do` | Panasonic 3DO / スリーディーオー |  |  |
 | `:wonderswan` | Bandai WonderSwan / ワンダースワン |  |  |
 | `:cdi` | Philips CD-i |  |  |
